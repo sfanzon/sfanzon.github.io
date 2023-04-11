@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sfanzon.github.io/sitemap.xml
