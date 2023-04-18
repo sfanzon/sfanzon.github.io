@@ -12,17 +12,11 @@
   --global-text-color-light: #828282;
   --global-theme-color: #cc0164;
   --global-hover-color: #cc0164;
-  /*
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
-  --global-divider-color: rgba(0,0,0,.1);
-  */
-  --global-footer-bg-color: #e8e8e8;
-  --global-footer-text-color: #1C1C1D;
-  --global-footer-link-color: #000000;
-  --global-divider-color: #424246;
   --global-distill-app-color: #828282;
+  --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #ffffff;
 }
 :root .fa-sun {
@@ -362,7 +356,7 @@ footer.fixed-bottom {
 }
 footer.fixed-bottom .container {
   color: var(--global-footer-text-color);
-  padding-top: 7px;
+  padding-top: 9px;
   padding-bottom: 8px;
 }
 footer.fixed-bottom a {
