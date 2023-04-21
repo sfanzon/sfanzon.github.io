@@ -580,10 +580,8 @@ footer.sticky-bottom {
   border-bottom: 1px dashed var(--global-text-color);
 }
 .publications ol.bibliography li .author a:hover {
-  border-bottom-style: solid;
-  border-bottom-color: var(--global-theme-color);
   color: var(--global-theme-color);
-  text-decoration: none;
+  border-bottom: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
