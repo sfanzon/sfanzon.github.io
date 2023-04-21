@@ -18,7 +18,6 @@
   --global-distill-app-color: #828282;
   --global-divider-color: rgba(0,0,0,.2);
   --global-card-bg-color: #ffffff;
-  --global-preprint:#212529;
 }
 :root .fa-sun {
   display: none;
@@ -48,7 +47,6 @@ html[data-theme=dark] {
   --global-distill-app-color: #e8e8e8;
   --global-divider-color: #424246;
   --global-card-bg-color: #212529;
-  --global-preprint:#ffffff;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
