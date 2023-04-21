@@ -20,8 +20,8 @@
   --global-card-bg-color: #ffffff;
   --global-navbar-color: #1C1C1D;
   --global-navbar-text-color: #e8e8e8;
-  --global-navbar-active-text-color: #ff3396;
-  --global-navbar-hover-color: #ff80bd;
+  --global-navbar-active-text-color: #fe459e;
+  --global-navbar-hover-color: #fe78b8;
 }
 :root .fa-sun {
   display: none;
