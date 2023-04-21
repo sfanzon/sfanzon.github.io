@@ -180,7 +180,7 @@ blockquote {
   width: 100%;
 }
 .card .card-title {
-  color: var(--global-text-color);
+  color: var(--global-navbar-text-color);
 }
 .card .card-item {
   width: auto;
