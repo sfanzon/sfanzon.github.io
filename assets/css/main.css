@@ -20,6 +20,7 @@
   --global-card-bg-color: #ffffff;
   --global-navbar-color: #1C1C1D;
   --global-navbar-text-color: #e8e8e8;
+  --global-navbar-hover-color: #ff007b;
 }
 :root .fa-sun {
   display: none;
@@ -51,6 +52,7 @@ html[data-theme=dark] {
   --global-card-bg-color: #212529;
   --global-navbar-color: #1C1C1D;
   --global-navbar-text-color: #e8e8e8;
+  --global-navbar-hover-color: #2698BA;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
@@ -253,7 +255,7 @@ blockquote {
   color: var(--global-navbar-text-color);
 }
 .navbar .dropdown-menu a:hover {
-  color: var(--global-hover-color);
+  color: var(--global-navbar-hover-color);
 }
 .navbar .dropdown-menu .dropdown-divider {
   border-top: 1px solid var(--global-divider-color) !important;
@@ -263,7 +265,7 @@ blockquote {
   color: var(--global-navbar-text-color);
 }
 .dropdown-item:hover {
-  color: var(--global-hover-color);
+  color: var(--global-navbar-hover-color);
   background-color: var(--global-navbar-color);
 }
 
@@ -277,7 +279,7 @@ blockquote {
   color: var(--global-navbar-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
-  color: var(--global-hover-color);
+  color: var(--global-navbar-hover-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
@@ -285,7 +287,7 @@ blockquote {
   color: var(--global-theme-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
-  color: var(--global-hover-color);
+  color: var(--global-navbar-hover-color);
 }
 .navbar.navbar-light .navbar-brand.social {
   padding-bottom: 0;
@@ -338,7 +340,7 @@ blockquote {
   color: var(--global-navbar-text-color);
 }
 #light-toggle:hover {
-  color: var(--global-hover-color);
+  color: var(--global-navbar-hover-color);
 }
 
 .social {
