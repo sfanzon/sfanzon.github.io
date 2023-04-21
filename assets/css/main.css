@@ -292,7 +292,7 @@ blockquote {
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
   font-weight: bolder;
-  color: var(--global-theme-color);
+  color: var(--global-navbar-active-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
   color: var(--global-navbar-hover-color);
@@ -307,7 +307,7 @@ blockquote {
   transition-property: all 0.2s ease-in-out;
 }
 .navbar.navbar-light .navbar-brand.social a:hover i::before {
-  color: var(--global-theme-color);
+  color: var(--global-navbar-active-text-color);
 }
 
 .navbar-toggler .icon-bar {
@@ -587,7 +587,6 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .author a:hover {
   color: var(--global-theme-color);
-  border-bottom-style: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
