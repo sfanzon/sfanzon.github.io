@@ -582,7 +582,7 @@ footer.sticky-bottom {
   font-weight: bolder;
 }
 .publications ol.bibliography li .author {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-text-color);
