@@ -594,7 +594,6 @@ footer.sticky-bottom {
   color: var(--global-theme-color);
 }
 .publications ol.bibliography li .author > em {
-  border-bottom: 1px solid;
   font-style: normal;
   color: var(--global-theme-color);
 }
