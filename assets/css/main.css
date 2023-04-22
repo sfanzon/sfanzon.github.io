@@ -580,9 +580,10 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
+  font-size: 1.05rem;
 }
 .publications ol.bibliography li .author {
-  font-size: 0.95rem;
+  font-size: 0.93rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-text-color);
@@ -595,6 +596,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .author > em {
   font-style: normal;
+  font-weight: bolder;
   color: var(--global-theme-color);
 }
 .publications ol.bibliography li .author > span.more-authors {
