@@ -214,16 +214,16 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
   }
   .profile .address p {
     display: block;
@@ -522,7 +522,7 @@ footer.sticky-bottom {
 }
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 .publications h1 {
   color: var(--global-theme-color);
@@ -580,10 +580,10 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 .publications ol.bibliography li .author {
-  font-size: 0.96rem;
+  font-size: 0.95rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-text-color);
