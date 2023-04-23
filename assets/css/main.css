@@ -551,6 +551,10 @@ footer.sticky-bottom {
   padding: 0;
   margin-top: 0;
 }
+.publications ol.bibliography .row {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
