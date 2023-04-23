@@ -122,13 +122,17 @@ span,
 strong {
   color: var(--global-text-color);
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+table {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
 table td,
 table th {
   color: var(--global-text-color);
