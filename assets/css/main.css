@@ -552,10 +552,6 @@ footer.sticky-bottom {
   padding: 0;
   margin-top: 0;
 }
-.publications ol.bibliography .row {
-  margin-bottom: 0.5rem;
-  margin-top: 0.5rem;
-}
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
@@ -625,7 +621,6 @@ footer.sticky-bottom {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
-  margin-top: 10rem;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
@@ -633,6 +628,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
+  margin-top: 10rem;
 }
 .publications ol.bibliography li .badges span {
   display: inline-block;
