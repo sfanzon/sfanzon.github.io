@@ -121,7 +121,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
 }
 
@@ -628,7 +628,6 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
-  margin-top: 2rem;
 }
 .publications ol.bibliography li .badges span {
   display: inline-block;
