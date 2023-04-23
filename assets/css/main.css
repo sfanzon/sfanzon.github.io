@@ -625,7 +625,7 @@ footer.sticky-bottom {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
-  margin-top: 0.2;
+  margin-top: 10rem;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
