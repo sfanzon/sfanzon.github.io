@@ -224,7 +224,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 43%;
+    width: 42%;
   }
   .profile .address p {
     display: block;
@@ -551,10 +551,6 @@ footer.sticky-bottom {
   padding: 0;
   margin-top: 0;
 }
-.publications ol.bibliography .row {
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-}
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
@@ -590,7 +586,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .author {
   font-size: 0.95rem;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-text-color);
@@ -624,6 +620,7 @@ footer.sticky-bottom {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
+  margin-top: 0.2;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
