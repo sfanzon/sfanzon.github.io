@@ -154,7 +154,7 @@ table.table a:hover:after :not(.nav-item.dropdown) {
 
 figure,
 img {
-  max-width: 190vw;
+  max-width: 90vw;
 }
 
 blockquote {
@@ -181,7 +181,7 @@ blockquote {
   background-color: var(--global-card-bg-color);
 }
 .card img {
-  width: 100%;
+  width: 120%;
 }
 .card .card-title {
   color: var(--global-text-color);
