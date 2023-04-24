@@ -495,7 +495,6 @@ footer.sticky-bottom {
 }
 .projects a:hover .card-title {
   color: var(--global-theme-color);
-  font-weight: bolder;
 }
 .projects .card img {
   width: 100%;
@@ -512,14 +511,6 @@ footer.sticky-bottom {
 .projects .grid-item {
   width: 250px;
   margin-bottom: 10px;
-}
-.projects h3.category {
-  color: var(--global-divider-color);
-  border-bottom: 1px solid var(--global-divider-color);
-  padding-top: 0.5rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  text-align: right;
 }
 
 .publications {
@@ -546,7 +537,7 @@ footer.sticky-bottom {
   margin-bottom: -2rem;
   text-align: right;
 }
-.publications h2.category {
+.publications h3.category {
   color: var(--global-text-color);
   border-top: 1px solid var(--global-text-color);
   padding-top: 1rem;
