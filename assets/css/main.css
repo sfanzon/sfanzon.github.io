@@ -543,7 +543,7 @@ footer.sticky-bottom {
   margin-top: 0;
 }
 .publications ol.bibliography li {
-  margin-bottom: -100rem;
+  margin-bottom: 1rem;
 }
 .publications ol.bibliography li .preview {
   width: 100%;
