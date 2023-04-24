@@ -123,7 +123,7 @@ strong {
   color: var(--global-text-color);
 }
 
-html, body {
+html * {
   font-family: sans-serif;
   font-weight: 400;
   height: 100%;
