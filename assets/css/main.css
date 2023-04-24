@@ -123,6 +123,12 @@ strong {
   color: var(--global-text-color);
 }
 
+html {
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 100%;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
