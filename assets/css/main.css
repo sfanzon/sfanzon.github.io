@@ -123,6 +123,10 @@ strong {
   color: var(--global-text-color);
 }
 
+html {
+  scroll-padding-top: 8.5rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
