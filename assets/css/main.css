@@ -858,7 +858,7 @@ pre:active .copy, pre:focus .copy, pre:hover .copy {
   border: 1px solid var(--global-theme-color);
 }
 .teaching ol.teaching li .title {
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 1rem;
   margin-bottom: 0.2rem;
 }
