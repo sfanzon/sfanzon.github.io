@@ -800,6 +800,161 @@ pre:active .copy, pre:focus .copy, pre:hover .copy {
   opacity: 1;
 }
 
+.teaching {
+  margin-top: 2rem;
+}
+.teaching h1 {
+  color: var(--global-theme-color);
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.teaching h2 {
+  margin-bottom: 1rem;
+}
+.teaching h2 span {
+  font-size: 1.5rem;
+}
+.teaching h2.year {
+  color: var(--global-divider-color);
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-align: right;
+}
+.teaching ol.teaching {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+}
+.teaching ol.teaching li {
+  margin-bottom: 1rem;
+}
+.teaching ol.teaching li .preview {
+  width: 100%;
+  min-width: 80px;
+  max-width: 200px;
+}
+.teaching ol.teaching li .abbr {
+  height: 2rem;
+  margin-bottom: 0.5rem;
+}
+.teaching ol.teaching li .abbr abbr {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.teaching ol.teaching li .abbr abbr a {
+  color: white;
+}
+.teaching ol.teaching li .abbr abbr a:hover {
+  text-decoration: none;
+}
+.teaching ol.teaching li .abbr .award {
+  color: var(--global-theme-color) !important;
+  border: 1px solid var(--global-theme-color);
+}
+.teaching ol.teaching li .title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+}
+.teaching ol.teaching li .institution {
+  font-size: 0.96rem;
+  margin-bottom: 0.2rem;
+}
+.teaching ol.teaching li .author {
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+}
+.teaching ol.teaching li .author a {
+  border-bottom: 1px dashed var(--global-text-color);
+  color: var(--global-text-color);
+}
+.teaching ol.teaching li .author a:hover {
+  border-bottom-style: solid;
+  border-bottom-color: var(--global-theme-color);
+  text-decoration: none;
+  color: var(--global-theme-color);
+}
+.teaching ol.teaching li .author > em {
+  font-style: normal;
+  font-weight: bolder;
+  color: var(--global-theme-color);
+}
+.teaching ol.teaching li .author > span.more-authors {
+  color: var(--global-text-color-light);
+  border-bottom: 1px dashed var(--global-text-color-light);
+  cursor: pointer;
+}
+.teaching ol.teaching li .author > span.more-authors:hover {
+  color: var(--global-text-color);
+  border-bottom: 1px dashed var(--global-text-color);
+}
+.teaching ol.teaching li .links a.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  margin-left: 0;
+}
+.teaching ol.teaching li .links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
+.teaching ol.teaching li .badges {
+  padding-bottom: 0.5rem;
+}
+.teaching ol.teaching li .badges span {
+  display: inline-block;
+  color: #000000;
+  height: 100%;
+  padding-right: 0.5rem;
+  vertical-align: middle;
+}
+.teaching ol.teaching li .badges span:hover {
+  text-decoration: underline;
+}
+.teaching ol.teaching li .hidden {
+  font-size: 0.875rem;
+  max-height: 0px;
+  overflow: hidden;
+  text-align: justify;
+  transition-property: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -ms-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: all 0.15s ease;
+}
+.teaching ol.teaching li .hidden p {
+  line-height: 1.4em;
+  margin: 10px;
+}
+.teaching ol.teaching li .hidden pre {
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 10px;
+}
+.teaching ol.teaching li .hidden.open {
+  max-height: 100em;
+  transition-property: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -ms-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: all 0.15s ease;
+}
+.teaching ol.teaching li div.abstract.hidden {
+  border: dashed 1px var(--global-bg-color);
+}
+.teaching ol.teaching li div.abstract.hidden.open {
+  border-color: var(--global-text-color);
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
