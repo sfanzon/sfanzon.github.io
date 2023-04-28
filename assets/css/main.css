@@ -579,7 +579,12 @@ footer.sticky-bottom {
   font-size: 1rem;
   margin-bottom: 0.2rem;
 }
-.publications ol.bibliography li .description {
+.publications ol.bibliography li .course_title {
+  font-weight: bolder;
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+.publications ol.bibliography li .course_description {
   font-size: 0.96rem;
   margin-bottom: 0.4rem;
 }
