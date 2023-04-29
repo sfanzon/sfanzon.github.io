@@ -38,7 +38,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://www.silviofanzon.com/publications/">
+    <link rel="canonical" href="https://www.silviofanzon.com/publications_with_preprints_replace/">
     
     <!-- Dark Mode -->
     
@@ -129,7 +129,7 @@
             <!-- _pages/publications.md -->
 
 <p> 
-Publications are divided in <strong><a href="#journal">Journal articles</a></strong> and <strong><a href="#theses">Theses</a></strong>. 
+Publications are divided in <strong><a href="#journal">Journal articles</a></strong>, <strong><a href="#preprint">Preprints</a></strong> and <strong><a href="#theses">Theses</a></strong>. 
 Authors are in alphabetical order 
 </p>
 
@@ -706,6 +706,70 @@ is assumed we are dealing with a publication, and the style in the else conditio
       </div>
 </li>
 </ol>
+
+<a id="preprint"><h3 style="margin-top: 2rem; margin-bottom: 0.3rem;">Preprints</h3></a> 
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+<ol class="bibliography"><li>
+<!-- This is layout for teaching: it is triggered if teaching=true in the bibtex entry. Otherwise it 
+is assumed we are dealing with a publication, and the style in the else condition is applied --><!-- This is layout for publications -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://arxiv.org" rel="external nofollow noopener" target="_blank">arXiv</a></abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="bre-car-fan-wal-2021" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Asymptotic linear convergence of Fully–Corrective Generalized Conditional Gradient methods</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ" rel="external nofollow noopener" target="_blank">Kristian Bredies</a>, <a href="https://scholar.google.com/citations?user=OF5DarEAAAAJ" rel="external nofollow noopener" target="_blank">Marcello Carioni</a>, <em>Silvio Fanzon</em>, and <a href="https://www.mathematik.hu-berlin.de/en/people/mem-vz/1694929" rel="external nofollow noopener" target="_blank">Daniel Walter</a>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Preprint</em>, 2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links" style="margin-top: 0.2rem;">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://doi.org/10.48550/arXiv.2110.06756" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="https://arxiv.org/pdf/2110.06756.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+          </div>
+          
+          <div class="badges">
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We propose a fully-corrective generalized conditional gradient method (FC-GCG) for the minimization of the sum of a smooth, convex loss function and a convex one-homogeneous regularizer over a Banach space. The algorithm relies on the mutual update of a finite set A<sub>k</sub> of extremal points of the unit ball of the regularizer and of an iterate u<sub>k</sub> ∈cone(A<sub>k</sub>). Each iteration requires the solution of one linear problem to update A<sub>k</sub> and of one finite dimensional convex minimization problem to update the iterate. Under standard hypotheses on the minimization problem we show that the algorithm converges sublinearly to a solution. Subsequently, imposing additional assumptions on the associated dual variables, this is improved to a linear rate of convergence. The proof of both results relies on two key observations: First, we prove the equivalence of the considered problem to the minimization of a lifted functional over a particular space of Radon measures using Choquet’s theorem. Second, the FC-GCG algorithm is connected to a Primal-Dual-Active-point Method (PDAP) on the lifted problem for which we finally derive the desired convergence rates.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">bre-car-fan-wal-2021</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Bredies, Kristian and Carioni, Marcello and Fanzon, Silvio and Walter, Daniel}</span><span class="p">,</span>
+  <span class="na">date-added</span> <span class="p">=</span> <span class="s">{2023-04-21 08:32:51 +0100}</span><span class="p">,</span>
+  <span class="na">date-modified</span> <span class="p">=</span> <span class="s">{2023-04-24 14:02:13 +0100}</span><span class="p">,</span>
+  <span class="na">dimensions</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{doi.org/10.48550/arXiv.2110.06756}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Preprint}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Asymptotic linear convergence of Fully--Corrective Generalized Conditional Gradient methods}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.48550/arXiv.2110.06756}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">bdsk-url-1</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1112/blms.12509}</span><span class="p">,</span>
+  <span class="na">bdsk-url-2</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1007/s10208-022-09561-z}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
 
 <a id="theses"><h3 style="margin-top: 2rem; margin-bottom: 0.3rem;">Theses</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
