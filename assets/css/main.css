@@ -588,6 +588,19 @@ footer.sticky-bottom {
   font-size: 0.96rem;
   margin-bottom: 0.17rem;
 }
+.publications ol.bibliography li .conference_title {
+  font-weight: bolder;
+  font-size: 1rem;
+  margin-bottom: 0.17rem;
+}
+.publications ol.bibliography li .conference_venue {
+  font-size: 0.96rem;
+  margin-bottom: 0.17rem;
+}
+.publications ol.bibliography li .talk_title {
+  font-size: 0.96rem;
+  margin-bottom: 0.17rem;
+}
 .publications ol.bibliography li .author {
   font-size: 0.95rem;
   margin-bottom: 0.4rem;
