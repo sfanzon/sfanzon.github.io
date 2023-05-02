@@ -56,14 +56,26 @@
 "CMU":
   url: https://www.cmu.edu
 
+"Heriot-Watt":
+  url: https://www.hw.ac.uk  
+
 "ICCOPT"
-  url: https://www.mathopt.org/?nav=home
+  url: https://www.mathopt.org
+
+"Orsay":
+  url: https://www.imo.universite-paris-saclay.fr/en/
 
 "Oxford":
   url: https://www.ox.ac.uk
 
 "Sapienza":
   url: https://www.uniroma1.it/en
+
+"SIMAI":
+  url: https://www.simai.eu  
+
+"Sussex":
+  url: https://www.sussex.ac.uk  
 
 "TraDE-OPT":
   url: https://trade-opt-itn.eu/index.html

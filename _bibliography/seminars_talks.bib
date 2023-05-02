@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Silvio Fanzon at 2023-05-02 06:34:11 +0100 
+%% Created for Silvio Fanzon at 2023-05-02 07:56:57 +0100 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -10,110 +10,88 @@
 @string{aps = {American Physical Society,}}
 
 
-@misc{2018-Graz,
+@misc{2022-Sussex,
+	abbr = {Sussex},
+	abstract = {In this talk we introduce suitable generalized conditional gradient algorithms for solving variational inverse problems
+in Banach spaces. Specifically, the functionals considered consist of the sum of a smooth fidelity term and a convex
+coercive regularizer. We exploit the sparse structure of the variational problem by designing iterates as linear combinations of extremal points of the unit ball of the regularizer. For such iterates we prove global sublinear convergence of the algorithm. Then, under additional structural assumptions, we prove a local linear convergence rate.  Finally, we give concrete applications, as for example the solution of dynamic inverse problems regularized with optimal transport energies, which covers the case of dynamic MRI reconstruction.},
+	date = {3 Nov 2022},
+	date-added = {2023-05-02 07:47:44 +0100},
+	date-modified = {2023-05-02 07:56:02 +0100},
+	event_link = {https://www.maths.sussex.ac.uk/seminars/mass.html},
+	invited = {true},
+	month = {Nov},
+	slides = {seminars/slides/2022/2022-Sussex-Slides.pdf},
+	talk = {true},
+	talk_title = {Sparsity and convergence analysis of generalized conditional gradient methods},
+	title = {Sussex Mathematics Seminar},
+	venue = {University of Sussex, UK},
+	year = {2022}}
+
+@misc{2022-Edinburgh,
+	abbr = {Heriot-Watt},
+	abstract = {In this talk we introduce suitable generalized conditional gradient algorithms for solving variational inverse problems
+in Banach spaces. Specifically, the functionals considered consist of the sum of a smooth fidelity term and a convex
+coercive regularizer. We exploit the sparse structure of the variational problem by designing iterates as linear combinations of extremal points of the unit ball of the regularizer. For such iterates we prove global sublinear convergence of the algorithm. Then, under additional structural assumptions, we prove a local linear convergence rate.  Finally, we give concrete applications, as for example the solution of dynamic inverse problems regularized with optimal transport energies, which covers the case of dynamic MRI reconstruction.},
+	date = {13 Sep 2022},
+	date-added = {2023-05-02 07:47:42 +0100},
+	date-modified = {2023-05-02 07:56:40 +0100},
+	event_link = {https://www.simai.unipr.it},
+	invited = {true},
+	month = {Sep},
+	slides = {seminars/slides/2022/2022-Edinburgh-Slides.pdf},
+	talk = {true},
+	talk_title = {Sparsity and convergence analysis of generalized conditional gradient methods},
+	title = {SIMAI 2020-2021 Parma},
+	venue = {Heriot-Watt University, UK},
+	year = {2022}}
+
+@misc{2019-Vienna,
 	abbr = {Uni Graz},
-	abstract = {In this talk I will present the results obtained in a recent paper in collaboration with Mariapia Palombaro and Marcello Ponsiglione. 
-The aim of this paper is to describe polycrystalline structures from the variational point of view. Grain boundaries and the corresponding grain orientations are not introduced as internal variables of the energy, but they spontaneously arise as a result of energy minimisation, under suitable boundary conditions. 
-<br>
-
-
-We work under the hypothesis of linear planar elasticity, with the reference configuration
-\( \Omega \subset R^2\, \) representing a section of an infinite cylindrical crystal. The elastic energy functional \(E_\varepsilon \,\)  depends on the lattice spacing \(\varepsilon \,\) of the crystal and we allow \(N_\varepsilon \,\) edge dislocations in the reference configuration, with
-\(N_\varepsilon \to \infty \,\)  as \(\varepsilon \to 0\). Each dislocation contributes by a factor 
-\( |\log \varepsilon | \,\) to the elastic energy, so that the natural rescaling for the energy functional is \(N_\varepsilon | \log \varepsilon |  \,\). We work in the energy regime
-\[
-N_\varepsilon \gg |\log \varepsilon | .
-\]
-We will see that this energy regime will account for polycrystals containing grains that are mutually rotated by an infinitesimal angle \( \theta \approx 0\). 
-<br>
-
-
-Specifically, we show that the energy functional \( E_\varepsilon \), 
-rescaled by 
-\(N_\varepsilon | \log \varepsilon | \),  \( \Gamma \)-converges as \( \varepsilon \to 0 \, \) to a certain functional 
-\( F \), whose dependence on the <em>elastic</em> and <em>plastic</em> parts of the macroscopic strain is decoupled. 
-Imposing piecewise constant Dirichlet boundary conditions on the plastic part of the limit strain, we then show that \( F \,\) is minimised by strains that are locally constant and take values into the set of antisymmetric matrices. We call these strains <em>linearised polycrystals</em>.},
-	date = {31 Jan 2018},
+	abstract = {We propose and study a novel optimal transport based regularization of linear dynamic inverse problems. The considered inverse problems aim at recovering a measure valued curve and are dynamic in the sense that (i) the measured data takes values in a time dependent family of Hilbert spaces, and (ii) the forward operators are time dependent and map, for each time, Radon measures into the corresponding data space. The variational regularization we propose bases on dynamic optimal transport. We apply this abstract framework to variational reconstruction in dynamic undersampled MRI. This is joint work with Kristian Bredies, Marcello Carioni and Francisco Romero},
+	date = {17-18 Oct 2019},
 	date-added = {2023-05-02 05:52:55 +0100},
-	date-modified = {2023-05-02 05:52:55 +0100},
+	date-modified = {2023-05-02 06:45:31 +0100},
 	invited = {true},
-	month = {Jan},
-	slides = {seminars/slides/2018/2018-Graz-Slides.pdf},
+	month = {Oct},
+	slides = {seminars/slides/2019/2019-Vienna-Slides.pdf},
 	talk = {true},
-	talk_title = {Linearised polycrystals from a 2D system of edge dislocations},
-	title = {Weekly Seminar, Department of Mathematics},
-	venue = {University of Graz, Austria},
-	year = {2018}}
+	talk_title = {Optimal transport regularization for dynamic inverse problems},
+	title = {1st Austrian Calculus of Variations Day},
+	venue = {University of Vienna, Austria},
+	year = {2019}}
 
-@misc{2018-Graz,
-	abbr = {Uni Graz},
-	abstract = {In this talk I will present the results obtained in a recent paper in collaboration with Mariapia Palombaro and Marcello Ponsiglione. 
-The aim of this paper is to describe polycrystalline structures from the variational point of view. Grain boundaries and the corresponding grain orientations are not introduced as internal variables of the energy, but they spontaneously arise as a result of energy minimisation, under suitable boundary conditions. 
-<br>
-
-
-We work under the hypothesis of linear planar elasticity, with the reference configuration
-\( \Omega \subset R^2\, \) representing a section of an infinite cylindrical crystal. The elastic energy functional \(E_\varepsilon \,\)  depends on the lattice spacing \(\varepsilon \,\) of the crystal and we allow \(N_\varepsilon \,\) edge dislocations in the reference configuration, with
-\(N_\varepsilon \to \infty \,\)  as \(\varepsilon \to 0\). Each dislocation contributes by a factor 
-\( |\log \varepsilon | \,\) to the elastic energy, so that the natural rescaling for the energy functional is \(N_\varepsilon | \log \varepsilon |  \,\). We work in the energy regime
-\[
-N_\varepsilon \gg |\log \varepsilon | .
-\]
-We will see that this energy regime will account for polycrystals containing grains that are mutually rotated by an infinitesimal angle \( \theta \approx 0\). 
-<br>
-
-
-Specifically, we show that the energy functional \( E_\varepsilon \), 
-rescaled by 
-\(N_\varepsilon | \log \varepsilon | \),  \( \Gamma \)-converges as \( \varepsilon \to 0 \, \) to a certain functional 
-\( F \), whose dependence on the <em>elastic</em> and <em>plastic</em> parts of the macroscopic strain is decoupled. 
-Imposing piecewise constant Dirichlet boundary conditions on the plastic part of the limit strain, we then show that \( F \,\) is minimised by strains that are locally constant and take values into the set of antisymmetric matrices. We call these strains <em>linearised polycrystals</em>.},
-	date = {31 Jan 2018},
+@misc{2019-Paris,
+	abbr = {Orsay},
+	abstract = {We propose and study a novel optimal transport based regularization of linear dynamic inverse problems. The considered inverse problems aim at recovering a measure valued curve and are dynamic in the sense that (i) the measured data takes values in a time dependent family of Hilbert spaces, and (ii) the forward operators are time dependent and map, for each time, Radon measures into the corresponding data space. The variational regularization we propose bases on dynamic optimal transport. We apply this abstract framework to variational reconstruction in dynamic undersampled MRI. Further we will present some ideas on conditional gradient methods for sparse reconstruction. This is joint work with Kristian Bredies, Marcello Carioni and Francisco Romero},
+	date = {20-21 Nov 2019},
 	date-added = {2023-05-02 05:52:53 +0100},
-	date-modified = {2023-05-02 05:52:53 +0100},
+	date-modified = {2023-05-02 06:48:48 +0100},
+	event_link = {http://quentin.mrgt.fr/projects/maga/events.html},
 	invited = {true},
-	month = {Jan},
-	slides = {seminars/slides/2018/2018-Graz-Slides.pdf},
+	month = {Nov},
+	slides = {seminars/slides/2019/2019-Paris-Slides.pdf},
 	talk = {true},
-	talk_title = {Linearised polycrystals from a 2D system of edge dislocations},
-	title = {Weekly Seminar, Department of Mathematics},
-	venue = {University of Graz, Austria},
-	year = {2018}}
+	talk_title = {Optimal transport regularization for dynamic inverse problems},
+	title = {M.A.G.A. Days (Monge-Amp{\`e}re et G{\'e}om{\'e}trie Algorithmique)},
+	venue = {Laboratoire de mathematiques d'Orsay, France},
+	year = {2019}}
 
-@misc{2018-Graz,
+@misc{2021-Parma,
 	abbr = {Uni Graz},
-	abstract = {In this talk I will present the results obtained in a recent paper in collaboration with Mariapia Palombaro and Marcello Ponsiglione. 
-The aim of this paper is to describe polycrystalline structures from the variational point of view. Grain boundaries and the corresponding grain orientations are not introduced as internal variables of the energy, but they spontaneously arise as a result of energy minimisation, under suitable boundary conditions. 
-<br>
-
-
-We work under the hypothesis of linear planar elasticity, with the reference configuration
-\( \Omega \subset R^2\, \) representing a section of an infinite cylindrical crystal. The elastic energy functional \(E_\varepsilon \,\)  depends on the lattice spacing \(\varepsilon \,\) of the crystal and we allow \(N_\varepsilon \,\) edge dislocations in the reference configuration, with
-\(N_\varepsilon \to \infty \,\)  as \(\varepsilon \to 0\). Each dislocation contributes by a factor 
-\( |\log \varepsilon | \,\) to the elastic energy, so that the natural rescaling for the energy functional is \(N_\varepsilon | \log \varepsilon |  \,\). We work in the energy regime
-\[
-N_\varepsilon \gg |\log \varepsilon | .
-\]
-We will see that this energy regime will account for polycrystals containing grains that are mutually rotated by an infinitesimal angle \( \theta \approx 0\). 
-<br>
-
-
-Specifically, we show that the energy functional \( E_\varepsilon \), 
-rescaled by 
-\(N_\varepsilon | \log \varepsilon | \),  \( \Gamma \)-converges as \( \varepsilon \to 0 \, \) to a certain functional 
-\( F \), whose dependence on the <em>elastic</em> and <em>plastic</em> parts of the macroscopic strain is decoupled. 
-Imposing piecewise constant Dirichlet boundary conditions on the plastic part of the limit strain, we then show that \( F \,\) is minimised by strains that are locally constant and take values into the set of antisymmetric matrices. We call these strains <em>linearised polycrystals</em>.},
-	date = {31 Jan 2018},
+	abstract = {We will introduce variational models for edge dislocations at semi-coherent interfaces between two heterogeneous crystals, and prove the optimality of uniformly distributed edge dislocations. Specifically, we prove that, in the large interface limit, the elastic energy \(\Gamma\)-converges to a limit functional comprised of two contributions: one is given by a constant gauging the minimal energy induced by dislocations at the interface, and corresponding to a uniform distribution of edge dislocations; the other one accounts for the far field elastic energy induced by the presence of further, possibly not uniformly distributed, dislocations. After assuming periodic boundary conditions and formally considering the limit from semi-coherent to coherent interfaces, we show that the optimal configuration consists in evenly-spaced dislocations on the one dimensional circle. This is joint work with M. Ponsiglione and R. Scala},
+	date = {30 Aug - 3 Sep 2021},
 	date-added = {2023-05-02 05:52:51 +0100},
-	date-modified = {2023-05-02 05:52:51 +0100},
+	date-modified = {2023-05-02 06:55:01 +0100},
+	event_link = {https://www.simai.unipr.it},
 	invited = {true},
-	month = {Jan},
-	slides = {seminars/slides/2018/2018-Graz-Slides.pdf},
+	month = {Aug},
+	slides = {seminars/slides/2021/2021-Parma-Slides.pdf},
 	talk = {true},
-	talk_title = {Linearised polycrystals from a 2D system of edge dislocations},
-	title = {Weekly Seminar, Department of Mathematics},
-	venue = {University of Graz, Austria},
-	year = {2018}}
+	talk_title = {Uniform distribution of dislocations at semi-coherent interfaces},
+	title = {SIMAI 2020-2021 Parma},
+	venue = {University of Parma, Italy},
+	year = {2021}}
 
 @misc{2018-Lisbon,
 	abbr = {ULisboa},
@@ -141,13 +119,14 @@ but \( \nabla u \notin L^{q_{\sigma_1,\sigma_2}}  \). The existence of such opti
 
 @misc{2019-Berlin,
 	abbr = {ICCOPT},
+	abstract = {We propose and study a novel optimal transport based regularization of linear dynamic inverse problems. The considered inverse problems aim at recovering a measure valued curve and are dynamic in the sense that (i) the measured data takes values in a time dependent family of Hilbert spaces, and (ii) the forward operators are time dependent and map, for each time, Radon measures into the corresponding data space. The variational regularization we propose bases on dynamic optimal transport. We apply this abstract framework to variational reconstruction in dynamic undersampled MRI. This is joint work with Kristian Bredies, Marcello Carioni and Francisco Romero},
 	date = {3-8 Aug 2019},
 	date-added = {2023-05-01 14:23:56 +0100},
-	date-modified = {2023-05-02 06:06:41 +0100},
+	date-modified = {2023-05-02 06:47:29 +0100},
 	event_link = {https://ecmiindmath.org/2019/01/21/6th-international-conference-on-continuous-optimization-iccopt/},
 	invited = {true},
 	month = {Aug},
-	slides = {seminars/slides/2018/2019-Berlin-Slides.pdf},
+	slides = {seminars/slides/2019/2019-Berlin-Slides.pdf},
 	talk = {true},
 	talk_title = {Linearised polycrystals from a 2D system of edge dislocations},
 	title = {ICCOPT: 6th International Conference on Continuous Optimization},
@@ -156,9 +135,10 @@ but \( \nabla u \notin L^{q_{\sigma_1,\sigma_2}}  \). The existence of such opti
 
 @misc{2016-Sapienza,
 	abbr = {Sapienza},
+	abstract = {We propose and analyze a simple variational model for dislocations at semi-coherent interfaces. The energy functional describes the competition between two terms: a surface energy induced by dislocations and a bulk elastic energy, spent to decrease the amount of dislocations needed to compensate the lattice misfit. We prove that, for minimizers, the former scales like the surface area of the interface, the latter like its diameter. The proposed continuum model is built on some explicit computations done in the framework of the semi-discrete theory of dislocations. Even if we deal with finite elasticity, linearized elasticity naturally emerges in our analysis since the far-field strain vanishes as the interface size increases.},
 	date = {19 Dec 2016},
 	date-added = {2023-04-30 12:19:46 +0100},
-	date-modified = {2023-05-01 14:04:59 +0100},
+	date-modified = {2023-05-02 07:25:23 +0100},
 	invited = {true},
 	month = {Dec},
 	talk = {true},
@@ -169,9 +149,10 @@ but \( \nabla u \notin L^{q_{\sigma_1,\sigma_2}}  \). The existence of such opti
 
 @misc{2017-Levico,
 	abbr = {CIRM},
+	abstract = {We propose and analyze a simple variational model for dislocations at semi-coherent interfaces. The energy functional describes the competition between two terms: a surface energy induced by dislocations and a bulk elastic energy, spent to decrease the amount of dislocations needed to compensate the lattice misfit. We prove that, for minimizers, the former scales like the surface area of the interface, the latter like its diameter. The proposed continuum model is built on some explicit computations done in the framework of the semi-discrete theory of dislocations. Even if we deal with finite elasticity, linearized elasticity naturally emerges in our analysis since the far-field strain vanishes as the interface size increases.},
 	date = {6-10 Feb 2017},
 	date-added = {2023-04-30 12:19:44 +0100},
-	date-modified = {2023-05-02 05:08:12 +0100},
+	date-modified = {2023-05-02 07:25:30 +0100},
 	event_link = {https://webmagazine.unitn.it/en/evento/dmath/15546/xxvii-convegno-nazionale-di-calcolo-delle-variazioni},
 	month = {Feb},
 	slides = {seminars/slides/2017/2017-Levico-Slides.pdf},
