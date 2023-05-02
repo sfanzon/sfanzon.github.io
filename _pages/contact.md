@@ -32,7 +32,7 @@ nav_order: 7
         <tbody>
         <tr>
         <td> <i class="fas fa-globe" style="font-size: 1.3em;"></i> </td>
-        <td> &nbsp; <a href = "#">Homepage @ Hull</a> </td>
+        <td> &nbsp; <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a> </td>
         </tr>
         <tr>
         <td> <i class="ai ai-google-scholar-square" style="font-size: 1.3em;"></i> </td>
