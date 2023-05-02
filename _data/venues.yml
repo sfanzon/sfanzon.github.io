@@ -56,6 +56,9 @@
 "CMU":
   url: https://www.cmu.edu
 
+"ICCOPT"
+  url: https://www.mathopt.org/?nav=home
+
 "Oxford":
   url: https://www.ox.ac.uk
 
@@ -64,6 +67,9 @@
 
 "TraDE-OPT":
   url: https://trade-opt-itn.eu/index.html
+
+"ULisboa":
+  url: https://www.ulisboa.pt/en
 
 "Uni Graz":
   url: https://www.uni-graz.at/en/
