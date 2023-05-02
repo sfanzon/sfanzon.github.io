@@ -47,11 +47,13 @@ nav_order: 7
         <td> &nbsp; <a href="https://orcid.org/{{ site.orcid_id }}">ORCID</a> </td>
         </tr>
         <tr>
+        <td> <i class="ai ai-scopus-square" style="font-size: 1.3em;"></i> </td>
+        <td> &nbsp; <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}">Scopus</a> </td> 
+        </tr>
+        <tr>
         <td> <i class="ai ai-arxiv-square" style="font-size: 1.3em;"></i> </td>
         <td> &nbsp; <a href="https://arxiv.org/a/{{ site.arxiv_username }}">arXiv</a> </td> 
         </tr>
         </tbody>
         </table>
 </div>  
-
-
