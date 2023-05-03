@@ -180,6 +180,20 @@
             <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.slides_short %}
+            {% if entry.slides_short contains '://' -%}
+            <a href="{{ entry.slides_short }}" class="btn btn-sm z-depth-0" role="button">Short Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides_short | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Short Slides</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.slides_long %}
+            {% if entry.slides_long contains '://' -%}
+            <a href="{{ entry.slides_long }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides_long | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.video %}
             <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
