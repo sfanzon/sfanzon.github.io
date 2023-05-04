@@ -23,10 +23,6 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
-        {%- if entry.sjr %}
-              <br>
-            <abbr class="badge"><a href="{{ entry.sjr }}">SJR</a></abbr>
-        {%- endif %}
         </div>
 
         <!-- Entry bib key -->
@@ -137,7 +133,10 @@
         </div>
 
           <!-- Links/Buttons -->
-          <div class="links" style="margin-top: 0.2rem;">
+          <div class="links" style="margin-top: 0.3rem;">
+            {%- if entry.sjr %}
+            <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
+          {%- endif %}
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
@@ -156,9 +155,6 @@
             {%- else -%}
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
-          {%- endif %}
-          {%- if entry.sjr %}
-            <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
           {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
