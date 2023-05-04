@@ -23,6 +23,10 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {%- if entry.sjr %}
+              <br>
+            <abbr class="badge"><a href="{{ entry.sjr }}">SJR</a></abbr>
+        {%- endif %}
         </div>
 
         <!-- Entry bib key -->
