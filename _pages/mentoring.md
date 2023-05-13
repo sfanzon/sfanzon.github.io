@@ -29,8 +29,8 @@ nav_order: 7
 <ul style="padding-left: 1.2em;">
 
 <li> 
-<div markdown="1" style="color: var(--global-theme-color);">**David Awuku**</div>
-<div> T3 2023</div> 
+<p markdown="1" style="color: var(--global-theme-color);">**David Awuku**</p>
+<p> T3 2023</p> 
 <p style="margin-top: 0.02rem;">MSc Mathematics, Univesity of Hull</p> 
 <p style="margin-top: 0.02rem;"><em>Entropic Regularization of Optimal Transport</em></p>
 </li>
