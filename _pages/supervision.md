@@ -12,7 +12,7 @@ nav_order: 7
 
 
 <p markdown="1"> 
- <a href = "mailto: S.Fanzon@hull.ac.uk">**Email me**</a> for Master or PhD projects in optimization, inverse problems, PDEs,
+ **<a href = "mailto: S.Fanzon@hull.ac.uk">Email me</a>** for Master or PhD projects in optimization, inverse problems, PDEs,
  machine learning and more!
 </p>
 
