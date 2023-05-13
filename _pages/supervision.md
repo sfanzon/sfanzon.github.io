@@ -29,9 +29,11 @@ nav_order: 7
 <ul style="padding-left: 1.2em;">
 
 <li> 
-<b>David Awuku</b> (Summer 2023): MSc Mathematics, Univesity of Hull 
+<b>David Awuku</b>, T3 2023 
+<br>
+MSc Mathematics, Univesity of Hull 
 <br> 
-Topic: <em>Entropic Regularization of Optimal Transport</em>
+<em>Entropic Regularization of Optimal Transport</em>
 </li>
 
 </ul>
