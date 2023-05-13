@@ -12,15 +12,19 @@ nav_order: 7
 
 
 <p markdown="1"> 
- Send me an <a href = "mailto: S.Fanzon@hull.ac.uk"><b>email</b></a> if you are interested in working on Master or PhD projects in optimization, inverse problems, PDEs,
+ <a href = "mailto: S.Fanzon@hull.ac.uk">**Email me**</a> for Master or PhD projects in optimization, inverse problems, PDEs,
  machine learning and more!
 </p>
+
+
 
 
 <div class="publications">
 
 
-<a id="master"><h3><b>Master Students</b></h3></a>
+<a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Master Students</b></h3></a>
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+
 
 <ul style="padding-left: 1.2em;">
 
