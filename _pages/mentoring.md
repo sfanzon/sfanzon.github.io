@@ -12,7 +12,7 @@ nav_order: 7
 
 
 <p markdown="1"> 
- **<a href = "mailto: S.Fanzon@hull.ac.uk">Email</a>** me for Master/PhD projects in optimization, inverse problems, PDEs,
+ **<a href = "mailto: S.Fanzon@hull.ac.uk">Email</a>** me for Master or PhD projects in optimization, inverse problems, PDEs,
  machine learning and more!
 </p>
 
@@ -30,8 +30,8 @@ nav_order: 7
 
 <li> 
 <p><span style="color: var(--global-theme-color);"><b>David Awuku</b></span>, T3 2023</p> 
-<p style="margin-top: 0.01rem;">MSc Mathematics, Univesity of Hull</p> 
-<p style="margin-top: 0.01rem;"><em>Entropic Regularization of Optimal Transport</em></p>
+<p>MSc Mathematics, Univesity of Hull</p> 
+<p><em>Entropic Regularization of Optimal Transport</em></p>
 </li>
 
 </ul>
