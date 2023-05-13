@@ -29,10 +29,10 @@ nav_order: 7
 <ul style="padding-left: 1.2em;">
 
 <li> 
-<p markdown="1" style="color: var(--global-theme-color);">**David Awuku**</p>
-<p> T3 2023</p> 
-<p style="margin-top: 0.02rem;">MSc Mathematics, Univesity of Hull</p> 
-<p style="margin-top: 0.02rem;"><em>Entropic Regularization of Optimal Transport</em></p>
+<span markdown="1" style="color: var(--global-theme-color);">**David Awuku**</span>
+<span> T3 2023</span> 
+<span style="margin-top: 0.02rem;">MSc Mathematics, Univesity of Hull</span>
+<span style="margin-top: 0.02rem;"><em>Entropic Regularization of Optimal Transport</em></span>
 </li>
 
 </ul>
