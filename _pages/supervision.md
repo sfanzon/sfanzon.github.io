@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /supervision/
-title: Supervision
+permalink: /mentoring/
+title: Mentoring
 description: 
 years: [2022,2021,2020,2019,2017]
 nav: true
