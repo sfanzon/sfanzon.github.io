@@ -134,9 +134,12 @@
 
           <!-- Links/Buttons -->
           <div class="links" style="margin-top: 0.3rem;">
-            {%- if entry.sjr %}
-            <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
-          {%- endif %}
+          {%- if entry.scopus %}
+          <a href="{{ entry.scopus }}" class="btn btn-sm z-depth-0" role="button">SC</a>
+        {%- endif %} 
+        <!-- {%- if entry.sjr %}
+          <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
+        {%- endif %}   -->
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
