@@ -27,13 +27,20 @@ nav_order: 9
       United Kingdom
       <br style="line-height: 1.5rem;"/>
       &nbsp;
-      <br>  
-        <table>
+      <br>
+      <table>
         <tbody>
         <tr>
         <td> <i class="fas fa-id-badge" style="font-size: 1.3em;"></i> </td>
         <td> &nbsp; <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a> </td>
         </tr>
+        </tbody>
+        </table>
+      <br style="line-height: 1.5rem;"/>
+      &nbsp;
+      <br>  
+      <table>
+        <tbody>
         <tr>
         <td> <i class="ai ai-google-scholar-square" style="font-size: 1.4em;"></i> </td>
         <td> &nbsp; <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">Google Scholar</a> </td>
