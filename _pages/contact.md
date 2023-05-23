@@ -31,12 +31,12 @@ nav_order: 9
       <table>
         <tbody>
         <tr>
-        <td> <i class="fas fa-id-badge" style="font-size: 1.3em;"></i> </td>
+        <td> <i class="fas fa-id-card" style="font-size: 1.3em;"></i> </td>
         <td> &nbsp; <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a> </td>
         </tr>
         </tbody>
         </table>
-      <br style="line-height: 1.5rem;"/>
+      <br style="line-height: 0.5rem;"/>
       &nbsp;
       <br>  
       <table>
