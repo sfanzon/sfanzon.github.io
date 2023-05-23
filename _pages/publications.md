@@ -11,17 +11,22 @@ nav_order: 4
 
 
 
-<p markdown="1"> 
+<p> 
 All my research outputs divided in 
+</p>
+
+
+<p>
 <ul>
     <li><a href="#journal"><b>Journal Publications</b></a></li>
-    <li><b><a href="#theses">Theses</a></b></li>
-    <li><b><a href="#miscellaneous">Miscellaneous</a></b></li>
+    <li><a href="#theses"><b>Theses</b></a></li>
+    <li><a href="#miscellaneous"><b>Miscellaneous</b></a></li>
 </ul>
 </p>
 
+
 <p>
-Authors are in alphabetical order, unless marked by &nbsp; <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> 
+Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> 
 </p>
 
 
