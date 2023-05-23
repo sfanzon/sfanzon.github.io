@@ -125,7 +125,7 @@
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%} In {{entry.booktitle}} {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%} {{entry.note}}{{ ", " }}{{entry.school}} {%- endcapture -%}
+          {%- capture entrytype -%} {{entry.keywords}}{{ ", " }}{{entry.school}} {%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
