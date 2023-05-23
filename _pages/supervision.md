@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /mentoring/
-title: Mentoring
+permalink: /supervision/
+title: Supervision
 description: 
 years: [2022,2021,2020,2019,2017]
 nav: true
@@ -12,8 +12,8 @@ nav_order: 7
 
 
 <p markdown="1"> 
- **<a href = "mailto: S.Fanzon@hull.ac.uk">Email</a>** me for Master or PhD projects in optimization, inverse problems, PDEs,
- machine learning and more!
+ **<a href = "mailto: S.Fanzon@hull.ac.uk">Email</a>** me for Master or PhD projects in Optimization, Inverse Problems, PDEs,
+ Machine Learning and more!
 </p>
 
 

@@ -25,10 +25,20 @@
         {%- endif -%}
         </div>
 
+       
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+       
+       
+          <!-- Title -->
+        {%- if entry.contribution %}
+            <div class="title"><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> {{entry.title}}</div>
+        {%- else -%}
+            <div class="title">{{entry.title}}</div>
+        {%- endif %}
+        
+
+
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}

@@ -6,6 +6,14 @@
   - firstname: ["Marcello", "M.", "M. C.", "Marcello Carioni"]
     url: https://scholar.google.com/citations?user=OF5DarEAAAAJ
 
+"Fernández":
+  - firstname: ["Adrián Martín", "A. M.", "A. M. F.", "Adrián Martín Fernández"]
+    url: https://scholar.google.com/citations?user=DjufLqsAAAAJ
+
+"Malusa":
+  - firstname: ["Annalisa", "A.", "A. M.", "Annalisa Malusa"]
+    url: https://scholar.google.com/citations?user=8_h1W8kAAAAJ
+
 "Palombaro":
   - firstname: ["Mariapia", "M.", "M. P.", "Mariapia Palombaro"]
     url: https://scholar.google.com/citations?user=RhU_lAoAAAAJ
@@ -21,6 +29,14 @@
 "Scala":
   - firstname: ["Riccardo", "R.", "R. S.", "Riccardo Scala"]
     url: https://docenti.unisi.it/en/scala
+
+"Schlögl":
+  - firstname: ["Matthias", "M.", "M. S.", "Matthias Schlögl"]
+    url: https://scholar.google.com/citations?user=9PpLjE4AAAAJ
+
+"Stollberger":
+  - firstname: ["Rudolf", "R.", "R. S.", "Rudolf Stollberger"]
+    url: https://scholar.google.com/citations?user=5prEu_4AAAAJ
 
 "Walter":
   - firstname: ["Daniel", "D.", "D. W.", "Daniel Walter"]
