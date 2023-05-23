@@ -11,11 +11,11 @@ nav_order: 6
 
 
 <p markdown="1"> 
-All my dissemination activity divided in **<a href="#talk">Oral Presentations</a>** and **<a href="#poster">Poster Presentations</a>**
+All my dissemination activity divided in <a href="#talk"><b>Oral Presentations</b></a> and <a href="#poster"><b>Poster Presentations</b></a>
 </p>
 
 <p>
-<i class="fas fa-envelope"></i> &nbsp; denotes invited presentation
+<i class="fas fa-envelope" style="font-size: 0.9em;"></i> &nbsp; denotes invited presentation
 </p>
 
 
