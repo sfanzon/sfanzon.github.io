@@ -33,6 +33,11 @@
         - Optimization
         - Inverse Problems
         - PDEs
+    - title: Applications&#58;
+      items:
+        - Mathematical Imaging
+        - Machine Learning
+        - Materials Science
     - title: Also experienced in&#58;
       items:
         - Optimal Transport
@@ -41,11 +46,6 @@
         - Regularity theory
         - Gradient methods
         - Primal-dual methods
-    - title: Applications&#58;
-      items:
-        - Mathematical Imaging
-        - Machine Learning
-        - Materials Science
 
 
 
