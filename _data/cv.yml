@@ -1,3 +1,6 @@
+#################   General Information   #####################
+
+
 - title: General Information
   type: map
   contents:
@@ -19,15 +22,18 @@
 
 
 
+#################   Research  Interests    #####################
+
+
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Mathematical Areas
+    - title: Mathematical Areas&#58;
       items: 
         - Optimization
         - Inverse Problems
         - PDEs
-    - title: Experienced in
+    - title: Also experienced in&#58;
       items:
         - Optimal Transport
         - Variational methods
@@ -35,12 +41,15 @@
         - Regularity theory
         - Gradient methods
         - Primal-dual methods
-    - title: Applications
+    - title: Applications&#58;
       items:
-        - Imaging
+        - Mathematical Imaging
         - Machine Learning
         - Materials Science
 
+
+
+#################    EDUCATION    #####################
 
 
 
@@ -71,6 +80,11 @@
         - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
+
+
+
+
+#################    Academic Positions    #####################
 
 
 
@@ -119,6 +133,13 @@
 
 
 
+
+
+
+#################    IMPACT    #####################
+
+
+
 - title: Research Impact
   type: time_table
   contents:
@@ -126,7 +147,7 @@
       institution: University of Graz, Austria
       year: 2020 - 2021 
       description:
-        - title: My contribution
+        - title: My role
           contents: 
             - Major contribution to research output
             - Contributed to dissemination activity
@@ -135,14 +156,14 @@
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
             - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link"></i></a>
             - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link"></i></a> 
-            - Funding &#x20AC; 231k
+            - Funding &#x20AC;231k
     
 
     - title: FWF Project&#58; Solving bilinear inverse problems by tensorial lifting
       institution: University of Graz, Austria
       year: 2019 - 2021 
       description:
-        - title: My contribution
+        - title: My role
           contents: 
             - Major contribution to research output
             - Contributed to dissemination activity
@@ -151,14 +172,14 @@
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
             - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link"></i></a>
             - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link"></i></a> 
-            - Funding &#x20AC; 221k    
+            - Funding &#x20AC;221k    
     
     
     - title: FWF Project&#58; Mathematical methods for motion-aware medical imaging
       institution: University of Graz, Austria
       year: 2018 - 2020 
       description:
-        - title: My contribution
+        - title: My role
           contents: 
             - Major contribution to research output
             - Contributed to dissemination activity
@@ -168,7 +189,7 @@
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
             - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/project-pir-27/"><i class="fas fa-external-link"></i></a>
             - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38573"><i class="fas fa-external-link"></i></a> 
-            - Funding &#x20AC; 234k    
+            - Funding &#x20AC;234k    
 
 
 
@@ -176,15 +197,15 @@
       institution: University of Sussex, UK
       year: 2014 - 2018
       description: 
-        - Full-time Salary for 3.5 Years (Total &#x00A3; 49k)
-        - Fees Waiver for 3.5 Years (Total &#x00A3; 14k)
-        - Travel and research grant (&#x00A3; 5.8k)
+        - Full-time Salary for 3.5 Years (Total &#x00A3;49k)
+        - Fees Waiver for 3.5 Years (Total &#x00A3;14k)
+        - Travel and research grant (&#x00A3;5.8k)
 
 
     - title: Travel support
       year: 2014 - 2018
       contents: 
-        - title: Funding from below insitutions (Total &#x00A3; 4k)
+        - title: Funding from below insitutions (Total &#x00A3;4k)
           items:
             - Oxford University, UK
             - Warwick University, UK
@@ -197,7 +218,7 @@
 
 
 
-
+#################   Teaching    #####################
 
 
 
@@ -218,6 +239,9 @@
 
 
 
+#################   Supervision    #####################
+
+
 
 
 - title: Supervision
@@ -235,6 +259,11 @@
 
 
 
+
+#################    Qualifications & Memberships    #####################
+
+
+
 - title: Qualifications & Memberships
   type: nested_list
   contents:
@@ -247,6 +276,10 @@
 
 
 
+
+
+
+#################    Technical Skills    #####################
 
 - title: Technical Skills
   type: nested_list
@@ -264,6 +297,9 @@
 
 
 
+
+#################    Reviewer Activity    #####################
+
 - title: Reviewer Activity
   type: nested_list
   contents:
@@ -279,6 +315,8 @@
 
 
 
+#################    Communication    #####################
+
 - title: Communication
   type: nested_list
   contents:
@@ -292,6 +330,9 @@
         - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a><a href = "https://www.silviofanzon.com/supervision/">here</a>
 
 
+
+
+#################    TEMPLATES    #####################
 
 
 #- title: General Information
