@@ -212,6 +212,73 @@
 
 
 
+- title: Supervision
+  type: nested_list
+  contents:
+    - title: I have supervised
+      items: 
+        - 1 Master Student
+    - title: Full list <a href = "https://www.silviofanzon.com/supervision/">here</a>
+
+
+
+
+- title: Qualifications & Memberships
+  type: nested_list
+  contents:
+    - title: Member of the Inverse Problems International Association (IPIA) <a href="https://www.ipia.site"><i class="fas fa-external-link-square-alt"></i></a>
+    - title: Postgraduate Certificate in Academic Practice (PCAP)
+      items: 
+        - Enrolled in PCAP programme at the University of Hull
+        - Starting date September 2023
+        - Will lead to Fellowship of the Higher Education Academy (FHEA) <a href="https://www.advance-he.ac.uk/fellowship/fellowship"><i class="fas fa-external-link-square-alt"></i></a>
+
+
+
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Coding
+      items: 
+        - Python 
+        - Matlab
+        - Mathematica
+        - R
+        - C
+    - title: Teaching
+      items: 
+        - LaTex
+        - Canvas
+        - Panopto
+        - MS Office
+        - MS Teams
+        - Moodle
+    - title: Web
+      items:
+        - Git
+        - HTML
+        - CSS
+        - JavaScript
+        - Jekyll
+
+
+
+
+- title: Reviewer Activity
+  type: nested_list
+  contents:
+    - title: I reviewed for the following Journals
+      items: 
+        - SIAM Journal on Mathematical Analysis <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima"><i class="fas fa-external-link-square-alt"></i></a>
+        - SIAM Journal on Imaging Sciences <a href="https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims"><i class="fas fa-external-link-square-alt"></i></a>
+        - Numerische Mathematik <a href="https://www.springer.com/journal/211"><i class="fas fa-external-link-square-alt"></i></a>
+        - Inverse Problems and Imaging <a href="https://www.aimsciences.org/ipi"><i class="fas fa-external-link-square-alt"></i></a>
+        - Mathematics in Engineering <a href="https://www.aimspress.com/journal/mine"><i class="fas fa-external-link-square-alt"></i></a>    
+
+
+
+
 
 
 
