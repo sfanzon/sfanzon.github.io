@@ -14,7 +14,7 @@
     - name: Orcid
       value: <a href = "https://orcid.org/0000-0003-1974-1434">0000-0003-1974-1434</a>
     - name: Full CV
-      value: Download  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+      value: Download &nbsp;  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -59,7 +59,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2014
       description:
-        - Thesis&#58; A variational approach to topological singularities in two-dimensions (in Italian) &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-link"></i></a>
+        - Thesis&#58; A variational approach to topological singularities in two-dimensions &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-link"></i></a>
         - Advisor&#58; Marcello Ponsiglione &nbsp;  <a href="https://scholar.google.com/citations?user=VRqZ_8cAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
@@ -67,7 +67,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2011
       description:
-        - Thesis&#58; The isoperimetric problem (in Italian) &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-link"></i></a>
+        - Thesis&#58; The isoperimetric problem &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-link"></i></a>
         - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
