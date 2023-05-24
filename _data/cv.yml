@@ -59,7 +59,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2014
       description:
-        - Thesis&#58; A variational approach to topological singularities in two-dimensions &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-external-link"></i></a>
+        - Thesis&#58; A variational approach to topological singularities in two-dimensions &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-external-link-alt"></i></a>
         - Advisor&#58; Marcello Ponsiglione &nbsp;  <a href="https://scholar.google.com/citations?user=VRqZ_8cAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
@@ -80,8 +80,8 @@
     - title: Lecturer in Applied Mathematics
       institution: University of Hull, UK
       year: Since 2023
-    #  description:
-    #    - Description 2.
+      description:
+        - My work webpage  &nbsp;  <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon"><i class="fas fa-external-link"></i></a>
     #    - Description 1.
     #    - title: Description 3.
     #      contents:
