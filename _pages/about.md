@@ -32,7 +32,7 @@ I am a Lecturer in Applied Mathematics in the [Department of Mathematics](https:
 </div>
 
 <div markdown="1" style="margin-top: 1.2rem;">
-My research is at the interface of <b>inverse problems</b>, <b>optimization</b>, <b>PDEs</b> and <b>variational methods</b>. I am interested in applications to <b>mathematical imaging</b>, <b>materials science</b> and <b>machine learning</b>
+My research is at the interface of <b>Inverse Problems</b>, <b>Optimization</b>, <b>PDEs</b> and <b>Variational Methods</b>. I am interested in applications to <b>Mathematical Imaging</b>, <b>Materials Science</b> and <b>Machine Learning</b>
 </div>
 
 <div markdown="1" style="margin-top: 1.2rem;">
