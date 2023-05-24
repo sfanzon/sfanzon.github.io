@@ -147,7 +147,7 @@
           <!-- Links/Buttons -->
           <div class="links" style="margin-top: 0.3rem;">
           {%- if entry.scopus %}
-          <a href="{{ entry.scopus }}" class="btn btn-sm z-depth-0" role="button">SC</a>
+          <a href="{{ entry.scopus }}" class="btn btn-sm z-depth-0" role="button">SCOPUS</a>
         {%- endif %} 
         <!-- {%- if entry.sjr %}
           <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
@@ -245,7 +245,7 @@
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="true" data-style="small_circle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
           </div>
           {%- endif %}
