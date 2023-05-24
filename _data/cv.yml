@@ -127,7 +127,7 @@
         - 3 Theses
     - title: See the full list
       items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/publications/">here</a>
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/publications/"><i class="fas fa-external-link-alt"></i></a>
         - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
@@ -193,7 +193,7 @@
 
 
 
-    - title: PhD Studentship
+    - title: PhD Studentship&#58; Rigidity problems and Microstructures in Materials Science
       institution: University of Sussex, UK
       year: 2014 - 2018
       description: 
