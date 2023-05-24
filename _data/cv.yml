@@ -51,7 +51,7 @@
       institution: University of Sussex, UK
       year: 2018
       description:
-       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-link"></a>
+       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-external-link"></i></a>
        - Advisor&#58; Mariapia Palombaro &nbsp;  <a href = "https://scholar.google.com/citations?user=RhU_lAoAAAAJ"><i class="fas fa-user"></i></a>
        - "Grade: Pass with no corrections"
           
@@ -59,7 +59,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2014
       description:
-        - Thesis&#58; A variational approach to topological singularities in two-dimensions &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-link"></i></a>
+        - Thesis&#58; A variational approach to topological singularities in two-dimensions &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-external-link"></i></a>
         - Advisor&#58; Marcello Ponsiglione &nbsp;  <a href="https://scholar.google.com/citations?user=VRqZ_8cAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
@@ -67,7 +67,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2011
       description:
-        - Thesis&#58; The isoperimetric problem &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-link"></i></a>
+        - Thesis&#58; The isoperimetric problem &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-external-link"></i></a>
         - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
@@ -111,7 +111,10 @@
         - 9 Peer-reviewed Journal Articles
         - 1 Book
         - 3 Theses
-    - title: Publication list available <a href = "https://www.silviofanzon.com/publications/">here</a>
+    - title: Publication list 
+      items: 
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/publications/">here</a>
+        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -129,10 +132,10 @@
             - Contributed to dissemination activity
         - title: Project details
           contents:
-            - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link-square-alt"></i></a>
-            - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link-square-alt"></i></a> 
-            - Funding &#x20AC; 231 k
+            - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link"></i></a> 
+            - Funding &#x20AC; 231k
     
 
     - title: FWF Project&#58; Solving bilinear inverse problems by tensorial lifting
@@ -145,10 +148,10 @@
             - Contributed to dissemination activity
         - title: Project details
           contents:
-            - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link-square-alt"></i></a>
-            - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link-square-alt"></i></a> 
-            - Funding &#x20AC; 221 k    
+            - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link"></i></a> 
+            - Funding &#x20AC; 221k    
     
     
     - title: FWF Project&#58; Mathematical methods for motion-aware medical imaging
@@ -162,10 +165,10 @@
             - Contribued to intermediate and final reports
         - title: Project details
           contents:
-            - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/project-pir-27/"><i class="fas fa-external-link-square-alt"></i></a>
-            - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38573"><i class="fas fa-external-link-square-alt"></i></a> 
-            - Funding &#x20AC; 234 k    
+            - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/project-pir-27/"><i class="fas fa-external-link"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38573"><i class="fas fa-external-link"></i></a> 
+            - Funding &#x20AC; 234k    
 
 
 
@@ -173,15 +176,15 @@
       institution: University of Sussex, UK
       year: 2014 - 2018
       description: 
-        - Full-time Salary for 3.5 Years (Total &#x00A3; 49 k)
-        - Fees Waiver for 3.5 Years (Total &#x00A3; 14 k)
-        - Travel and research grant (&#x00A3; 5.8 k)
+        - Full-time Salary for 3.5 Years (Total &#x00A3; 49k)
+        - Fees Waiver for 3.5 Years (Total &#x00A3; 14k)
+        - Travel and research grant (&#x00A3; 5.8k)
 
 
     - title: Travel support
       year: 2014 - 2018
       contents: 
-        - title: Funding from below insitutions (Total &#x00A3; 4 k)
+        - title: Funding from below insitutions (Total &#x00A3; 4k)
           items:
             - Oxford University, UK
             - Warwick University, UK
@@ -202,11 +205,14 @@
 - title: Teaching
   type: nested_list
   contents:
-    - title: I have taught
+    - title: I have taught 15 modules, including
       items: 
         - 7 Modules as Lecurer
         - 8 Modules as Teaching Assistant
-    - title: Full teaching list <a href = "https://www.silviofanzon.com/teaching/">here</a>
+    - title: List of modules
+      items: 
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link"></i></a>
+        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -218,7 +224,11 @@
     - title: I have supervised
       items: 
         - 1 Master Student
-    - title: Full list <a href = "https://www.silviofanzon.com/supervision/">here</a>
+    - title: Full list 
+      items: 
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link"></i></a>
+        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a><a href = "https://www.silviofanzon.com/supervision/">here</a>
+
 
 
 
@@ -231,7 +241,7 @@
       items: 
         - Enrolled in PCAP programme at the University of Hull
         - Starting date September 2023
-        - Will lead to Fellowship of the Higher Education Academy (FHEA) <a href="https://www.advance-he.ac.uk/fellowship/fellowship"><i class="fas fa-external-link-square-alt"></i></a>
+        - Will lead to Fellowship of the Higher Education Academy (FHEA) &nbsp; <a href="https://www.advance-he.ac.uk/fellowship/fellowship"><i class="fas fa-external-link-square-alt"></i></a>
 
 
 
@@ -241,26 +251,13 @@
   contents:
     - title: Coding
       items: 
-        - Python 
-        - Matlab
-        - Mathematica
-        - R
-        - C
+        - Python, Matlab, Mathematica, R, C
     - title: Teaching
       items: 
-        - LaTex
-        - Canvas
-        - Panopto
-        - MS Office
-        - MS Teams
-        - Moodle
+        - LaTex, Canvas, Panopto, MS Office, MS Teams, Moodle
     - title: Web
       items:
-        - Git
-        - HTML
-        - CSS
-        - JavaScript
-        - Jekyll
+        - Git, HTML, CSS, JavaScript, Jekyll
 
 
 
@@ -270,16 +267,27 @@
   contents:
     - title: I reviewed for the following Journals
       items: 
-        - SIAM Journal on Mathematical Analysis <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima"><i class="fas fa-external-link-square-alt"></i></a>
-        - SIAM Journal on Imaging Sciences <a href="https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims"><i class="fas fa-external-link-square-alt"></i></a>
-        - Numerische Mathematik <a href="https://www.springer.com/journal/211"><i class="fas fa-external-link-square-alt"></i></a>
-        - Inverse Problems and Imaging <a href="https://www.aimsciences.org/ipi"><i class="fas fa-external-link-square-alt"></i></a>
-        - Mathematics in Engineering <a href="https://www.aimspress.com/journal/mine"><i class="fas fa-external-link-square-alt"></i></a>    
+        - SIAM Journal on Mathematical Analysis &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima"><i class="fas fa-external-link"></i></a>
+        - SIAM Journal on Imaging Sciences &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims"><i class="fas fa-external-link"></i></a>
+        - Numerische Mathematik &nbsp; <a href="https://www.springer.com/journal/211"><i class="fas fa-external-link"></i></a>
+        - Inverse Problems and Imaging &nbsp;<a href="https://www.aimsciences.org/ipi"><i class="fas fa-external-link"></i></a>
+        - Mathematics in Engineering &nbsp; <a href="https://www.aimspress.com/journal/mine"><i class="fas fa-external-link"></i></a>    
 
 
 
 
 
+- title: Communication
+  type: nested_list
+  contents:
+    - title: I have given 15 presentations, including
+      items: 
+        - 12 oral presentations (11 invited)
+        - 3 poster presentations (1 invited)
+    - title: Full list
+      items: 
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link"></i></a>
+        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a><a href = "https://www.silviofanzon.com/supervision/">here</a>
 
 
 
