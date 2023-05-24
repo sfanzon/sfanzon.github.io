@@ -11,6 +11,8 @@
       value: S.Fanzon@hull.ac.uk
     - name: Website
       value: <a href = "https://www.silviofanzon.com/">silviofanzon.com</a>
+    - name: Orcid
+      value: <a href = "https://orcid.org/0000-0003-1974-1434">0000-0003-1974-1434</a>
     - name: Full CV
       value: Download  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
@@ -72,7 +74,7 @@
 
 
 
-- title: Employment
+- title: Academic Positions
   type: time_table
   contents:
     - title: Lecturer in Applied Mathematics
@@ -99,6 +101,19 @@
       year: 2014 - 2018
 
   
+
+
+- title: Publications
+  type: nested_list
+  contents:
+    - title: I have authored
+      items: 
+        - 9 Peer-reviewed Journal Articles
+        - 1 Book
+        - 3 Theses
+    - title: Publication list available <a href = "https://www.silviofanzon.com/publications/">here</a>
+
+
 
 
 - title: Research Impact
@@ -178,6 +193,30 @@
 
 
 
+
+
+
+
+
+
+- title: Teaching
+  type: nested_list
+  contents:
+    - title: I have taught
+      items: 
+        - 7 Modules as Lecurer
+        - 8 Modules as Teaching Assistant
+    - title: Full teaching list <a href = "https://www.silviofanzon.com/teaching/">here</a>
+
+
+
+
+
+
+
+
+
+
 #- title: General Information
 #  type: map
 #  contents:
@@ -210,6 +249,7 @@
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
 # - title: Honors and Awards
 #  type: time_table
