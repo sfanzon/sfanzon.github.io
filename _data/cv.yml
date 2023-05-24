@@ -60,7 +60,7 @@
       institution: University of Sussex, UK
       year: 2018
       description:
-       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-external-link"></i></a>
+       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-external-link-alt"></i></a>
        - Advisor&#58; Mariapia Palombaro &nbsp;  <a href = "https://scholar.google.com/citations?user=RhU_lAoAAAAJ"><i class="fas fa-user"></i></a>
        - "Grade: Pass with no corrections"
           
@@ -76,7 +76,7 @@
       institution: Sapienza University of Rome, Italy
       year: 2011
       description:
-        - Thesis&#58; The isoperimetric problem &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-external-link"></i></a>
+        - Thesis&#58; The isoperimetric problem &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-external-link-alt"></i></a>
         - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-user"></i></a>
         - "Grade: 110/110 Cum Laude"
 
@@ -95,7 +95,7 @@
       institution: University of Hull, UK
       year: Since 2023
       description:
-        - My work webpage  &nbsp;  <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon"><i class="fas fa-external-link"></i></a>
+        - My work webpage  &nbsp;  <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon"><i class="fas fa-external-link-alt"></i></a>
     #    - Description 1.
     #    - title: Description 3.
     #      contents:
@@ -154,8 +154,8 @@
         - title: Project details
           contents:
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link"></i></a>
-            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link"></i></a> 
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link-alt"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link-alt"></i></a> 
             - Funding &#x20AC;231k
     
 
@@ -170,8 +170,8 @@
         - title: Project details
           contents:
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link"></i></a>
-            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link"></i></a> 
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link-alt"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link-alt"></i></a> 
             - Funding &#x20AC;221k    
     
     
@@ -187,8 +187,8 @@
         - title: Project details
           contents:
             - Principal investigator Kristian Bredies &nbsp; <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/project-pir-27/"><i class="fas fa-external-link"></i></a>
-            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38573"><i class="fas fa-external-link"></i></a> 
+            - Project description &nbsp; <a href="https://mathematik.uni-graz.at/en/research/research-projects/project-pir-27/"><i class="fas fa-external-link-alt"></i></a>
+            - FWF Project Webpage &nbsp; <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38573"><i class="fas fa-external-link-alt"></i></a> 
             - Funding &#x20AC;234k    
 
 
@@ -232,7 +232,7 @@
         - 8 Modules as Teaching Assistant
     - title: See the full list
       items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link"></i></a>
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link-alt"></i></a>
         - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
@@ -252,7 +252,7 @@
         - 1 Master Student
     - title: Full list 
       items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link"></i></a>
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link-alt"></i></a>
         - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a><a href = "https://www.silviofanzon.com/supervision/">here</a>
 
 
@@ -267,12 +267,12 @@
 - title: Qualifications & Memberships
   type: nested_list
   contents:
-    - title: Member of the Inverse Problems International Association (IPIA) <a href="https://www.ipia.site"><i class="fas fa-external-link-square-alt"></i></a>
+    - title: Member of the Inverse Problems International Association (IPIA) <a href="https://www.ipia.site"><i class="fas fa-external-link-alt"></i></a>
     - title: Postgraduate Certificate in Academic Practice (PCAP)
       items: 
         - Enrolled in PCAP programme at the University of Hull
         - Starting date September 2023
-        - Will lead to Fellowship of the Higher Education Academy (FHEA) &nbsp; <a href="https://www.advance-he.ac.uk/fellowship/fellowship"><i class="fas fa-external-link-square-alt"></i></a>
+        - Will lead to Fellowship of the Higher Education Academy (FHEA) &nbsp; <a href="https://www.advance-he.ac.uk/fellowship/fellowship"><i class="fas fa-external-link-alt"></i></a>
 
 
 
@@ -305,11 +305,11 @@
   contents:
     - title: I reviewed for the following Journals
       items: 
-        - SIAM Journal on Mathematical Analysis &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima"><i class="fas fa-external-link"></i></a>
-        - SIAM Journal on Imaging Sciences &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims"><i class="fas fa-external-link"></i></a>
-        - Numerische Mathematik &nbsp; <a href="https://www.springer.com/journal/211"><i class="fas fa-external-link"></i></a>
-        - Inverse Problems and Imaging &nbsp;<a href="https://www.aimsciences.org/ipi"><i class="fas fa-external-link"></i></a>
-        - Mathematics in Engineering &nbsp; <a href="https://www.aimspress.com/journal/mine"><i class="fas fa-external-link"></i></a>    
+        - SIAM Journal on Mathematical Analysis &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima"><i class="fas fa-external-link-alt"></i></a>
+        - SIAM Journal on Imaging Sciences &nbsp; <a href="https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims"><i class="fas fa-external-link-alt"></i></a>
+        - Numerische Mathematik &nbsp; <a href="https://www.springer.com/journal/211"><i class="fas fa-external-link-alt"></i></a>
+        - Inverse Problems and Imaging &nbsp;<a href="https://www.aimsciences.org/ipi"><i class="fas fa-external-link-alt"></i></a>
+        - Mathematics in Engineering &nbsp; <a href="https://www.aimspress.com/journal/mine"><i class="fas fa-external-link-alt"></i></a>    
 
 
 
@@ -326,7 +326,7 @@
         - 3 poster presentations (1 invited)
     - title: See the full list
       items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link"></i></a>
+        - Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link-alt"></i></a>
         - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a><a href = "https://www.silviofanzon.com/supervision/">here</a>
 
 
