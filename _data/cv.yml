@@ -1,10 +1,66 @@
-# - title: General Information
-#  type: map
-#  contents:
-#    - name: Full Name
-#      value: Silvio Fanzon
-#    - name: Languages
-#      value: English, Italian
+ - title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Silvio Fanzon
+    - name: Position 
+      value: Lecturer in Applied Mathematics
+    - name: Institute 
+      value: University of Hull, UK
+    - name: Languages
+      value: English, Italian
+
+ - title: Research Interests
+  type: nested_list
+  contents:
+    - title: Mathematical Areas
+      items: 
+        - Optimization
+        - Inverse Problems
+        - PDEs
+    - title: Experienced in
+        - Optimal Transport
+        - Variational methods
+        - Measure theory
+        - Regularity theory
+        - Gradient methods
+        - Primal-dual methods
+    - title: Applications
+      items:
+        - Imaging
+        - Machine Learning
+        - Materials Science
+
+
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mathematics
+      institution: University of Sussex, UK
+      year: 2018
+      description:
+       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-link"></a>
+       - Advisor&#58; Mariapia Palombaro &nbsp;  <a href = "https://scholar.google.com/citations?user=RhU_lAoAAAAJ"><i class="fas fa-user"></i></a>
+       - "Grade: Pass with no corrections"
+          
+    - title: MSc in Mathematics
+      institution: Sapienza University of Rome, Italy
+      year: 2014
+      description:
+        - Thesis&#58; A variational approach to topological singularities in two-dimensions (in Italian) &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-link"></i></a>
+        - Advisor&#58; Marcello Ponsiglione &nbsp;  <a href="https://scholar.google.com/citations?user=VRqZ_8cAAAAJ"><i class="fas fa-user"></i></a>
+        - "Grade: 110/110 Cum Laude"
+
+    - title: BSc in Mathematics
+      institution: Sapienza University of Rome, Italy
+      year: 2011
+      description:
+        - Thesis&#58; The isoperimetric problem (in Italian) &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-link"></i></a>
+        - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-user"></i></a>
+        - "Grade: 110/110 Cum Laude"
+
 
 
 
@@ -22,7 +78,7 @@
     #        - Sub-description 1.
     #        - Sub-description 2.
     
-    - title: University Assistant
+    - title: Faculty Member
       institution: University of Graz, Austria
       year: 2022 - 2023
 
@@ -34,35 +90,65 @@
       institution: University of Sussex, UK
       year: 2014 - 2018
 
+  
+
+
+- title: Research Impact
+  type: time_table
+  contents:
+    - title: FWF Project&#58; Regularization Graphs for Variational Imaging
+      institution: University of Graz, Austria
+      year: 2020 - 2021 
+        description:
+          title: My contribution
+            contents: 
+              - Major contribution to research output
+              - Contributed to dissemination activity
+          title: Project details 
+              - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link-square-alt"></i></a>
+              - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+              - Funding &#x20AC 231 k
+              - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link-square-alt"></i></a> 
+    
+
+    - title: FWF Project&#58; Solving bilinear inverse problems by tensorial lifting
+      institution: University of Graz, Austria
+      year: 2019 - 2021 
+        description:
+          - I gave major contribution to research output
+          - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link-square-alt"></i></a>
+          - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+          - Funding &#x20AC 221 k    
+          - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link-square-alt"></i></a> 
+    
+    
+    
+    - title: FWF Project&#58; Mathematical methods for motion-aware medical imaging
+      institution: University of Graz, Austria
+      year: 2018 - 2020 
+        description:
+          - I gave major contribution to research output
+          - I 
+          - I contributed 
+          - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p28858/"><i class="fas fa-external-link-square-alt"></i></a>
+          - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
+          - Funding &#x20AC 221 k    
+          - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/37213"><i class="fas fa-external-link-square-alt"></i></a> 
+    
     
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Mathematics
-      institution: University of Sussex, UK
-      year: 2018
-      description:
-       - Thesis&#58; Geometric patterns and Microstructures in the study of Material Defects and Composites &nbsp;  <a href="/publications/#Fan-Phd-2018"><i class="fas fa-link"></a>
-       - Advisor&#58; Mariapia Palombaro &nbsp;  <a href = "https://scholar.google.com/citations?user=RhU_lAoAAAAJ"><i class="fas fa-globe"></i></a>
-       - "Grade: Pass with no corrections"
-          
-    - title: MSc in Mathematics
-      institution: Sapienza University of Rome, Italy
-      year: 2014
-      description:
-        - Thesis&#58; A variational approach to topological singularities in two-dimensions (in Italian) &nbsp;  <a href="/publications/#Fanzon-MSc"><i class="fas fa-link"></i></a>
-        - Advisor&#58; Marcello Ponsiglione &nbsp;  <a href="https://scholar.google.com/citations?user=VRqZ_8cAAAAJ"><i class="fas fa-globe"></i></a>
-        - "Grade 110/110 Cum Laude"
 
-    - title: BSc in Mathematics
-      institution: Sapienza University of Rome, Italy
-      year: 2011
-      description:
-        - Thesis&#58; The isoperimetric problem (in Italian) &nbsp;  <a href="/publications/#Fanzon-BSc"><i class="fas fa-link"></i></a>
-        - Advisor&#58; Annalisa Malusa &nbsp;  <a href="https://scholar.google.com/citations?user=8_h1W8kAAAAJ"><i class="fas fa-globe"></i></a>
-        - "Grade: 110/110 Cum Laude"
+    - title: Postdoctoral Researcher
+      institution: University of Graz, Austria
+      year: 2018 - 2021
+
+
+
+    - title: Associate Tutor
+      institution: University of Sussex, UK
+      year: 2014 - 2018
+
 
 
 # - title: Academic Interests
