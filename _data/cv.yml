@@ -1,16 +1,16 @@
- - title: General Information
+- title: General Information
   type: map
   contents:
     - name: Full Name
       value: Silvio Fanzon
     - name: Position 
       value: Lecturer in Applied Mathematics
-    - name: Institute 
+    - name: Institution 
       value: University of Hull, UK
-    - name: Languages
-      value: English, Italian
 
- - title: Research Interests
+
+
+- title: Research Interests
   type: nested_list
   contents:
     - title: Mathematical Areas
@@ -19,6 +19,7 @@
         - Inverse Problems
         - PDEs
     - title: Experienced in
+      items:
         - Optimal Transport
         - Variational methods
         - Measure theory
@@ -105,10 +106,10 @@
               - Major contribution to research output
               - Contributed to dissemination activity
           title: Project details 
-              - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link-square-alt"></i></a>
               - Principal investigator Kristian Bredies <a href="https://scholar.google.com/citations?user=c1iKsfIAAAAJ"><i class="fas fa-user"></i></a>
-              - Funding &#x20AC 231 k
+              - Project description <a href="https://mathematik.uni-graz.at/en/research/research-projects/fwf-project-p29192/"><i class="fas fa-external-link-square-alt"></i></a>
               - FWF Project Webpage <a href="https://pf.fwf.ac.at/en/research-in-practice/project-finder/38078"><i class="fas fa-external-link-square-alt"></i></a> 
+              - Funding &#x20AC 231 k
     
 
     - title: FWF Project&#58; Solving bilinear inverse problems by tensorial lifting
