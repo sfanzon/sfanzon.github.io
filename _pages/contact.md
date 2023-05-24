@@ -42,6 +42,14 @@ nav_order: 9
       <table>
         <tbody>
         <tr>
+        <td> <i class="fas fa-globe" style="font-size: 1.3em;"></i> </td>
+        <td> &nbsp; <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a> </td>
+        </tr>
+        <tr>
+        <td> &nbsp; </td>
+        <td> &nbsp; </td>
+        </tr>
+        <tr>
         <td> <i class="ai ai-google-scholar-square" style="font-size: 1.6em;"></i> </td>
         <td> &nbsp; <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">Google Scholar</a> </td>
         </tr>
