@@ -209,7 +209,7 @@
 - title: Publications
   type: nested_list
   contents:
-    - title: I have authored
+    - title: I have authored {% bibliography_count -f publications_journal %}
       items: 
         - 9 Peer-reviewed Journal Articles
         - 1 Book
