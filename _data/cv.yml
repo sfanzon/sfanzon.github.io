@@ -91,17 +91,36 @@
 - title: Academic Positions
   type: time_table
   contents:
-    - title: Lecturer in Applied Mathematics
+    - title: Lecturer in Applied Mathematics &nbsp; <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon"><i class="fas fa-external-link-alt"></i></a>
       institution: University of Hull, UK
       year: Since 2023
       description:
-        - My work webpage  &nbsp;  <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon"><i class="fas fa-external-link-alt"></i></a>
-    #    - Description 1.
-    #    - title: Description 3.
-    #      contents:
-    #        - Sub-description 1.
-    #        - Sub-description 2.
-    
+        - title: Research
+          contents:
+            - Conducting original research 
+            - Authoring grant applications
+            - Dissemination activity
+        - title: Administrative
+          contents: 
+            - Taking part in public outreach events
+            - Acting as examiner in student Vivas
+        - title: Supervision
+          contents:
+            - Designing original thesis projects
+            - Supervision of Undergraduate and Master students
+            - Supervision of PhD Students
+        - title: Teaching
+          contents:
+            - Designing modules and teaching material
+            - Delivering in person and online classes
+            - Managing online resources
+            - Providing Intermediate and final assessment
+            - Providing student support through office hours
+        - title: Modules taught
+          contents:
+           - Statistical Models (2024)
+           - Differential Geometry & Topology (2023)
+           - Numbers, Sequences & Series (2023)
 
 
 
@@ -109,12 +128,21 @@
       institution: University of Graz, Austria
       year: 2022 - 2023
       description:
-        - title: Roles
+        - title: Research
           contents:
-            - Facilitating exercitation classes of 30 students
-            - Marking assignments
-            - Offering office hours
-            - Invigilating tests
+            - Conducting original research 
+            - Co-authoring grant applications
+            - Dissemination activity
+        - title: Administrative
+          contents: 
+            - Organizing seminars for PhD School
+            - Providing support for grant applications
+        - title: Teaching
+          contents:
+            - Designing modules and teaching material
+            - Delivering in person and online classes
+            - Managing online resources
+            - Providing Intermediate and final assessment
         - title: Modules taught
           contents:
            - Analysis 3 (2022)
@@ -123,21 +151,32 @@
 
 
 
+
     - title: Postdoctoral Researcher
       institution: University of Graz, Austria
       year: 2018 - 2021
       description: 
-        - title: Roles
+        - title: Researcher on 3 Austrian Science Fund Projects
           contents:
-            - Facilitating exercitation classes of 30 students
-            - Marking assignments
-            - Offering office hours
-            - Invigilating tests
+            - Contributing to research output
+            - Writing intermediate and final reports
+            - Dissemination activity
+        - title: Administrative
+          contents: 
+            - Organizing department seminars
+            - Providing support for grant applications
+        - title: Teaching
+          contents:
+            - Designing modules and teaching material
+            - Delivering in person and online classes
+            - Managing online resources
+            - Providing Intermediate and final assessment
         - title: Modules taught
           contents:
             - Calculus of Variations (2021)
             - Advanced Functional Analysis (2019)
             
+
 
 
     - title: Associate Tutor
