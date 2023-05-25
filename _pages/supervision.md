@@ -29,7 +29,7 @@ nav_order: 7
 <ul style="padding-left: 1.2em;">
 
 <li> 
-<span style="color: var(--global-theme-color);"><b>David Awuku</b></span>, T3 2023 
+<span style="color: var(--global-theme-color);"><b>David Awuku</b></span>, 2023 
 <br style="line-height: 0.2rem;">
 MSc Mathematics, Univesity of Hull
 <br style="line-height: 0.2rem;">
