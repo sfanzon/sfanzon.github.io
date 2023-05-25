@@ -108,7 +108,8 @@
     - title: Faculty Member
       institution: University of Graz, Austria
       year: 2022 - 2023
-      - title: Roles
+      description:
+        - title: Roles
           contents:
             - Facilitating exercitation classes of 30 students
             - Marking assignments
@@ -116,8 +117,8 @@
             - Invigilating tests
         - title: Modules taught
           contents:
-            - Analysis 3 (2022)
-            - Inverse Problems (2022)
+           - Analysis 3 (2022)
+           - Inverse Problems (2022)
             
 
 
@@ -159,7 +160,11 @@
             
         
 
-  
+
+
+#################    Publications    #####################
+
+
 
 
 - title: Publications
