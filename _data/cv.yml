@@ -102,17 +102,62 @@
     #        - Sub-description 1.
     #        - Sub-description 2.
     
+
+
+
     - title: Faculty Member
       institution: University of Graz, Austria
       year: 2022 - 2023
+      - title: Roles
+          contents:
+            - Facilitating exercitation classes of 30 students
+            - Marking assignments
+            - Offering office hours
+            - Invigilating tests
+        - title: Modules taught
+          contents:
+            - Analysis 3 (2022)
+            - Inverse Problems (2022)
+            
+
+
 
     - title: Postdoctoral Researcher
       institution: University of Graz, Austria
       year: 2018 - 2021
+      description: 
+        - title: Roles
+          contents:
+            - Facilitating exercitation classes of 30 students
+            - Marking assignments
+            - Offering office hours
+            - Invigilating tests
+        - title: Modules taught
+          contents:
+            - Calculus of Variations (2021)
+            - Advanced Functional Analysis (2019)
+            
+
 
     - title: Associate Tutor
       institution: University of Sussex, UK
       year: 2014 - 2018
+      description: 
+        - title: Roles
+          contents:
+            - Facilitating exercitation classes of 30 students
+            - Marking assignments
+            - Offering office hours
+            - Invigilating tests
+        - title: Modules taught
+          contents:
+            - Mathematics Demystified (2016)
+            - Analysis 1 (2017)
+            - Geometry 1 (2017)
+            - Probability and Statistics (2015, 2016)
+            - Introduction to Probability (2015, 2016)
+            
+        
 
   
 
@@ -379,8 +424,7 @@
 #      items: 
 #        - Max Planck Medal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-    - TEST
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
