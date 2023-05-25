@@ -36,7 +36,7 @@ My research is at the interface of <b>Inverse Problems</b>, <b>Optimization</b>,
 </div>
 
 <div markdown="1" style="margin-top: 1.2rem;">
-My contact information is **[here](https://www.silviofanzon.com/contact/)**. If you are interested in collaborating or seeking supervision, please do not hesitate to contact me at
+My contact information is **[here](https://www.silviofanzon.com/contact/)**. If you are interested in collaboration or supervision opportunities, please contact me at
 </div>
 
 <div markdown="1" style="text-align: center; margin-top: 0.8rem;">
