@@ -26,7 +26,9 @@ All my research outputs divided in
 
 
 <p>
-Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> 
+Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> I have 
+{% bibliography_journal -f references %}
+papers
 </p>
 
 
