@@ -143,8 +143,8 @@
 - title: Research Impact
   type: time_table
   contents:
-    - title: FWF Project&#58; Regularization Graphs for Variational Imaging
-      institution: University of Graz, Austria
+    - title: Project&#58; Regularization Graphs for Variational Imaging
+      institution: Funding from Austrian Science Fund (FWF)
       year: 2020 - 2021 
       description:
         - title: My role
@@ -159,8 +159,8 @@
             - Funding &#x20AC;231k
     
 
-    - title: FWF Project&#58; Solving bilinear inverse problems by tensorial lifting
-      institution: University of Graz, Austria
+    - title: Project&#58; Solving bilinear inverse problems by tensorial lifting
+      institution: Funding from Austrian Science Fund (FWF)
       year: 2019 - 2021 
       description:
         - title: My role
@@ -175,8 +175,8 @@
             - Funding &#x20AC;221k    
     
     
-    - title: FWF Project&#58; Mathematical methods for motion-aware medical imaging
-      institution: University of Graz, Austria
+    - title: Project&#58; Mathematical methods for motion-aware medical imaging
+      institution: Funding from Austrian Science Fund (FWF)
       year: 2018 - 2020 
       description:
         - title: My role
@@ -194,7 +194,7 @@
 
 
     - title: PhD Studentship&#58; Rigidity problems and Microstructures in Materials Science
-      institution: University of Sussex, UK
+      institution: Funding from University of Sussex, UK
       year: 2014 - 2018
       description: 
         - Full-time Salary for 3.5 Years (Total &#x00A3;49k)
@@ -203,10 +203,9 @@
 
 
     - title: Travel support
-      year: 2014 - 2018
-      contents: 
-        - title: Funding from below insitutions (Total &#x00A3;4k)
-          items:
+      year: 2014 - 2017 
+      institution: Funding from the below insitutions
+      description: 
             - Oxford University, UK
             - Warwick University, UK
             - Carnegie Mellon University, US
