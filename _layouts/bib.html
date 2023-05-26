@@ -1,9 +1,10 @@
 ---
 ---
 
-<!-- The bibliography layout is selected among Teaching, Talk, Publication 
+<!-- The bibliography layout is selected among Teaching, Talk, Supervision, Publication 
 The bib entry Teaching=true triggers teaching style
 The bib entry Talk=true triggers talk style
+The bib entry Supervision=true triggers supervision style
 Otherwise default is publication style
 -->
 
@@ -14,6 +15,10 @@ Otherwise default is publication style
 {%- elsif entry.talk -%}
 
       {% include bib_talk.html %}
+
+{%- elsif entry.supervision -%}
+
+      {% include bib_supervision.html %}
 
 {%- else -%}
      

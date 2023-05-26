@@ -24,21 +24,7 @@ nav_order: 7
 
 <a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Master Students</b></h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
-
-
-<ul style="padding-left: 1.2em;">
-
-<li> 
-<span style="color: var(--global-theme-color);"><b>David Awuku</b></span>, 2023 
-<br style="line-height: 0.2rem;">
-MSc Mathematics, Univesity of Hull
-<br style="line-height: 0.2rem;">
-<em>Entropic Regularization of Optimal Transport</em>
-</li>
-
-</ul>
-
-
+{% bibliography -f supervision_master %}
 
 
 </div>
