@@ -73,6 +73,9 @@ is assumed we are dealing with a publication, and the style in the else conditio
   {%- if entry.event_link %}
     <a href="{{ entry.event_link }}" class="btn btn-sm z-depth-0" role="button">Event</a>
   {%- endif %}
+  {%- if entry.venue_link %}
+    <a href="{{ entry.venue_link }}" class="btn btn-sm z-depth-0" role="button">Venue</a>
+  {%- endif %}
   {%- if entry.abstract %}
     <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
   {%- endif %}
