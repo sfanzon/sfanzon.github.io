@@ -26,7 +26,7 @@ All the modules I taught as <a href="#lecturer"><b>Lecturer</b></a> and
 
 {%- for y in page.years_lecturer %}    
     <h2 class="year">{{ y }}</h2>
-        {% bibliography -f teaching_lecturer -q @*[year_academic={{y}}]* %}
+        {% bibliography -f teaching_lecturer -q @*[yearacademic={{y}}]* %}
 {% endfor %}
 
 
@@ -37,7 +37,7 @@ All the modules I taught as <a href="#lecturer"><b>Lecturer</b></a> and
 
 {%- for y in page.years_tutor %}    
     <h2 class="year">{{ y }}</h2>
-        {% bibliography -f teaching_tutor -q @*[year_academic={{y}}]* %}
+        {% bibliography -f teaching_tutor -q @*[yearacademic={{y}}]* %}
 {% endfor %}
 
 
