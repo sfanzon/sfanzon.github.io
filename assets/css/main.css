@@ -598,7 +598,7 @@ footer.sticky-bottom {
 .publications ol.bibliography li .student_name {
   font-weight: bolder;
   font-size: 1rem;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.17rem;
 }
 .publications ol.bibliography li .conference_title {
   font-weight: bolder;
@@ -611,6 +611,10 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .conference_venue {
   font-size: 0.96rem;
+  margin-bottom: 0.17rem;
+}
+.publications ol.bibliography li .thesis_title {
+  font-size: 1rem;
   margin-bottom: 0.17rem;
 }
 .publications ol.bibliography li .author {
