@@ -8,27 +8,35 @@
   color: "#00369f"
   
 "Bulletin LMS":
+  scopus: https://www.scopus.com/sourceid/24481
   url: https://www.lms.ac.uk/publications/blms
 
 "Calc Var PDE":
+  scopus: https://www.scopus.com/sourceid/25309
   url: https://www.springer.com/journal/526/
 
 "Commun PDE":
+  scopus: https://www.scopus.com/sourceid/25812
   url: https://www.tandfonline.com/journals/lpde20
 
 "ESAIM: M2AN":
+  scopus: https://www.scopus.com/sourceid/25956
   url: https://www.esaim-m2an.org/
 
 "FoCM":
+  scopus: https://www.scopus.com/sourceid/28470
   url: https://www.springer.com/journal/10208
 
 "J Nonlinear Sci":
+  scopus: https://www.scopus.com/sourceid/82360
   url: https://www.springer.com/journal/332
 
 "Math Program":
+  scopus: https://www.scopus.com/sourceid/28512
   url: https://www.springer.com/journal/10107
 
 "SIMA":
+  scopus: https://www.scopus.com/sourceid/26418
   url: https://www.siam.org/publications/journals/siam-journal-on-mathematical-analysis-sima
 
 
