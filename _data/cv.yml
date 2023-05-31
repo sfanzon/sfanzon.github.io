@@ -6,7 +6,7 @@
   contents:
     - name: Full Name
       value: Silvio Fanzon
-    - name: Position 
+    - name: Currently 
       value: Lecturer in Applied Mathematics
     - name: Institution 
       value: University of Hull, UK
@@ -17,7 +17,7 @@
     - name: Orcid
       value: <a href = "https://orcid.org/0000-0003-1974-1434">0000-0003-1974-1434</a>
     - name: Full CV
-      value: Download &nbsp;  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+      value: Download PDF &nbsp;  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -26,26 +26,14 @@
 
 
 - title: Research Interests
-  type: nested_list
+  type: map
   contents:
-    - title: Mathematical Areas&#58;
-      items: 
-        - Optimization
-        - Inverse Problems
-        - PDEs
-    - title: Applications&#58;
-      items:
-        - Mathematical Imaging
-        - Machine Learning
-        - Materials Science
-    - title: Also experienced in&#58;
-      items:
-        - Optimal Transport
-        - Variational methods
-        - Measure theory
-        - Regularity theory
-        - Gradient methods
-        - Primal-dual methods
+    - name: Mathematics
+      value: Optimization, Inverse Problems, PDEs
+    - name: Applications
+      value: Mathematical Imaging, Machine Learning, Materials Science
+    - name: Other
+      value: Optimal Transport, Variational methods, Measure theory, Regularity theory, Primal-dual methods, Gradient methods
 
 
 
@@ -207,17 +195,17 @@
 
 
 - title: Publications
-  type: nested_list
-  contents:
-    - title: I have authored
-      items: 
-        - 9 Peer-reviewed Journal Articles
-        - 1 Book
-        - 3 Theses
-    - title: See the full list
-      items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/publications/"><i class="fas fa-external-link-alt"></i></a>
-        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+  type: publications
+#  contents:
+#    - title: I have authored
+#      items: 
+#        - 9 Peer-reviewed Journal Articles
+#        - 1 Book
+#        - 3 Theses
+#    - title: See the full list
+#      items: 
+#        - Online &nbsp; <a href = "https://www.silviofanzon.com/publications/"><i class="fas fa-external-link-alt"></i></a>
+#        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -312,16 +300,16 @@
 
 
 - title: Teaching Experience
-  type: nested_list
-  contents:
-    - title: I have taught 15 modules, including
-      items: 
-        - 7 Modules as Lecurer
-        - 8 Modules as Teaching Assistant
-    - title: See the full list
-      items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link-alt"></i></a>
-        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+  type: teaching
+#  contents:
+#    - title: I have taught 15 modules, including
+#      items: 
+#        - 7 Modules as Lecurer
+#        - 8 Modules as Teaching Assistant
+#    - title: See the full list
+#      items: 
+#        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link-alt"></i></a>
+#        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -333,15 +321,15 @@
 
 
 - title: Supervision
-  type: nested_list
-  contents:
-    - title: I have supervised
-      items: 
-        - 1 Master Student
-    - title: Full list 
-      items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link-alt"></i></a>
-        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+  type: supervision
+#  contents:
+#    - title: I have supervised
+#      items: 
+#        - 1 Master Student
+#    - title: Full list 
+#      items: 
+#        - Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link-alt"></i></a>
+#        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 
@@ -370,17 +358,15 @@
 #################    Technical Skills    #####################
 
 - title: Technical Skills
-  type: nested_list
+  type: map
   contents:
-    - title: Coding
-      items: 
-        - Python, Matlab, Mathematica, R, C
-    - title: Teaching
-      items: 
-        - LaTex, Canvas, Panopto, MS Office, MS Teams, Moodle
-    - title: Web
-      items:
-        - Git, HTML, CSS, JavaScript, Jekyll
+    - name: Coding
+      value: Python, Matlab, Mathematica, R, C
+    - name: Teaching
+      value: LaTex, Canvas, Panopto, MS Office, MS Teams, Moodle
+    - name: Web
+      value:
+        - Git, HTML, CSS, JavaScript, Jekyll, Liquid, YAML, Markdown
 
 
 
@@ -406,16 +392,16 @@
 #################    Communication    #####################
 
 - title: Communication
-  type: nested_list
-  contents:
-    - title: I have given 16 presentations, including
-      items: 
-        - 13 oral presentations (12 invited)
-        - 3 poster presentations (1 invited)
-    - title: See the full list
-      items: 
-        - Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link-alt"></i></a>
-        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+  type: talks
+#  contents:
+#    - title: I have given 16 presentations, including
+#      items: 
+#        - 13 oral presentations (12 invited)
+#        - 3 poster presentations (1 invited)
+#    - title: See the full list
+#      items: 
+#        - Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link-alt"></i></a>
+#        - Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 

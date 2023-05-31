@@ -146,9 +146,9 @@
 
           <!-- Links/Buttons -->
           <div class="links" style="margin-top: 0.3rem;">
-          {%- if entry.scopus %}
+        <!--  {%- if entry.scopus %}
           <a href="{{ entry.scopus }}" class="btn btn-sm z-depth-0" role="button">SCOPUS</a>
-        {%- endif %} 
+        {%- endif %}  -->
         <!-- {%- if entry.sjr %}
           <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
         {%- endif %}   -->
@@ -162,7 +162,7 @@
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -204,7 +204,7 @@
             {%- else -%}
             <a href="{{ entry.slides_short | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Short Slides</a>
             {%- endif %}
-          {%- endif %}
+          {%- endif %} 
           {%- if entry.slides_long %}
             {% if entry.slides_long contains '://' -%}
             <a href="{{ entry.slides_long }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>

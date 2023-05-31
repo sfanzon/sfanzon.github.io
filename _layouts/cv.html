@@ -27,6 +27,14 @@ layout: default
                     {% include cv/nested_list.html %}
                   {% elsif entry.type == "time_table" %}
                    {% include cv/time_table.html %}
+                  {% elsif entry.type == "publications" %}
+                   {% include cv/publications.html %}
+                  {% elsif entry.type == "teaching" %}
+                   {% include cv/teaching.html %}
+                  {% elsif entry.type == "talks" %}
+                   {% include cv/talks.html %}
+                  {% elsif entry.type == "supervision" %}
+                   {% include cv/supervision.html %}
                   {% else %}
                     {{ entry.contents }}
                   {% endif %}
