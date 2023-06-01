@@ -46,6 +46,22 @@ We have one lecture every two weeks. The lectures are two hours long, and are ro
 
 
 
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
 
 
 ## Assessment
