@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-
-  <!-- Head -->
+<!-- _layouts/distill.html --><html>
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
     
@@ -10,9 +8,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>project 4 | Silvio Fanzon</title>
+    <title>Advanced Functional Analysis | Silvio Fanzon</title>
     <meta name="author" content="Silvio  Fanzon">
-    <meta name="description" content="another without an image">
+    <meta name="description" content="Webpage of the Course MAT.405UB WS 2019/2020">
     <meta name="keywords" content="Silvio Fanzon">
 
 
@@ -37,7 +35,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://www.silviofanzon.com/projects/4_project/">
+    <link rel="canonical" href="https://www.silviofanzon.com/blog/2019/Advanced-Functional-Analysis/">
     
     <!-- Dark Mode -->
     
@@ -47,10 +45,65 @@
     <script src="/assets/js/dark_mode.js"></script>
     
 
+
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Distill js -->
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    <script src="/assets/js/distillpub/overrides.js"></script>
+    
   </head>
 
-  <!-- Body -->
-  <body class="fixed-top-nav sticky-bottom-footer">
+  <body>
+<d-front-matter>
+    <script async type="text/json">{
+      "title": "Advanced Functional Analysis",
+      "description": "Webpage of the Course MAT.405UB WS 2019/2020",
+      "published": "September 22, 2019",
+      "authors": [
+        {
+          "author": "Silvio Fanzon",
+          "authorURL": "https://www.silviofanzon.com/",
+          "affiliations": [
+            {
+              "name": "University of Graz, Austria",
+              "url": ""
+            }
+          ]
+        }
+        
+      ],
+      "katex": {
+        "delimiters": [
+          {
+            "left": "$",
+            "right": "$",
+            "display": false
+          },
+          {
+            "left": "$$",
+            "right": "$$",
+            "display": true
+          }
+        ]
+      }
+    }</script>
+  </d-front-matter>
+
+  
 
     <!-- Header -->
     <header>
@@ -121,180 +174,164 @@
 
 
     <!-- Content -->
-    <div class="container mt-5">
-      <!-- page.html -->
-        <div class="post">
+    <div class="post distill">
 
-          <header class="post-header">
-            <h1 class="post-title">project 4</h1>
-            <h5 class="post-description">another without an image</h5>
-          </header>
+      <d-title>
+        <h1>Advanced Functional Analysis</h1>
+        <p>Webpage of the Course MAT.405UB WS 2019/2020</p>
+      </d-title>
 
-          <article>
-            <p>Every project has a beautiful feature showcase page.
-It’s easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.</p>
+      <d-byline></d-byline>
 
-<p>To give your project a background in the portfolio page, just add the img tag to the front matter like so:</p>
+      <d-article>
+        
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
-layout: page
-title: project
-description: a project with a background image
-img: /assets/img/12.jpg
----
-</code></pre></div></div>
+        <h2 id="general-information">General Information</h2>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
+<p>This is the webpage of the Course <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584594?$ctx=design=ca;lang=de&amp;$scrollTo=toc_overview&amp;ctx=design=ca;lang=en&amp;scrollTo=toc_overview" rel="external nofollow noopener" target="_blank">MAT.405UB</a>
+at the University of Graz. This is the companion practical module to the course Advanced Functional Analysis <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview" rel="external nofollow noopener" target="_blank">MAT.404UB</a>. Exercise sheets will be released every two weeks which will cover practical aspect of the topics covered in MAT.404UB.</p>
+<ul>
+  <li>
+<strong>Lecturer</strong>: Dr Silvio Fanzon</li>
+  <li>
+<strong>Email</strong>: <a href="mailto:Silvio.Fanzon@uni-graz.at">Silvio.Fanzon@uni-graz.at</a>
+</li>
+  <li>
+<strong>Office</strong>: Room 501, Department of Mathematics &amp; Scientific Computing</li>
+</ul>
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/1-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/1-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/1-1400.webp"></source>
-    
+<p>Please do not hesitate to email me with any questions you have regarding the module or the exercises.</p>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+<h2 id="topics">Topics</h2>
+<ul>
+  <li>
+<strong>Linear operators</strong>: compact operators, spectral theory, unbounded operators and their adjoints, spectral theorem for self adjoint operators.</li>
+  <li>
+<strong>Topology of vector spaces</strong>: locally convex spaces, weak topologies, compactness, reflexivity.</li>
+  <li>
+<strong>Function spaces</strong>: \(L^p\) spaces, distributions, Sobolev spaces and embedding theorems.</li>
+</ul>
 
-  </picture>
+<h2 id="lectures">Lectures</h2>
 
-</figure>
+<p>We have one lecture every two weeks. The lectures are two hours long, and are roughly every second Mondday from 10:00 to 12:00. In addition there will be a written exam at the end of the course. These are the dates:</p>
+<ul>
+  <li>
+<strong>Lecture 1</strong>: 14 October 2019</li>
+  <li>
+<strong>Lecture 2</strong>: 28 October 2019</li>
+  <li>
+<strong>Lecture 3</strong>: 11 November 2019</li>
+  <li>
+<strong>Lecture 4</strong>: 25 November 2019</li>
+  <li>
+<strong>Lecture 5</strong>: 9 December 2019</li>
+  <li>
+<strong>Lecture 6</strong>: 20 January 2020</li>
+  <li>
+<strong>Exam</strong>: 27 January 2020</li>
+</ul>
 
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
+<h2 id="assessment">Assessment</h2>
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/3-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/3-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/3-1400.webp"></source>
-    
+<p>Two weeks before Lecure x I will upload an exercise sheet on this page. This has to be solved by the day Lecture x happens. You are required to upload your solutions in Moodle as a single pdf file (scans of handwritten solutions or latex) before Lecture x starts.</p>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/3.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+<ul>
+  <li>At the beginning of each class, a form will be handed out in which every student has to declare which problems they solved. Based on this, some students will be called at the blackboard to solve one of the exercises they declared. If the exercise is correctly solved, the student will get all the points corresponding to the declared exercises. The points awarded for each exercise will be specified in the exercise sheet.</li>
+  <li>If any of the students is not able to present at the blackboard (for a valid reason), I will manually correct one exercise chosen at random among the declared ones; if it is properly solved, the student will get all the points from the declared exercises.</li>
+  <li>If a student cannot come to the exercise lecture, I will correct some of the submitted exercises to grade him. Please, when doing so, write down in the submission box which exercises were solved.</li>
+  <li>If a student declares an exercise that was not solved, there will be 0 points for that exercise sheet.</li>
+</ul>
 
-  </picture>
+<p>There will be an exam at the end of the semester. The final percentage will be the average between exam points and exercise points (in percentage), and it will be translated into a grade according to the table below. A pass will be granted for a grade of 4 or better.</p>
 
-</figure>
+<table>
+  <thead>
+    <tr>
+      <th><strong>Percentage</strong></th>
+      <th style="text-align: center">0-49%</th>
+      <th style="text-align: center">50-59%</th>
+      <th style="text-align: center">60-74%</th>
+      <th style="text-align: center">75-89%</th>
+      <th style="text-align: center">90-100%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Grade</strong></td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
 
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
+<p><strong>Note</strong>: Every student needs to present at least 3 times during the semester.</p>
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/5-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/5-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/5-1400.webp"></source>
-    
+<h2 id="exercise-sheets">Exercise Sheets</h2>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Exercise Sheet</strong></th>
+      <th><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 October</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_01.pdf">Sheet 1</a></td>
+      <td>\(L^p\) spaces, Lax-Milgram</td>
+    </tr>
+    <tr>
+      <td>28 October</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_02.pdf">Sheet 2</a></td>
+      <td>Convolutions, mollifiers, Sobolev spaces</td>
+    </tr>
+    <tr>
+      <td>11 November</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_03.pdf">Sheet 3</a></td>
+      <td>Sobolev spaces, Elliptic PDEs, Partitions of unity</td>
+    </tr>
+    <tr>
+      <td>25 November</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_04.pdf">Sheet 4</a></td>
+      <td>Morrey’s inequality, Sobolev embedding, Topological vector spaces, Minkowski functionals</td>
+    </tr>
+    <tr>
+      <td>9 December</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_05.pdf">Sheet 5</a></td>
+      <td>Locally convex spaces, weak topologies</td>
+    </tr>
+    <tr>
+      <td>20 January</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_06.pdf">Sheet 6</a></td>
+      <td>Distributions, Compact operators, Spectral theory</td>
+    </tr>
+  </tbody>
+</table>
 
-  </picture>
+<h2 id="final-exam">Final Exam</h2>
 
-</figure>
+<p>The exam will contain 6 problems. You should choose 4 problems to solve, each graded from 0 to 25 points. You should state which problems you are going to solve. If more than 4 problems are solved, your final grade will be computed by summing the worst 4 scores. For grading, problems and sub-questions within the problems are considered independent. For example, if you only solve point (c) in Problem 1 and you have not solved (a) and (b), you will be awarded 5 points for Problem 1. The hints are there to help you, but of course you may solve the exercises in whichever way you prefer.
+You may use your solutions to the problems in the Exercise Course, as well as the notes from the course <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview" rel="external nofollow noopener" target="_blank">MAT.404UB</a>. You will have 2 hours and 30 minutes to solve the exam.</p>
 
-    </div>
+<ul>
+  <li><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/Exam.pdf">Exam Paper</a></li>
+</ul>
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
+
+      <d-bibliography src="/assets/bibliography/"></d-bibliography>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/5-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/5-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/5-1400.webp"></source>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/5.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-<p>You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, <em>bled</em> for your project, and then… you reveal its glory in the next row of images.</p>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/6-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/6-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/6-1400.webp"></source>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/6.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/11-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/11-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/11-1400.webp"></source>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-<p>The code is simple.
-Just wrap your images with <code class="language-plaintext highlighter-rouge">&lt;div class="col-sm"&gt;</code> and place them inside <code class="language-plaintext highlighter-rouge">&lt;div class="row"&gt;</code> (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" rel="external nofollow noopener" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add <code class="language-plaintext highlighter-rouge">img-fluid</code> class to each; for rounded corners and shadows use <code class="language-plaintext highlighter-rouge">rounded</code> and <code class="language-plaintext highlighter-rouge">z-depth-1</code> classes.
-Here’s the code for the last row of images above:</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row justify-content-sm-center"</span><span class="nt">&gt;</span>
-    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-sm-8 mt-3 mt-md-0"</span><span class="nt">&gt;</span>
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <span class="nt">&lt;/div&gt;</span>
-    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-sm-4 mt-3 mt-md-0"</span><span class="nt">&gt;</span>
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <span class="nt">&lt;/div&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre></div></div>
-
-
-          </article>
-
-        </div>
-
-    </div>
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5 text-center">
       <div class="container">
@@ -371,38 +408,9 @@ Here’s the code for the last row of images above:</p>
       <a href="https://arxiv.org/a/fanzon_s_1">arXiv</a> 
       --> 
 
-    <!-- JavaScripts -->
-    <!-- jQuery -->
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
     <!-- Bootsrap & MDB scripts -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
-
-    <!-- Masonry & imagesLoaded -->
-  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
-    
-  <!-- Medium Zoom JS -->
-  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
-  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
-  <script defer src="/assets/js/common.js"></script>
-  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
-
-    
-  <script async src="https://badge.dimensions.ai/badge.js"></script>
-
-    <!-- MathJax -->
-  <script type="text/javascript">
-    window.MathJax = {
-      tex: {
-        tags: 'ams'
-      }
-    };
-  </script>
-  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
-  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-BVV5S4PR5W"></script>
@@ -491,5 +499,6 @@ Here’s the code for the last row of images above:</p>
   }
 </script>
 
-  </body>
+  
+</body>
 </html>

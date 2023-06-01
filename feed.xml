@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-31T20:24:50+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-01T04:30:02+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">a post with giscus comments</title><link href="https://www.silviofanzon.com/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://www.silviofanzon.com/blog/2022/giscus-comments</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://www.silviofanzon.com/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://www.silviofanzon.com/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with redirect</title><link href="https://www.silviofanzon.com/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://www.silviofanzon.com/blog/2022/redirect</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a post with diagrams</title><link href="https://www.silviofanzon.com/blog/2021/diagrams/" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://www.silviofanzon.com/blog/2021/diagrams</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2021/diagrams/"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
 Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
 
@@ -24,7 +24,7 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1685564701453" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1685564701453 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1685564701453 .node circle,#mermaid-1685564701453 .node ellipse,#mermaid-1685564701453 .node polygon,#mermaid-1685564701453 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1685564701453 .node.clickable{cursor:pointer}#mermaid-1685564701453 .arrowheadPath{fill:#333}#mermaid-1685564701453 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1685564701453 .edgeLabel{background-color:#e8e8e8}#mermaid-1685564701453 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1685564701453 .cluster text{fill:#333}#mermaid-1685564701453 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1685564701453 .actor{stroke:#ccf;fill:#ececff}#mermaid-1685564701453 text.actor{fill:#000;stroke:none}#mermaid-1685564701453 .actor-line{stroke:grey}#mermaid-1685564701453 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1685564701453 .messageLine0,#mermaid-1685564701453 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1685564701453 #arrowhead{fill:#333}#mermaid-1685564701453 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1685564701453 .messageText{fill:#333;stroke:none}#mermaid-1685564701453 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1685564701453 .labelText,#mermaid-1685564701453 .loopText{fill:#000;stroke:none}#mermaid-1685564701453 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1685564701453 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1685564701453 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1685564701453 .section{stroke:none;opacity:.2}#mermaid-1685564701453 .section0{fill:rgba(102,102,255,.49)}#mermaid-1685564701453 .section2{fill:#fff400}#mermaid-1685564701453 .section1,#mermaid-1685564701453 .section3{fill:#fff;opacity:.2}#mermaid-1685564701453 .sectionTitle0,#mermaid-1685564701453 .sectionTitle1,#mermaid-1685564701453 .sectionTitle2,#mermaid-1685564701453 .sectionTitle3{fill:#333}#mermaid-1685564701453 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1685564701453 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1685564701453 .grid path{stroke-width:0}#mermaid-1685564701453 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1685564701453 .task{stroke-width:2}#mermaid-1685564701453 .taskText{text-anchor:middle;font-size:11px}#mermaid-1685564701453 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1685564701453 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1685564701453 .taskText0,#mermaid-1685564701453 .taskText1,#mermaid-1685564701453 .taskText2,#mermaid-1685564701453 .taskText3{fill:#fff}#mermaid-1685564701453 .task0,#mermaid-1685564701453 .task1,#mermaid-1685564701453 .task2,#mermaid-1685564701453 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1685564701453 .taskTextOutside0,#mermaid-1685564701453 .taskTextOutside1,#mermaid-1685564701453 .taskTextOutside2,#mermaid-1685564701453 .taskTextOutside3{fill:#000}#mermaid-1685564701453 .active0,#mermaid-1685564701453 .active1,#mermaid-1685564701453 .active2,#mermaid-1685564701453 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1685564701453 .activeText0,#mermaid-1685564701453 .activeText1,#mermaid-1685564701453 .activeText2,#mermaid-1685564701453 .activeText3{fill:#000!important}#mermaid-1685564701453 .done0,#mermaid-1685564701453 .done1,#mermaid-1685564701453 .done2,#mermaid-1685564701453 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1685564701453 .doneText0,#mermaid-1685564701453 .doneText1,#mermaid-1685564701453 .doneText2,#mermaid-1685564701453 .doneText3{fill:#000!important}#mermaid-1685564701453 .crit0,#mermaid-1685564701453 .crit1,#mermaid-1685564701453 .crit2,#mermaid-1685564701453 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1685564701453 .activeCrit0,#mermaid-1685564701453 .activeCrit1,#mermaid-1685564701453 .activeCrit2,#mermaid-1685564701453 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1685564701453 .doneCrit0,#mermaid-1685564701453 .doneCrit1,#mermaid-1685564701453 .doneCrit2,#mermaid-1685564701453 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1685564701453 .activeCritText0,#mermaid-1685564701453 .activeCritText1,#mermaid-1685564701453 .activeCritText2,#mermaid-1685564701453 .activeCritText3,#mermaid-1685564701453 .doneCritText0,#mermaid-1685564701453 .doneCritText1,#mermaid-1685564701453 .doneCritText2,#mermaid-1685564701453 .doneCritText3{fill:#000!important}#mermaid-1685564701453 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1685564701453 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1685564701453 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1685564701453 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1685564701453 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1685564701453 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1685564701453 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1685564701453 #compositionEnd,#mermaid-1685564701453 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1685564701453 #aggregationEnd,#mermaid-1685564701453 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1685564701453 #dependencyEnd,#mermaid-1685564701453 #dependencyStart,#mermaid-1685564701453 #extensionEnd,#mermaid-1685564701453 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1685564701453 .branch-label,#mermaid-1685564701453 .commit-id,#mermaid-1685564701453 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1685564701453 {
+  <svg id="mermaid-1685593813415" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1685593813415 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1685593813415 .node circle,#mermaid-1685593813415 .node ellipse,#mermaid-1685593813415 .node polygon,#mermaid-1685593813415 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1685593813415 .node.clickable{cursor:pointer}#mermaid-1685593813415 .arrowheadPath{fill:#333}#mermaid-1685593813415 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1685593813415 .edgeLabel{background-color:#e8e8e8}#mermaid-1685593813415 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1685593813415 .cluster text{fill:#333}#mermaid-1685593813415 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1685593813415 .actor{stroke:#ccf;fill:#ececff}#mermaid-1685593813415 text.actor{fill:#000;stroke:none}#mermaid-1685593813415 .actor-line{stroke:grey}#mermaid-1685593813415 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1685593813415 .messageLine0,#mermaid-1685593813415 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1685593813415 #arrowhead{fill:#333}#mermaid-1685593813415 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1685593813415 .messageText{fill:#333;stroke:none}#mermaid-1685593813415 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1685593813415 .labelText,#mermaid-1685593813415 .loopText{fill:#000;stroke:none}#mermaid-1685593813415 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1685593813415 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1685593813415 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1685593813415 .section{stroke:none;opacity:.2}#mermaid-1685593813415 .section0{fill:rgba(102,102,255,.49)}#mermaid-1685593813415 .section2{fill:#fff400}#mermaid-1685593813415 .section1,#mermaid-1685593813415 .section3{fill:#fff;opacity:.2}#mermaid-1685593813415 .sectionTitle0,#mermaid-1685593813415 .sectionTitle1,#mermaid-1685593813415 .sectionTitle2,#mermaid-1685593813415 .sectionTitle3{fill:#333}#mermaid-1685593813415 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1685593813415 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1685593813415 .grid path{stroke-width:0}#mermaid-1685593813415 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1685593813415 .task{stroke-width:2}#mermaid-1685593813415 .taskText{text-anchor:middle;font-size:11px}#mermaid-1685593813415 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1685593813415 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1685593813415 .taskText0,#mermaid-1685593813415 .taskText1,#mermaid-1685593813415 .taskText2,#mermaid-1685593813415 .taskText3{fill:#fff}#mermaid-1685593813415 .task0,#mermaid-1685593813415 .task1,#mermaid-1685593813415 .task2,#mermaid-1685593813415 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1685593813415 .taskTextOutside0,#mermaid-1685593813415 .taskTextOutside1,#mermaid-1685593813415 .taskTextOutside2,#mermaid-1685593813415 .taskTextOutside3{fill:#000}#mermaid-1685593813415 .active0,#mermaid-1685593813415 .active1,#mermaid-1685593813415 .active2,#mermaid-1685593813415 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1685593813415 .activeText0,#mermaid-1685593813415 .activeText1,#mermaid-1685593813415 .activeText2,#mermaid-1685593813415 .activeText3{fill:#000!important}#mermaid-1685593813415 .done0,#mermaid-1685593813415 .done1,#mermaid-1685593813415 .done2,#mermaid-1685593813415 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1685593813415 .doneText0,#mermaid-1685593813415 .doneText1,#mermaid-1685593813415 .doneText2,#mermaid-1685593813415 .doneText3{fill:#000!important}#mermaid-1685593813415 .crit0,#mermaid-1685593813415 .crit1,#mermaid-1685593813415 .crit2,#mermaid-1685593813415 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1685593813415 .activeCrit0,#mermaid-1685593813415 .activeCrit1,#mermaid-1685593813415 .activeCrit2,#mermaid-1685593813415 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1685593813415 .doneCrit0,#mermaid-1685593813415 .doneCrit1,#mermaid-1685593813415 .doneCrit2,#mermaid-1685593813415 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1685593813415 .activeCritText0,#mermaid-1685593813415 .activeCritText1,#mermaid-1685593813415 .activeCritText2,#mermaid-1685593813415 .activeCritText3,#mermaid-1685593813415 .doneCritText0,#mermaid-1685593813415 .doneCritText1,#mermaid-1685593813415 .doneCritText2,#mermaid-1685593813415 .doneCritText3{fill:#000!important}#mermaid-1685593813415 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1685593813415 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1685593813415 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1685593813415 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1685593813415 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1685593813415 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1685593813415 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1685593813415 #compositionEnd,#mermaid-1685593813415 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1685593813415 #aggregationEnd,#mermaid-1685593813415 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1685593813415 #dependencyEnd,#mermaid-1685593813415 #dependencyStart,#mermaid-1685593813415 #extensionEnd,#mermaid-1685593813415 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1685593813415 .branch-label,#mermaid-1685593813415 .commit-id,#mermaid-1685593813415 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1685593813415 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
@@ -363,7 +363,128 @@ This line is only separated by a single newline, so it’s a separate line in th
 </div>
 
 <h1 id="additional-details">Additional Details</h1>
-<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://www.silviofanzon.com/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://www.silviofanzon.com/blog/2015/disqus-comments</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://www.silviofanzon.com/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://www.silviofanzon.com/blog/2015/math</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
+<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry><title type="html">Advanced Functional Analysis</title><link href="https://www.silviofanzon.com/blog/2019/Advanced-Functional-Analysis/" rel="alternate" type="text/html" title="Advanced Functional Analysis" /><published>2019-09-22T00:00:00+00:00</published><updated>2019-09-22T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2019/Advanced-Functional-Analysis</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2019/Advanced-Functional-Analysis/"><![CDATA[<h2 id="general-information">General Information</h2>
+
+<p>This is the webpage of the Course <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584594?$ctx=design=ca;lang=de&amp;$scrollTo=toc_overview&amp;ctx=design=ca;lang=en&amp;scrollTo=toc_overview">MAT.405UB</a>
+at the University of Graz. This is the companion practical module to the course Advanced Functional Analysis <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview">MAT.404UB</a>. Exercise sheets will be released every two weeks which will cover practical aspect of the topics covered in MAT.404UB.</p>
+<ul>
+  <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
+  <li><strong>Email</strong>: <a href="mailto:Silvio.Fanzon@uni-graz.at">Silvio.Fanzon@uni-graz.at</a></li>
+  <li><strong>Office</strong>: Room 501, Department of Mathematics &amp; Scientific Computing</li>
+</ul>
+
+<p>Please do not hesitate to email me with any questions you have regarding the module or the exercises.</p>
+
+<h2 id="topics">Topics</h2>
+<ul>
+  <li><strong>Linear operators</strong>: compact operators, spectral theory, unbounded operators and their adjoints, spectral theorem for self adjoint operators.</li>
+  <li><strong>Topology of vector spaces</strong>: locally convex spaces, weak topologies, compactness, reflexivity.</li>
+  <li><strong>Function spaces</strong>: \(L^p\) spaces, distributions, Sobolev spaces and embedding theorems.</li>
+</ul>
+
+<h2 id="lectures">Lectures</h2>
+
+<p>We have one lecture every two weeks. The lectures are two hours long, and are roughly every second Mondday from 10:00 to 12:00. In addition there will be a written exam at the end of the course. These are the dates:</p>
+<ul>
+  <li><strong>Lecture 1</strong>: 14 October 2019</li>
+  <li><strong>Lecture 2</strong>: 28 October 2019</li>
+  <li><strong>Lecture 3</strong>: 11 November 2019</li>
+  <li><strong>Lecture 4</strong>: 25 November 2019</li>
+  <li><strong>Lecture 5</strong>: 9 December 2019</li>
+  <li><strong>Lecture 6</strong>: 20 January 2020</li>
+  <li><strong>Exam</strong>: 27 January 2020</li>
+</ul>
+
+<h2 id="assessment">Assessment</h2>
+
+<p>Two weeks before Lecure x I will upload an exercise sheet on this page. This has to be solved by the day Lecture x happens. You are required to upload your solutions in Moodle as a single pdf file (scans of handwritten solutions or latex) before Lecture x starts.</p>
+
+<ul>
+  <li>At the beginning of each class, a form will be handed out in which every student has to declare which problems they solved. Based on this, some students will be called at the blackboard to solve one of the exercises they declared. If the exercise is correctly solved, the student will get all the points corresponding to the declared exercises. The points awarded for each exercise will be specified in the exercise sheet.</li>
+  <li>If any of the students is not able to present at the blackboard (for a valid reason), I will manually correct one exercise chosen at random among the declared ones; if it is properly solved, the student will get all the points from the declared exercises.</li>
+  <li>If a student cannot come to the exercise lecture, I will correct some of the submitted exercises to grade him. Please, when doing so, write down in the submission box which exercises were solved.</li>
+  <li>If a student declares an exercise that was not solved, there will be 0 points for that exercise sheet.</li>
+</ul>
+
+<p>There will be an exam at the end of the semester. The final percentage will be the average between exam points and exercise points (in percentage), and it will be translated into a grade according to the table below. A pass will be granted for a grade of 4 or better.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Percentage</strong></th>
+      <th style="text-align: center">0-49%</th>
+      <th style="text-align: center">50-59%</th>
+      <th style="text-align: center">60-74%</th>
+      <th style="text-align: center">75-89%</th>
+      <th style="text-align: center">90-100%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Grade</strong></td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Note</strong>: Every student needs to present at least 3 times during the semester.</p>
+
+<h2 id="exercise-sheets">Exercise Sheets</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Exercise Sheet</strong></th>
+      <th><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14 October</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_01.pdf">Sheet 1</a></td>
+      <td>\(L^p\) spaces, Lax-Milgram</td>
+    </tr>
+    <tr>
+      <td>28 October</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_02.pdf">Sheet 2</a></td>
+      <td>Convolutions, mollifiers, Sobolev spaces</td>
+    </tr>
+    <tr>
+      <td>11 November</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_03.pdf">Sheet 3</a></td>
+      <td>Sobolev spaces, Elliptic PDEs, Partitions of unity</td>
+    </tr>
+    <tr>
+      <td>25 November</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_04.pdf">Sheet 4</a></td>
+      <td>Morrey’s inequality, Sobolev embedding, Topological vector spaces, Minkowski functionals</td>
+    </tr>
+    <tr>
+      <td>9 December</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_05.pdf">Sheet 5</a></td>
+      <td>Locally convex spaces, weak topologies</td>
+    </tr>
+    <tr>
+      <td>20 January</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/ex_06.pdf">Sheet 6</a></td>
+      <td>Distributions, Compact operators, Spectral theory</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="final-exam">Final Exam</h2>
+
+<p>The exam will contain 6 problems. You should choose 4 problems to solve, each graded from 0 to 25 points. You should state which problems you are going to solve. If more than 4 problems are solved, your final grade will be computed by summing the worst 4 scores. For grading, problems and sub-questions within the problems are considered independent. For example, if you only solve point (c) in Problem 1 and you have not solved (a) and (b), you will be awarded 5 points for Problem 1. The hints are there to help you, but of course you may solve the exercises in whichever way you prefer.
+You may use your solutions to the problems in the Exercise Course, as well as the notes from the course <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview">MAT.404UB</a>. You will have 2 hours and 30 minutes to solve the exam.</p>
+
+<ul>
+  <li><a href="/assets/pdf/teaching/2019-Advanced-Functional-Analysis/Exam.pdf">Exam Paper</a></li>
+</ul>]]></content><author><name>Silvio Fanzon</name></author><summary type="html"><![CDATA[Webpage of the Course MAT.405UB WS 2019/2020]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://www.silviofanzon.com/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://www.silviofanzon.com/blog/2015/disqus-comments</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://www.silviofanzon.com/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://www.silviofanzon.com/blog/2015/math</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
 
 <p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph. Here is an example:</p>
 
@@ -379,76 +500,4 @@ MathJax will automatically number equations:</p>
 
 <p>and by adding <code class="language-plaintext highlighter-rouge">\label{...}</code> inside the equation environment, we can now refer to the equation using <code class="language-plaintext highlighter-rouge">\eqref</code>.</p>
 
-<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="math" /><summary type="html"><![CDATA[an example of a blog post with some math]]></summary></entry><entry><title type="html">a post with code</title><link href="https://www.silviofanzon.com/blog/2015/code/" rel="alternate" type="text/html" title="a post with code" /><published>2015-07-15T15:09:00+00:00</published><updated>2015-07-15T15:09:00+00:00</updated><id>https://www.silviofanzon.com/blog/2015/code</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2015/code/"><![CDATA[<p>This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
-It supports more than 100 languages.
-This example is in C++.
-All you have to do is wrap your code in markdown code tags:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">c++
-</span><span class="n">code</span> <span class="n">code</span> <span class="n">code</span>
-<span class="p">```</span>
-</code></pre></div></div>
-
-<div class="language-c++ highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
-<span class="p">{</span>
-    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
-
-    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
-    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
-    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
-
-    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
-
-    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
-        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
-    <span class="p">}</span>
-
-    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<p>By default, it does not display line numbers. If you want to display line numbers for every code block, you can set <code class="language-plaintext highlighter-rouge">kramdown.syntax_highlighter_opts.block.line_numbers</code> to true in your <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
-
-<p>If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:</p>
-
-<p>{% highlight c++ linenos %}  <br /> code code code <br /> {% endhighlight %}</p>
-
-<p>The keyword <code class="language-plaintext highlighter-rouge">linenos</code> triggers display of line numbers.
-Produces something like this:</p>
-
-<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-</pre></td><td class="code"><pre><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
-<span class="p">{</span>
-    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
-
-    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
-    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
-    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
-
-    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
-
-    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
-        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
-    <span class="p">}</span>
-
-    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[an example of a blog post with some code]]></summary></entry></feed>
+<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="math" /><summary type="html"><![CDATA[an example of a blog post with some math]]></summary></entry></feed>
