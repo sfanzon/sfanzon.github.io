@@ -30,7 +30,7 @@ toc:
 
 ## General Information
 
-Welcome to the Practical Course of Advanced Functional Analysis [MAT.405UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584594?$ctx=design=ca;lang=de&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master in Mathematics program at the University of Graz. This is the companion module to the theoretical course Advanced Functional Analysis [MAT.404UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&$scrollTo=toc_overview). Exercise sheets will be released every two weeks which will cover practical aspect of the topics covered in MAT.404UB. 
+Welcome to the Practical Course of Advanced Functional Analysis [MAT.405UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584594?$ctx=design=ca;lang=de&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master Degree in Mathematics at the University of Graz. This is the companion module to the theoretical course Advanced Functional Analysis [MAT.404UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/584593?$ctx=design=ca;lang=en&$scrollTo=toc_overview). Exercise sheets will be released every two weeks which will cover practicals aspect of the topics covered in MAT.404UB. 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@uni-graz.at](mailto:Silvio.Fanzon@uni-graz.at)
 - **Office**: Room 501, Department of Mathematics & Scientific Computing 

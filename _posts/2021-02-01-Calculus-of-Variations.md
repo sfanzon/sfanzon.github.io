@@ -32,7 +32,7 @@ toc:
 
 ## General Information
 
-Welcome to the Course of Calculus of Variations [MAT.494UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/645502?$ctx=design=ca;lang=en&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master in Mathematics program at the University of Graz. 
+Welcome to the Course of Calculus of Variations [MAT.494UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/645502?$ctx=design=ca;lang=en&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master Degree in Mathematics at the University of Graz. 
 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@uni-graz.at](mailto:Silvio.Fanzon@uni-graz.at)
