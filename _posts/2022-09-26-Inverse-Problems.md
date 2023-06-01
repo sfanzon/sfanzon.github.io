@@ -97,7 +97,7 @@ The `Final Percentage` is computed by averaging `Presentation Percentage` and `C
 
 ## References
 
-- **Inverse Problems**: The books <d-cite key="engl-hanke-neurbauer"></d-cite> and <d-cite key="mueller-siltanen"></d-cite>. I also recommend these lecture notes by Clason <d-cite key="clason-notes"></d-cite> available on [arXiv](https://arxiv.org/pdf/2001.00617.pdf)
+- **Inverse Problems**: The books <d-cite key="engl-hanke-neurbauer"></d-cite> and the hands-on review paper <d-cite key="mueller-siltanen"></d-cite>. I also recommend these lecture notes by Clason <d-cite key="clason-notes"></d-cite> available on [arXiv](https://arxiv.org/pdf/2001.00617.pdf)
 - **Proximal methods**: The review paper <d-cite key="chambolle-pock-review"></d-cite>, available on [HAL](https://hal.science/hal-01346507/document)
 - **Functional Analysis**: All the topics discussed throughout the course can be found in <d-cite key="conway"></d-cite>
 - **PDEs and Sobolev Spaces**: Refer to <d-cite key="leoni"></d-cite> and <d-cite key="brezis"></d-cite>
