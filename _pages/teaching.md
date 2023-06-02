@@ -11,7 +11,7 @@ nav_order: 6
 
 
 <p markdown="1"> 
-All the modules I taught as <a href="#lecturer"><b>Lecturer</b></a> and
+All the courses I taught as <a href="#lecturer"><b>Lecturer</b></a> and
 <a href="#tutor"><b>Teaching Assistant</b></a>
 </p>
 

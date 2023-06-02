@@ -1,13 +1,9 @@
     {% if site.footer_fixed %}
     <footer class="fixed-bottom text-center">
       <div class="container mt-0">
-        &copy; {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} &nbsp; {{ site.footer_text }}
-        {%- if site.impressum_path -%}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-        {%- endif -%}
-        {%- if site.last_updated -%}
-        Last updated: {{ "now" | date: '%B %Y' }}
-        {%- endif %}
+        &copy; {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}   
+        &nbsp; &bull; &nbsp; <a href="mailto:S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a> &nbsp; &bull; &nbsp;
+        Last updated: {{ "now" | date: '%m/%Y' }}
       </div>
     </footer>
     {%- else -%}

@@ -14,7 +14,7 @@ authors:
       name: University of Graz, Austria
 
 
-bibliography: 2021-02-01-Calculus-of-Variations.bib
+bibliography: teaching.bib
 
 
 toc:
@@ -49,10 +49,10 @@ of each class, or schedule online office hours.
 
 Lectures will be weekly and last approximately 90 minutes. There will be 15 classes in total, with dates
 
-- 3, 10, 17, 24 March
-- 14, 21, 28 April
-- 5, 12, 19, 26 May
-- 2, 9, 16, 23 June
+- 3, 10, 17, 24 March 2021
+- 14, 21, 28 April 2021
+- 5, 12, 19, 26 May 2021
+- 2, 9, 16, 23 June 2021
 
 Lectures will be **online**, due to the current COVID-19 Orange Light at the University of Graz. Recordings will be available on the Moodle page of the course.
 Lecture notes and syllabus are released weekly on this page.  
@@ -138,14 +138,14 @@ The lecture notes are available for download below.
 | **Date**  |  **Lecture Notes**                                                                        |  **Topics**                                                  |
 |: -------- |:-------------                                                                             |:---------                                                    |
 |  3 March  | [Lesson 1](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_01.pdf)  | Introduction. Basic examples. Functional analysis revision   |
-|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | Functional Analysis Revision, Calculus in Normed Spaces      |
-|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | Calculus in Normed Spaces, Indirect Method                   |
-|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | Fundamental Lemmas, Boundary conditions                      |
+|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | Functional Analysis Revision. Calculus in Normed Spaces      |
+|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | Calculus in Normed Spaces. Indirect Method                   |
+|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | Fundamental Lemmas. Boundary conditions                      |
 |  14 April | [Lesson 5](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05.pdf)  | Euler-Lagrange Equation                                      |
 |  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | Revision of $$L^p$$ spaces                          |
 |  21 April | [Lesson 6](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf)  | Sufficient Conditions: convexity, trivial lemma. Convolutions|
 |  28 April | [Lesson 7](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_07.pdf)  | FLCV and DBR Lemma. Sobolev spaces                           |
-|  5 May    | [Lesson 8](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_08.pdf)  | Sobolev Spaces, regularity and density results               |
+|  5 May    | [Lesson 8](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_08.pdf)  | Sobolev Spaces: regularity and density results               |
 |  12 May   | [Lesson 9](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_09.pdf)  | Sobolev embedding. Ascoli-Arzelà                             |
 |  19 May   | [Lesson 10](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_10.pdf) | Higher order Sobolev Spaces. Traces. Euler-Lagrange Equation |
 |  26 May   | [Lesson 11](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_11.pdf) | Boundary conditions. Sufficient conditions. Direct Method    |
@@ -168,7 +168,7 @@ This course has a companion practical course [MAT.495UB](https://online.uni-graz
 | 12 March   | [Sheet 1](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_01.pdf) |  Metric spaces                                              |
 | 26 March   | [Sheet 2](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_02.pdf) |  Normed spaces. Compactness. Weak topologies                |
 | 23 April   | [Sheet 3](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_03.pdf) |  Frechet derivative. Gateaux derivative                     |
-|   7 May    | [Sheet 4](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_04.pdf) |  Convolutions. Cut-off. Smooth approximations, Minimization |
-|   28 May   | [Sheet 5](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_05.pdf) |  Sobolev spaces, Poincaré Inequality                        |
-|   11 June  | [Sheet 6](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_06.pdf) |  Assumptions of Theorem 9.9. Brachistochrone.               |
-|   25 June  | [Sheet 7](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_07.pdf) |  Relaxation, $$\Gamma$$-convergence                         |
+|   7 May    | [Sheet 4](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_04.pdf) |  Convolutions. Cut-off. Smooth approximations. Minimization |
+|   28 May   | [Sheet 5](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_05.pdf) |  Sobolev spaces. Poincaré Inequality                        |
+|   11 June  | [Sheet 6](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_06.pdf) |  Assumptions of Theorem 9.9. Brachistochrone               |
+|   25 June  | [Sheet 7](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_07.pdf) |  Relaxation. $$\Gamma$$-convergence                         |

@@ -13,7 +13,7 @@ authors:
       name: University of Graz, Austria
 
 
-bibliography: 2019-09-22-Advanced-Functional-Analysis.bib
+bibliography: teaching.bib
 
 
 toc:

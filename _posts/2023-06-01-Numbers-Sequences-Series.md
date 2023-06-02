@@ -1,10 +1,10 @@
 ---
 layout: distill
-title: Inverse Problems
-description: Webpage of the Course MAT.501UB WS 2022/23
+title: Numbers, Sequences & Series
+description: Webpage of the Course INSERT T1 2023/24
 giscus_comments: false
-tags: code teaching maths
-date: 2022-09-26
+tags: teaching maths
+date: 2023-06-02
 
 
 
@@ -12,7 +12,7 @@ authors:
   - name: Silvio Fanzon
     url: "https://www.silviofanzon.com/"
     affiliations:
-      name: University of Graz, Austria
+      name: University of Hull, UK
 
 
 bibliography: teaching.bib

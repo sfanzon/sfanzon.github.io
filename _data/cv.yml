@@ -99,12 +99,12 @@
             - Supervision of PhD Students
         - title: Teaching
           contents:
-            - Designing modules and teaching material
+            - Designing courses and teaching material
             - Delivering in person and online classes
             - Managing online resources
             - Providing Intermediate and final assessment
             - Providing student support through office hours
-        - title: Modules taught
+        - title: Courses taught
           contents:
            - Statistical Models (2024)
            - Differential Geometry & Topology (2023)
@@ -127,11 +127,11 @@
             - Providing support for grant applications
         - title: Teaching
           contents:
-            - Designing modules and teaching material
+            - Designing courses and teaching material
             - Delivering in person and online classes
             - Managing online resources
             - Providing Intermediate and final assessment
-        - title: Modules taught
+        - title: Courses taught
           contents:
            - Analysis 3 (2022)
            - Inverse Problems (2022)
@@ -155,11 +155,11 @@
             - Providing support for grant applications
         - title: Teaching
           contents:
-            - Designing modules and teaching material
+            - Designing courses and teaching material
             - Delivering in person and online classes
             - Managing online resources
             - Providing Intermediate and final assessment
-        - title: Modules taught
+        - title: Courses taught
           contents:
             - Calculus of Variations (2021)
             - Advanced Functional Analysis (2019)
@@ -177,7 +177,7 @@
             - Marking assignments
             - Offering office hours
             - Invigilating tests
-        - title: Modules taught
+        - title: Courses taught
           contents:
             - Mathematics Demystified (2016)
             - Analysis 1 (2017)
@@ -304,8 +304,8 @@
 #  contents:
 #    - title: I have taught 15 modules, including
 #      items: 
-#        - 7 Modules as Lecurer
-#        - 8 Modules as Teaching Assistant
+#        - 7 Courses as Lecurer
+#        - 8 Courses as Teaching Assistant
 #    - title: See the full list
 #      items: 
 #        - Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link-alt"></i></a>
