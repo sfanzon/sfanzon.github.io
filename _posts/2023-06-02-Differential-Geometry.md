@@ -102,7 +102,7 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 
 - **Topology**: TBA
 
-- **Analysis**: If you need a refresher of analysis, check out the book <d-cite key="fusco-marcellini-sbordone"></d-cite>
+- **Analysis**: If you need a refresher of analysis, check out the two books by Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
 
 
 
