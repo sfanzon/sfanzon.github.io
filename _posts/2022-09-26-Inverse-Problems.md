@@ -69,7 +69,7 @@ of the Lecture.
 - **Presentation**: Based on the crossing, some students will be called at the blackboard to solve one of the exercises they declared. A presentation is given a grade between 0 and 5, with 5 being highest. Ideally each student should present at least 2 times during the course, one of which a numerical exercise. The final `Presentation Percentage` is averaged and scaled to a number out of 100. The numerical exercises, to be solved in MatLab or Python, can be presented using my laptop and the room projector: either send the solution to me by email, or I can provide a USB drive in class.
 
 
-The `Final Percentage` is computed by averaging `Presentation Percentage` and `Crossing Percentage`. The `Final Percentage` will be converted into a `Final Grade` according to the table below. A pass will be granted for a grade of 4 or better.
+The `Final Percentage` is computed by averaging Presentation Percentage and Crossing Percentage. The Final Percentage will be converted into a `Final Grade` according to the table below. A pass will be granted for a grade of 4 or better.
 
 
 | **Percentage**      |  0-49%   | 50-59%   | 60-74%   | 75-89%   |  90-100% | 
