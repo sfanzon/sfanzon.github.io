@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Differential Geometry
-description: Webpage of the Course INSERT T1 2023/24
+description: Webpage of the Course 600727 T1 2023/24
 giscus_comments: false
 tags: teaching maths
 date: 2023-06-01
