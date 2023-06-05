@@ -82,6 +82,7 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 
 
 
+
 ## Topics
 
 
@@ -109,9 +110,6 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 
 
 
-
-
-
 <style>
   table {
     border-collapse: collapse;
@@ -127,8 +125,6 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
     text-align: left;
   }
 </style>
-
-
 
 
 

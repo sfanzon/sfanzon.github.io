@@ -20,11 +20,13 @@ bibliography: teaching.bib
 
 toc:
   - name: General Information
-  - name: Lectures Calendar
-  - name: Assessment Rules
+  - name: Lectures
+  - name: Assessment
+  - name: Questions
   - name: Topics
   - name: References
-  - name: Exercise Sheets
+  - name: Lecures Diary
+  - name: Homework
 
 
 
@@ -32,49 +34,56 @@ toc:
 
 ## General Information
 
-Welcome to the Practical Course of Inverse Problems [MAT.501UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/748011?$ctx=design=ca;lang=en&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master Degree in Mathematics at the University of Graz. This is the companion module to the theoretical Course of Inverse Problems [MAT.500UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/754539?$ctx=design=ca;lang=en&$scrollTo=toc_overview). Exercise sheets will be released every two weeks which will cover practical aspects of the topics covered in MAT.500UB. There will also be coding assignments in MatLab or Python. 
+Welcome to the Course of Numbers, Sequences & Series 400297 for the BSc in Mathematics at the University of Hull. 
+This is an introductory course of Mathematical Analysis. We will investigte the properties of real numebers and explore the concept of limit. 
 
 - **Lecturer**: Dr Silvio Fanzon
-- **Email**: [Silvio.Fanzon@uni-graz.at](mailto:Silvio.Fanzon@uni-graz.at)
-- **Office**: Room 501, Department of Mathematics & Scientific Computing
-- **Office hours**: Available on request
+- **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
+- **Office**: Larkin 104a
+- **Office hours**: TBA
+- **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/64443)
 
-Please do not hesitate to email me with any questions you have regarding the module or the exercises. 
-
-
-**Note**: I thank my predecessors [Martin Holler](https://scholar.google.com/citations?user=0dmnG6QAAAAJ), [Richard Huber](https://scholar.google.com/citations?hl=en&user=OdbpwJsAAAAJ) and [Francisco Romero](https://scholar.google.com/citations?hl=en&user=Z0jytMcAAAAJ) for providing lots of high quality teaching material. 
+All the course material will be posted on this webpage.
+Please do not hesitate to email me with any questions you have regarding the course or the exercises. 
 
 
 
 ## Lectures Calendar
 
-There will be 6 classes in `Room 11.34` from `12:00-13:30`. These are the dates:
 
-- **Lecture 1**: 11 October 2022
-- **Lecture 2**: 25 October 2022
-- **Lecture 3**: 15 November 2022
-- **Lecture 4**: 22 November 2022
-- **Lecture 5**: 13 December 2022
-- **Lecture 6**: 24 January 2023
+We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours long, and the tutorial is 1 hour long.
+
+- **Lecture 1**: TBA
+- **Lecture 2**: TBA
+- **Tutorial**: TBA
 
 
 
 ## Assessment Rules
 
-To each Lecture will correspond one Exercise Sheet. This will be uploaded 2 weeks before the Lecture, and is due for `Crossing` and `Presentation` on the day
-of the Lecture. 
 
-- **Crossing**: At the beginning of each Lecture, a form will be handed out in which you should declare the problems you solved. This is referred to as `Crossing`. You will be awarded points for each cross, according to the amount specified on the Exercise Sheet for the corresponding problem. The total is always 100 points. The final `Crossing Percentage` is then computed by averaging on the 6 Exercise Sheets.
+This course will be assessed as follows:
+- **Final exam**: 70%
+- **Homework**: 30% total, 6 homeworks worth 5% each
 
-- **Presentation**: Based on the crossing, some students will be called at the blackboard to solve one of the exercises they declared. A presentation is given a grade between 0 and 5, with 5 being highest. Ideally each student should present at least 2 times during the course, one of which a numerical exercise. The final `Presentation Percentage` is averaged and scaled to a number out of 100. The numerical exercises, to be solved in MatLab or Python, can be presented using my laptop and the room projector: either send the solution to me by email, or I can provide a USB drive in class.
+The homework will be uploaded on this webpage. The homework is due every other Monday, with due dates as follows:
+- **Homework 1**: TBA
+- **Homework 2**: TBA
+- **Homework 3**: TBA
+- **Homework 4**: TBA
+- **Homework 5**: TBA
+- **Homework 6**: TBA 
+
+Each homework must be submitted to the folder outside my office (Larkin 104a) before 17:00 on the due date.
 
 
-The `Final Percentage` is computed by averaging `Presentation Percentage` and `Crossing Percentage`. The `Final Percentage` will be converted into a `Final Grade` according to the table below. A pass will be granted for a grade of 4 or better.
 
 
-| **Percentage**      |  0-49%   | 50-59%   | 60-74%   | 75-89%   |  90-100% | 
-|---------------------| :-------:| :-------:| :-------:| :-------:| :-------:|
-| **Grade**           |  5       |    4     |  3       |  2       |    1     |
+
+## Questions
+
+If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours` as listed above.
+
 
 
 
@@ -83,13 +92,14 @@ The `Final Percentage` is computed by averaging `Presentation Percentage` and `C
 ## Topics
 
 
-- **Introduction**: Differentiation, Deconvolution, and Radon transform. Ill-posedness of inverse Problems. Compact linear operators. Singular value decomposition. Moore-Penrose inverse
+- **Numbers**: TBA
 
-- **Regulatrisation of linear inverse problems**:  Linear methods of filtering (TSVD), Tikhonov regularisation. Source condition and convergence rates. Choice of parameters (a priori, a posteriori, heuristic). Optional: projection methods (e.g. Galerkin), iterative regularisation (e.g. Landweber, CG)
+- **Sequences**: TBA
 
-- **Nonlinear inverse problems**: Ill-posedness (relation to linear problems). Nonlinear Tikhonov regularisation. Optional: Electrical impedance tomography (EIT), Calderon problem, Inverse scattering problems (Helmholtz)
+- **Series**: TBA
 
-- **Assumed knowledge**: understanding of Functional Analysis, Numerical Analysis and PDEs 
+- **Assumed knowledge**: High school maths
+
 
 
 
@@ -97,13 +107,7 @@ The `Final Percentage` is computed by averaging `Presentation Percentage` and `C
 
 ## References
 
-- **Inverse Problems**: The books <d-cite key="engl-hanke-neurbauer"></d-cite> and the hands-on review paper <d-cite key="mueller-siltanen"></d-cite>. I also recommend these lecture notes by Clason <d-cite key="clason-notes"></d-cite> available on [arXiv](https://arxiv.org/pdf/2001.00617.pdf)
-- **Proximal methods**: The review paper <d-cite key="chambolle-pock-review"></d-cite>, available on [HAL](https://hal.science/hal-01346507/document)
-- **Functional Analysis**: All the topics discussed throughout the course can be found in <d-cite key="conway"></d-cite>
-- **PDEs and Sobolev Spaces**: Refer to <d-cite key="leoni"></d-cite> and <d-cite key="brezis"></d-cite>
-- **MatLab**: The book <d-cite key="lyche-merrien"></d-cite>
-
-
+TBA
 
 
 
@@ -132,15 +136,20 @@ The `Final Percentage` is computed by averaging `Presentation Percentage` and `C
 
 
 
-## Exercise Sheets
+## Lectures Diary
+
+TBA
 
 
-|**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
-|: --------  |:-------------                                                                   |:---------                                                          |
-| 11 Oct     | [Sheet 1](/assets/pdf/teaching/2022-Inverse-Problems/ex_01.pdf)                 |  Differentiation. Deconvolution                                    |
-| 25 Oct     | [Sheet 2](/assets/pdf/teaching/2022-Inverse-Problems/ex_02.pdf)                 |  Compact operators                                                 |
-| 15 Nov     | [Sheet 3](/assets/pdf/teaching/2022-Inverse-Problems/ex_03.pdf)                 |  Minimal norm elements. Moore-Penrose inverse   |
-| 22 Nov     | [Sheet 4](/assets/pdf/teaching/2022-Inverse-Problems/ex_04.pdf), &nbsp; [Coding 4](/assets/pdf/teaching/2022-Inverse-Problems/ex_04_coding.zip)               |  Radon Transform (RT) and its numerical implementation   |
-| 13 Dec     | [Sheet 5](/assets/pdf/teaching/2022-Inverse-Problems/ex_05.pdf), &nbsp; [Coding 5](/assets/pdf/teaching/2022-Inverse-Problems/ex_05_coding.zip)               |  Singular values of RT. Limited angle problem  |
-| 24 Jan     | [Sheet 6](/assets/pdf/teaching/2022-Inverse-Problems/ex_06.pdf), &nbsp; [Coding 6](/assets/pdf/teaching/2022-Inverse-Problems/ex_06_coding.zip)               |  Tikhonov regularization. Primal-Dual Algorithm  |
 
+## Homework
+
+
+|**Due date**|  **Exercises**                                                                   |  **Topics**                                                        |
+|: --------  |:-------------                                                                    |:---------                                                          |
+| TBA        | [Homework 1](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_01.pdf) |  TBA                                                               |
+| TBA        | [Homework 2](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_02.pdf) |  TBA                                                               |
+| TBA        | [Homework 3](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_03.pdf) |  TBA                                                               |
+| TBA        | [Homework 4](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_04.pdf) |  TBA                                                               |
+| TBA        | [Homework 5](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_05.pdf) |  TBA                                                               |
+| TBA        | [Homework 6](/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_06.pdf) |  TBA                                                               |
