@@ -363,7 +363,7 @@
     - name: Coding
       value: Python, Matlab, Mathematica, R, C
     - name: Teaching
-      value: LaTex, Canvas, Panopto, MS Office, MS Teams, Moodle
+      value: LaTex, Quarto, Canvas, Panopto, MS Office, MS Teams, Moodle
     - name: Web
       value:
         - Git, HTML, CSS, JavaScript, Jekyll, Liquid, YAML, Markdown

@@ -41,6 +41,7 @@ This course studies curves and surfaces in three-dimensional space.
 - **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
 - **Office**: Larkin 104a
 - **Office hours**: TBA
+- **Lecture Notes**: Available [here](https://silviofanzon.quarto.pub/2023-differential-geometry/)
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/64453/)
 
 All the course material will be posted on this webpage.
