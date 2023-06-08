@@ -39,22 +39,22 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: #1C1C1D;
+  --global-bg-color: #222222;
   --global-code-bg-color: #2c3237;
-  --global-text-color: #e8e8e8;
-  --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #7bcce4;
-  --global-footer-bg-color: #e8e8e8;
-  --global-footer-text-color: #1C1C1D;
-  --global-footer-link-color: #000000;
-  --global-distill-app-color: #e8e8e8;
-  --global-divider-color: #75757d;
+  --global-text-color: #F5F5F5;
+  --global-text-color-light: #F5F5F5;
+  --global-theme-color: #00BB8C;
+  --global-hover-color: #09ffc1;
+  --global-footer-bg-color: #222222;
+  --global-footer-text-color: #F5F5F5;
+  --global-footer-link-color: #F5F5F5;
+  --global-distill-app-color: #F5F5F5;
+  --global-divider-color: #434343;
   --global-card-bg-color: #212529;
-  --global-navbar-color: #1C1C1D;
-  --global-navbar-text-color: #e8e8e8;
-  --global-navbar-hover-color: #7bcce4;
-  --global-navbar-active-text-color: #2698BA;
+  --global-navbar-color: #222222;
+  --global-navbar-text-color: #F5F5F5;
+  --global-navbar-hover-color: #09ffc1;
+  --global-navbar-active-text-color: #00BB8C;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
