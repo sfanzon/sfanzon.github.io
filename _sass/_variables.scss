@@ -40,3 +40,12 @@ $black-color: #000000 !default;
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
+
+
+
+// Custom Colors
+
+$my-green-color:       #00BB8C !default;
+$my-green-color-light: lighten($my-green-color, 15%);
+$my-grey-color-dark:   #222222 !default;
+$my-grey-color-light:  #F5F5F5 !default;
