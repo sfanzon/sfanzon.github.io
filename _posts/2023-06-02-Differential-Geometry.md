@@ -41,11 +41,16 @@ This course studies curves and surfaces in three-dimensional space.
 - **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
 - **Office**: Larkin 104a
 - **Office hours**: TBA
-- **Lecture Notes**: Available [here](https://silviofanzon.quarto.pub/2023-differential-geometry/)
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/64453/)
 
-All the course material will be posted on this webpage.
-Please do not hesitate to email me with any questions you have regarding the course or the exercises. 
+All the course information will be posted on this page. The links to the reference material are:
+
+- **[Lecture Notes](https://silviofanzon.quarto.pub/2023-differential-geometry/)**
+- **[Lectures Diary](#lectures-diary)**
+- **[Homework](#homework)**
+
+
+Please do not hesitate to email me with any questions you have regarding the lecture notes or the exercises. 
 
 
 
@@ -65,7 +70,7 @@ This course will be assessed as follows:
 - **Final exam**: 70%
 - **Homework**: 30% total, 6 homeworks worth 5% each
 
-The homework will be uploaded on this webpage. The homework is due every other Monday, with due dates as follows:
+The homework will be uploaded **[here](#homework)**. The homework is due every other Monday, with due dates as follows:
 - **Homework 1**: TBA
 - **Homework 2**: TBA
 - **Homework 3**: TBA
@@ -111,37 +116,24 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 
 
 
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  table, th, td {
-    border: 1px solid black;
-  }
-
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-</style>
 
 
 
 
 ## Lectures Diary
 
-TBA
+The course Lecture Notes are available 
+**[here](https://silviofanzon.quarto.pub/2023-differential-geometry/)**
 
 
 
-## Homework
+
+## Homework 
 
 
 |**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
 |: --------  |:-------------                                                                   |:---------                                                          |
-| TBA     | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  TBA                                                               |
+| TBA     | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  TBA                                                              |
 | TBA     | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                               |
 | TBA     | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                               |
 | TBA     | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                               |
