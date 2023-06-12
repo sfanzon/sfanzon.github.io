@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-09T16:33:05+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-12T15:46:02+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/Numbers-Sequences-Series/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Numbers-Sequences-Series</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Numbers-Sequences-Series/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of Numbers, Sequences &amp; Series 400297 for the BSc in Mathematics at the University of Hull. 
@@ -216,6 +216,8 @@ This course studies curves and surfaces in three-dimensional space.</p>
     <p><strong>Analysis</strong>: If you need a refresher of analysis, check out the two books by Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite></p>
   </li>
 </ul>
+
+<p>You do not need to buy any of these books. The book by Pressley should be available to download from the university libray (check other books too). The lecture notes provided will cover all the topics you are expected to know.</p>
 
 <h2 id="lectures-diary">Lectures Diary</h2>
 
