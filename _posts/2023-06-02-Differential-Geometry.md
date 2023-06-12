@@ -112,6 +112,8 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 - **Analysis**: If you need a refresher of analysis, check out the two books by Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
 
 
+You do not need to buy any of these books. The book by Pressley should be available to download from the university libray (check other books too). The lecture notes provided will cover all the topics you are expected to know. 
+
 
 
 
