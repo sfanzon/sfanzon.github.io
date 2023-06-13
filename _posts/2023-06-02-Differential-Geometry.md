@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Differential Geometry
-description: Webpage of the Course 600727 T1 2023/24
+description: Webpage of the Course 600727 T1 2023
 giscus_comments: false
 tags: teaching maths
 date: 2023-06-01
@@ -20,9 +20,9 @@ bibliography: teaching.bib
 
 toc:
   - name: General Information
+  - name: Key Links
   - name: Lectures
   - name: Assessment
-  - name: Questions
   - name: Topics
   - name: References
   - name: Lecures Diary
@@ -35,7 +35,7 @@ toc:
 ## General Information
 
 Welcome to the Course of Differential Geometry 600727 for the BSc in Mathematics at the University of Hull. 
-This course studies curves and surfaces in three-dimensional space.
+This course studies curves and surfaces in 2D and 3D.
 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
@@ -43,14 +43,21 @@ This course studies curves and surfaces in three-dimensional space.
 - **Office hours**: TBA
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/64453/)
 
+
+If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours`.
+
+
+
+
+## Key Links
+
+
 All the course information will be posted on this page. The links to the reference material are:
 
-- **[Lecture Notes](https://silviofanzon.quarto.pub/2023-differential-geometry/)**
+- **[Lecture Notes](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
 - **[Lectures Diary](#lectures-diary)**
 - **[Homework](#homework)**
 
-
-Please do not hesitate to email me with any questions you have regarding the lecture notes or the exercises. 
 
 
 
@@ -82,21 +89,23 @@ Each homework must be submitted to the folder outside my office (Larkin 104a) be
 
 
 
-## Questions
-
-If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours` as listed above.
-
 
 
 
 ## Topics
 
 
-- **Curves**: TBA
+- **Curves in 2D and 3D**: regular curves, curvature, Frenet frame, isoperimetric inequality.
 
-- **Surfaces**: TBA
+- **Surfaces in 3D**: regular surfaces, the Möbius strip, quadrics.
 
-- **Assumed knowledge**: differential calculus in $$\mathbb{R}^n$$
+- **First Fundamental Form**: maps preserving lengths, angles and areas.
+
+- **Second Fundamental Form**: Gaussian curvature, Gauss’s Theorema Egregium.
+
+- **Advanced Topics**: Geodesics, Minimal surfaces. 
+
+- **Assumed knowledge**: differential calculus and topology in $$\mathbb{R}^n$$.
 
 
 
@@ -104,16 +113,12 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 
 ## References
 
+- **Lecture Notes**: Available **[here](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
 
-- **Differential Geometry**: TBA
+- **Main Book**: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
+[University Library](https://hull.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&l=en-UK&q=pressley%20differential&id=FETCHMERGED-hull_catalog_b2542712x2)
 
-- **Topology**: TBA
-
-- **Analysis**: If you need a refresher of analysis, check out the two books by Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
-
-
-You do not need to buy any of these books. The book by Pressley should be available to download from the university libray (check other books too). The lecture notes provided will cover all the topics you are expected to know. 
-
+- **Background**: For analysis and toplogy in $$\mathbb{R}^n$$ please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
 
 
 
@@ -125,7 +130,9 @@ You do not need to buy any of these books. The book by Pressley should be availa
 ## Lectures Diary
 
 The course Lecture Notes are available 
-**[here](https://silviofanzon.quarto.pub/2023-differential-geometry/)**
+**[here](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
+
+
 
 
 
