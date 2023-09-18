@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-05T12:51:14+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-18T12:40:42+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
-<p>Welcome to the Course of Numbers, Sequences &amp; Series 400297 for the BSc in Mathematics at the University of Hull. 
+<p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull. 
 This is an introductory course of Mathematical Analysis. We will investigte the properties of real numebers and explore the concept of limit.</p>
 
 <ul>
   <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
   <li><strong>Email</strong>: <a href="mailto:Silvio.Fanzon@hull.ac.uk">Silvio.Fanzon@hull.ac.uk</a></li>
-  <li><strong>Office</strong>: Larkin 104a</li>
-  <li><strong>Office hours</strong>: TBA</li>
-  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/64443">here</a></li>
+  <li><strong>Office</strong>: Room 104a, Larkin Building</li>
+  <li><strong>Office hours</strong>: Thursdays 3PM to 4PM</li>
+  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/67551">here</a></li>
 </ul>
 
 <p>If you have any questions please feel free to <code class="language-plaintext highlighter-rouge">email me</code>. We will use the <code class="language-plaintext highlighter-rouge">Tutorials</code> to address homeworks and exam preparation. In addition, please do not hesitate to attend <code class="language-plaintext highlighter-rouge">office hours</code>.</p>
@@ -29,9 +29,19 @@ This is an introductory course of Mathematical Analysis. We will investigte the 
 <p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
 
 <ul>
-  <li><strong>Lecture 1</strong>: TBA</li>
-  <li><strong>Lecture 2</strong>: TBA</li>
-  <li><strong>Tutorial</strong>: TBA</li>
+  <li><strong>Lecture 1</strong>: Thursdays 9:00-11:00 with venues as follows
+    <ul>
+      <li>Week 1: Robert Blackburn Bulding - Lecture Theatre B</li>
+      <li>Week 2: Larkin Building - Lecture Theatre E</li>
+      <li>Week 3-5: Robert Blackburn Bulding - Lecture Theatre B</li>
+      <li>Week 6: Robert Blackburn Building - Lecture Theatre C</li>
+      <li>Week 7-8: Robert Blackburn Bulding - Lecture Theatre B</li>
+      <li>Week 9: Larkin Building - Lecture Theatre A</li>
+      <li>Week 10-12: Robert Blackburn Bulding - Lecture Theatre B</li>
+    </ul>
+  </li>
+  <li><strong>Lecture 2</strong>: Thursdays 16:00-18:00 in Wilberforce Building - Lecture Theatre 12</li>
+  <li><strong>Tutorial</strong>: Fridays 9:00-10:00 in Brynmor Jones Library - Teaching Room 1</li>
 </ul>
 
 <h2 id="assessment-rules">Assessment Rules</h2>
@@ -137,9 +147,9 @@ This course studies curves and surfaces in 2D and 3D.</p>
 <ul>
   <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
   <li><strong>Email</strong>: <a href="mailto:Silvio.Fanzon@hull.ac.uk">Silvio.Fanzon@hull.ac.uk</a></li>
-  <li><strong>Office</strong>: Larkin 104a</li>
-  <li><strong>Office hours</strong>: TBA</li>
-  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/64453/">here</a></li>
+  <li><strong>Office</strong>: Room 104a, Larkin Building</li>
+  <li><strong>Office hours</strong>: Thursdays 3PM to 4PM</li>
+  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/67594/">here</a></li>
 </ul>
 
 <p>If you have any questions please feel free to <code class="language-plaintext highlighter-rouge">email me</code>. We will use the <code class="language-plaintext highlighter-rouge">Tutorials</code> to address homeworks and exam preparation. In addition, please do not hesitate to attend <code class="language-plaintext highlighter-rouge">office hours</code>.</p>
@@ -159,9 +169,9 @@ This course studies curves and surfaces in 2D and 3D.</p>
 <p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
 
 <ul>
-  <li><strong>Lecture 1</strong>: TBA</li>
-  <li><strong>Lecture 2</strong>: TBA</li>
-  <li><strong>Tutorial</strong>: TBA</li>
+  <li><strong>Lecture 1</strong>: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E</li>
+  <li><strong>Lecture 2</strong>: Fridays 16:00-18:00 in Robert Blackburn Building - Lecture Theatre B</li>
+  <li><strong>Tutorial</strong>: Thursdays 12:00-13:00 in Wilberforce Building - Lecture Room 21</li>
 </ul>
 
 <h2 id="assessment">Assessment</h2>
