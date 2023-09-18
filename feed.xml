@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-18T12:57:44+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-18T13:01:25+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull. 
@@ -50,8 +50,8 @@ This is an introductory course of Mathematical Analysis. We will investigte the 
   <li><strong>Final exam</strong>: 80% of final grade</li>
   <li><strong>Homework</strong>: 20% of final grade
     <ul>
-      <li>6 homework in total</li>
-      <li>You must submit 4/6 to pass</li>
+      <li>6 Homework papers in total</li>
+      <li>You must submit 4 out 6 Homework papers</li>
     </ul>
   </li>
 </ul>
@@ -182,11 +182,16 @@ This course studies curves and surfaces in 2D and 3D.</p>
 
 <p>This course will be assessed as follows:</p>
 <ul>
-  <li><strong>Final exam</strong>: 70%</li>
-  <li><strong>Homework</strong>: 30% total, 6 homeworks worth 5% each</li>
+  <li><strong>Final exam</strong>: 70% of total grade</li>
+  <li><strong>Homework</strong>: 30% of total grade
+    <ul>
+      <li>6 Homework papers in total</li>
+      <li>You must submit 4 out of 6 Homework papers</li>
+    </ul>
+  </li>
 </ul>
 
-<p>The homework will be uploaded <strong><a href="#homework">here</a></strong>. The homework is due every other Monday, with due dates as follows:</p>
+<p>The homework will be uploaded <strong><a href="#homework">here</a></strong> and on Canvas. The homework is due every other Monday, with due dates as follows:</p>
 <ul>
   <li><strong>Homework 1</strong>: TBA</li>
   <li><strong>Homework 2</strong>: TBA</li>
@@ -196,7 +201,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
   <li><strong>Homework 6</strong>: TBA</li>
 </ul>
 
-<p>Each homework must be submitted to the folder outside my office (Larkin 104a) before 17:00 on the due date.</p>
+<p>Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.</p>
 
 <h2 id="topics">Topics</h2>
 
