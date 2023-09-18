@@ -39,9 +39,9 @@ This course studies curves and surfaces in 2D and 3D.
 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
-- **Office**: Larkin 104a
-- **Office hours**: TBA
-- **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/64453/)
+- **Office**: Room 104a, Larkin Building
+- **Office hours**: Thursdays 3PM to 4PM
+- **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/67594/)
 
 
 If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours`.
@@ -65,9 +65,9 @@ All the course information will be posted on this page. The links to the referen
 
 We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours long, and the tutorial is 1 hour long.
 
-- **Lecture 1**: TBA
-- **Lecture 2**: TBA
-- **Tutorial**: TBA
+- **Lecture 1**: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E
+- **Lecture 2**: Fridays 16:00-18:00 in Robert Blackburn Building - Lecture Theatre B
+- **Tutorial**: Thursdays 12:00-13:00 in Wilberforce Building - Lecture Room 21
 
 
 
