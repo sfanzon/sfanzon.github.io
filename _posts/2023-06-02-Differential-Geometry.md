@@ -74,10 +74,12 @@ We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours lon
 ## Assessment
 
 This course will be assessed as follows:
-- **Final exam**: 70%
-- **Homework**: 30% total, 6 homeworks worth 5% each
+- **Final exam**: 70% of total grade
+- **Homework**: 30% of total grade
+  * 6 Homework papers in total
+  * You must submit 4 out of 6 Homework papers
 
-The homework will be uploaded **[here](#homework)**. The homework is due every other Monday, with due dates as follows:
+The homework will be uploaded **[here](#homework)** and on Canvas. The homework is due every other Monday, with due dates as follows:
 - **Homework 1**: TBA
 - **Homework 2**: TBA
 - **Homework 3**: TBA
@@ -85,7 +87,7 @@ The homework will be uploaded **[here](#homework)**. The homework is due every o
 - **Homework 5**: TBA
 - **Homework 6**: TBA 
 
-Each homework must be submitted to the folder outside my office (Larkin 104a) before 17:00 on the due date.
+Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.
 
 
 
