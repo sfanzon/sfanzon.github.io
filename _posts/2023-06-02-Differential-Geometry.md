@@ -79,8 +79,8 @@ We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours lon
 ## Assessment
 
 This course will be assessed as follows:
-- **Final exam**: 70% of total grade
-- **Homework**: 30% of total grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers
+- **Final exam**: 70% of final grade
+- **Homework**: 30% of final grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers
 
 The homework will be uploaded **[here](#homework)** and on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The homework is due every other Monday, with due dates as follows:
 - **Homework 1**: TBA
