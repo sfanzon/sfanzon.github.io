@@ -20,6 +20,7 @@ bibliography: teaching.bib
 
 toc:
   - name: General Information
+  - name: Questions
   - name: Key Links
   - name: Lectures
   - name: Assessment
@@ -42,6 +43,10 @@ This course studies curves and surfaces in 2D and 3D.
 - **Office**: Room 104a, Larkin Building
 - **Office hours**: Thursdays 14:00-15:00
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/67594/)
+
+
+
+## Questions
 
 
 If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours`.
@@ -77,7 +82,7 @@ This course will be assessed as follows:
 - **Final exam**: 70% of total grade
 - **Homework**: 30% of total grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers
 
-The homework will be uploaded **[here](#homework)** and on Canvas. The homework is due every other Monday, with due dates as follows:
+The homework will be uploaded **[here](#homework)** and on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The homework is due every other Monday, with due dates as follows:
 - **Homework 1**: TBA
 - **Homework 2**: TBA
 - **Homework 3**: TBA
