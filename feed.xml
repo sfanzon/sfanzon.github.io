@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-18T13:01:25+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-18T13:26:45+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull. 
@@ -8,7 +8,7 @@ This is an introductory course of Mathematical Analysis. We will investigte the 
   <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
   <li><strong>Email</strong>: <a href="mailto:Silvio.Fanzon@hull.ac.uk">Silvio.Fanzon@hull.ac.uk</a></li>
   <li><strong>Office</strong>: Room 104a, Larkin Building</li>
-  <li><strong>Office hours</strong>: Thursdays 3PM to 4PM</li>
+  <li><strong>Office hours</strong>: Thursdays 14:00-15:00</li>
   <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/67551">here</a></li>
 </ul>
 
@@ -48,12 +48,7 @@ This is an introductory course of Mathematical Analysis. We will investigte the 
 <p>This course will be assessed as follows:</p>
 <ul>
   <li><strong>Final exam</strong>: 80% of final grade</li>
-  <li><strong>Homework</strong>: 20% of final grade
-    <ul>
-      <li>6 Homework papers in total</li>
-      <li>You must submit 4 out 6 Homework papers</li>
-    </ul>
-  </li>
+  <li><strong>Homework</strong>: 20% of final grade. There will be 6 Homework papers in total. You must submit 4 out 6 Homework papers</li>
 </ul>
 
 <p>The homework will be uploaded on this webpage and on Canvas. The homework is due every other Monday, with due dates as follows:</p>
@@ -145,14 +140,14 @@ This is an introductory course of Mathematical Analysis. We will investigte the 
   </tbody>
 </table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 400297 T1 2023]]></summary></entry><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2023/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2023-06-01T00:00:00+00:00</published><updated>2023-06-01T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
-<p>Welcome to the Course of Differential Geometry 600727 for the BSc in Mathematics at the University of Hull. 
+<p>Welcome to the Course of <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull. 
 This course studies curves and surfaces in 2D and 3D.</p>
 
 <ul>
   <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
   <li><strong>Email</strong>: <a href="mailto:Silvio.Fanzon@hull.ac.uk">Silvio.Fanzon@hull.ac.uk</a></li>
   <li><strong>Office</strong>: Room 104a, Larkin Building</li>
-  <li><strong>Office hours</strong>: Thursdays 3PM to 4PM</li>
+  <li><strong>Office hours</strong>: Thursdays 14:00-15:00</li>
   <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/67594/">here</a></li>
 </ul>
 
@@ -183,12 +178,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
 <p>This course will be assessed as follows:</p>
 <ul>
   <li><strong>Final exam</strong>: 70% of total grade</li>
-  <li><strong>Homework</strong>: 30% of total grade
-    <ul>
-      <li>6 Homework papers in total</li>
-      <li>You must submit 4 out of 6 Homework papers</li>
-    </ul>
-  </li>
+  <li><strong>Homework</strong>: 30% of total grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers</li>
 </ul>
 
 <p>The homework will be uploaded <strong><a href="#homework">here</a></strong> and on Canvas. The homework is due every other Monday, with due dates as follows:</p>
@@ -288,7 +278,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td style="text-align: left">TBA</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 600727 T1 2023]]></summary></entry><entry><title type="html">Inverse Problems</title><link href="https://www.silviofanzon.com/blog/2022/Inverse-Problems/" rel="alternate" type="text/html" title="Inverse Problems" /><published>2022-09-26T00:00:00+00:00</published><updated>2022-09-26T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2022/Inverse-Problems</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2022/Inverse-Problems/"><![CDATA[<h2 id="general-information">General Information</h2>
+</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 661955 T1 2023]]></summary></entry><entry><title type="html">Inverse Problems</title><link href="https://www.silviofanzon.com/blog/2022/Inverse-Problems/" rel="alternate" type="text/html" title="Inverse Problems" /><published>2022-09-26T00:00:00+00:00</published><updated>2022-09-26T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2022/Inverse-Problems</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2022/Inverse-Problems/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Practical Course of Inverse Problems <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/748011?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview&amp;ctx=design=ca;lang=en&amp;scrollTo=toc_overview">MAT.501UB</a> for the Master Degree in Mathematics at the University of Graz. This is the companion module to the theoretical Course of Inverse Problems <a href="https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/754539?$ctx=design=ca;lang=en&amp;$scrollTo=toc_overview">MAT.500UB</a>. Exercise sheets will be released every two weeks which will cover practical aspects of the topics covered in MAT.500UB. There will also be coding assignments in MatLab or Python.</p>
 
