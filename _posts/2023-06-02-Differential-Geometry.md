@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Differential Geometry
-description: Webpage of the Course 600727 T1 2023
+description: Webpage of the Course 661955 T1 2023
 giscus_comments: false
 tags: teaching maths
 date: 2023-06-01
@@ -34,13 +34,13 @@ toc:
 
 ## General Information
 
-Welcome to the Course of Differential Geometry 600727 for the BSc in Mathematics at the University of Hull. 
+Welcome to the Course of **Differential Geometry 661955** for the BSc in Mathematics at the University of Hull. 
 This course studies curves and surfaces in 2D and 3D.
 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
 - **Office**: Room 104a, Larkin Building
-- **Office hours**: Thursdays 3PM to 4PM
+- **Office hours**: Thursdays 14:00-15:00
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/67594/)
 
 
@@ -75,9 +75,7 @@ We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours lon
 
 This course will be assessed as follows:
 - **Final exam**: 70% of total grade
-- **Homework**: 30% of total grade
-  * 6 Homework papers in total
-  * You must submit 4 out of 6 Homework papers
+- **Homework**: 30% of total grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers
 
 The homework will be uploaded **[here](#homework)** and on Canvas. The homework is due every other Monday, with due dates as follows:
 - **Homework 1**: TBA
