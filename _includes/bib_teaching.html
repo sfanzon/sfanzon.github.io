@@ -64,9 +64,6 @@
   {%- if entry.html %}
     <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
   {%- endif %}
-  {%- if entry.canvas %}
-  <a href="{{ entry.canvas }}" class="btn btn-sm z-depth-0" role="button">Canvas</a>
-  {%- endif %}
   {%- if entry.summary %}
     {% if entry.summary contains '://' -%}
     <a href="{{ entry.summary }}" class="btn btn-sm z-depth-0" role="button">Summary</a>
@@ -144,6 +141,9 @@
   {%- endif %}
   {%- if entry.webpage %}
     <a href="{{ entry.webpage }}" class="btn btn-sm z-depth-0" role="button">Webpage</a>
+  {%- endif %}
+  {%- if entry.canvas %}
+  <a href="{{ entry.canvas }}" class="btn btn-sm z-depth-0" role="button">Canvas</a>
   {%- endif %}
   </div>
   
