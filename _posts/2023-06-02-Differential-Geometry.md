@@ -82,7 +82,7 @@ This course will be assessed as follows:
 - **Final exam**: 70% of final grade
 - **Homework**: 30% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers
 
-The homework will be uploaded **[here](#homework)** and on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The homework is due every other Wednesday, with due dates as follows:
+The homework will be uploaded **[here](#homework)** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. The homework is due every other Wednesday, with due dates as follows:
 - **Homework 1**: 11th of October
 - **Homework 2**: 25th of October
 - **Homework 3**: 8th of November
