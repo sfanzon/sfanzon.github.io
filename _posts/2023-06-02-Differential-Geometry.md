@@ -134,7 +134,7 @@ Each homework must be submitted to the folder outside my office (Room 104a, Lark
 ## Lectures Diary
 
 The course Lecture Notes are available 
-**[here](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
+**[here](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**. Each week we have 2 Lectures of 2h each. Dates and topics are below.
 
 
 
@@ -142,6 +142,8 @@ The course Lecture Notes are available
 
 
 ## Homework 
+
+Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.
 
 
 |**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
