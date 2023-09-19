@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-19T11:37:48+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-19T13:21:56+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -23,6 +23,7 @@ This is an introductory course of Mathematical Analysis. We will investigate the
 <ul>
   <li><strong><a href="https://www.silviofanzon.com/2023-NSS-Notes/">Lecture Notes</a></strong></li>
   <li><strong><a href="#lectures-diary">Lectures Diary</a></strong></li>
+  <li><strong><a href="#tutorials">Tutorials</a></strong></li>
   <li><strong><a href="#homework">Homework</a></strong></li>
 </ul>
 
@@ -50,21 +51,16 @@ This is an introductory course of Mathematical Analysis. We will investigate the
 <p>This course will be assessed as follows:</p>
 <ul>
   <li><strong>Final exam</strong>: 80% of final grade</li>
-  <li><strong>Homework</strong>: 20% of final grade. There will be 10 Homework papers in total. You must submit 7 out of 10 Homework papers</li>
+  <li><strong>Homework</strong>: 20% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers</li>
 </ul>
 
 <p>The homework will be uploaded <strong><a href="#homework">here</a></strong> and on <strong><a href="https://canvas.hull.ac.uk/courses/67551">Canvas</a></strong>. The homework is due every other Wednesday, with due dates as follows:</p>
 <ul>
   <li><strong>Homework 1</strong>: 11th of October</li>
-  <li><strong>Homework 2</strong>: 18th of October</li>
-  <li><strong>Homework 3</strong>: 25th of October</li>
-  <li><strong>Homework 4</strong>: 1st of November</li>
-  <li><strong>Homework 5</strong>: 8th of November</li>
-  <li><strong>Homework 6</strong>: 15th of November</li>
-  <li><strong>Homework 7</strong>: 22nd of November</li>
-  <li><strong>Homework 8</strong>: 29th of November</li>
-  <li><strong>Homework 9</strong>: 6th of December</li>
-  <li><strong>Homework 10</strong>: 13th of December</li>
+  <li><strong>Homework 2</strong>: 25th of October</li>
+  <li><strong>Homework 3</strong>: 8th of November</li>
+  <li><strong>Homework 4</strong>: 22nd of November</li>
+  <li><strong>Homework 5</strong>: 13th of December</li>
 </ul>
 
 <p>Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.</p>
@@ -100,9 +96,82 @@ This is an introductory course of Mathematical Analysis. We will investigate the
 
 <h2 id="lectures-diary">Lectures Diary</h2>
 
-<p>The course Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2023-NSS-Notes/">here</a></strong></p>
+<p>The course Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2023-NSS-Notes/">here</a></strong>. Each week we have 2 Lectures of 2h each. Dates and topics are below.</p>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<p>Each week we have 1h of Tutorial in which I will solve the exercises uploaded below. You should attempt solving the exercises <strong>before</strong> the tutorial.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Tutorial Date</strong></th>
+      <th style="text-align: left"><strong>Exercises</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6  Oct</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_01.pdf">Tutorial 1</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>13 Oct</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_02.pdf">Tutorial 2</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>20 Oct</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_03.pdf">Tutorial 3</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>27 Oct</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_04.pdf">Tutorial 4</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>3 Nov</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_05.pdf">Tutorial 5</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>10 Nov</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_06.pdf">Tutorial 6</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>17 Nov</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_07.pdf">Tutorial 7</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>24 Nov</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_08.pdf">Tutorial 8</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>1 Dec</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_09.pdf">Tutorial 9</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>8  Dec</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_10.pdf">Tutorial 10</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>15 Dec</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_11.pdf">Tutorial 11</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="homework">Homework</h2>
+
+<p>Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.</p>
 
 <table>
   <thead>
@@ -119,48 +188,23 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
-      <td>18 Oct</td>
+      <td>25 Oct</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_02.pdf">Homework 2</a></td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
-      <td>25 Oct</td>
+      <td>8 Nov</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_03.pdf">Homework 3</a></td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
-      <td>1 Nov</td>
+      <td>22 Nov</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_04.pdf">Homework 4</a></td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
-      <td>8 Nov</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_05.pdf">Homework 5</a></td>
-      <td style="text-align: left">TBA</td>
-    </tr>
-    <tr>
-      <td>15 Nov</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_06.pdf">Homework 6</a></td>
-      <td style="text-align: left">TBA</td>
-    </tr>
-    <tr>
-      <td>22 Nov</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_07.pdf">Homework 7</a></td>
-      <td style="text-align: left">TBA</td>
-    </tr>
-    <tr>
-      <td>29 Nov</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_08.pdf">Homework 8</a></td>
-      <td style="text-align: left">TBA</td>
-    </tr>
-    <tr>
-      <td>6 Dec</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_09.pdf">Homework 9</a></td>
-      <td style="text-align: left">TBA</td>
-    </tr>
-    <tr>
       <td>13 Dec</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_10.pdf">Homework 10</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_05.pdf">Homework 5</a></td>
       <td style="text-align: left">TBA</td>
     </tr>
   </tbody>
@@ -261,9 +305,11 @@ This course studies curves and surfaces in 2D and 3D.</p>
 <h2 id="lectures-diary">Lectures Diary</h2>
 
 <p>The course Lecture Notes are available 
-<strong><a href="https://www.silviofanzon.com/2023-Differential-Geometry-Notes/">here</a></strong></p>
+<strong><a href="https://www.silviofanzon.com/2023-Differential-Geometry-Notes/">here</a></strong>. Each week we have 2 Lectures of 2h each. Dates and topics are below.</p>
 
 <h2 id="homework">Homework</h2>
+
+<p>Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.</p>
 
 <table>
   <thead>
