@@ -35,7 +35,7 @@ toc:
 
 ## General Information
 
-Welcome to the Course of **Differential Geometry 661955** for the BSc in Mathematics at the University of Hull. 
+Welcome to the Course of **Differential Geometry 661955** for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
 This course studies curves and surfaces in 2D and 3D.
 
 - **Lecturer**: Dr Silvio Fanzon
@@ -80,15 +80,14 @@ We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours lon
 
 This course will be assessed as follows:
 - **Final exam**: 70% of final grade
-- **Homework**: 30% of final grade. There will be 6 Homework papers in total. You must submit 4 out of 6 Homework papers
+- **Homework**: 30% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers
 
-The homework will be uploaded **[here](#homework)** and on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The homework is due every other Monday, with due dates as follows:
-- **Homework 1**: TBA
-- **Homework 2**: TBA
-- **Homework 3**: TBA
-- **Homework 4**: TBA
-- **Homework 5**: TBA
-- **Homework 6**: TBA 
+The homework will be uploaded **[here](#homework)** and on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The homework is due every other Wednesday, with due dates as follows:
+- **Homework 1**: 11th of October
+- **Homework 2**: 25th of October
+- **Homework 3**: 8th of November
+- **Homework 4**: 22nd of November
+- **Homework 5**: 13th of December
 
 Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.
 
@@ -147,9 +146,8 @@ The course Lecture Notes are available
 
 |**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
 |: --------  |:-------------                                                                   |:---------                                                          |
-| TBA     | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  TBA                                                              |
-| TBA     | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                               |
-| TBA     | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                               |
-| TBA     | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                               |
-| TBA     | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                               |
-| TBA     | [Homework 6](/assets/pdf/teaching/2023-Differential-Geometry/homework_06.pdf)      |  TBA                                                               |
+| 11 Oct  | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  TBA                                                              |
+|  25 Oct | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                               |
+| 8 Nov   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                               |
+| 22 Nov  | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                               |
+| 13 Dec  | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                               |
