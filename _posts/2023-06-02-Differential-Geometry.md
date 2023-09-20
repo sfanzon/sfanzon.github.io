@@ -148,8 +148,8 @@ Each homework must be submitted to the folder outside my office (Room 104a, Lark
 
 |**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
 |: --------  |:-------------                                                                   |:---------                                                          |
-| 11 Oct  | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  TBA                                                              |
-|  25 Oct | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                               |
-| 8 Nov   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                               |
-| 22 Nov  | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                               |
-| 13 Dec  | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                               |
+| 11 Oct  | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, re-parametrization                 |
+|  25 Oct | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                              |
+| 8 Nov   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                              |
+| 22 Nov  | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                             |
+| 13 Dec  | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                             |
