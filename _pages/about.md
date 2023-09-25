@@ -44,6 +44,6 @@ My contact information is **[here](https://www.silviofanzon.com/contact/)**. If 
 </div>
 
 <div markdown="1" style="margin-top: 1.2rem;">
-For Hull students: My office hours are <b>Thursdays 15:00-16:00</b> in Larkin 104a
+For Hull students: My office hours are <b>Thursdays 14:00-15:00</b> in Larkin 104a
 </div>
 
