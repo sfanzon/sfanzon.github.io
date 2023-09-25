@@ -26,7 +26,7 @@ toc:
   - name: Assessment
   - name: Topics
   - name: References
-  - name: Lecures Diary
+  - name: Lectures Diary
   - name: Homework
 
 
