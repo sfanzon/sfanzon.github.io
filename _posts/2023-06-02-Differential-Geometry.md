@@ -139,10 +139,31 @@ The course Lecture Notes are available
 
 
 | **Lesson** | **Date**      |    **Topics**                                																		                                                                                                         |
-|: --------        |: --------        |:---------                                  																						                                                                                |
-|   1              |  29 Sep       |    Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples                                     |
-|    2             |  29 Sep       |                             																		                                                                                                                                   |
-
+|: --------         |: --------        |:---------                                  																						                                                                                |
+|   1               |  29 Sep       |    Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples                                     |
+|    2              |  29 Sep       |                             																		                                                                                                                                   |
+|    3              |  6 Oct          |    																					                                                                                                                                  |
+|    4              |  6 Oct          |    																					                                                                                                                                   |
+|    5              |  13 Oct        |                             																		                                                                                                                                   |
+|    6              |  13 Oct        |   																					                                                                                                                                   |
+|    7              |  20 Oct        |    																					                                                                                                                                   |
+|    8              |  20 Oct        |  																					                                                                                                                                   |
+|    9              |  27 Oct        |    																					                                                                                                                                   |
+|   10             |  27 Oct        |  																					                                                                                                                                   |
+|    11            |  3 Nov         |    																					                                                                                                                                   |
+|   12             |  3 Nov         |  																					                                                                                                                                   |
+|    13            |  10 Nov       |    																					                                                                                                                                   |
+|   14             |  10 Nov       |  																					                                                                                                                                   |
+|    15            |  17 Nov       |    																					                                                                                                                                   |
+|   16             |  17 Nov       |  																					                                                                                                                                   |
+|    17            |  24 Nov       |    																					                                                                                                                                   |
+|   18             |  24 Nov       |  																					                                                                                                                                   |
+|    19            |  1 Dec         |    																					                                                                                                                                   |
+|   20             |  1 Dec         |  																					                                                                                                                                   |
+|    21            |  8 Dec         |    																					                                                                                                                                   |
+|   22             |  8 Dec         |  																					                                                                                                                                   |
+|    23            |  15 Dec       |    																					                                                                                                                                   |
+|   24             |  15  Dec      |  																					                                                                                                                                   |
 
 
 ## Homework 
