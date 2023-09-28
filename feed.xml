@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-28T08:22:10+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-28T17:29:15+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -97,6 +97,28 @@ This is an introductory course of Mathematical Analysis. We will investigate the
 <h2 id="lectures-diary">Lectures Diary</h2>
 
 <p>The course Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2023-NSS-Notes/">here</a></strong>. Each week we have 2 Lectures of 2h each. Dates and topics are below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Lesson</strong></th>
+      <th><strong>Date</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28 Sep</td>
+      <td style="text-align: left">Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Introduction to module: what are real numbers?  $\sqrt{2} \notin \mathbb{Q}$</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>28 Sep</td>
+      <td style="text-align: left">Preliminaries: Sets, Basic Logic, Operations on Sets, Binary relations, Equivalence relation with examples</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="tutorials">Tutorials</h2>
 
@@ -306,6 +328,28 @@ This course studies curves and surfaces in 2D and 3D.</p>
 
 <p>The course Lecture Notes are available 
 <strong><a href="https://www.silviofanzon.com/2023-Differential-Geometry-Notes/">here</a></strong>. Each week we have 2 Lectures of 2h each. Dates and topics are below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Lesson</strong></th>
+      <th><strong>Date</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>29 Sep</td>
+      <td style="text-align: left">Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>29 Sep</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="homework">Homework</h2>
 
