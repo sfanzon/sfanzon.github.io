@@ -39,9 +39,9 @@ Welcome to the Course of **Differential Geometry 661955** for the BSc in Mathema
 This course studies curves and surfaces in 2D and 3D.
 
 - **Lecturer**: Dr Silvio Fanzon
-- **Email**: [Silvio.Fanzon@hull.ac.uk](mailto:Silvio.Fanzon@hull.ac.uk)
+- **Email**: [S.Fanzon@hull.ac.uk](mailto:S.Fanzon@hull.ac.uk)
 - **Office**: Room 104a, Larkin Building
-- **Office hours**: Thursdays 14:00-15:00
+- **Office hours**: Friday 13:00-14:00
 - **Canvas Page**: Click [here](https://canvas.hull.ac.uk/courses/67594/)
 
 
