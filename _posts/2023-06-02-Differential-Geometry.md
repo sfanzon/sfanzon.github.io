@@ -138,6 +138,10 @@ The course Lecture Notes are available
 
 
 
+| **Lesson** | **Date**      |    **Topics**                                																		                                                                                                         |
+|: --------        |: --------        |:---------                                  																						                                                                                |
+|   1              |  29 Sep       |    Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples                                     |
+|    2             |  29 Sep       |                             																		                                                                                                                                   |
 
 
 
