@@ -138,11 +138,11 @@ The course Lecture Notes are available
 
 
 
-| **Lesson** | **Date**      |    **Topics**                                																		                                                                                                         |
-|: --------         |: --------        |:---------                                  																						                                                                                |
+| **Lesson** | **Date**      |    **Topics**                                																  		                                                                                                         |
+|: --------         |: --------        |:---------                                  																	 					                                                                                |
 |   1               |  29 Sep       |    Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples                                     |
-|    2              |  29 Sep       |                             																		                                                                                                                                   |
-|    3              |  6 Oct          |    																					                                                                                                                                  |
+|    2              |  29 Sep       |    Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector.         	                                                                                                                                   |
+|    3              |  6 Oct          |    																					                                                                                                                                   |
 |    4              |  6 Oct          |    																					                                                                                                                                   |
 |    5              |  13 Oct        |                             																		                                                                                                                                   |
 |    6              |  13 Oct        |   																					                                                                                                                                   |
