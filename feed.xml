@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-04T12:29:04+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-05T10:43:51+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -125,12 +125,12 @@ This is an introductory course of Mathematical Analysis. We will investigate the
     <tr>
       <td>3</td>
       <td>5 Oct</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Partial Order relation. Total order. Intervals. Functions with examples. Definition of absolute value and its geometric meaning. Proved basic lemma on absolute value.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>5 Oct</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Triangle inequality with proof. Geometric meaning of triangle inequality. Proofs in Mathematics. Simple example of a proof involving a small quantity $\varepsilon$</td>
     </tr>
     <tr>
       <td>5</td>
