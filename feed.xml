@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-05T17:31:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-06T12:28:21+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences &amp;amp; Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences &amp;amp; Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences &amp; Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -461,12 +461,12 @@ This course studies curves and surfaces in 2D and 3D.</p>
     <tr>
       <td>3</td>
       <td>6 Oct</td>
-      <td style="text-align: left">Computed length of circle and portion of Helix. Definition of Arc-Length and properties. Examples. Scalar product in $\mathbb{R}^2$ defined with angles. Proof of scalar product formula in coordinates. Definition of scalar product in   $\mathbb{R}^2$. Bilinearity and Symmetry of scalar product. Differentiation of scalar product formula.</td>
+      <td style="text-align: left">Computed length of circle and portion of Helix. Definition of Arc-Length and properties. Examples. Scalar product in $\mathbb{R}^2$ defined with angles. Proof of scalar product formula in coordinates. Definition of scalar product in   $\mathbb{R}^2$. Bilinearity and Symmetry of scalar product. Differentiation of scalar product formula.  Speed of a curve.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>6 Oct</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Reparametrizations with Examples. Regular and singular points. Unit speed reparametrization. Theorem: Regularity is equivalent to having unit speed reparametrization. Theorem: arc-length is essentially the only unit speed reparametrization if curve is regular. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.</td>
     </tr>
     <tr>
       <td>5</td>
