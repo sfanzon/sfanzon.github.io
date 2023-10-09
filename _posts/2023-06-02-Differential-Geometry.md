@@ -49,7 +49,7 @@ This course studies curves and surfaces in 2D and 3D.
 ## Questions
 
 
-If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homeworks and exam preparation. In addition, please do not hesitate to attend `office hours`.
+If you have any questions please feel free to `email me`. We will use the `Tutorials` to address homework and exam preparation. In addition, please do not hesitate to attend `office hours`.
 
 
 
