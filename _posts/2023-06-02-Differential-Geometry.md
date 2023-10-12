@@ -89,7 +89,7 @@ The homework will be uploaded **[here](#homework)** and on **[Canvas](https://ca
 - **Homework 4**: 22nd of November
 - **Homework 5**: 13th of December
 
-Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.
+Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67594/) before 14:00 on the due date.
 
 
 
@@ -109,7 +109,8 @@ Each homework must be submitted to the folder outside my office (Room 104a, Lark
 
 - **Advanced Topics**: Geodesics, Minimal surfaces. 
 
-- **Assumed knowledge**: differential calculus and topology in $$\mathbb{R}^n$$.
+- **Topology**: General topology, metric spaces, compactness, connectedness.
+
 
 
 
@@ -122,7 +123,7 @@ Each homework must be submitted to the folder outside my office (Room 104a, Lark
 - **Main Book**: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
 [University Library](https://hull.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&l=en-UK&q=pressley%20differential&id=FETCHMERGED-hull_catalog_b2542712x2)
 
-- **Background**: For analysis and toplogy in $$\mathbb{R}^n$$ please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
+- **Background**: For analysis please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
 
 
 
@@ -138,43 +139,61 @@ The course Lecture Notes are available
 
 
 
-| **Lesson** | **Date**      |    **Topics**                                																  		                                                                                                         |
-|: --------         |: --------        |:---------                                  																	 					                                                                                |
-|   1               |  29 Sep       |    Introduction to the Module. Shown Canvas page, and Lecture Notes. Discussed assignments and assessment.   Curves as Level sets. Parametrized curves. Examples                                     |
-|    2              |  29 Sep       |    Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector.  Definition of length of a curve as limit of length of polygonals. Proven that for regular $\gamma$ the length can be compute by integrating $\|  \dot \gamma \|$     	                                                                                                                                   |
-|    3              |  6 Oct          | Computed length of circle and portion of Helix. Definition of Arc-Length and properties. Examples. Scalar product in $\mathbb{R}^2$ defined with angles. Proof of scalar product formula in coordinates. Definition of scalar product in   $\mathbb{R}^2$. Bilinearity and Symmetry of scalar product. Differentiation of scalar product formula.  Speed of a curve.                                                             |
-|    4              |  6 Oct          |    	Reparametrizations with Examples. Regular and singular points. Unit speed reparametrization. Theorem: Regularity is equivalent to having unit speed reparametrization. Theorem: arc-length is essentially the only unit speed reparametrization if curve is regular. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.   																			                                                                                                                                   |
-|    5              |  13 Oct        |                             																		                                                                                                                                   |
-|    6              |  13 Oct        |   																					                                                                                                                                   |
-|    7              |  20 Oct        |    																					                                                                                                                                   |
-|    8              |  20 Oct        |  																					                                                                                                                                   |
-|    9              |  27 Oct        |    																					                                                                                                                                   |
-|   10             |  27 Oct        |  																					                                                                                                                                   |
-|    11            |  3 Nov         |    																					                                                                                                                                   |
-|   12             |  3 Nov         |  																					                                                                                                                                   |
-|    13            |  10 Nov       |    																					                                                                                                                                   |
-|   14             |  10 Nov       |  																					                                                                                                                                   |
-|    15            |  17 Nov       |    																					                                                                                                                                   |
-|   16             |  17 Nov       |  																					                                                                                                                                   |
-|    17            |  24 Nov       |    																					                                                                                                                                   |
-|   18             |  24 Nov       |  																					                                                                                                                                   |
-|    19            |  1 Dec         |    																					                                                                                                                                   |
-|   20             |  1 Dec         |  																					                                                                                                                                   |
-|    21            |  8 Dec         |    																					                                                                                                                                   |
-|   22             |  8 Dec         |  																					                                                                                                                                   |
-|    23            |  15 Dec       |    																					                                                                                                                                   |
-|   24             |  15  Dec      |  																					                                                                                                                                   |
+
+|*Week*|**Lesson**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
+|: --- |: ------- |: ------- |:---------     |:---------  	                                                                                                                                                        |
+|   1  |  1       | 28/09/23 | 12:00 - 13:00 | Intro: Canvas page, Lecture Notes, Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.                                                         |
+|   1  |  2       | 29/09/23 | 11:00 - 13:00 | Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.  |
+|   1  |  3       | 29/09/23 | 16:00 - 18:00 | Proven that $L(\gamma)$ can be compute by integrating $\| \dot \gamma \|$ when $\gamma$ regular.  Computed length of circle and portion of Helix.                        |
+|   2  |  4       | 05/10/23 | 12:00 - 13:00 | Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.     |
+|   2  |  5       | 06/10/23 | 11:00 - 13:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |              
+|   2  |  6       | 06/10/23 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
+|   3  |  7       | 12/10/23 | 12:00 - 13:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
+|   3  |  8       | 13/10/23 | 11:00 - 13:00 |                            |              
+|   3  |  9       | 13/10/23 | 16:00 - 18:00 |                            |                               
+|   4  | 10       | 19/10/23 | 12:00 - 13:00 |                            |
+|   4  | 11       | 20/10/23 | 11:00 - 13:00 |                            |
+|   4  | 12       | 20/10/23 | 16:00 - 18:00 |                            |
+|   5  | 13       | 26/10/23 | 12:00 - 13:00 |                            |
+|   5  | 14       | 27/10/23 | 11:00 - 13:00 |                            |
+|   5  | 15       | 27/10/23 | 16:00 - 18:00 |                            |
+|   6  | 16       | 02/11/23 | 12:00 - 13:00 |                            |
+|   6  | 17       | 03/11/23 | 11:00 - 13:00 |                            |
+|   6  | 18       | 03/11/23 | 16:00 - 18:00 |                            |
+|   7  | 19       | 09/11/23 | 12:00 - 13:00 |                            |
+|   7  | 20       | 10/11/23 | 11:00 - 13:00 |                            |
+|   7  | 21       | 10/11/23 | 16:00 - 18:00 |                            |
+|   8  | 22       | 16/11/23 | 12:00 - 13:00 |                            |
+|   8  | 23       | 17/11/23 | 11:00 - 13:00 |                            |
+|   8  | 24       | 17/11/23 | 16:00 - 18:00 |                            |
+|   9  | 25       | 23/11/23 | 12:00 - 13:00 |                            |
+|   9  | 26       | 24/11/23 | 11:00 - 13:00 |                            |
+|   9  | 27       | 24/11/23 | 16:00 - 18:00 |                            |
+|   10 | 28       | 30/11/23 | 12:00 - 13:00 |                            |
+|   10 | 29       | 01/11/23 | 11:00 - 13:00 |                            |
+|   10 | 30       | 01/12/23 | 16:00 - 18:00 |                            |
+|   11 | 31       | 07/12/23 | 12:00 - 13:00 |                            |
+|   11 | 32       | 08/12/23 | 11:00 - 13:00 |                            |
+|   11 | 33       | 08/12/23 | 16:00 - 18:00 |                            |
+|   12 | 34       | 14/12/23 | 12:00 - 13:00 |                            |
+|   12 | 35       | 15/12/23 | 11:00 - 13:00 |                            |
+|   12 | 36       | 15/12/23 | 16:00 - 18:00 |                            |
+
+
 
 
 ## Homework 
 
-Each homework must be submitted to the folder outside my office (Room 104a, Larkin Building) before 17:00 on the due date.
+Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67594/) before 14:00 on the due date.
 
 
-|**Due date**|  **Exercises**                                                                  |  **Topics**                                                        |
-|: --------  |:-------------                                                                   |:---------                                                          |
-| 11 Oct  | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, re-parametrization                 |
-|  25 Oct | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                              |
-| 8 Nov   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                              |
-| 22 Nov  | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                             |
-| 13 Dec  | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                             |
+|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
+|: --------  |:-------------                                                                      |:---------                                                                      |
+| 11 Oct     | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, re-parametrization.                                 |
+| 25 Oct     | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
+| 8 Nov      | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
+| 22 Nov     | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
+| 13 Dec     | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
+
+
+
