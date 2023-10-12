@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-12T14:51:58+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-12T19:01:16+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -136,7 +136,7 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td>5</td>
       <td>05/10/23</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Induction. Recurrence sequence. Correction of Tutorial 1 exercises.</td>
+      <td style="text-align: left">Induction. Recurrence sequence. Correction of exercises in Tutorial 1.</td>
     </tr>
     <tr>
       <td>6</td>
@@ -154,19 +154,19 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td>8</td>
       <td>12/10/23</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Upper bound. Set bounded above. Supremum. Uniqueness of sup. Maximum. If maximum exists, then it equals sup. Lower bound, infimum, minimum. Relation between inf and sup.</td>
+      <td style="text-align: left">Upper bound, bounded above, sup. Uniqueness of sup. Max. Lower bound, inf, min. Relation between inf and sup. Proof that $\mathbb{Q}$ is not complete. Axiom of Completeness.</td>
     </tr>
     <tr>
       <td>9</td>
       <td>13/10/23</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Correction of Tutorial 2 exercises.</td>
+      <td style="text-align: left">Correction of exercises in Tutorial 2.</td>
     </tr>
     <tr>
       <td>10</td>
       <td>19/10/23</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Cut property is equivalent to Completeness. Definition of $\mathbb{R}$ as ordered complete field.</td>
     </tr>
     <tr>
       <td>11</td>
