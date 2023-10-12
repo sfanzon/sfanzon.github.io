@@ -149,8 +149,8 @@ The course Lecture Notes are available
 |  5       | 06/10/23 | 11:00 - 13:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |              
 |  6       | 06/10/23 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
 |  7       | 12/10/23 | 12:00 - 13:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
-|  8       | 13/10/23 | 11:00 - 13:00 |                            |              
-|  9       | 13/10/23 | 16:00 - 18:00 |                            |                               
+|  8       | 13/10/23 | 11:00 - 13:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |              
+|  9       | 13/10/23 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |                               
 | 10       | 19/10/23 | 12:00 - 13:00 |                            |
 | 11       | 20/10/23 | 11:00 - 13:00 |                            |
 | 12       | 20/10/23 | 16:00 - 18:00 |                            |
