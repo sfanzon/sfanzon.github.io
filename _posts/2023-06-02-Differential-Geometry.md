@@ -140,44 +140,44 @@ The course Lecture Notes are available
 
 
 
-|*Week*|**Lesson**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
-|: --- |: ------- |: ------- |:---------     |:---------  	                                                                                                                                                        |
-|   1  |  1       | 28/09/23 | 12:00 - 13:00 | Intro: Canvas page, Lecture Notes, Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.                                                         |
-|   1  |  2       | 29/09/23 | 11:00 - 13:00 | Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.  |
-|   1  |  3       | 29/09/23 | 16:00 - 18:00 | Proven that $L(\gamma)$ can be compute by integrating $\| \dot \gamma \|$ when $\gamma$ regular.  Computed length of circle and portion of Helix.                        |
-|   2  |  4       | 05/10/23 | 12:00 - 13:00 | Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.     |
-|   2  |  5       | 06/10/23 | 11:00 - 13:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |              
-|   2  |  6       | 06/10/23 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
-|   3  |  7       | 12/10/23 | 12:00 - 13:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
-|   3  |  8       | 13/10/23 | 11:00 - 13:00 |                            |              
-|   3  |  9       | 13/10/23 | 16:00 - 18:00 |                            |                               
-|   4  | 10       | 19/10/23 | 12:00 - 13:00 |                            |
-|   4  | 11       | 20/10/23 | 11:00 - 13:00 |                            |
-|   4  | 12       | 20/10/23 | 16:00 - 18:00 |                            |
-|   5  | 13       | 26/10/23 | 12:00 - 13:00 |                            |
-|   5  | 14       | 27/10/23 | 11:00 - 13:00 |                            |
-|   5  | 15       | 27/10/23 | 16:00 - 18:00 |                            |
-|   6  | 16       | 02/11/23 | 12:00 - 13:00 |                            |
-|   6  | 17       | 03/11/23 | 11:00 - 13:00 |                            |
-|   6  | 18       | 03/11/23 | 16:00 - 18:00 |                            |
-|   7  | 19       | 09/11/23 | 12:00 - 13:00 |                            |
-|   7  | 20       | 10/11/23 | 11:00 - 13:00 |                            |
-|   7  | 21       | 10/11/23 | 16:00 - 18:00 |                            |
-|   8  | 22       | 16/11/23 | 12:00 - 13:00 |                            |
-|   8  | 23       | 17/11/23 | 11:00 - 13:00 |                            |
-|   8  | 24       | 17/11/23 | 16:00 - 18:00 |                            |
-|   9  | 25       | 23/11/23 | 12:00 - 13:00 |                            |
-|   9  | 26       | 24/11/23 | 11:00 - 13:00 |                            |
-|   9  | 27       | 24/11/23 | 16:00 - 18:00 |                            |
-|   10 | 28       | 30/11/23 | 12:00 - 13:00 |                            |
-|   10 | 29       | 01/11/23 | 11:00 - 13:00 |                            |
-|   10 | 30       | 01/12/23 | 16:00 - 18:00 |                            |
-|   11 | 31       | 07/12/23 | 12:00 - 13:00 |                            |
-|   11 | 32       | 08/12/23 | 11:00 - 13:00 |                            |
-|   11 | 33       | 08/12/23 | 16:00 - 18:00 |                            |
-|   12 | 34       | 14/12/23 | 12:00 - 13:00 |                            |
-|   12 | 35       | 15/12/23 | 11:00 - 13:00 |                            |
-|   12 | 36       | 15/12/23 | 16:00 - 18:00 |                            |
+|**Lesson**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
+|: ------- |: ------- |:---------     |:---------  	                                                                                                                                                         |
+|  1       | 28/09/23 | 12:00 - 13:00 | Intro: Canvas page, Lecture Notes, Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.                                                         |
+|  2       | 29/09/23 | 11:00 - 13:00 | Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.  |
+|  3       | 29/09/23 | 16:00 - 18:00 | Proven that $L(\gamma)$ can be compute by integrating $\| \dot \gamma \|$ when $\gamma$ regular.  Computed length of circle and portion of Helix.                        |
+|  4       | 05/10/23 | 12:00 - 13:00 | Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.     |
+|  5       | 06/10/23 | 11:00 - 13:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |              
+|  6       | 06/10/23 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
+|  7       | 12/10/23 | 12:00 - 13:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
+|  8       | 13/10/23 | 11:00 - 13:00 |                            |              
+|  9       | 13/10/23 | 16:00 - 18:00 |                            |                               
+| 10       | 19/10/23 | 12:00 - 13:00 |                            |
+| 11       | 20/10/23 | 11:00 - 13:00 |                            |
+| 12       | 20/10/23 | 16:00 - 18:00 |                            |
+| 13       | 26/10/23 | 12:00 - 13:00 |                            |
+| 14       | 27/10/23 | 11:00 - 13:00 |                            |
+| 15       | 27/10/23 | 16:00 - 18:00 |                            |
+| 16       | 02/11/23 | 12:00 - 13:00 |                            |
+| 17       | 03/11/23 | 11:00 - 13:00 |                            |
+| 18       | 03/11/23 | 16:00 - 18:00 |                            |
+| 19       | 09/11/23 | 12:00 - 13:00 |                            |
+| 20       | 10/11/23 | 11:00 - 13:00 |                            |
+| 21       | 10/11/23 | 16:00 - 18:00 |                            |
+| 22       | 16/11/23 | 12:00 - 13:00 |                            |
+| 23       | 17/11/23 | 11:00 - 13:00 |                            |
+| 24       | 17/11/23 | 16:00 - 18:00 |                            |
+| 25       | 23/11/23 | 12:00 - 13:00 |                            |
+| 26       | 24/11/23 | 11:00 - 13:00 |                            |
+| 27       | 24/11/23 | 16:00 - 18:00 |                            |
+| 28       | 30/11/23 | 12:00 - 13:00 |                            |
+| 29       | 01/11/23 | 11:00 - 13:00 |                            |
+| 30       | 01/12/23 | 16:00 - 18:00 |                            |
+| 31       | 07/12/23 | 12:00 - 13:00 |                            |
+| 32       | 08/12/23 | 11:00 - 13:00 |                            |
+| 33       | 08/12/23 | 16:00 - 18:00 |                            |
+| 34       | 14/12/23 | 12:00 - 13:00 |                            |
+| 35       | 15/12/23 | 11:00 - 13:00 |                            |
+| 36       | 15/12/23 | 16:00 - 18:00 |                            |
 
 
 
@@ -189,11 +189,11 @@ Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67
 
 |**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
 |: --------  |:-------------                                                                      |:---------                                                                      |
-| 11 Oct     | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, re-parametrization.                                 |
-| 25 Oct     | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
-| 8 Nov      | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
-| 22 Nov     | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
-| 13 Dec     | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
+| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
+| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
+| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
+| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
 
 
 
