@@ -110,6 +110,9 @@ Please submit **PDFs only**. Either:
 
 
 
+Assignments can be downloaded at the links below.
+
+
 
 |**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
 |: --------  |:-------------                                                                      |:---------                                                                      |
