@@ -13,6 +13,8 @@ authors:
     url: "https://www.silviofanzon.com/"
     affiliations:
       name: University of Hull, UK
+      department: Department of Mathematics
+      state: United Kingdom
 
 
 bibliography: teaching.bib
@@ -82,14 +84,39 @@ This course will be assessed as follows:
 - **Final exam**: 70% of final grade
 - **Homework**: 30% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers
 
-The homework will be uploaded **[here](#homework)** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. The homework is due every other Wednesday, with due dates as follows:
+
+
+## Homework
+
+Homework papers will be uploaded **below** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
+Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
+
+
 - **Homework 1**: 11th of October
 - **Homework 2**: 25th of October
 - **Homework 3**: 8th of November
 - **Homework 4**: 22nd of November
 - **Homework 5**: 13th of December
 
-Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67594/) before 14:00 on the due date.
+Assignments submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
+
+
+Please submit **PDFs only**. Either:
+
+- Write on tablet and submit PDF Output
+- Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
+
+
+
+
+|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
+|: --------  |:-------------                                                                      |:---------                                                                      |
+| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
+| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
+| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
+| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
+
 
 
 
@@ -101,13 +128,11 @@ Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67
 
 - **Curves in 2D and 3D**: regular curves, curvature, Frenet frame, isoperimetric inequality.
 
-- **Surfaces in 3D**: regular surfaces, the Möbius strip, quadrics.
+- **Surfaces in 3D**: regular surfaces, quadrics.
 
 - **First Fundamental Form**: maps preserving lengths, angles and areas.
 
-- **Second Fundamental Form**: Gaussian curvature, Gauss’s Theorema Egregium.
-
-- **Advanced Topics**: Geodesics, Minimal surfaces. 
+- **Second Fundamental Form**: Gaussian curvature, Gauss’s Theorem Egregium.
 
 - **Topology**: General topology, metric spaces, compactness, connectedness.
 
@@ -179,21 +204,6 @@ The course Lecture Notes are available
 | 35       | 15/12/23 | 11:00 - 13:00 |                            |
 | 36       | 15/12/23 | 16:00 - 18:00 |                            |
 
-
-
-
-## Homework 
-
-Each homework must be submitted on [Canvas](https://canvas.hull.ac.uk/courses/67594/) before 14:00 on the due date.
-
-
-|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
-|: --------  |:-------------                                                                      |:---------                                                                      |
-| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
-| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
-| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
-| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
-| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
 
 
 
