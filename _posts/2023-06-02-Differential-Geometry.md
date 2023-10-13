@@ -88,7 +88,9 @@ This course will be assessed as follows:
 
 ## Homework
 
-Homework papers will be uploaded **below** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
+Homework papers will be posted **below** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
+
+
 Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
 
 
