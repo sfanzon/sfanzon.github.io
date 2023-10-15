@@ -199,7 +199,7 @@ The course Lecture Notes are available
 ## Homework
 
 
-Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**.
+Assignments must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/67594/) by 14:00 on the Due Date**
 
 
 Assignments submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
