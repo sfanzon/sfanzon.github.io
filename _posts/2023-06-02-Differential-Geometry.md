@@ -85,10 +85,7 @@ This course will be assessed as follows:
 - **Homework**: 30% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers
 
 
-
-## Homework
-
-Homework papers will be posted **below** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
+Homework papers will be posted **[Below](#homework)** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
 
 
 Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
@@ -107,21 +104,6 @@ Please submit **PDFs only**. Either:
 
 - Write on tablet and submit PDF Output
 - Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
-
-
-
-Assignments can be downloaded at the links below.
-
-
-
-|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
-|: --------  |:-------------                                                                      |:---------                                                                      |
-| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
-| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  TBA                                                                           |
-| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
-| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
-| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
-
 
 
 
@@ -208,6 +190,39 @@ The course Lecture Notes are available
 | 34       | 14/12/23 | 12:00 - 13:00 |                            |
 | 35       | 15/12/23 | 11:00 - 13:00 |                            |
 | 36       | 15/12/23 | 16:00 - 18:00 |                            |
+
+
+
+
+
+
+## Homework
+
+
+Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**.
+
+
+Assignments submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
+
+
+Please submit **PDFs only**. Either:
+
+- Write on tablet and submit PDF Output
+- Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
+
+
+
+
+|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
+|: --------  |:-------------                                                                      |:---------                                                                      |
+| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
+| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.              |
+| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
+| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
+
+
+
 
 
 
