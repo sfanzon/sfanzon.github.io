@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-15T13:59:36+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-15T14:02:18+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -54,9 +54,7 @@ This is an introductory course of Mathematical Analysis. We will investigate the
   <li><strong>Homework</strong>: 20% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers</li>
 </ul>
 
-<h2 id="homework">Homework</h2>
-
-<p>Homework papers will be posted <strong>below</strong> and on <strong><a href="https://canvas.hull.ac.uk/courses/67551">Canvas</a></strong>.</p>
+<p>Homework papers will be posted <strong><a href="#homework">Below</a></strong> and on <strong><a href="https://canvas.hull.ac.uk/courses/67551">Canvas</a></strong>.</p>
 
 <p>Assignments (or Homework) must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>. The due dates are:</p>
 
@@ -447,6 +445,56 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td style="text-align: left">TBA</td>
     </tr>
   </tbody>
+</table>
+
+<h2 id="homework">Homework</h2>
+
+<p>Assignments must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/67551">Canvas</a> by 14:00 on the Due Date</strong></p>
+
+<p>Assignments submitted <strong>outside of Canvas</strong> or <strong>after the deadline</strong> will <strong>NOT BE MARKED</strong></p>
+
+<p>Please submit <strong>PDFs only</strong>. Either:</p>
+
+<ul>
+  <li>Write on tablet and submit PDF Output</li>
+  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Exercises</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11/10/23</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_01.pdf">Homework 1</a></td>
+      <td style="text-align: left">Irrational numbers. Basic set theory.</td>
+    </tr>
+    <tr>
+      <td>25/10/23</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_02.pdf">Homework 2</a></td>
+      <td style="text-align: left">Order relation, Induction, Proofs.</td>
+    </tr>
+    <tr>
+      <td>08/11/23</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_03.pdf">Homework 3</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>22/11/23</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_04.pdf">Homework 4</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>13/12/23</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/homework_05.pdf">Homework 5</a></td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+  </tbody>
 </table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 400297 T1 2023/24]]></summary></entry><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2023/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2023-06-01T00:00:00+00:00</published><updated>2023-06-01T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -784,7 +832,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
 
 <h2 id="homework">Homework</h2>
 
-<p>Assignments (or Homework) must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>.</p>
+<p>Assignments must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/67594/">Canvas</a> by 14:00 on the Due Date</strong></p>
 
 <p>Assignments submitted <strong>outside of Canvas</strong> or <strong>after the deadline</strong> will <strong>NOT BE MARKED</strong></p>
 
