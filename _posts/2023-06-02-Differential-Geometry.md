@@ -113,7 +113,7 @@ Please submit **PDFs only**. Either:
 ## Topics
 
 
-- **Curves in 2D and 3D**: regular curves, curvature, Frenet frame, isoperimetric inequality.
+- **Curves in 2D and 3D**: regular curves, curvature, Frenet frame.
 
 - **Surfaces in 3D**: regular surfaces, quadrics.
 
@@ -163,8 +163,8 @@ The course Lecture Notes are available
 |  7       | 12/10/23 | 12:00 - 13:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
 |  8       | 13/10/23 | 11:00 - 13:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |              
 |  9       | 13/10/23 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |                               
-| 10       | 19/10/23 | 12:00 - 13:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion.                           |
-| 11       | 20/10/23 | 11:00 - 13:00 |                            |
+| 10       | 19/10/23 | 12:00 - 13:00 | Hyperbolic functions and their properties. Example of the catenary curve.       								                         |
+| 11       | 20/10/23 | 11:00 - 13:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion.                               				 |
 | 12       | 20/10/23 | 16:00 - 18:00 |                            |
 | 13       | 26/10/23 | 12:00 - 13:00 |                            |
 | 14       | 27/10/23 | 11:00 - 13:00 |                            |
