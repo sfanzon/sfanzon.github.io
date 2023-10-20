@@ -169,7 +169,7 @@ The course Lecture Notes are available
 |  9       | 13/10/23 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |                               
 | 10       | 19/10/23 | 12:00 - 13:00 | Hyperbolic functions and their properties. Example of the catenary curve.       								                         |
 | 11       | 20/10/23 | 11:00 - 13:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		         |
-| 12       | 20/10/23 | 16:00 - 18:00 |                            |
+| 12       | 20/10/23 | 16:00 - 18:00 | Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula.                            |
 | 13       | 26/10/23 | 12:00 - 13:00 |                            |
 | 14       | 27/10/23 | 11:00 - 13:00 |                            |
 | 15       | 27/10/23 | 16:00 - 18:00 |                            |
