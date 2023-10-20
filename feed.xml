@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-20T12:14:04+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-20T12:33:56+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -172,7 +172,7 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td>10</td>
       <td>19/10/23</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Cut property is equivalent to Axiom of Completeness. $\mathbb{R}$ as ordered complete field. $\mathbb{N}$ as inductive subset. Definition of $\mathbb{Z}$ and $\mathbb{Q}$.</td>
+      <td style="text-align: left">Cut property is equivalent to Completeness. $\mathbb{R}$ as ordered complete field. $\mathbb{N}$ as inductive subset of $\mathbb{R}$. Definition of $\mathbb{Z}$, $\mathbb{Q}$.</td>
     </tr>
     <tr>
       <td>11</td>
@@ -547,8 +547,11 @@ This course studies curves and surfaces in 2D and 3D.</p>
     <p><strong>Lecture Notes</strong>: Available <strong><a href="https://www.silviofanzon.com/2023-Differential-Geometry-Notes/">here</a></strong></p>
   </li>
   <li>
-    <p><strong>Main Book</strong>: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
+    <p><strong>Differential Geometry Book</strong>: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
 <a href="https://hull.summon.serialssolutions.com/#!/search/document?ho=t&amp;include.ft.matches=f&amp;l=en-UK&amp;q=pressley%20differential&amp;id=FETCHMERGED-hull_catalog_b2542712x2">University Library</a></p>
+  </li>
+  <li>
+    <p><strong>Topology Book</strong>: Manetti <d-cite key="manetti"></d-cite>.</p>
   </li>
   <li>
     <p><strong>Background</strong>: For analysis please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite></p>
@@ -634,7 +637,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td>11</td>
       <td>20/10/23</td>
       <td style="text-align: left">11:00 - 13:00</td>
-      <td style="text-align: left">Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion.</td>
+      <td style="text-align: left">Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.</td>
     </tr>
     <tr>
       <td>12</td>
