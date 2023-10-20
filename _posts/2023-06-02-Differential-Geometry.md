@@ -134,8 +134,10 @@ Please submit **PDFs only**. Either:
 
 - **Lecture Notes**: Available **[here](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
 
-- **Main Book**: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
+- **Differential Geometry Book**: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
 [University Library](https://hull.summon.serialssolutions.com/#!/search/document?ho=t&include.ft.matches=f&l=en-UK&q=pressley%20differential&id=FETCHMERGED-hull_catalog_b2542712x2)
+
+- **Topology Book**: Manetti <d-cite key="manetti"></d-cite>.
 
 - **Background**: For analysis please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite>
 
@@ -166,7 +168,7 @@ The course Lecture Notes are available
 |  8       | 13/10/23 | 11:00 - 13:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |              
 |  9       | 13/10/23 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |                               
 | 10       | 19/10/23 | 12:00 - 13:00 | Hyperbolic functions and their properties. Example of the catenary curve.       								                         |
-| 11       | 20/10/23 | 11:00 - 13:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion.                               				 |
+| 11       | 20/10/23 | 11:00 - 13:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		         |
 | 12       | 20/10/23 | 16:00 - 18:00 |                            |
 | 13       | 26/10/23 | 12:00 - 13:00 |                            |
 | 14       | 27/10/23 | 11:00 - 13:00 |                            |
