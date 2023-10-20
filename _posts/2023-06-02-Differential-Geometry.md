@@ -85,10 +85,12 @@ This course will be assessed as follows:
 - **Homework**: 30% of final grade. There will be 5 Homework papers in total. You must submit 4 out of 5 Homework papers
 
 
+Each Homework paper is worth 100 points. The final Homework grade will be computed averaging the best 4.
+
 Homework papers will be posted **[Below](#homework)** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
 
 
-Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
+Homework papers must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
 
 
 - **Homework 1**: 11th of October
@@ -97,7 +99,7 @@ Assignments (or Homework) must be submitted on **Canvas by 14:00 on the Due Date
 - **Homework 4**: 22nd of November
 - **Homework 5**: 13th of December
 
-Assignments submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
+Homework papers submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
 
 
 Please submit **PDFs only**. Either:
@@ -199,10 +201,10 @@ The course Lecture Notes are available
 ## Homework
 
 
-Assignments must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/67594/) by 14:00 on the Due Date**
+Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/67594/) by 14:00 on the Due Date**
 
 
-Assignments submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
+Homework papers submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
 
 
 Please submit **PDFs only**. Either:
