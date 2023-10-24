@@ -217,13 +217,13 @@ Please submit **PDFs only**. Either:
 
 
 
-|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                    |
-|: --------  |:-------------                                                                      |:---------                                                                      |
-| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                  |
-| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.              |
-| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  TBA                                                                           |
-| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                           |
-| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                           |
+|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                                              |
+|: --------  |:-------------                                                                      |:---------                                                                                                |
+| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                                            |
+| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
+| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Metric Spaces.                  |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                                                     |
+| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                                                     |
 
 
 
