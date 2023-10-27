@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-27T09:43:41+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-27T18:52:25+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -374,12 +374,12 @@ This is an introductory course of Mathematical Analysis. We will investigate the
     <tr>
       <td>10/11/23</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_06.pdf">Tutorial 6</a></td>
-      <td style="text-align: left">Sup and inf. Inductive sets. Cardinality. Complex numbers</td>
+      <td style="text-align: left">Sup and inf. Inductive sets. Injectivity and surjectivity. Cardinality.</td>
     </tr>
     <tr>
       <td>17/11/23</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2023-Numbers-Sequences-Series/tutorial_07.pdf">Tutorial 7</a></td>
-      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">Complex numbers</td>
     </tr>
     <tr>
       <td>24/11/23</td>
@@ -655,19 +655,19 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td>14</td>
       <td>27/10/23</td>
       <td style="text-align: left">11:00 - 13:00</td>
-      <td style="text-align: left">Comparing topologies. Cofinite topology. Convergence. Metric spaces.</td>
+      <td style="text-align: left">Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.</td>
     </tr>
     <tr>
       <td>15</td>
       <td>27/10/23</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Limit points are contained in closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.</td>
     </tr>
     <tr>
       <td>16</td>
       <td>02/11/23</td>
       <td style="text-align: left">12:00 - 13:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Correction of Homework 2.</td>
     </tr>
     <tr>
       <td>17</td>
