@@ -172,7 +172,7 @@ The course Lecture Notes are available
 | 12       | 20/10/23 | 16:00 - 18:00 | Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula. Geometric consequences of Frenet-Serret.                |
 | 13       | 26/10/23 | 12:00 - 13:00 | Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.       |
 | 14       | 27/10/23 | 11:00 - 13:00 | Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.                                          |
-| 15       | 27/10/23 | 16:00 - 18:00 | Limit points are contained in closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.          |
+| 15       | 27/10/23 | 16:00 - 18:00 | Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.      |
 | 16       | 02/11/23 | 12:00 - 13:00 | Correction of Homework 2.                           |
 | 17       | 03/11/23 | 11:00 - 13:00 |                            |
 | 18       | 03/11/23 | 16:00 - 18:00 |                            |
@@ -222,7 +222,7 @@ Please submit **PDFs only**. Either:
 | 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                                            |
 | 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
 | 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
-| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  TBA                                                                                                     |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  Metric Spaces. Topology induced by metric. Density. Connectedness. Compactness in metric spaces.        |
 | 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                                                     |
 
 
