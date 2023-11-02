@@ -173,8 +173,8 @@ The course Lecture Notes are available
 | 13       | 26/10/23 | 12:00 - 13:00 | Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.       |
 | 14       | 27/10/23 | 11:00 - 13:00 | Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.                                          |
 | 15       | 27/10/23 | 16:00 - 18:00 | Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.      |
-| 16       | 02/11/23 | 12:00 - 13:00 | Correction of Homework 2.                           |
-| 17       | 03/11/23 | 11:00 - 13:00 |                            |
+| 16       | 02/11/23 | 12:00 - 13:00 | Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.                                              |
+| 17       | 03/11/23 | 11:00 - 13:00 | Examples of Hausdorff spaces.                           |
 | 18       | 03/11/23 | 16:00 - 18:00 |                            |
 | 19       | 09/11/23 | 12:00 - 13:00 |                            |
 | 20       | 10/11/23 | 11:00 - 13:00 |                            |
