@@ -176,7 +176,7 @@ The course Lecture Notes are available
 | 16       | 02/11/23 | 12:00 - 13:00 | Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.                                              |
 | 17       | 03/11/23 | 11:00 - 13:00 | Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.                                                               |
 | 18       | 03/11/23 | 16:00 - 18:00 | Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.                                   |
-| 19       | 09/11/23 | 12:00 - 13:00 |                            |
+| 19       | 09/11/23 | 12:00 - 13:00 | Sequential continuity digression.                           |
 | 20       | 10/11/23 | 11:00 - 13:00 |                            |
 | 21       | 10/11/23 | 16:00 - 18:00 |                            |
 | 22       | 16/11/23 | 12:00 - 13:00 |                            |
@@ -222,7 +222,7 @@ Please submit **PDFs only**. Either:
 | 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                                            |
 | 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
 | 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
-| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  Metric Spaces. Topology induced by metric. Density. Connectedness. Compactness in metric spaces.        |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
 | 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                                                     |
 
 
