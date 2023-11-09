@@ -59,7 +59,7 @@ If you have any questions please feel free to `email me`. We will use the `Tutor
 ## Key Links
 
 
-All the course information will be posted on this page, as well as on [Canvas](https://canvas.hull.ac.uk/courses/67594/). The links to the reference material are:
+All the course information will be posted on this page. The links to the reference material are:
 
 - **[Lecture Notes](https://www.silviofanzon.com/2023-Differential-Geometry-Notes/)**
 - **[Lectures Diary](#lectures-diary)**
@@ -78,7 +78,6 @@ We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours lon
 
 
 
-
 ## Assessment
 
 This course will be assessed as follows:
@@ -88,8 +87,7 @@ This course will be assessed as follows:
 
 Each Homework paper is worth 100 points. The final Homework grade will be computed averaging the best 4.
 
-
-Homework papers will be posted on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
+Homework papers will be posted **[Below](#homework)** and on **[Canvas](https://canvas.hull.ac.uk/courses/67594/)**. 
 
 
 Homework papers must be submitted on **Canvas by 14:00 on the Due Date**. The due dates are:
@@ -100,7 +98,6 @@ Homework papers must be submitted on **Canvas by 14:00 on the Due Date**. The du
 - **Homework 3**: 8th of November
 - **Homework 4**: 22nd of November
 - **Homework 5**: 13th of December
-
 
 Homework papers submitted **outside of Canvas** or **after the deadline** will **NOT BE MARKED**
 
@@ -179,8 +176,8 @@ The course Lecture Notes are available
 | 16       | 02/11/23 | 12:00 - 13:00 | Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.                                              |
 | 17       | 03/11/23 | 11:00 - 13:00 | Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.                                                               |
 | 18       | 03/11/23 | 16:00 - 18:00 | Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.                                   |
-| 19       | 09/11/23 | 12:00 - 13:00 | Sequential continuity: fixed one of the proofs. Characterization of connected sets in $\mathbb{R}$. Intermediate value theorem in topological space.                     |
-| 20       | 10/11/23 | 11:00 - 13:00 | Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve counterxample.                                   |
+| 19       | 09/11/23 | 12:00 - 13:00 | Sequential continuity digression.                           |
+| 20       | 10/11/23 | 11:00 - 13:00 |                            |
 | 21       | 10/11/23 | 16:00 - 18:00 |                            |
 | 22       | 16/11/23 | 12:00 - 13:00 |                            |
 | 23       | 17/11/23 | 11:00 - 13:00 |                            |
@@ -220,13 +217,13 @@ Please submit **PDFs only**. Either:
 
 
 
-|**Due date**|  **Homework Number**        |  **Topics**                                                                                              |
-|: --------  |:-------------               |:---------                                                                                                |
-| 11/10/23   | 1                           |  Curve length, regularity, reparametrization.                                                            |
-| 25/10/23   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
-| 08/11/23   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
-| 22/11/23   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
-| 13/12/23   | 5                           |  TBA                                                                                                     |
+|**Due date**|  **Exercises**                                                                     |  **Topics**                                                                                              |
+|: --------  |:-------------                                                                      |:---------                                                                                                |
+| 11/10/23   | [Homework 1](/assets/pdf/teaching/2023-Differential-Geometry/homework_01.pdf)      |  Curve length, regularity, reparametrization.                                                            |
+| 25/10/23   | [Homework 2](/assets/pdf/teaching/2023-Differential-Geometry/homework_02.pdf)      |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
+| 08/11/23   | [Homework 3](/assets/pdf/teaching/2023-Differential-Geometry/homework_03.pdf)      |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
+| 22/11/23   | [Homework 4](/assets/pdf/teaching/2023-Differential-Geometry/homework_04.pdf)      |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
+| 13/12/23   | [Homework 5](/assets/pdf/teaching/2023-Differential-Geometry/homework_05.pdf)      |  TBA                                                                                                     |
 
 
 
