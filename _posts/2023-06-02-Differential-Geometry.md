@@ -72,9 +72,20 @@ All the course information will be posted on this page, as well as on [Canvas](h
 
 We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours long, and the tutorial is 1 hour long.
 
+
+Pattern from Week 1 to Week 7:
+
 - **Lecture 1**: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E
 - **Lecture 2**: Fridays 16:00-18:00 in Robert Blackburn Building - Lecture Theatre B
 - **Tutorial**: Thursdays 12:00-13:00 in Wilberforce Building - Lecture Room 21
+
+
+Pattern from Week 8 to Week 12:
+
+
+- **Lecture 1**: Thursdays 12:00-14:00 in Wilberforce Building - Lecture Room 21
+- **Lecture 2**: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E
+- **Tutorial**: Fridays 16:00-17:00 in Robert Blackburn Building - Lecture Theatre B
 
 
 
@@ -180,8 +191,8 @@ The course Lecture Notes are available
 | 17       | 03/11/23 | 11:00 - 13:00 | Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.                                                               |
 | 18       | 03/11/23 | 16:00 - 18:00 | Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.                                   |
 | 19       | 09/11/23 | 12:00 - 13:00 | Sequential continuity: fixed one of the proofs. Characterization of connected sets in $\mathbb{R}$. Intermediate value theorem in topological space.                     |
-| 20       | 10/11/23 | 11:00 - 13:00 | Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve counterxample.                                   |
-| 21       | 10/11/23 | 16:00 - 18:00 |                            |
+| 20       | 10/11/23 | 11:00 - 13:00 | Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.              |
+| 21       | 10/11/23 | 16:00 - 18:00 | Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$ and calculus.                           |
 | 22       | 16/11/23 | 12:00 - 13:00 |                            |
 | 23       | 17/11/23 | 11:00 - 13:00 |                            |
 | 24       | 17/11/23 | 16:00 - 18:00 |                            |
