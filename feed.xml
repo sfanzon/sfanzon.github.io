@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-11-09T18:14:23+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-11-10T15:12:15+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -238,13 +238,13 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td>21</td>
       <td>10/11/23</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Tutorial 6</td>
+      <td style="text-align: left">Tutorial 6: Exercises 1 to 4.</td>
     </tr>
     <tr>
       <td>22</td>
       <td>16/11/23</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Homework 3 Correction.</td>
+      <td style="text-align: left">Tutorial 6: Exercise 5. Homework 3 Correction.</td>
     </tr>
     <tr>
       <td>23</td>
@@ -483,10 +483,20 @@ This course studies curves and surfaces in 2D and 3D.</p>
 
 <p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
 
+<p>Pattern from Week 1 to Week 7:</p>
+
 <ul>
   <li><strong>Lecture 1</strong>: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E</li>
   <li><strong>Lecture 2</strong>: Fridays 16:00-18:00 in Robert Blackburn Building - Lecture Theatre B</li>
   <li><strong>Tutorial</strong>: Thursdays 12:00-13:00 in Wilberforce Building - Lecture Room 21</li>
+</ul>
+
+<p>Pattern from Week 8 to Week 12:</p>
+
+<ul>
+  <li><strong>Lecture 1</strong>: Thursdays 12:00-14:00 in Wilberforce Building - Lecture Room 21</li>
+  <li><strong>Lecture 2</strong>: Fridays 11:00-13:00 in Larkin Building - Lecture Theatre E</li>
+  <li><strong>Tutorial</strong>: Fridays 16:00-17:00 in Robert Blackburn Building - Lecture Theatre B</li>
 </ul>
 
 <h2 id="assessment">Assessment</h2>
@@ -691,13 +701,13 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td>20</td>
       <td>10/11/23</td>
       <td style="text-align: left">11:00 - 13:00</td>
-      <td style="text-align: left">Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve counterxample.</td>
+      <td style="text-align: left">Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.</td>
     </tr>
     <tr>
       <td>21</td>
       <td>10/11/23</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$ and calculus.</td>
     </tr>
     <tr>
       <td>22</td>
