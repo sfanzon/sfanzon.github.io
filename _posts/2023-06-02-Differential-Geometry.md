@@ -194,10 +194,10 @@ The course Lecture Notes are available
 | 20       | 10/11/23 | 11:00 - 13:00 | Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.              |
 | 21       | 10/11/23 | 16:00 - 18:00 | Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$, differential, Jacobian.                                 |
 | 22       | 16/11/23 | 12:00 - 14:00 | Inverse function Theorem. Examples. Surface: Definition and Examples. Regular charts and regular surfaces.                                                               |
-| 23       | 17/11/23 | 11:00 - 13:00 | Spherical coordinates. Level surfaces.                           |
-| 24       | 17/11/23 | 16:00 - 17:00 |                            |
-| 25       | 23/11/23 | 12:00 - 14:00 |                            |
-| 26       | 24/11/23 | 11:00 - 13:00 |                            |
+| 23       | 17/11/23 | 11:00 - 13:00 | Spherical coordinates. Level surfaces. Reparametrizations.                                                                                                               |
+| 24       | 17/11/23 | 16:00 - 17:00 | Transition maps. Functions between surfaces. Smooth functions.                                                                                                           |
+| 25       | 23/11/23 | 12:00 - 14:00 | Diffeomorphisms between surfaces. Tangent space and characterization. Examples. Differential of smooth functions.                                                        |
+| 26       | 24/11/23 | 11:00 - 13:00 | Examples of surfaces: Quadrics, Ruled Surfaces, Surfaces of Revolution.                                                                                                  |
 | 27       | 24/11/23 | 16:00 - 17:00 |                            |
 | 28       | 30/11/23 | 12:00 - 14:00 |                            |
 | 29       | 01/11/23 | 11:00 - 13:00 |                            |
