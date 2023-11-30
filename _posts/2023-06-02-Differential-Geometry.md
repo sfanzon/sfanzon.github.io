@@ -197,10 +197,10 @@ The course Lecture Notes are available
 | 23       | 17/11/23 | 11:00 - 13:00 | Spherical coordinates. Level surfaces. Reparametrizations.                                                                                                               |
 | 24       | 17/11/23 | 16:00 - 17:00 | Transition maps. Functions between surfaces. Smooth functions.                                                                                                           |
 | 25       | 23/11/23 | 12:00 - 14:00 | Diffeomorphisms between surfaces. Tangent space and characterization. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.       |
-| 26       | 24/11/23 | 11:00 - 13:00 | Properties of differential of smooth functions. Examples of surfaces: Quadrics, Ruled Surfaces, Surfaces of Revolution.                                                  |
-| 27       | 24/11/23 | 16:00 - 17:00 |                             |
-| 28       | 30/11/23 | 12:00 - 14:00 | Correction of Homework 4.                           |
-| 29       | 01/11/23 | 11:00 - 13:00 |                            |
+| 26       | 24/11/23 | 11:00 - 13:00 | Properties of differential of smooth functions. Linear Algebra preliminaries. Examples of surfaces: Level Surfaces, Quadrics, Ruled Surfaces, Surfaces of Revolution.    |
+| 27       | 24/11/23 | 16:00 - 17:00 | First fundamental form (FFF): Abstract definition and expression in coordinates. Length of curves on surfaces.                                                           |
+| 28       | 30/11/23 | 12:00 - 14:00 | Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.                                         |
+| 29       | 01/11/23 | 11:00 - 13:00 | Conformal maps and FFF. Conformal parametrizations.                            |
 | 30       | 01/12/23 | 16:00 - 17:00 |                            |
 | 31       | 07/12/23 | 12:00 - 14:00 |                            |
 | 32       | 08/12/23 | 11:00 - 13:00 |                            |
