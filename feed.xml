@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T17:27:04+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-06T17:30:11+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -755,31 +755,31 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td>29</td>
       <td>01/11/23</td>
       <td style="text-align: left">11:00 - 13:00</td>
-      <td style="text-align: left">Conformal maps and FFF. Conformal parametrizations.</td>
+      <td style="text-align: left">Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.</td>
     </tr>
     <tr>
       <td>30</td>
       <td>01/12/23</td>
       <td style="text-align: left">16:00 - 17:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.</td>
     </tr>
     <tr>
       <td>31</td>
       <td>07/12/23</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Matrix of the Weingarten map. Example. Gaussian and mean curvatures. Formulas with respect to coefficients of FFF and SFF. Examples.</td>
     </tr>
     <tr>
       <td>32</td>
       <td>08/12/23</td>
       <td style="text-align: left">11:00 - 13:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Principal curvatures and directions. Relationship with Gaussian and mean curvature. Examples. Normal and Geodesic curvatures. Euler’s Theorem.</td>
     </tr>
     <tr>
       <td>33</td>
       <td>08/12/23</td>
       <td style="text-align: left">16:00 - 17:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local structure theorem. Examples. Umbilical points and structure theorem.</td>
     </tr>
     <tr>
       <td>34</td>
