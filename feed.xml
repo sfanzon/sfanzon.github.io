@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-06T17:30:11+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-06T17:30:38+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
@@ -447,7 +447,7 @@ This is an introductory course of Mathematical Analysis. We will investigate the
       <td style="text-align: left">Complex Numbers, Convergent sequences.</td>
     </tr>
     <tr>
-      <td>13/12/23</td>
+      <td>15/12/23</td>
       <td style="text-align: left">5</td>
       <td style="text-align: left">Convergence/Divergence of sequences and series.</td>
     </tr>
@@ -845,7 +845,7 @@ This course studies curves and surfaces in 2D and 3D.</p>
       <td style="text-align: left">Metric Spaces. Topology induced by metric. Density. Connectedness.</td>
     </tr>
     <tr>
-      <td>13/12/23</td>
+      <td>15/12/23</td>
       <td style="text-align: left">5</td>
       <td style="text-align: left">First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures.</td>
     </tr>
