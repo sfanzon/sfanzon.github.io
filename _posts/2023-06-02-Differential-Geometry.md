@@ -237,7 +237,7 @@ Please submit **PDFs only**. Either:
 | 25/10/23   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
 | 08/11/23   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
 | 22/11/23   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
-| 13/12/23   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures.                              |
+| 15/12/23   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures.                              |
 
 
 
