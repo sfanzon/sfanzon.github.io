@@ -202,12 +202,12 @@ The course Lecture Notes are available
 | 28       | 30/11/23 | 12:00 - 14:00 | Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.                                         |
 | 29       | 01/11/23 | 11:00 - 13:00 | Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.                                          |
 | 30       | 01/12/23 | 16:00 - 17:00 | Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.    |
-| 31       | 07/12/23 | 12:00 - 14:00 | Matrix of the Weingarten map. Example. Gaussian and mean curvatures. Formulas with respect to coefficients of FFF and SFF. Examples.                                     |
-| 32       | 08/12/23 | 11:00 - 13:00 | Principal curvatures and directions. Relationship with Gaussian and mean curvature. Examples. Normal and Geodesic curvatures. Euler's Theorem.                           |
-| 33       | 08/12/23 | 16:00 - 17:00 | Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local structure theorem. Examples. Umbilical points and structure theorem.                    |
-| 34       | 14/12/23 | 12:00 - 14:00 |                            |
-| 35       | 15/12/23 | 11:00 - 13:00 |                            |
-| 36       | 15/12/23 | 16:00 - 17:00 |                            |
+| 31       | 07/12/23 | 12:00 - 14:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
+| 32       | 08/12/23 | 11:00 - 13:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local structure theorem.                     |
+| 33       | 08/12/23 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
+| 34       | 14/12/23 | 12:00 - 14:00 | Revision and Exam Preparation.                          														 |
+| 35       | 15/12/23 | 11:00 - 13:00 | Revision and Exam Preparation.                           													         |
+| 36       | 15/12/23 | 16:00 - 17:00 | Revision and Exam Preparation.               												                                 |
 
 
 
@@ -237,7 +237,7 @@ Please submit **PDFs only**. Either:
 | 25/10/23   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
 | 08/11/23   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
 | 22/11/23   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
-| 15/12/23   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures.                              |
+| 15/12/23   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.                 |
 
 
 
