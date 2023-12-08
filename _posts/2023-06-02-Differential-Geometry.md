@@ -203,7 +203,7 @@ The course Lecture Notes are available
 | 29       | 01/11/23 | 11:00 - 13:00 | Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.                                          |
 | 30       | 01/12/23 | 16:00 - 17:00 | Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.    |
 | 31       | 07/12/23 | 12:00 - 14:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
-| 32       | 08/12/23 | 11:00 - 13:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local structure theorem.                     |
+| 32       | 08/12/23 | 11:00 - 13:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
 | 33       | 08/12/23 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
 | 34       | 14/12/23 | 12:00 - 14:00 | Revision and Exam Preparation.                          														 |
 | 35       | 15/12/23 | 11:00 - 13:00 | Revision and Exam Preparation.                           													         |
