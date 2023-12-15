@@ -1,0 +1,16 @@
+#R code for lecture 2
+score2007<-c(86, 86, 88, 90, 99, 97, 97, 96, 99, 97, 90, 90)
+score2009<-c(24, 22, 21, 21, 19, 18, 17, 18, 21, 23, 22, 21)
+difference<-score2007-score2009
+t.test(difference)
+scores<-read.table("E:L2data.txt")
+score2007<-scores[,1]
+score2009<-scores[,2]
+difference<-score2007-score2009
+t.test(difference)
+#second R example Section 2
+difference<-c(-6, -2, -7, -4, -4, -5, -7, -14, -16, -25, -22, -26)
+difference<-c(-6, -2, -7, -4, -4, -5, -7, -14, -16, -25, -22, -26)
+n<-length(difference)
+chisquare<-(n-1)*var(difference)/1
+1-pchisq(chisquare, n-1)

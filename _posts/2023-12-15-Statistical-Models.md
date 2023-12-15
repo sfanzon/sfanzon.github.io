@@ -161,10 +161,10 @@ The course Slides are available
 
 
 
-|**Week**|**Start** | **End**  |   **Topics**                                                                             | **Material                                                                    |
+|**Week**|**Start** | **End**  |   **Topics**                                                                             | **Additional Material                                                         |
 |: ------|: ------- |:-------- |:---------  	                                                                          | :---------                                                                    |
-| Week 1 | 29/01/24 | 02/02/24 | Introduction. Probability Revision. Moment Generating Function.                          |                                                                               |
-| Week 2 | 05/02/24 | 09/02/24 | TBA                                                                                      |                                                                               |
+| Week 1 | 29/01/24 | 02/02/24 | Introduction. Probability Revision. Moment Generating Function.                          | None                                                                          |
+| Week 2 | 05/02/24 | 09/02/24 | TBA                                                                                      | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Data](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)           |
 | Week 3 | 12/02/24 | 16/02/24 | TBA                                                                                      |                                                                               |
 | Week 4 | 19/02/24 | 23/02/24 | TBA                                                                                      |                                                                               |
 | Week 5 | 26/02/24 | 01/03/24 | TBA                                                                                      |                                                                               |
