@@ -1,5 +1,281 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-16T12:12:04+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
-</subtitle><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-16T12:15:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+</subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2023/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2023-12-15T00:00:00+00:00</published><updated>2023-12-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
+
+<p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
+This module focusses on both the technical and practical aspects of a range of linear statistical models. We will investigate how and why these models work, what the assumptions 
+behind them are, and how to interpret the results. We will also explore how to use them in practice using the language R.</p>
+
+<ul>
+  <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
+  <li><strong>Email</strong>: <a href="mailto:S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a></li>
+  <li><strong>Office</strong>: Room 104a, Larkin Building</li>
+  <li><strong>Office hours</strong>: Wednesday 12:00-13:00</li>
+  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/70065">here</a></li>
+</ul>
+
+<h2 id="questions">Questions</h2>
+
+<p>If you have any questions please feel free to <code class="language-plaintext highlighter-rouge">email me</code>. We will address Homework and Coursework in class. In addition, please do not hesitate to attend <code class="language-plaintext highlighter-rouge">office hours</code>.</p>
+
+<h2 id="key-links">Key Links</h2>
+
+<p>All the course information will be posted on this page, as well as on <a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a>. The links to the reference material are:</p>
+
+<ul>
+  <li><strong><a href="https://www.silviofanzon.com/2023-Statistical-Models-Slides/">Slides</a></strong></li>
+  <li><strong><a href="#lectures-diary">Lectures Diary</a></strong></li>
+  <li><strong><a href="#homework">Homework</a></strong></li>
+</ul>
+
+<h2 id="lectures">Lectures</h2>
+
+<p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week:</p>
+
+<ul>
+  <li><strong>Lecture 1</strong>: Wednesday 10:00-12:00 in Wilberforce Building - Lecture Room 22</li>
+  <li><strong>Lecture 2</strong>: Thursday 15:00-17:00 in Wilberforce Building - Lecture Room 10</li>
+  <li><strong>Tutorial</strong>: Thursday 11:00-12:00 in Wilberforce Building - Lecture Room 7</li>
+</ul>
+
+<h2 id="assessment">Assessment</h2>
+
+<p>This course will be assessed as follows:</p>
+
+<ul>
+  <li><strong>Coursework Portfolio</strong>: 70% of final grade</li>
+  <li><strong>Homework</strong>: 30% of final grade. There will be 10 Homework papers. Top 7 count towards the grade</li>
+</ul>
+
+<p>Rules for Coursework:</p>
+
+<ul>
+  <li>Coursework must be submitted on <strong>Canvas by 14:00 on Wednesday 1st May 2024</strong></li>
+  <li>Submit <strong>PDFs only</strong>. Either:
+    <ul>
+      <li>Write on tablet and submit PDF Output</li>
+      <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Rules for Homework:</p>
+
+<ul>
+  <li>
+    <p>Each Homework paper is worth 14 points. The final Homework grade will be computed summing the top 7 scores, for a maximum of 98 points. 
+Bonus 2 points will be added to the final score.</p>
+  </li>
+  <li>
+    <p>Homework papers will be posted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong>.</p>
+  </li>
+  <li>
+    <p>Homework papers must be submitted on <strong>Canvas by 14:00 on Mondays</strong>. Due dates are listed <strong><a href="#homework">below</a></strong></p>
+  </li>
+  <li>
+    <p>Submit <strong>PDFs only</strong>. Either:</p>
+    <ul>
+      <li>Write on tablet and submit PDF Output</li>
+      <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="topics">Topics</h2>
+
+<ul>
+  <li>Linear regression models with one or more explanatory variables</li>
+  <li>Least squares estimation of model coefficients and their properties</li>
+  <li>Checking the regression modelling assumptions</li>
+  <li>Analysis of variance (ANOVA)</li>
+  <li>Analysis of real-world datasets</li>
+  <li>Statistical software for testing, prediction and visualisation of data</li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>
+    <p><strong>Slides</strong>: Available <strong><a href="https://www.silviofanzon.com/2023-Statistical-Models-Slides/">here</a></strong></p>
+  </li>
+  <li>
+    <p><strong>Main References</strong>: The book by Bingham and Fry <d-cite key="bingham-fry"></d-cite>, and the one by Fry and Burke <d-cite key="fry-burke"></d-cite></p>
+  </li>
+  <li>
+    <p>**Probability and Statistics Manual: The book by Casella and Berger <d-cite key="casella-berger"></d-cite></p>
+  </li>
+  <li>
+    <p><strong>Statistics with R</strong>: The book by Dalgaard <d-cite key="dalgaard"></d-cite></p>
+  </li>
+</ul>
+
+<h2 id="lectures-diary">Lectures Diary</h2>
+
+<p>The course Slides are available 
+<strong><a href="https://www.silviofanzon.com/2023-Statistical-Models-Slides/">here</a></strong>. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Week</strong></th>
+      <th><strong>Start</strong></th>
+      <th style="text-align: left"><strong>End</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+      <th style="text-align: left">**Additional Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td>29/01/24</td>
+      <td style="text-align: left">02/02/24</td>
+      <td style="text-align: left">Introduction. Probability Revision. Moment Generating Function.</td>
+      <td style="text-align: left">None</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>05/02/24</td>
+      <td style="text-align: left">09/02/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt">R Code</a>, <a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt">Dataset</a></td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>12/02/24</td>
+      <td style="text-align: left">16/02/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>19/02/24</td>
+      <td style="text-align: left">23/02/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>26/02/24</td>
+      <td style="text-align: left">01/03/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>04/03/24</td>
+      <td style="text-align: left">08/03/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>11/03/24</td>
+      <td style="text-align: left">15/03/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>18/03/24</td>
+      <td style="text-align: left">22/03/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 9</td>
+      <td>08/04/24</td>
+      <td style="text-align: left">12/04/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 10</td>
+      <td>15/04/24</td>
+      <td style="text-align: left">19/04/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 11</td>
+      <td>22/04/24</td>
+      <td style="text-align: left">26/04/24</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td>Week 12</td>
+      <td>29/04/24</td>
+      <td style="text-align: left">03/05/24</td>
+      <td style="text-align: left">Coursework submission. Coursework correction.</td>
+      <td style="text-align: left">None</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="homework">Homework</h2>
+
+<p>Homework papers must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a> by 14:00 on Mondays</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Homework Number</strong></th>
+      <th style="text-align: left"><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td style="text-align: left">05/02/24</td>
+      <td style="text-align: left">Poisson distribution. Poisson models for soccer.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td style="text-align: left">12/02/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td style="text-align: left">19/02/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td style="text-align: left">26/02/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td style="text-align: left">04/03/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td style="text-align: left">11/03/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td style="text-align: left">18/03/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td style="text-align: left">08/04/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td style="text-align: left">15/04/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td style="text-align: left">22/04/24</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 551305 T2 2023/24]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
 This is an introductory course of Mathematical Analysis. We will investigate the properties of real numbers and explore the concept of limit.</p>
