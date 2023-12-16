@@ -4,7 +4,7 @@ title: Statistical Models
 description: Webpage of the Course 551305 T2 2023/24
 giscus_comments: false
 tags: teaching maths
-date: 2024-01-01
+date: 2023-12-15
 
 
 
