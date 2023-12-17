@@ -39,7 +39,7 @@ toc:
 
 Welcome to the Course **Statistical Models 551305** for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
 This module focusses on both the technical and practical aspects of a range of linear statistical models. We will investigate how and why these models work, what the assumptions 
-behind them are, and how to interpret the results. We will also explore how to use them in practice using the language R.
+behind them are, and how to interpret the results. We will also implement such models using the programming language R.
 
 
 - **Lecturer**: Dr Silvio Fanzon
@@ -90,34 +90,40 @@ We have two `Lectures` and one `Tutorial` per week:
 This course will be assessed as follows:
 
 - **Coursework Portfolio**: 70% of final grade
-- **Homework**: 30% of final grade. There will be 10 Homework papers. Top 7 count towards the grade
+- **Homework**: 30% of final grade
 
 
 
 Rules for Coursework: 
 
-- Coursework must be submitted on **Canvas by 14:00 on Wednesday 1st May 2024**
-- Submit **PDFs only**. Either:
-	* Write on tablet and submit PDF Output
-	* Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
+
+- Coursework will be available from Week 1
+
+- We will discuss coursework exercises in class
+
+- Coursework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Wednesday 1st May 2024**
 
 
 
 Rules for Homework:
 
+- There will be 10 Homework papers, posted weekly on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** 
 
-- Each Homework paper is worth 14 points. The final Homework grade will be computed summing the top 7 scores, for a maximum of 98 points. 
-Bonus 2 points will be added to the final score.
+- Each Homework paper is worth 14 points
 
-- Homework papers will be posted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)**. 
+- Final Homework grade computed summing the top 7 scores, for a maximum of 98 points. Bonus 2 points will be added to the final score
 
-- Homework papers must be submitted on **Canvas by 14:00 on Mondays**. Due dates are listed **[below](#homework)**
+- Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Mondays**. Due dates are listed **[below](#homework)**
 
-- Submit **PDFs only**. Either:
+
+
+How to submit assignments:
+
+- Submit **PDFs only** on **[Canvas](https://canvas.hull.ac.uk/courses/70065)**
+
+- You have two options:
 	* Write on tablet and submit PDF Output
 	* Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
-
-
 
 
 
@@ -143,7 +149,7 @@ Bonus 2 points will be added to the final score.
 - **Main References**: The book by Bingham and Fry <d-cite key="bingham-fry"></d-cite>, and the one by Fry and Burke <d-cite key="fry-burke"></d-cite>
 
 
-- **Probability and Statistics Manual: The book by Casella and Berger <d-cite key="casella-berger"></d-cite>
+- **Probability and Statistics Manual**: The book by Casella and Berger <d-cite key="casella-berger"></d-cite>
 
 
 - **Statistics with R**: The book by Dalgaard <d-cite key="dalgaard"></d-cite>
@@ -157,24 +163,24 @@ Bonus 2 points will be added to the final score.
 
 
 The course Slides are available 
-**[here](https://www.silviofanzon.com/2023-Statistical-Models-Slides/)**. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are below.
+**[here](https://www.silviofanzon.com/2023-Statistical-Models-Slides/)**. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below
 
 
 
-|**Week**|**Start** | **End**  |   **Topics**                                                                             | **Additional Material                                                         |
-|: ------|: ------- |:-------- |:---------  	                                                                          | :---------                                                                    |
-| Week 1 | 29/01/24 | 02/02/24 | Introduction. Probability Revision. Moment Generating Function.                          | None                                                                          |
-| Week 2 | 05/02/24 | 09/02/24 | TBA                                                                                      | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)           |
-| Week 3 | 12/02/24 | 16/02/24 | TBA                                                                                      |                                                                               |
-| Week 4 | 19/02/24 | 23/02/24 | TBA                                                                                      |                                                                               |
-| Week 5 | 26/02/24 | 01/03/24 | TBA                                                                                      |                                                                               |
-| Week 6 | 04/03/24 | 08/03/24 | TBA                                                                                      |                                                                               |
-| Week 7 | 11/03/24 | 15/03/24 | TBA                                                                                      |                                                                               |
-| Week 8 | 18/03/24 | 22/03/24 | TBA                                                                                      |                                                                               |
-| Week 9 | 08/04/24 | 12/04/24 | TBA                                                                                      |                                                                               |
-| Week 10| 15/04/24 | 19/04/24 | TBA                                                                                      |                                                                               |
-| Week 11| 22/04/24 | 26/04/24 | TBA                                                                                      |                                                                               |
-| Week 12| 29/04/24 | 03/05/24 | Coursework submission. Coursework correction.                                            |   None                                                                        |
+|**Week**|**Starting**| **Topics**                                                                               							|
+|: ------|: -----     |:---------  	                                                                         							|
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework.                                                           |
+|      2 | 5 Feb      | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)        |
+|      3 | 12 Feb     | TBA                                                                                                                                             |
+|      4 | 19 Feb     | TBA                                                                                                                                             |
+|      5 | 26 Feb     | TBA                                                                                                                                             |
+|      6 | 4 Mar      | TBA                                                                                                                                             |
+|      7 | 11 Mar     | TBA                                                                                                                                             |
+|      8 | 18 Mar     | TBA                                                                                                                                             |
+|      9 | 8 Apr      | TBA                                                                                                                                             |
+|      10| 15 Apr     | TBA                                                                                                                                             |
+|      11| 22 Apr     | TBA                                                                                                                                             |
+|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          |
 
 
 
@@ -188,18 +194,18 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 
 
 
-|  **Homework Number** |**Due date**   |  **Topics**                                                                                              |
-|: --------            |:------------- |:---------                                                                                                |
-| 1                    | 05/02/24      |  Poisson distribution. Poisson models for soccer.                                                        |
-| 2                    | 12/02/24      |  TBA                                                                                                     |
-| 3                    | 19/02/24      |  TBA                                                                                                     |
-| 4                    | 26/02/24      |  TBA                                                                                                     |
-| 5                    | 04/03/24      |  TBA                                                                                                     |
-| 6                    | 11/03/24      |  TBA                                                                                                     |
-| 7                    | 18/03/24      |  TBA                                                                                                     |
-| 8                    | 08/04/24      |  TBA                                                                                                     |
-| 9                    | 15/04/24      |  TBA                                                                                                     |
-| 10                   | 22/04/24      |  TBA                                                                                                     |
+|  **Homework #** |**Due date**   |  **Topics**                                                                                              |
+|: --------       |:------------- |:---------                                                                                                |
+| 1               | 5 Feb         |  Poisson distribution. Poisson models for soccer.                                                        |
+| 2               | 12 Feb        |  TBA                                                                                                     |
+| 3               | 19 Feb        |  TBA                                                                                                     |
+| 4               | 26 Feb        |  TBA                                                                                                     |
+| 5               | 4 Mar         |  TBA                                                                                                     |
+| 6               | 11 Mar        |  TBA                                                                                                     |
+| 7               | 18 Mar        |  TBA                                                                                                     |
+| 8               | 8 Apr         |  TBA                                                                                                     |
+| 9               | 15 Apr        |  TBA                                                                                                     |
+| 10              | 22 Apr        |  TBA                                                                                                     |
 
 
 
