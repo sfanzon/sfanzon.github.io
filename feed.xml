@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-16T12:15:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-17T12:05:02+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2023/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2023-12-15T00:00:00+00:00</published><updated>2023-12-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
 This module focusses on both the technical and practical aspects of a range of linear statistical models. We will investigate how and why these models work, what the assumptions 
-behind them are, and how to interpret the results. We will also explore how to use them in practice using the language R.</p>
+behind them are, and how to interpret the results. We will also implement such models using the programming language R.</p>
 
 <ul>
   <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
@@ -43,18 +43,20 @@ behind them are, and how to interpret the results. We will also explore how to u
 
 <ul>
   <li><strong>Coursework Portfolio</strong>: 70% of final grade</li>
-  <li><strong>Homework</strong>: 30% of final grade. There will be 10 Homework papers. Top 7 count towards the grade</li>
+  <li><strong>Homework</strong>: 30% of final grade</li>
 </ul>
 
 <p>Rules for Coursework:</p>
 
 <ul>
-  <li>Coursework must be submitted on <strong>Canvas by 14:00 on Wednesday 1st May 2024</strong></li>
-  <li>Submit <strong>PDFs only</strong>. Either:
-    <ul>
-      <li>Write on tablet and submit PDF Output</li>
-      <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
-    </ul>
+  <li>
+    <p>Coursework will be available from Week 1</p>
+  </li>
+  <li>
+    <p>We will discuss coursework exercises in class</p>
+  </li>
+  <li>
+    <p>Coursework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong> by <strong>14:00 on Wednesday 1st May 2024</strong></p>
   </li>
 </ul>
 
@@ -62,17 +64,27 @@ behind them are, and how to interpret the results. We will also explore how to u
 
 <ul>
   <li>
-    <p>Each Homework paper is worth 14 points. The final Homework grade will be computed summing the top 7 scores, for a maximum of 98 points. 
-Bonus 2 points will be added to the final score.</p>
+    <p>There will be 10 Homework papers, posted weekly on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong></p>
   </li>
   <li>
-    <p>Homework papers will be posted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong>.</p>
+    <p>Each Homework paper is worth 14 points</p>
   </li>
   <li>
-    <p>Homework papers must be submitted on <strong>Canvas by 14:00 on Mondays</strong>. Due dates are listed <strong><a href="#homework">below</a></strong></p>
+    <p>Final Homework grade computed summing the top 7 scores, for a maximum of 98 points. Bonus 2 points will be added to the final score</p>
   </li>
   <li>
-    <p>Submit <strong>PDFs only</strong>. Either:</p>
+    <p>Homework papers must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong> by <strong>14:00 on Mondays</strong>. Due dates are listed <strong><a href="#homework">below</a></strong></p>
+  </li>
+</ul>
+
+<p>How to submit assignments:</p>
+
+<ul>
+  <li>
+    <p>Submit <strong>PDFs only</strong> on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong></p>
+  </li>
+  <li>
+    <p>You have two options:</p>
     <ul>
       <li>Write on tablet and submit PDF Output</li>
       <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
@@ -101,7 +113,7 @@ Bonus 2 points will be added to the final score.</p>
     <p><strong>Main References</strong>: The book by Bingham and Fry <d-cite key="bingham-fry"></d-cite>, and the one by Fry and Burke <d-cite key="fry-burke"></d-cite></p>
   </li>
   <li>
-    <p>**Probability and Statistics Manual: The book by Casella and Berger <d-cite key="casella-berger"></d-cite></p>
+    <p><strong>Probability and Statistics Manual</strong>: The book by Casella and Berger <d-cite key="casella-berger"></d-cite></p>
   </li>
   <li>
     <p><strong>Statistics with R</strong>: The book by Dalgaard <d-cite key="dalgaard"></d-cite></p>
@@ -111,102 +123,76 @@ Bonus 2 points will be added to the final score.</p>
 <h2 id="lectures-diary">Lectures Diary</h2>
 
 <p>The course Slides are available 
-<strong><a href="https://www.silviofanzon.com/2023-Statistical-Models-Slides/">here</a></strong>. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are below.</p>
+<strong><a href="https://www.silviofanzon.com/2023-Statistical-Models-Slides/">here</a></strong>. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below</p>
 
 <table>
   <thead>
     <tr>
       <th><strong>Week</strong></th>
-      <th><strong>Start</strong></th>
-      <th style="text-align: left"><strong>End</strong></th>
+      <th><strong>Starting</strong></th>
       <th style="text-align: left"><strong>Topics</strong></th>
-      <th style="text-align: left">**Additional Material</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Week 1</td>
-      <td>29/01/24</td>
-      <td style="text-align: left">02/02/24</td>
-      <td style="text-align: left">Introduction. Probability Revision. Moment Generating Function.</td>
-      <td style="text-align: left">None</td>
+      <td>1</td>
+      <td>29 Jan</td>
+      <td style="text-align: left">Introduction. Probability Revision. Moment Generating Function. Discussed coursework.</td>
     </tr>
     <tr>
-      <td>Week 2</td>
-      <td>05/02/24</td>
-      <td style="text-align: left">09/02/24</td>
-      <td style="text-align: left">TBA</td>
+      <td>2</td>
+      <td>5 Feb</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt">R Code</a>, <a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt">Dataset</a></td>
     </tr>
     <tr>
-      <td>Week 3</td>
-      <td>12/02/24</td>
-      <td style="text-align: left">16/02/24</td>
+      <td>3</td>
+      <td>12 Feb</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 4</td>
-      <td>19/02/24</td>
-      <td style="text-align: left">23/02/24</td>
+      <td>4</td>
+      <td>19 Feb</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 5</td>
-      <td>26/02/24</td>
-      <td style="text-align: left">01/03/24</td>
+      <td>5</td>
+      <td>26 Feb</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 6</td>
-      <td>04/03/24</td>
-      <td style="text-align: left">08/03/24</td>
+      <td>6</td>
+      <td>4 Mar</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 7</td>
-      <td>11/03/24</td>
-      <td style="text-align: left">15/03/24</td>
+      <td>7</td>
+      <td>11 Mar</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 8</td>
-      <td>18/03/24</td>
-      <td style="text-align: left">22/03/24</td>
+      <td>8</td>
+      <td>18 Mar</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 9</td>
-      <td>08/04/24</td>
-      <td style="text-align: left">12/04/24</td>
+      <td>9</td>
+      <td>8 Apr</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 10</td>
-      <td>15/04/24</td>
-      <td style="text-align: left">19/04/24</td>
+      <td>10</td>
+      <td>15 Apr</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 11</td>
-      <td>22/04/24</td>
-      <td style="text-align: left">26/04/24</td>
+      <td>11</td>
+      <td>22 Apr</td>
       <td style="text-align: left">TBA</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
-      <td>Week 12</td>
-      <td>29/04/24</td>
-      <td style="text-align: left">03/05/24</td>
-      <td style="text-align: left">Coursework submission. Coursework correction.</td>
-      <td style="text-align: left">None</td>
+      <td>12</td>
+      <td>29 Apr</td>
+      <td style="text-align: left">Coursework submission deadline. Coursework correction.</td>
     </tr>
   </tbody>
 </table>
@@ -218,7 +204,7 @@ Bonus 2 points will be added to the final score.</p>
 <table>
   <thead>
     <tr>
-      <th><strong>Homework Number</strong></th>
+      <th><strong>Homework #</strong></th>
       <th style="text-align: left"><strong>Due date</strong></th>
       <th style="text-align: left"><strong>Topics</strong></th>
     </tr>
@@ -226,52 +212,52 @@ Bonus 2 points will be added to the final score.</p>
   <tbody>
     <tr>
       <td>1</td>
-      <td style="text-align: left">05/02/24</td>
+      <td style="text-align: left">5 Feb</td>
       <td style="text-align: left">Poisson distribution. Poisson models for soccer.</td>
     </tr>
     <tr>
       <td>2</td>
-      <td style="text-align: left">12/02/24</td>
+      <td style="text-align: left">12 Feb</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>3</td>
-      <td style="text-align: left">19/02/24</td>
+      <td style="text-align: left">19 Feb</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>4</td>
-      <td style="text-align: left">26/02/24</td>
+      <td style="text-align: left">26 Feb</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>5</td>
-      <td style="text-align: left">04/03/24</td>
+      <td style="text-align: left">4 Mar</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>6</td>
-      <td style="text-align: left">11/03/24</td>
+      <td style="text-align: left">11 Mar</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>7</td>
-      <td style="text-align: left">18/03/24</td>
+      <td style="text-align: left">18 Mar</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>8</td>
-      <td style="text-align: left">08/04/24</td>
+      <td style="text-align: left">8 Apr</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>9</td>
-      <td style="text-align: left">15/04/24</td>
+      <td style="text-align: left">15 Apr</td>
       <td style="text-align: left">TBA</td>
     </tr>
     <tr>
       <td>10</td>
-      <td style="text-align: left">22/04/24</td>
+      <td style="text-align: left">22 Apr</td>
       <td style="text-align: left">TBA</td>
     </tr>
   </tbody>
