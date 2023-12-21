@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-21T14:18:38+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-21T14:20:10+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2023/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2023-12-15T00:00:00+00:00</published><updated>2023-12-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -127,7 +127,8 @@ behind them are, and how to interpret the results. We will also implement such m
 
 <p>|<strong>Week</strong>|<strong>Starting</strong>| <strong>Topics</strong>      | <em>Material</em>                                                                 							|
 |: ——|: —–     |:———       | :———                                                                    						|
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. | None                                                    |<br />
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. |
+<a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide">Slides</a>                                                    |<br />
 |      2 | 5 Feb      |                                                                                       |
 <a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt">R Code</a>, 
 <a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt">Dataset</a>  | 
