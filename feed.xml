@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-21T14:20:10+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-21T14:26:59+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2023/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2023-12-15T00:00:00+00:00</published><updated>2023-12-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -125,23 +125,90 @@ behind them are, and how to interpret the results. We will also implement such m
 <p>The course Slides are available 
 <strong><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/">here</a></strong>. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below</p>
 
-<p>|<strong>Week</strong>|<strong>Starting</strong>| <strong>Topics</strong>      | <em>Material</em>                                                                 							|
-|: ——|: —–     |:———       | :———                                                                    						|
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. |
-<a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide">Slides</a>                                                    |<br />
-|      2 | 5 Feb      |                                                                                       |
-<a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt">R Code</a>, 
-<a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt">Dataset</a>  | 
-|      3 | 12 Feb     | TBA                                                                                                                                             | |
-|      4 | 19 Feb     | TBA                                                                                                                                             | |
-|      5 | 26 Feb     | TBA                                                                                                                                             | |
-|      6 | 4 Mar      | TBA                                                                                                                                             | |
-|      7 | 11 Mar     | TBA                                                                                                                                             | |
-|      8 | 18 Mar     | TBA                                                                                                                                             | |
-|      9 | 8 Apr      | TBA                                                                                                                                             | |
-|      10| 15 Apr     | TBA                                                                                                                                             | |
-|      11| 22 Apr     | TBA                                                                                                                                             | |
-|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          | |</p>
+<table>
+  <thead>
+    <tr>
+      <th><strong>Week</strong></th>
+      <th><strong>Starting</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+      <th style="text-align: left"><strong>Material</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>29 Jan</td>
+      <td style="text-align: left">Introduction. Probability Revision. Moment Generating Function. Discussed coursework.</td>
+      <td style="text-align: left"><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide">Slides</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>5 Feb</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt">R Code</a>, <a href="/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt">Dataset</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>12 Feb</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>19 Feb</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>26 Feb</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>4 Mar</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>11 Mar</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>18 Mar</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>8 Apr</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>15 Apr</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>22 Apr</td>
+      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">TBA</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>29 Apr</td>
+      <td style="text-align: left">Coursework submission deadline. Coursework correction.</td>
+      <td style="text-align: left">None</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="homework">Homework</h2>
 
