@@ -171,7 +171,8 @@ The course Slides are available
 
 |**Week**|**Starting**| **Topics**      | *Material*                                                                 							|
 |: ------|: -----     |:---------       | :---------                                                                    						|
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. | None                                                    |  
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. |
+[Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)                                                    |  
 |      2 | 5 Feb      |                                                                                       |
 [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), 
 [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
