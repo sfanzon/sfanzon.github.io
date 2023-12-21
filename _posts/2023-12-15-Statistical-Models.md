@@ -64,7 +64,7 @@ If you have any questions please feel free to `email me`. We will address Homewo
 
 All the course information will be posted on this page, as well as on [Canvas](https://canvas.hull.ac.uk/courses/70065). The links to the reference material are:
 
-- **[Slides](https://www.silviofanzon.com/2023-Statistical-Models-Slides/)**
+- **[Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**
 - **[Lectures Diary](#lectures-diary)**
 - **[Homework](#homework)**
 
@@ -117,6 +117,8 @@ Rules for Homework:
 
 
 
+
+
 How to submit assignments:
 
 - Submit **PDFs only** on **[Canvas](https://canvas.hull.ac.uk/courses/70065)**
@@ -143,7 +145,7 @@ How to submit assignments:
 ## References
 
 
-- **Slides**: Available **[here](https://www.silviofanzon.com/2023-Statistical-Models-Slides/)**
+- **Slides**: Available **[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**
 
 
 - **Main References**: The book by Bingham and Fry <d-cite key="bingham-fry"></d-cite>, and the one by Fry and Burke <d-cite key="fry-burke"></d-cite>
@@ -163,24 +165,26 @@ How to submit assignments:
 
 
 The course Slides are available 
-**[here](https://www.silviofanzon.com/2023-Statistical-Models-Slides/)**. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below
+**[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below
 
 
 
-|**Week**|**Starting**| **Topics**                                                                               							|
-|: ------|: -----     |:---------  	                                                                         							|
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework.                                                           |
-|      2 | 5 Feb      | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)        |
-|      3 | 12 Feb     | TBA                                                                                                                                             |
-|      4 | 19 Feb     | TBA                                                                                                                                             |
-|      5 | 26 Feb     | TBA                                                                                                                                             |
-|      6 | 4 Mar      | TBA                                                                                                                                             |
-|      7 | 11 Mar     | TBA                                                                                                                                             |
-|      8 | 18 Mar     | TBA                                                                                                                                             |
-|      9 | 8 Apr      | TBA                                                                                                                                             |
-|      10| 15 Apr     | TBA                                                                                                                                             |
-|      11| 22 Apr     | TBA                                                                                                                                             |
-|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          |
+|**Week**|**Starting**| **Topics**      | *Material*                                                                 							|
+|: ------|: -----     |:---------       | :---------                                                                    						|
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. | None                                                    |  
+|      2 | 5 Feb      |                                                                                       |
+[R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), 
+[Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
+|      3 | 12 Feb     | TBA                                                                                                                                             | |
+|      4 | 19 Feb     | TBA                                                                                                                                             | |
+|      5 | 26 Feb     | TBA                                                                                                                                             | |
+|      6 | 4 Mar      | TBA                                                                                                                                             | |
+|      7 | 11 Mar     | TBA                                                                                                                                             | |
+|      8 | 18 Mar     | TBA                                                                                                                                             | |
+|      9 | 8 Apr      | TBA                                                                                                                                             | |
+|      10| 15 Apr     | TBA                                                                                                                                             | |
+|      11| 22 Apr     | TBA                                                                                                                                             | |
+|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          | |
 
 
 
