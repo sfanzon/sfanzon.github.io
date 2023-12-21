@@ -169,23 +169,20 @@ The course Slides are available
 
 
 
-|**Week**|**Starting**| **Topics**      | *Material*                                                                 							|
-|: ------|: -----     |:---------       | :---------                                                                    						|
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. |
-[Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)                                                    |  
-|      2 | 5 Feb      |                                                                                       |
-[R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), 
-[Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
-|      3 | 12 Feb     | TBA                                                                                                                                             | |
-|      4 | 19 Feb     | TBA                                                                                                                                             | |
-|      5 | 26 Feb     | TBA                                                                                                                                             | |
-|      6 | 4 Mar      | TBA                                                                                                                                             | |
-|      7 | 11 Mar     | TBA                                                                                                                                             | |
-|      8 | 18 Mar     | TBA                                                                                                                                             | |
-|      9 | 8 Apr      | TBA                                                                                                                                             | |
-|      10| 15 Apr     | TBA                                                                                                                                             | |
-|      11| 22 Apr     | TBA                                                                                                                                             | |
-|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          | |
+|**Week**|**Starting**| **Topics**                                                                            | **Material**   											         |
+|: ------|: -----     |:---------      									      | :---------                                                                                               |
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. | [Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide) |
+|      2 | 5 Feb      | TBA                                                                                   | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
+|      3 | 12 Feb     | TBA                                                                                                                                             | TBA  |
+|      4 | 19 Feb     | TBA                                                                                                                                             | TBA  |
+|      5 | 26 Feb     | TBA                                                                                                                                             | TBA  |
+|      6 | 4 Mar      | TBA                                                                                                                                             | TBA  |
+|      7 | 11 Mar     | TBA                                                                                                                                             | TBA  |
+|      8 | 18 Mar     | TBA                                                                                                                                             | TBA  |
+|      9 | 8 Apr      | TBA                                                                                                                                             | TBA  |
+|      10| 15 Apr     | TBA                                                                                                                                             | TBA  |
+|      11| 22 Apr     | TBA                                                                                                                                             | TBA  |
+|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          | None |
 
 
 
