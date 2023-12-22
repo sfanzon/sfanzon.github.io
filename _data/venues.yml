@@ -1,6 +1,7 @@
 ########  JOURNALS  ########
 
 "arXiv":
+  scopus: https://arxiv.org
   url: https://arxiv.org
 
 "AJP":
