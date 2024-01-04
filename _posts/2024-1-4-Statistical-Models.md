@@ -4,7 +4,7 @@ title: Statistical Models
 description: Webpage of the Course 551305 T2 2023/24
 giscus_comments: false
 tags: teaching maths
-date: 2023-12-15
+date: 2024-1-4
 
 
 
@@ -171,7 +171,7 @@ The course Slides are available
 
 |**Week**|**Starting**| **Topics**                                                                            | **Material**   											         |
 |: ------|: -----     |:---------      									      | :---------                                                                                               |
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function. Discussed coursework. | [Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide) |
+|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function.                       | [Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide) |
 |      2 | 5 Feb      | TBA                                                                                   | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
 |      3 | 12 Feb     | TBA                                                                                                                                             | TBA  |
 |      4 | 19 Feb     | TBA                                                                                                                                             | TBA  |
