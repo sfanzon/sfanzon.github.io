@@ -149,11 +149,19 @@ How to submit assignments:
 
 
 - **Main References**: The slides are self-contained and based on the books
+
 	* Bingham and Fry <d-cite key="bingham-fry"></d-cite>
 	* Fry and Burke <d-cite key="fry-burke"></d-cite>
 
 
-- **Secondary References**
+
+[![](/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png){width=97.9%}](https://link.springer.com/book/10.1007/978-1-84882-969-5)
+[![](/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png)](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
+
+
+
+- **Secondary References**: In addition we reccommend the following
+
    * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
    * **Manual of R**: Dalgaard <d-cite key="dalgaard"></d-cite>
