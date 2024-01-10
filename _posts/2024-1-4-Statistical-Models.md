@@ -90,13 +90,10 @@ We have two `Lectures` and one `Tutorial` per week:
 This course will be assessed as follows:
 
 
-|**Coursework Portfolio**| 70% of final grade |
-|: -----                 |: -----             |
-|**Homework**            | 30% of final grade |
-
-
-- **Coursework Portfolio**: 70% of final grade
-- **Homework**: 30% of final grade
+|**Type**                | **Percentage of final grade** |
+|: -----                 |: -----                        |
+|  Coursework Portfolio  | 70%                           |
+|  Homework              | 30%                           |
 
 
 
