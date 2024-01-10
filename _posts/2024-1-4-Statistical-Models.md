@@ -148,14 +148,15 @@ How to submit assignments:
 - **Slides**: Available **[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**
 
 
-- **Main References**: The book by Bingham and Fry <d-cite key="bingham-fry"></d-cite>, and the one by Fry and Burke <d-cite key="fry-burke"></d-cite>
+- **Main References**: The slides are self-contained and based on the books
+	* Bingham and Fry <d-cite key="bingham-fry"></d-cite>
+	* Fry and Burke <d-cite key="fry-burke"></d-cite>
 
 
-- **Probability and Statistics Manual**: The book by Casella and Berger <d-cite key="casella-berger"></d-cite>
-
-
-- **Statistics with R**: The book by Dalgaard <d-cite key="dalgaard"></d-cite>
-
+- **Secondary References**
+   * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
+   * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
+   * **Manual of R**: Dalgaard <d-cite key="dalgaard"></d-cite>
 
 
 
@@ -164,25 +165,28 @@ How to submit assignments:
 
 
 
-The course Slides are available 
-**[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**. Each week we have 2 Lectures of 2h each and a Tutorial of 1h. Dates and topics are listed below
+There are **11 lectures** in this module. Links to the slides and lecture titles are below.
 
 
 
-|**Week**|**Starting**| **Topics**                                                                            | **Material**   											         |
-|: ------|: -----     |:---------      									      | :---------                                                                                               |
-|      1 | 29 Jan     | Introduction. Probability Revision. Moment Generating Function.                       | [Slides](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide) |
-|      2 | 5 Feb      | TBA                                                                                   | [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt)  | 
-|      3 | 12 Feb     | TBA                                                                                                                                             | TBA  |
-|      4 | 19 Feb     | TBA                                                                                                                                             | TBA  |
-|      5 | 26 Feb     | TBA                                                                                                                                             | TBA  |
-|      6 | 4 Mar      | TBA                                                                                                                                             | TBA  |
-|      7 | 11 Mar     | TBA                                                                                                                                             | TBA  |
-|      8 | 18 Mar     | TBA                                                                                                                                             | TBA  |
-|      9 | 8 Apr      | TBA                                                                                                                                             | TBA  |
-|      10| 15 Apr     | TBA                                                                                                                                             | TBA  |
-|      11| 22 Apr     | TBA                                                                                                                                             | TBA  |
-|      12| 29 Apr     | Coursework submission deadline. Coursework correction.                                                                                          | None |
+|**Week of**| **Slides**                                                                                                   | **Title**   					    |
+|: -----    |:---------      									                           | :---------                                             |
+| 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                          |  
+| 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | TBA                                                    |
+| 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | TBA                                                    |
+| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | TBA                                                    |
+| 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                                    |
+| 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | TBA                                                    |
+| 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                                    |
+| 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                                    |
+| 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | TBA                                                    |
+| 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                                    |
+| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| TBA                                                    |
+| 29 Apr    | Revision Week                                                                                                | Coursework submission deadline                         |
+
+
+
+[R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt) 
 
 
 
@@ -190,9 +194,7 @@ The course Slides are available
 ## Homework
 
 
-
 Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065) by 14:00 on Mondays**
-
 
 
 
