@@ -160,15 +160,12 @@ This course will be assessed as follows:
 
 
 
-<img src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="48%"/>
-<img src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="48%"/>
-
-[![](/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png){width=97.9%}](https://link.springer.com/book/10.1007/978-1-84882-969-5)
-[![](/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png)](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
+[<img src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="47%"/>](https://link.springer.com/book/10.1007/978-1-84882-969-5)
+[<img src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%"/>](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
 
 
 
-- **Secondary References**: In addition we reccommend the following
+- **Secondary References**: In addition we reccomend the following
 
    * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
