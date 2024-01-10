@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-10T12:16:49+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-10T12:27:47+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -109,13 +109,23 @@ behind them are, and how to interpret the results. We will also implement such m
   <li>
     <p><strong>Slides</strong>: Available <strong><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/">here</a></strong></p>
   </li>
-  <li><strong>Main References</strong>: The slides are self-contained and based on the books
+  <li>
+    <p><strong>Main References</strong>: The slides are self-contained and based on the books</p>
+
     <ul>
       <li>Bingham and Fry <d-cite key="bingham-fry"></d-cite></li>
       <li>Fry and Burke <d-cite key="fry-burke"></d-cite></li>
     </ul>
   </li>
-  <li><strong>Secondary References</strong>
+</ul>
+
+<p><a href="https://link.springer.com/book/10.1007/978-1-84882-969-5"><img src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="" />{width=97.9%}</a>
+<a href="https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group"><img src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="" /></a></p>
+
+<ul>
+  <li>
+    <p><strong>Secondary References</strong>: In addition we reccommend the following</p>
+
     <ul>
       <li><strong>Probability &amp; Statistics Manual</strong>: Casella and Berger <d-cite key="casella-berger"></d-cite></li>
       <li><strong>Easier Probability &amp; Statistics Manual</strong>: DeGroot and Schervish <d-cite key="degroot"></d-cite></li>
