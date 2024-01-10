@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-10T12:47:51+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-10T12:48:36+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -133,8 +133,8 @@ behind them are, and how to interpret the results. We will also implement such m
   </li>
 </ul>
 
-<p><a href="https://link.springer.com/book/10.1007/978-1-84882-969-5"><img src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="47%" /></a>
-<a href="https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group"><img src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%" /></a></p>
+<p><a href="https://link.springer.com/book/10.1007/978-1-84882-969-5"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="47%" /></a>
+<a href="https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%" /></a></p>
 
 <ul>
   <li>
