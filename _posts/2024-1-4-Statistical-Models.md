@@ -89,12 +89,18 @@ We have two `Lectures` and one `Tutorial` per week:
 
 This course will be assessed as follows:
 
+
+|**Coursework Portfolio**| 70% of final grade |
+|: -----                 |: -----             |
+|**Homework**            | 30% of final grade |
+
+
 - **Coursework Portfolio**: 70% of final grade
 - **Homework**: 30% of final grade
 
 
 
-Rules for Coursework: 
+**Rules for Coursework**: 
 
 
 - Coursework will be available from Week 1
@@ -105,7 +111,8 @@ Rules for Coursework:
 
 
 
-Rules for Homework:
+**Rules for Homework**:
+
 
 - There will be 10 Homework papers, posted weekly on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** 
 
@@ -119,7 +126,8 @@ Rules for Homework:
 
 
 
-How to submit assignments:
+**How to submit assignments**:
+
 
 - Submit **PDFs only** on **[Canvas](https://canvas.hull.ac.uk/courses/70065)**
 
