@@ -160,8 +160,8 @@ This course will be assessed as follows:
 
 
 
-[<img src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="47%"/>](https://link.springer.com/book/10.1007/978-1-84882-969-5)
-[<img src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%"/>](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
+[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="47%"/>](https://link.springer.com/book/10.1007/978-1-84882-969-5)
+[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%"/>](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
 
 
 
