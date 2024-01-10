@@ -90,7 +90,7 @@ We have two `Lectures` and one `Tutorial` per week:
 This course will be assessed as follows:
 
 
-|**Type**                | **Percentage of final grade** |
+|**Type of Assessment**                | **Percentage of final grade** |
 |: -----                 |: -----                        |
 |  Coursework Portfolio  | 70%                           |
 |  Homework              | 30%                           |
@@ -135,6 +135,7 @@ This course will be assessed as follows:
 
 
 
+
 ## Topics
 
 - Linear regression models with one or more explanatory variables
@@ -143,6 +144,7 @@ This course will be assessed as follows:
 - Analysis of variance (ANOVA)
 - Analysis of real-world datasets
 - Statistical software for testing, prediction and visualisation of data
+
 
 
 
