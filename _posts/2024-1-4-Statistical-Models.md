@@ -132,7 +132,7 @@ This course will be assessed as follows:
 
 - You have two options:
 	* Write on tablet and submit PDF Output
-	* Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
+	* Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, ...)
 
 
 
