@@ -100,7 +100,7 @@ This course will be assessed as follows:
 **Rules for Coursework**: 
 
 
-- Coursework will be available from Week 1
+- Coursework available on Canvas from Week 2
 
 - We will discuss coursework exercises in class
 
@@ -115,7 +115,9 @@ This course will be assessed as follows:
 
 - Each Homework paper is worth 14 points
 
-- Final Homework grade computed summing the top 7 scores, for a maximum of 98 points. Bonus 2 points will be added to the final score
+- Final Homework grade computation: 
+    * Sum the top 7 scores, for a maximum of 98 points
+    * Bonus 2 points will be added to the final score
 
 - Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Mondays**. Due dates are listed **[below](#homework)**
 
@@ -167,7 +169,7 @@ This course will be assessed as follows:
 
 
 
-- **Secondary References**: In addition we reccomend the following
+- **Secondary References**: In addition we reccommend the following
 
    * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
