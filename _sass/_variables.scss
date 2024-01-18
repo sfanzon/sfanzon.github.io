@@ -36,6 +36,7 @@ $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 
+
 // Theme colors
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
@@ -49,3 +50,5 @@ $my-green-color:       #00BB8C !default;
 $my-green-color-light: lighten($my-green-color, 15%);
 $my-grey-color-dark:   #222222 !default;
 $my-grey-color-light:  #F5F5F5 !default;
+$my-teal-color:        #32D3D8 !default;
+$my-teal-color-light:  lighten($my-teal-color, 15%);

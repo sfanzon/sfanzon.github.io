@@ -43,8 +43,8 @@ html[data-theme='dark'] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$my-grey-color-light};
   --global-text-color-light: #{$my-grey-color-light};
-  --global-theme-color: #{$my-green-color};
-  --global-hover-color: #{$my-green-color-light};
+  --global-theme-color: #{$my-teal-color};
+  --global-hover-color: #{$my-teal-color-light};
   --global-footer-bg-color: #{$my-grey-color-dark};
   --global-footer-text-color: #{$my-grey-color-light};
   --global-footer-link-color: #{$my-grey-color-light};
@@ -53,8 +53,8 @@ html[data-theme='dark'] {
   --global-card-bg-color: #{$grey-900};
   --global-navbar-color: #{$my-grey-color-dark};
   --global-navbar-text-color: #{$my-grey-color-light};
-  --global-navbar-hover-color: #{$my-green-color-light};
-  --global-navbar-active-text-color: #{$my-green-color};
+  --global-navbar-hover-color: #{$my-teal-color-light};
+  --global-navbar-active-text-color: #{$my-teal-color};
 
   .fa-sun {
     padding-left: 10px;
