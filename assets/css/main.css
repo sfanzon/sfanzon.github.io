@@ -43,8 +43,8 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #F5F5F5;
   --global-text-color-light: #F5F5F5;
-  --global-theme-color: #00BB8C;
-  --global-hover-color: #09ffc1;
+  --global-theme-color: #32D3D8;
+  --global-hover-color: #72e1e4;
   --global-footer-bg-color: #222222;
   --global-footer-text-color: #F5F5F5;
   --global-footer-link-color: #F5F5F5;
@@ -53,8 +53,8 @@ html[data-theme=dark] {
   --global-card-bg-color: #212529;
   --global-navbar-color: #222222;
   --global-navbar-text-color: #F5F5F5;
-  --global-navbar-hover-color: #09ffc1;
-  --global-navbar-active-text-color: #00BB8C;
+  --global-navbar-hover-color: #72e1e4;
+  --global-navbar-active-text-color: #32D3D8;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
