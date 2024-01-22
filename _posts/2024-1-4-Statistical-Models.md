@@ -100,11 +100,11 @@ This course will be assessed as follows:
 **Rules for Coursework**: 
 
 
-- Coursework available on Canvas from Week 2
+- Coursework available on Canvas from Week 3
 
 - We will discuss coursework exercises in class
 
-- Coursework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Wednesday 1st May 2024**
+- Coursework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Thursday 2nd May 2024**
 
 
 
@@ -116,7 +116,7 @@ This course will be assessed as follows:
 - Each Homework paper is worth 14 points
 
 - Final Homework grade computation: 
-    * Sum the top 7 scores, for a maximum of 98 points
+    * Sum the top 7 scores (max score 98 points)
     * Bonus 2 points will be added to the final score
 
 - Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/70065)** by **14:00 on Mondays**. Due dates are listed **[below](#homework)**
@@ -133,6 +133,13 @@ This course will be assessed as follows:
 - You have two options:
 	* Write on tablet and submit PDF Output
 	* Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, ...)
+
+
+**Important**: I will not mark
+
+
+- Assignments submitted **outside of Canvas**
+- Assignments submitted **After the Deadline**
 
 
 
@@ -179,8 +186,6 @@ This course will be assessed as follows:
 
 
 ## Lectures Diary
-
-
 
 There are **11 lectures** in this module. Links to the slides and lecture titles are below.
 
