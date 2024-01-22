@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-22T12:30:51+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-22T15:14:59+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -64,13 +64,13 @@ behind them are, and how to interpret the results. We will also implement such m
 
 <ul>
   <li>
-    <p>Coursework available on Canvas from Week 2</p>
+    <p>Coursework available on Canvas from Week 3</p>
   </li>
   <li>
     <p>We will discuss coursework exercises in class</p>
   </li>
   <li>
-    <p>Coursework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong> by <strong>14:00 on Wednesday 1st May 2024</strong></p>
+    <p>Coursework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/70065">Canvas</a></strong> by <strong>14:00 on Thursday 2nd May 2024</strong></p>
   </li>
 </ul>
 
@@ -85,7 +85,7 @@ behind them are, and how to interpret the results. We will also implement such m
   </li>
   <li>Final Homework grade computation:
     <ul>
-      <li>Sum the top 7 scores, for a maximum of 98 points</li>
+      <li>Sum the top 7 scores (max score 98 points)</li>
       <li>Bonus 2 points will be added to the final score</li>
     </ul>
   </li>
@@ -105,6 +105,13 @@ behind them are, and how to interpret the results. We will also implement such m
       <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, …)</li>
     </ul>
   </li>
+</ul>
+
+<p><strong>Important</strong>: I will not mark</p>
+
+<ul>
+  <li>Assignments submitted <strong>outside of Canvas</strong></li>
+  <li>Assignments submitted <strong>After the Deadline</strong></li>
 </ul>
 
 <h2 id="topics">Topics</h2>
