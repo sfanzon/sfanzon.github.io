@@ -194,7 +194,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 |**Week of**| **Slides**                                                                                                   | **Title**   					    |
 |: -----    |:---------      									                           | :---------                                             |
 | 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                          |  
-| 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | TBA                                                    |
+| 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Normal distribution family and Hypothesis Tests        |
 | 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | TBA                                                    |
 | 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | TBA                                                    |
 | 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                                    |
