@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-27T18:30:31+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-02-02T17:31:30+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -177,12 +177,12 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>5 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide">Lecture 2</a></td>
-      <td style="text-align: left">Normal distribution family and Hypothesis Tests</td>
+      <td style="text-align: left">Multivariate distributions</td>
     </tr>
     <tr>
       <td>12 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide">Lecture 3</a></td>
-      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">Normal distribution family and Hypothesis Tests</td>
     </tr>
     <tr>
       <td>19 Feb</td>
