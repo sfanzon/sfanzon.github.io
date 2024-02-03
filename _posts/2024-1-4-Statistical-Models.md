@@ -222,8 +222,8 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 
 |  **Homework #** |**Due date**   |  **Topics**                                                                                              |
 |: --------       |:------------- |:---------                                                                                                |
-| 1               | 5 Feb         |  Moment generating function. Poisson distribution.                          |
-| 2               | 12 Feb        |  TBA                                                                                                     |
+| 1               | 5 Feb         |  Moment generating function. Poisson distribution.                                                       |
+| 2               | 12 Feb        |  Poisson models for soccer                                                                               |
 | 3               | 19 Feb        |  TBA                                                                                                     |
 | 4               | 26 Feb        |  TBA                                                                                                     |
 | 5               | 4 Mar         |  TBA                                                                                                     |
