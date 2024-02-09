@@ -196,7 +196,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                          |  
 | 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Multivariate distributions                             |
 | 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Random samples                                         |
-| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | TBA                                                    |
+| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | R crash course                                         |
 | 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                                    |
 | 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | TBA                                                    |
 | 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                                    |
@@ -224,7 +224,7 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 |: --------       |:------------- |:---------                                                                                                |
 | 1               | 5 Feb         |  Moment generating function. Poisson distribution.                                                       |
 | 2               | 12 Feb        |  Poisson models for soccer                                                                               |
-| 3               | 19 Feb        |  TBA                                                                                                     |
+| 3               | 19 Feb        |  Computing the pdf of Student's t distribution                                                           |
 | 4               | 26 Feb        |  TBA                                                                                                     |
 | 5               | 4 Mar         |  TBA                                                                                                     |
 | 6               | 11 Mar        |  TBA                                                                                                     |
