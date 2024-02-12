@@ -191,22 +191,27 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 
 
-|**Week of**| **Slides**                                                                                                   | **Title**   					    |
-|: -----    |:---------      									                           | :---------                                             |
-| 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                          |  
-| 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Multivariate distributions                             |
-| 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Random samples                                         |
-| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | R crash course                                         |
-| 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                                    |
-| 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | TBA                                                    |
-| 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                                    |
-| 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                                    |
-| 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | TBA                                                    |
-| 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                                    |
-| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| TBA                                                    |
-| 29 Apr    | Revision Week                                                                                                | Coursework submission deadline                         |
+|**Week of**| **Slides**                                                                                                   | **Title**  			            |
+|: -----    |:---------      									                           | :---------                                     |
+| 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                  |  
+| 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Multivariate distributions                     |
+| 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Random samples                                 |
+| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Hypothesis testing in R                        |
+| 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                            |
+| 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | TBA                                            |
+| 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                            |
+| 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                            |
+| 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | TBA                                            |
+| 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                            |
+| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| TBA                                            |
+| 29 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
 
 
+
+## Supplementary Material
+
+- Statistical Tables: [Link](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
+- Lecture 3: Codes, Dataset
 
 [R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt) 
 
