@@ -24,11 +24,12 @@ toc:
   - name: General Information
   - name: Questions
   - name: Key Links
-  - name: Lectures
+  - name: Lectures Calendar
   - name: Assessment
   - name: Topics
   - name: References
   - name: Lectures Diary
+  - name: Supplementary Material	
   - name: Homework
 
 
@@ -71,7 +72,7 @@ All the course information will be posted on this page, as well as on [Canvas](h
 
 
 
-## Lectures
+## Lectures Calendar
 
 
 We have two `Lectures` and one `Tutorial` per week:
