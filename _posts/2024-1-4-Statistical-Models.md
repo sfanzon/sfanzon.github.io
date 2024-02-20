@@ -177,12 +177,12 @@ This course will be assessed as follows:
 
 
 
-- **Secondary References**: In addition we reccommend the following
+- **Secondary References**: In addition we recommend the following
 
    * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
-   * **Manual of R**: Dalgaard <d-cite key="dalgaard"></d-cite>
-
+   * **Statistics in R**: Dalgaard <d-cite key="dalgaard"></d-cite>
+   * **Manual of R**: Davies <d-cite key="davies"></d-cite>
 
 
 
@@ -197,8 +197,8 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 29 Jan    | [Lecture 1](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                  |  
 | 5 Feb     | [Lecture 2](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Multivariate distributions                     |
 | 12 Feb    | [Lecture 3](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Random samples                                 |
-| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Hypothesis testing in R                        |
-| 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | TBA                                            |
+| 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Hypothesis tests in R -- Part 1                |
+| 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Hypothesis tests in R -- Part 2                |
 | 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | TBA                                            |
 | 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                            |
 | 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                            |
@@ -212,9 +212,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 ## Supplementary Material
 
 - Statistical Tables: [Link](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
-- Lecture 3: Codes, Dataset
-
-[R Code](/assets/pdf/teaching/2024-Statistical-Models/L2_Rcode.txt), [Dataset](/assets/pdf/teaching/2024-Statistical-Models/L2_Data.txt) 
+- Lecture 5: [Family Guy Dataset](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt.pdf)
 
 
 
@@ -231,8 +229,8 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 1               | 5 Feb         |  Moment generating function. Poisson distribution.                                                       |
 | 2               | 12 Feb        |  Poisson models for soccer                                                                               |
 | 3               | 19 Feb        |  Computing the pdf of Student's t distribution                                                           |
-| 4               | 26 Feb        |  TBA                                                                                                     |
-| 5               | 4 Mar         |  TBA                                                                                                     |
+| 4               | 26 Feb        |  t-test in R and by hand                                                                                 |
+| 5               | 4 Mar         |  chi-squared test                                                                                        |
 | 6               | 11 Mar        |  TBA                                                                                                     |
 | 7               | 18 Mar        |  TBA                                                                                                     |
 | 8               | 8 Apr         |  TBA                                                                                                     |
