@@ -181,8 +181,8 @@ This course will be assessed as follows:
 
    * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
-   * **Statistics in R**: Dalgaard <d-cite key="dalgaard"></d-cite>
-   * **Manual of R**: Davies <d-cite key="davies"></d-cite>
+   * **Concise Statistics with R**: Dalgaard <d-cite key="dalgaard"></d-cite>
+   * **Comprehensive R manual**: Davies <d-cite key="davies"></d-cite>
 
 
 
