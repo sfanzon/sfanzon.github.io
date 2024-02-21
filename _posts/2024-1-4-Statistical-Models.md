@@ -27,10 +27,10 @@ toc:
   - name: Lectures Calendar
   - name: Assessment
   - name: Topics
-  - name: References
   - name: Lectures Diary
   - name: Supplementary Material	
   - name: Homework
+  - name: References
 
 
 
@@ -159,33 +159,6 @@ This course will be assessed as follows:
 
 
 
-## References
-
-
-- **Slides**: Available **[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**
-
-
-- **Main References**: The slides are self-contained and based on the books
-
-	* Bingham and Fry <d-cite key="bingham-fry"></d-cite>
-	* Fry and Burke <d-cite key="fry-burke"></d-cite>
-
-
-
-[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="48%"/>](https://link.springer.com/book/10.1007/978-1-84882-969-5)
-[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%"/>](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
-
-
-
-- **Secondary References**: In addition we recommend the following
-
-   * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
-   * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
-   * **Concise Statistics with R**: Dalgaard <d-cite key="dalgaard"></d-cite>
-   * **Comprehensive R manual**: Davies <d-cite key="davies"></d-cite>
-
-
-
 ## Lectures Diary
 
 There are **11 lectures** in this module. Links to the slides and lecture titles are below.
@@ -239,6 +212,36 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 8               | 8 Apr         |  TBA                                                                                                     |
 | 9               | 15 Apr        |  TBA                                                                                                     |
 | 10              | 22 Apr        |  TBA                                                                                                     |
+
+
+
+
+## References
+
+
+- **Slides**: Available **[here](https://www.silviofanzon.com/2024-Statistical-Models-Slides/)**
+
+
+- **Main References**: The slides are self-contained and based on the books
+
+	* Bingham and Fry <d-cite key="bingham-fry"></d-cite>
+	* Fry and Burke <d-cite key="fry-burke"></d-cite>
+
+
+
+[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="48%"/>](https://link.springer.com/book/10.1007/978-1-84882-969-5)
+[<img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%"/>](https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group)
+
+
+
+- **Secondary References**: In addition we recommend the following
+
+   * **Probability & Statistics Manual**: Casella and Berger <d-cite key="casella-berger"></d-cite> 
+   * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
+   * **Concise Statistics with R**: Dalgaard <d-cite key="dalgaard"></d-cite>
+   * **Comprehensive R manual**: Davies <d-cite key="davies"></d-cite>
+
+
 
 
 
