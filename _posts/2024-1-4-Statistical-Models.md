@@ -214,7 +214,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 - Statistical Tables: [Link](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
 - Lecture 5: [Family Guy Dataset](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt), 
 	     [2008 Crisis Code](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), 
-	     [2008 Crisis Dataset](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt),
+	     [2008 Crisis Dataset](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
 	     
 
 
