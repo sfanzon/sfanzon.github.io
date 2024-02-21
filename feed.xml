@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-02-21T01:03:49+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-02-21T01:07:26+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -123,38 +123,6 @@ behind them are, and how to interpret the results. We will also implement such m
   <li>Analysis of variance (ANOVA)</li>
   <li>Analysis of real-world datasets</li>
   <li>Statistical software for testing, prediction and visualisation of data</li>
-</ul>
-
-<h2 id="references">References</h2>
-
-<ul>
-  <li>
-    <p><strong>Slides</strong>: Available <strong><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/">here</a></strong></p>
-  </li>
-  <li>
-    <p><strong>Main References</strong>: The slides are self-contained and based on the books</p>
-
-    <ul>
-      <li>Bingham and Fry <d-cite key="bingham-fry"></d-cite></li>
-      <li>Fry and Burke <d-cite key="fry-burke"></d-cite></li>
-    </ul>
-  </li>
-</ul>
-
-<p><a href="https://link.springer.com/book/10.1007/978-1-84882-969-5"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="48%" /></a>
-<a href="https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%" /></a></p>
-
-<ul>
-  <li>
-    <p><strong>Secondary References</strong>: In addition we recommend the following</p>
-
-    <ul>
-      <li><strong>Probability &amp; Statistics Manual</strong>: Casella and Berger <d-cite key="casella-berger"></d-cite></li>
-      <li><strong>Easier Probability &amp; Statistics Manual</strong>: DeGroot and Schervish <d-cite key="degroot"></d-cite></li>
-      <li><strong>Concise Statistics with R</strong>: Dalgaard <d-cite key="dalgaard"></d-cite></li>
-      <li><strong>Comprehensive R manual</strong>: Davies <d-cite key="davies"></d-cite></li>
-    </ul>
-  </li>
 </ul>
 
 <h2 id="lectures-diary">Lectures Diary</h2>
@@ -306,7 +274,39 @@ behind them are, and how to interpret the results. We will also implement such m
       <td style="text-align: left">TBA</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 551305 T2 2023/24]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
+</table>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>
+    <p><strong>Slides</strong>: Available <strong><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/">here</a></strong></p>
+  </li>
+  <li>
+    <p><strong>Main References</strong>: The slides are self-contained and based on the books</p>
+
+    <ul>
+      <li>Bingham and Fry <d-cite key="bingham-fry"></d-cite></li>
+      <li>Fry and Burke <d-cite key="fry-burke"></d-cite></li>
+    </ul>
+  </li>
+</ul>
+
+<p><a href="https://link.springer.com/book/10.1007/978-1-84882-969-5"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/bingham_fry.png" alt="drawing" width="48%" /></a>
+<a href="https://www.mheducation.co.uk/quantitative-methods-in-finance-using-r-9780335251261-emea-group"><img align="top" src="/assets/pdf/teaching/2024-Statistical-Models/fry_burke.png" alt="drawing" width="49%" /></a></p>
+
+<ul>
+  <li>
+    <p><strong>Secondary References</strong>: In addition we recommend the following</p>
+
+    <ul>
+      <li><strong>Probability &amp; Statistics Manual</strong>: Casella and Berger <d-cite key="casella-berger"></d-cite></li>
+      <li><strong>Easier Probability &amp; Statistics Manual</strong>: DeGroot and Schervish <d-cite key="degroot"></d-cite></li>
+      <li><strong>Concise Statistics with R</strong>: Dalgaard <d-cite key="dalgaard"></d-cite></li>
+      <li><strong>Comprehensive R manual</strong>: Davies <d-cite key="davies"></d-cite></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 551305 T2 2023/24]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2023/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2023-06-02T00:00:00+00:00</published><updated>2023-06-02T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2023/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2023/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course of <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24.
 This is an introductory course of Mathematical Analysis. We will investigate the properties of real numbers and explore the concept of limit.</p>
