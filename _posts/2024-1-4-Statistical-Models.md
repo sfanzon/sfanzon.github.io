@@ -183,7 +183,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 
 
-# Supplementary Material
+## Supplementary Material
 
 Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
 
