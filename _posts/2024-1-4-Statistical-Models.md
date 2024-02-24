@@ -182,13 +182,6 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 
 
-## Supplementary Material
-
-
-
-- Lecture 5: [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), 
-	     [Dataset: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
-- Lecture 11: [Dataset: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)
 
 # Supplementary Material
 
@@ -200,6 +193,7 @@ Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models
 | Lecture 5   | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) |
 | Lecture 11  | [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)                                                                                         |
 : {tbl-colwidths="[30,70]"}
+
 
 
 ## Homework
