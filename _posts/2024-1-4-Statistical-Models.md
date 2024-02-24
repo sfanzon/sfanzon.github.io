@@ -184,14 +184,22 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 ## Supplementary Material
 
-- Statistical Tables: [Link](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
-- Lecture 4: [One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R)
-- Lecture 5: [Family Guy Dataset](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt), 
-	     [2008 Crisis Code](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), 
-	     [2008 Crisis Dataset](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
-	     
 
 
+- Lecture 5: [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), 
+	     [Dataset: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
+- Lecture 11: [Dataset: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)
+
+# Supplementary Material
+
+Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
+
+| **Lecture** | **Material**                                                                                                                                                            | 
+|:------      |:------                                                                                                                                                                  |
+| Lecture 4   | [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R)                                                                             | 
+| Lecture 5   | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R), [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) |
+| Lecture 11  | [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)                                                                                         |
+: {tbl-colwidths="[30,70]"}
 
 
 ## Homework
@@ -207,7 +215,7 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 2               | 12 Feb        |  Poisson models for soccer                                                                               |
 | 3               | 19 Feb        |  Computing the pdf of Student's t distribution                                                           |
 | 4               | 26 Feb        |  t-test in R and by hand                                                                                 |
-| 5               | 4 Mar         |  chi-squared test in R and by hand                                                                       |
+| 5               | 4 Mar         |  Chi-squared distribution and variance ratio test                                                        |
 | 6               | 11 Mar        |  TBA                                                                                                     |
 | 7               | 18 Mar        |  TBA                                                                                                     |
 | 8               | 8 Apr         |  TBA                                                                                                     |
