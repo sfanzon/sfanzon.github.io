@@ -208,8 +208,8 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 2               | 12 Feb        |  Poisson models for soccer                                                                               |
 | 3               | 19 Feb        |  Computing the pdf of Student's t distribution                                                           |
 | 4               | 26 Feb        |  t-test in R and by hand                                                                                 |
-| 5               | 4 Mar         |  Chi-squared distribution and variance ratio test                                                        |
-| 6               | 11 Mar        |  TBA                                                                                                     |
+| 5               | 4 Mar         |  Cancelled                                                                                               |
+| 6               | 11 Mar        |  Chi-squared distribution and variance ratio test                                                        |
 | 7               | 18 Mar        |  TBA                                                                                                     |
 | 8               | 8 Apr         |  TBA                                                                                                     |
 | 9               | 15 Apr        |  TBA                                                                                                     |
