@@ -161,7 +161,7 @@ This course will be assessed as follows:
 
 ## Lectures Diary
 
-There are **11 lectures** in this module. Links to the slides and lecture titles are below.
+There are **11 lectures** in this module. Links to the slides and lecture titles are below
 
 
 
