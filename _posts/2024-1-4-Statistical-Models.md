@@ -191,7 +191,7 @@ Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models
 |:------      |:------                                                                                                                                                                  |
 | Lecture 4   | [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R)                                                                             | 
 | Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                         | 
-| Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R)                                                                             | 
+| Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test Simple](/assets/pdf/teaching/2024-Statistical-Models/F_test_simple.R)  \|   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    | 
 | Lecture 11  | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R) \| [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) \| [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt) |
 
 
