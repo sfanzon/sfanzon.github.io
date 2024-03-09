@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-08T15:11:45+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-09T16:04:40+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -171,7 +171,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>11 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide">Lecture 7</a></td>
-      <td style="text-align: left">TBA</td>
+      <td style="text-align: left">The chi-squared test</td>
     </tr>
     <tr>
       <td>18 Mar</td>
@@ -229,6 +229,10 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td style="text-align: left">Lecture 6</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R">Code: Two-Sample t-test</a> | <a href="/assets/pdf/teaching/2024-Statistical-Models/F_test_simple.R">Code: F-test Simple</a>  |   <a href="/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R">Code: F-test First Principles</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Lecture 7</td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2024-Statistical-Models/good_fit.R">Code: Goodness-of-fit</a> | <a href="/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R">Code: Goodness-of-fit First Principles</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Appendix</td>
