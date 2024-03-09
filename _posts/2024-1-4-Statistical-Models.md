@@ -173,7 +173,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 19 Feb    | [Lecture 4](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Hypothesis tests in R -- Part 1                |
 | 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Hypothesis tests in R -- Part 2                |
 | 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Two-sample hypothesis tests                    |
-| 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | TBA                                            |
+| 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The chi-squared test                           |
 | 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                            |
 | 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | TBA                                            |
 | 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                            |
@@ -190,8 +190,9 @@ Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models
 | **Lecture** | **Material**                                                                                                                                                            | 
 |:------      |:------                                                                                                                                                                  |
 | Lecture 4   | [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R)                                                                             | 
-| Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                         | 
-| Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test Simple](/assets/pdf/teaching/2024-Statistical-Models/F_test_simple.R)  \|   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    | 
+| Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                         |
+| Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test Simple](/assets/pdf/teaching/2024-Statistical-Models/F_test_simple.R)  \|   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    |
+| Lecture 7   | [Code: Goodness-of-fit](/assets/pdf/teaching/2024-Statistical-Models/good_fit.R) \| [Code: Goodness-of-fit First Principles](/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R) |
 | Appendix    | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R) \| [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) \| [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt) |
 
 
