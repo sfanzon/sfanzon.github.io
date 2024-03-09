@@ -210,10 +210,10 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 2               | 12 Feb        |  Poisson models for soccer                                                                               |
 | 3               | 19 Feb        |  Computing the pdf of Student's t distribution                                                           |
 | 4               | 26 Feb        |  t-test in R and by hand                                                                                 |
-| 5               | 4 Mar         |  Cancelled. Replaced by Homework 8 which is now worth 28 points                                          |
+| 5               | 4 Mar         |  Cancelled. Replaced by Homework 8 now worth 28 points                                                   |
 | 6               | 11 Mar        |  Chi-squared distribution and variance ratio test                                                        |
 | 7               | 18 Mar        |  Properties of chi-squared and F-distribution                                                            |
-| 8               | 8 Apr         |  Homework 8 is worth 28 points. Half of the points go towards Homework 5.                                |
+| 8               | 8 Apr         |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared test                           |
 | 9               | 15 Apr        |  TBA                                                                                                     |
 | 10              | 22 Apr        |  TBA                                                                                                     |
 
