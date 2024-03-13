@@ -153,8 +153,12 @@
   <a href="{{ entry.canvas }}" class="btn btn-sm z-depth-0" role="button">Canvas</a>
   {%- endif %}
   {%- if entry.taster %}
-    <a href="{{ entry.taster }}" class="btn btn-sm z-depth-0" role="button">Taster</a>
-  {%- endif %}
+            {% if entry.pdf contains '://' -%}
+            <a href="{{ entry.taster }}" class="btn btn-sm z-depth-0" role="button">Taster</a>
+            {%- else -%}
+            <a href="{{ entry.taster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">taster</a>
+            {%- endif %}
+          {%- endif %}
   </div>
   
 
