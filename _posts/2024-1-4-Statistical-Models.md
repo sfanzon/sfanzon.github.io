@@ -174,7 +174,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 26 Feb    | [Lecture 5](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Hypothesis tests in R -- Part 2                |
 | 4 Mar     | [Lecture 6](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Two-sample hypothesis tests                    |
 | 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The chi-squared test                           |
-| 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | TBA                                            |
+| 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of Regression                        |
 | 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | TBA                                            |
 | 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                            |
 | 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| TBA                                            |
