@@ -18,7 +18,9 @@ nav_order: 9
       <i class="fas fa-map-marker-alt" style="font-size: 1.3em;"></i> &nbsp;
       Address
       <br>
-      Office 104a Larkin
+      Office 104a
+      <br>
+      Larkin Building
       <br>
       University of Hull
       <br>
