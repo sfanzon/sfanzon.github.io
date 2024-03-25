@@ -323,6 +323,7 @@ scholar:
 badges: # Display different badges for your publications
   altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
+  google_scholar_badge: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [contribution =, dimensions =, =highlight, supervision =, slides_long, slides_short, abbr =, arxiv =, abstract =, bibtex_show, html =, scopus =, sjr =, date-added, date-modified, bdsk-url-1, bdsk-url-2, pdf =, selected =, supp =, blog =, code =, poster =, slides =, website =, preview =, altmetric, video, current =, lecture_notes =, exercises, canvas, course_year, degree]
