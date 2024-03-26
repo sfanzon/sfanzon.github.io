@@ -221,7 +221,6 @@
           </div>
           {% if site.badges %}
             {% assign entry_has_google_scholar_badge = entry.google_scholar_id %}
-            {% assign entry_has_google_scholar_citations = google_scholar_citations site.scholar_userid entry.google_scholar_id %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
@@ -249,7 +248,7 @@
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
-            {% if site.badges.google_scholar_badge and entry_has_google_scholar_badge and entry_has_google_scholar_citations %}
+            {% if site.badges.google_scholar_badge and entry_has_google_scholar_badge %}
             <a
               href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.scholar_userid }}&citation_for_view={{ site.scholar_userid }}:{{ entry.google_scholar_id }}"
               aria-label="Google Scholar link"
