@@ -28,7 +28,8 @@ All my research outputs divided in
 
 <p>
 Authors are in alphabetical order
-
+</p>
+<p>
 <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> denotes authors in order of contribution
 </p>
 
