@@ -27,13 +27,19 @@ All my research outputs divided in
 
 
 <p>
-Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" style="font-size: 0.9em;"></i>
+Authors are in alphabetical order
+
+<i class="fas fa-hashtag" style="font-size: 0.9em;"></i> denotes authors in order of contribution
 </p>
 
 
 <p>
-<a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"><b>Google Scholar profile</b></a>: 
-{{ site.data.scholar.citations }} citations; h-index: {{ site.data.scholar.h_index }}; i10-index: {{ site.data.scholar.i10_index }}
+<a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"><b>Google Scholar profile</b></a>
+<ul>
+    <li>Citations: {{ site.data.scholar.citations }}</li>
+    <li>h-index: {{ site.data.scholar.h_index }}</li>
+    <li>i10-index: {{ site.data.scholar.i10_index }}</li>
+</ul>
 </p>
 
 
