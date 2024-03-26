@@ -245,8 +245,3 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
    * **Easier Probability & Statistics Manual**: DeGroot and Schervish <d-cite key="degroot"></d-cite>
    * **Concise Statistics with R**: Dalgaard <d-cite key="dalgaard"></d-cite>
    * **Comprehensive R manual**: Davies <d-cite key="davies"></d-cite>
-
-
-
-https://img.shields.io/badge/Citations-12-000000?logo=googlescholar&logoColor=white
-https://img.shields.io/badge/Citations-{% google_scholar_citations site.scholar_userid entry.google_scholar_id %}-000000?logo=googlescholar&logoColor=white
