@@ -45,6 +45,38 @@ Authors are in alphabetical order
 </p>
 
 
+<div class="badges">
+<a
+              href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"
+              aria-label="Google Scholar link"
+              role="button"
+            >
+              <img
+                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.citations %}-000000?logo=googlescholar&logoColor=black&style=social"
+                alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar citations"
+              >
+</a>
+<a
+              href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"
+              aria-label="Google Scholar link"
+              role="button"
+            >
+              <img
+                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.h_index %}-000000?logo=googlescholar&logoColor=black&style=social"
+                alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar h-index"
+              >
+</a>
+<a
+              href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"
+              aria-label="Google Scholar link"
+              role="button"
+            >
+              <img
+                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.i10_index %}-000000?logo=googlescholar&logoColor=black&style=social"
+                alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar i10-index"
+              >
+</a>
+</div>
 
 
 <div class="publications">
