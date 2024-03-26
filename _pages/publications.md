@@ -45,7 +45,7 @@ Authors are in alphabetical order
 </p>
 
 
-<div class="badges">
+<div>
 <a
               href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"
               aria-label="Google Scholar link"
