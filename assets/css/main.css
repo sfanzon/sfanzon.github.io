@@ -661,10 +661,14 @@ footer.sticky-bottom {
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
 }
+.publications ol.bibliography li .badges .larger-badges img {
+  width: 110%;
+  height: auto;
+}
 .publications ol.bibliography li .badges span {
   display: inline-block;
   color: #000000;
-  height: 150%;
+  height: 100%;
   padding-right: 0.5rem;
   vertical-align: middle;
 }
