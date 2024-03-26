@@ -49,6 +49,7 @@ Authors are in alphabetical order
 
 
 
+
 <div class="publications">
 
 <a id="journal"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;"><b>Journal Publications</b></h3></a>
