@@ -29,12 +29,12 @@ All my research outputs divided in
 Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" style="font-size: 0.9em;"></i>
 </p>
 
-
-* [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
+<p>
+[Google Scholar profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
 * Citations: {{ site.data.scholar.citations }}
 * h-index: {{ site.data.scholar.h_index }}
 * i10-index: {{ site.data.scholar.i10_index }}
-
+</p>
 
 
 <div class="publications">
