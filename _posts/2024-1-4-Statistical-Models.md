@@ -247,12 +247,5 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
    * **Comprehensive R manual**: Davies <d-cite key="davies"></d-cite>
 
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.scholar_userid }}&citation_for_view={{ site.scholar_userid }}:{{ entry.google_scholar_id }}" aria-label="Google Scholar link" role="button" style="text-decoration: none; display: inline-block; background-color: #4285F4; color: #FFFFFF; padding: 8px 12px; border-radius: 4px;">
-  <img src="your_custom_badge_image_url.png" alt="Google Scholar Badge" style="vertical-align: middle; margin-right: 8px; width: 24px; height: 24px;">
-  <span style="font-weight: bold; vertical-align: middle;">{{ google_scholar_citations }}</span>
-</a>
-
-
-
 
 
