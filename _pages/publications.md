@@ -52,7 +52,7 @@ Authors are in alphabetical order
               role="button"
             >
               <img
-                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.citations %}-000000?logo=googlescholar&logoColor=black&style=social"
+                src="https://img.shields.io/badge/Total_citations-{% site.data.scholar.citations %}-000000?logo=googlescholar&logoColor=white&style=flat"
                 alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar citations"
               >
 </a>
@@ -62,7 +62,7 @@ Authors are in alphabetical order
               role="button"
             >
               <img
-                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.h_index %}-000000?logo=googlescholar&logoColor=black&style=social"
+                src="https://img.shields.io/badge/h--index-{% site.data.scholar.h_index %}-000000?logo=googlescholar&logoColor=white&style=flat"
                 alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar h-index"
               >
 </a>
@@ -72,7 +72,7 @@ Authors are in alphabetical order
               role="button"
             >
               <img
-                src="https://img.shields.io/badge/Total Citations-{% site.data.scholar.i10_index %}-000000?logo=googlescholar&logoColor=black&style=social"
+                src="https://img.shields.io/badge/i10--index-{% site.data.scholar.i10_index %}-000000?logo=googlescholar&logoColor=white&style=for-the-badge"
                 alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar i10-index"
               >
 </a>
