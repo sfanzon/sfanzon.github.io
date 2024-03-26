@@ -34,6 +34,7 @@ Authors are in alphabetical order
 </p>
 
 
+<div class="links" style="margin-top: 0.3rem;">
 <div class="badges">
 <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
 <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?logo=googlescholar&logoColor=white&style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
@@ -45,7 +46,7 @@ Authors are in alphabetical order
 <img src="https://img.shields.io/badge/i10--index-{{ site.data.scholar.i10_index }}-000000?style=flat" alt="{{ site.data.scholar.i10_index }} Google Scholar i10-index">
 </a>
 </div>
-
+</div>
 
 
 
