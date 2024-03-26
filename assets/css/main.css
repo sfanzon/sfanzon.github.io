@@ -664,7 +664,7 @@ footer.sticky-bottom {
 .publications ol.bibliography li .badges span {
   display: inline-block;
   color: #000000;
-  height: 100%;
+  height: 105%;
   padding-right: 0.5rem;
   vertical-align: middle;
 }
