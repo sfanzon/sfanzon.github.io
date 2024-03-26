@@ -32,7 +32,7 @@ Authors are in alphabetical order, unless marked by <i class="fas fa-hashtag" st
 
 
 <p>
-<a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"><b>Google Scholar profile</b></a></li>: 
+<a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"><b>Google Scholar profile</b></a>: 
 {{ site.data.scholar.citations }} citations; h-index: {{ site.data.scholar.h_index }}; i10-index: {{ site.data.scholar.i10_index }}
 </p>
 
