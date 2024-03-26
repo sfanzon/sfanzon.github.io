@@ -33,6 +33,7 @@ Authors are in alphabetical order
 <i class="fas fa-hashtag" style="font-size: 0.9em;"></i> denotes authors in order of contribution
 </p>
 
+<br>
 
 <p>
 <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}"><b>Google Scholar profile</b></a>
