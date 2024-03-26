@@ -35,7 +35,7 @@ Authors are in alphabetical order
 
 
 <div class="links" style="margin-top: 0.3rem;">
-<div class="badges">
+<div class="badges larger-badges">
 <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
 <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?logo=googlescholar&logoColor=white&style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
 </a>
