@@ -248,8 +248,11 @@
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
+            </div>
+            <div class="links" style="margin-top: 0.3rem;">div>
             {% if site.badges.google_scholar_badge and entry_has_google_scholar_badge %}
             <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.scholar_userid }}&citation_for_view={{ site.scholar_userid }}:{{ entry.google_scholar_id }}" class="btn btn-sm z-depth-0" role="button">
+              <i class="ai ai-google-scholar-square" style="font-size: 1.5em; margin-right: 8px">
                 {% google_scholar_citations site.scholar_userid entry.google_scholar_id %} citations 
               </i>
             </a>          
