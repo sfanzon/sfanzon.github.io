@@ -35,7 +35,7 @@ Authors are in alphabetical order
 
 
 <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
-<img src="https://img.shields.io/badge/Total_citations-{{ site.data.scholar.citations }}-000000?logo=googlescholar&logoColor=white&style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
+<img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?logo=googlescholar&logoColor=white&style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
 </a>
 <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
 <img src="https://img.shields.io/badge/h--index-{{ site.data.scholar.h_index }}-000000?logo=googlescholar&logoColor=white&style=plastic" alt="{{ site.data.scholar.h_index }} Google Scholar h-index">
