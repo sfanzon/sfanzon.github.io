@@ -658,6 +658,12 @@ footer.sticky-bottom {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
+.publications ol.bibliography li .large-badges a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 2em;
+}
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
 }
