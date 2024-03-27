@@ -539,7 +539,7 @@ footer.sticky-bottom {
 }
 
 .large-badges img {
-  width: 106%;
+  width: 107%;
   height: auto;
 }
 
@@ -690,6 +690,10 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .badges span:hover {
   text-decoration: underline;
+}
+.publications ol.bibliography li .badges img {
+  width: 106%;
+  height: auto;
 }
 .publications ol.bibliography li .hidden {
   font-size: 0.875rem;
