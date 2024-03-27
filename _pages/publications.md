@@ -34,7 +34,6 @@ Authors are in alphabetical order
 </p>
 
 
-test bus
 
 
 <div class="large-badges" style="margin-top: 0.3rem;">
