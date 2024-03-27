@@ -539,7 +539,7 @@ footer.sticky-bottom {
 }
 
 .large-badges img {
-  width: 120%;
+  width: 105%;
   height: auto;
 }
 
@@ -589,6 +589,7 @@ footer.sticky-bottom {
   background-color: var(--global-theme-color);
   padding-left: 1rem;
   padding-right: 1rem;
+  font-size: 10rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
