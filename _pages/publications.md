@@ -41,6 +41,15 @@ Authors are in alphabetical order
         display: inline-block;
         font-size: 50em;
     }
+
+    .large-badges a:hover {
+        text-decoration: none; /* Remove underline on hover */
+    }
+
+    .large-badges img {
+        width: 110%;
+        height: auto;
+    }
 </style>
 
 <div class="large-badges" style="margin-top: 0.3rem;">
