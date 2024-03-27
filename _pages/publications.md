@@ -35,23 +35,6 @@ Authors are in alphabetical order
 
 
 
-<style>
-    .large-badges a {
-        text-decoration: none;
-        display: inline-block;
-        font-size: 50em;
-    }
-
-    .large-badges a:hover {
-        text-decoration: none; /* Remove underline on hover */
-    }
-
-    .large-badges img {
-        width: 110%;
-        height: auto;
-    }
-</style>
-
 <div class="large-badges" style="margin-top: 0.3rem;">
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}">
         <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
