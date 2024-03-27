@@ -589,7 +589,7 @@ footer.sticky-bottom {
   background-color: var(--global-theme-color);
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 0.96rem;
+  font-size: 0.94rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
