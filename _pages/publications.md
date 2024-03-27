@@ -35,27 +35,7 @@ Authors are in alphabetical order
 
 
 
-<style>
-.large-badges {
-  margin-top: 0.3rem;
-  padding-right: 0.5rem; /* Add padding for separation */
-}
-
-.large-badges a {
-  text-decoration: none;
-  display: inline-block;
-}
-
-.large-badges a:hover {
-  text-decoration: none; /* Remove underline on hover */
-}
-
-.large-badges img {
-  width: 300%;
-  height: auto;
-}
-</style>
-
+TEST
 
 <div class="large-badges" style="margin-top: 0.3rem;">
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}">
