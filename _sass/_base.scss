@@ -580,6 +580,32 @@ footer.sticky-bottom {
 
 
 
+// scholar-badges
+
+.scholar-badges {
+  display: inline-block;
+  margin-top: -1px;
+  margin-bottom: 13px;
+}
+
+.scholar-badges a {
+  text-decoration: none;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.scholar-badges a:hover {
+  text-decoration: none; /* Remove underline on hover */
+}
+
+.scholar-badges img {
+  width: 118%;
+  height: auto;
+}
+
+
+
+
 // Publications
 
 .publications {
@@ -635,7 +661,7 @@ footer.sticky-bottom {
           background-color: var(--global-theme-color);
           padding-left: 1rem;
           padding-right: 1rem;
-          font-size: 0.81rem;
+          font-size: 0.8rem;
           vertical-align: middle;
 
           a {
@@ -760,6 +786,7 @@ footer.sticky-bottom {
         padding-bottom: 0.5rem;
         padding-top: 0.4rem;
 
+
         span {
           display: inline-block;
           color: $black-color;
@@ -773,11 +800,7 @@ footer.sticky-bottom {
         }
       }
 
-      .badges img {
-        width: 21%;
-        height: auto;
-      }
-
+ 
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
