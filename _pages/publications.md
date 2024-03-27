@@ -36,17 +36,20 @@ Authors are in alphabetical order
 
 
 
-<div class="large-badges" style="margin-top: 0.3rem;">
+<div class="large-badges" style="margin-top: 0.5rem;">
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}">
-        <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?style=flat" alt="{{ site.data.scholar.citations }} Google Scholar citations">
+        <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?style=flat" 
+        alt="{{ site.data.scholar.citations }} Google Scholar citations">
     </a>
     &nbsp;
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
-        <img src="https://img.shields.io/badge/h--index-{{ site.data.scholar.h_index }}-000000?style=flat" alt="{{ site.data.scholar.h_index }} Google Scholar h-index">
+        <img src="https://img.shields.io/badge/h--index-{{ site.data.scholar.h_index }}-000000?style=flat" 
+        alt="{{ site.data.scholar.h_index }} Google Scholar h-index">
     </a>
     &nbsp;
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
-        <img src="https://img.shields.io/badge/i10--index-{{ site.data.scholar.i10_index }}-000000?style=flat" alt="{{ site.data.scholar.i10_index }} Google Scholar i10-index">
+        <img src="https://img.shields.io/badge/i10--index-{{ site.data.scholar.i10_index }}-000000?style=flat" 
+        alt="{{ site.data.scholar.i10_index }} Google Scholar i10-index">
     </a>
 </div>
 
