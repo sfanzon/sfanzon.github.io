@@ -526,12 +526,16 @@ footer.sticky-bottom {
 
 .large-badges {
   margin-top: 0.3rem;
-  padding-right: 0.5rem; /* Add padding for separation */
 }
 
 .large-badges a {
   text-decoration: none;
   display: inline-block;
+  margin-right: 1.2em; /* Add padding for separation */
+}
+
+.large-badges a:first-child {
+  margin-right: 1.45em; /* Add margin to the first block to achieve even spacing */
 }
 
 .large-badges a:hover {
@@ -539,7 +543,7 @@ footer.sticky-bottom {
 }
 
 .large-badges img {
-  width: 107%;
+  width: 120%;
   height: auto;
 }
 
@@ -589,7 +593,8 @@ footer.sticky-bottom {
   background-color: var(--global-theme-color);
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 0.93rem;
+  font-size: 0.81rem;
+  vertical-align: middle;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
@@ -680,6 +685,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .badges {
   padding-bottom: 0.5rem;
+  padding-top: 0.4rem;
 }
 .publications ol.bibliography li .badges span {
   display: inline-block;
@@ -692,7 +698,7 @@ footer.sticky-bottom {
   text-decoration: underline;
 }
 .publications ol.bibliography li .badges img {
-  width: 126%;
+  width: 21%;
   height: auto;
 }
 .publications ol.bibliography li .hidden {
