@@ -526,7 +526,7 @@ footer.sticky-bottom {
 
 .large-badges {
   margin-top: 0.3rem;
-  padding-right: 8rem; /* Add padding for separation */
+  padding-right: 0.5rem; /* Add padding for separation */
 }
 
 .large-badges a {
@@ -589,7 +589,7 @@ footer.sticky-bottom {
   background-color: var(--global-theme-color);
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 0.94rem;
+  font-size: 0.93rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
