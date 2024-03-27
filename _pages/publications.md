@@ -39,8 +39,7 @@ Authors are in alphabetical order
     .large-badges a {
         text-decoration: none;
         display: inline-block;
-        padding: 0.3rem 0.3rem;
-        font-size: 5em;
+        font-size: 50em;
     }
 </style>
 
