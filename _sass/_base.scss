@@ -726,6 +726,13 @@ footer.sticky-bottom {
         }
       }
 
+      .large-badges a {
+        text-decoration: none;
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        font-size: 2em;
+      }
+
       .badges {
         padding-bottom: 0.5rem;
 
