@@ -547,27 +547,6 @@ footer.sticky-bottom {
   height: auto;
 }
 
-.scholar-badges {
-  display: inline-block;
-  margin-top: -1px;
-  margin-bottom: 13px;
-}
-
-.scholar-badges a {
-  text-decoration: none;
-  display: inline-block;
-  white-space: nowrap;
-}
-
-.scholar-badges a:hover {
-  text-decoration: none; /* Remove underline on hover */
-}
-
-.scholar-badges img {
-  width: 118%;
-  height: auto;
-}
-
 .publications {
   margin-top: 2rem;
 }
