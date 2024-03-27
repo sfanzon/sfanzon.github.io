@@ -246,7 +246,7 @@
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="true" data-style="large_rectangle" data-legend="hover-right" style="margin-bottom: 3px; margin-top: 2.8px; margin-right: 7px;"></span>
+              data-hide-zero-citations="true" data-style="large_rectangle" data-legend="hover-right" style="margin-bottom: 3px; margin-top: 6px; margin-right: 7px;"></span>
             {%- endif %}
             {% if site.badges.google_scholar_badge and entry_has_google_scholar_badge %}
             <a
@@ -257,7 +257,7 @@
               <img
                 src="https://img.shields.io/badge/citations-{% google_scholar_citations site.scholar_userid entry.google_scholar_id %}-ffffff?style=flat"
                 alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar citations"
-                style="transform: scale(1.14);"
+                style="transform: scale(1.17); transform-origin: top left;"
               >
             </a>
           </div>
