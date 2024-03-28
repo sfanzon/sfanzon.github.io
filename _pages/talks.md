@@ -10,12 +10,20 @@ nav_order: 6
 ---
 
 
-<p markdown="1"> 
-All my dissemination activity divided in <a href="#talk"><b>Oral Presentations</b></a> and <a href="#poster"><b>Poster Presentations</b></a>
+<p> 
+All my dissemination activity divided in 
 </p>
 
+<p> 
+<ul>
+    <li><a href="#talk"><b>Oral Presentations</b></a></li>
+    <li><a href="#poster"><b>Poster Presentations</b></a></li>
+</ul>
+</p>
+
+
 <p>
-<i class="far fa-envelope" style="font-size: 0.85em;"></i> &nbsp; denotes invited presentation
+<i class="far fa-envelope" style="font-size: 0.85em;"></i> &nbsp; denotes invited contribution
 </p>
 
 

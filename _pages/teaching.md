@@ -10,16 +10,21 @@ nav_order: 6
 ---
 
 
-<p markdown="1"> 
-All the courses I taught as <a href="#lecturer"><b>Lecturer</b></a> and
-<a href="#tutor"><b>Teaching Assistant</b></a>
+<p> 
+All the courses I taught as 
+</p>
+
+<p>
+<ul>
+    <li><a href="#lecturer"><b>Lecturer</b></a></li>
+    <li><a href="#tutor"><b>Teaching Assistant</b></a></li>
+</ul>
 </p>
 
 
 
 
 <div class="publications">
-
 
 
 <a id="lecturer"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Lecturer</b></h3></a>
