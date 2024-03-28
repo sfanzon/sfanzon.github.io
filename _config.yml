@@ -53,7 +53,11 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+
+# Just choose one type of footer
+footer_fixed: false
+footer_sticky: false
+footer_both_fixed_and_sticky: true
 
 # Dimensions
 max_width: 900px
