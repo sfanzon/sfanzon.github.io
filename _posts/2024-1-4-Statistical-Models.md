@@ -194,6 +194,7 @@ Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models
 | Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test](/assets/pdf/teaching/2024-Statistical-Models/F_test.R)  <br>   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    |
 | Lecture 7   | [Code: Goodness-of-fit](/assets/pdf/teaching/2024-Statistical-Models/good_fit.R) <br> [Code: Goodness-of-fit First Principles](/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R) <br> [Code: Monte Carlo pi](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_pi.R) <br> [Code: Monte Carlo p-value](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_p_value.R) <br> [Code: Goodness-of-fit Contingency](/assets/pdf/teaching/2024-Statistical-Models/good_fit_contingency.R) <br>[Code: Independence Test](/assets/pdf/teaching/2024-Statistical-Models/independence_test.R) |
 | Lecture 8   | [Code: Least-squares Solution 1](/assets/pdf/teaching/2024-Statistical-Models/least_squares_1.R) <br> [Code: Least-squares Solution 2](/assets/pdf/teaching/2024-Statistical-Models/least_squares_2.R)   |
+| Lecture 9   | [Code: Multiple regression](/assets/pdf/teaching/2024-Statistical-Models/multiple_regression.R)                                                                         |
 | Appendix    | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R) <br> [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) <br> [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt) |
 
 
@@ -215,7 +216,7 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 6               | 11 Mar        |  Chi-squared distribution and variance ratio test                                                        |
 | 7               | 18 Mar        |  Properties of chi-squared and F-distribution                                                            |
 | 8               | 8 Apr         |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                          |
-| 9               | 15 Apr        |  TBA                                                                                                     |
+| 9               | 15 Apr        |  Simple and general linear regression                                                                    |
 | 10              | 22 Apr        |  TBA                                                                                                     |
 
 
