@@ -185,12 +185,12 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 ## Supplementary Material
 
-Statistical Tables: [Download here](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
 
-| **Lecture** | **Material**                                                                                                                                                            | 
-|:------      |:------                                                                                                                                                                  |
-| Lecture 4   | [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R)                                                                             |
-| Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                         |
+
+| **Lecture** | **Material**                                                                                                                                                                              | 
+|:------      |:------                                                                                                                                                                                    |
+| Lecture 4   | [Statistical Tables](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf) <br> [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R) |
+| Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                                           |
 | Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test](/assets/pdf/teaching/2024-Statistical-Models/F_test.R)  <br>   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    |
 | Lecture 7   | [Code: Goodness-of-fit](/assets/pdf/teaching/2024-Statistical-Models/good_fit.R) <br> [Code: Goodness-of-fit First Principles](/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R) <br> [Code: Monte Carlo pi](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_pi.R) <br> [Code: Monte Carlo p-value](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_p_value.R) <br> [Code: Goodness-of-fit Contingency](/assets/pdf/teaching/2024-Statistical-Models/good_fit_contingency.R) <br>[Code: Independence Test](/assets/pdf/teaching/2024-Statistical-Models/independence_test.R) |
 | Lecture 8   | [Code: Least-squares Solution 1](/assets/pdf/teaching/2024-Statistical-Models/least_squares_1.R) <br> [Code: Least-squares Solution 2](/assets/pdf/teaching/2024-Statistical-Models/least_squares_2.R)   |
