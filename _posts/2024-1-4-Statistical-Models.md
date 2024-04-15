@@ -176,8 +176,8 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 11 Mar    | [Lecture 7](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The chi-squared test                           |
 | 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of regression                        |
 | 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | General linear regression                      |
-| 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| TBA                                            |
-| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| TBA                                            |
+| 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Practical regression                           |
+| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Violation of regression assumptions            |
 | 29 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
 | Extra     | [Appendix](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_12.html#/title-slide)  | More on R                                      |
 
@@ -218,7 +218,7 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 7               | 18 Mar        |  Properties of chi-squared and F-distribution                                                            |
 | 8               | 8 Apr         |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                          |
 | 9               | 15 Apr        |  Simple and general linear regression                                                                    |
-| 10              | 22 Apr        |  t-test and F-test for regression. Extra sum of squares. Analysis of residuals                           |
+| 10              | 22 Apr        |  t-test and F-test for regression. Extra sum of squares                                                  |
 
 
 
