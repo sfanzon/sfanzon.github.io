@@ -218,7 +218,7 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 7               | 18 Mar        |  Properties of chi-squared and F-distribution                                                            |
 | 8               | 8 Apr         |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                          |
 | 9               | 15 Apr        |  Simple and general linear regression                                                                    |
-| 10              | 22 Apr        |  t-test and F-test for regression. Extra sum of squares                                                  |
+| 10              | 22 Apr        |  t-test and F-test for regression                                                                        |
 
 
 
