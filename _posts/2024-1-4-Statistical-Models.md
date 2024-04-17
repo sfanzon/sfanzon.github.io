@@ -28,7 +28,9 @@ toc:
   - name: Assessment
   - name: Topics
   - name: Lectures Diary
-  - name: Supplementary Material	
+  - name: Statistical tables
+  - name: R codes
+  - name: Datasets
   - name: Homework
   - name: References
 
@@ -183,20 +185,33 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 
 
-## Supplementary Material
+## Statistical tables
+
+- Available [here](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf)
 
 
+
+
+## R codes
 
 | **Lecture** | **Material**                                                                                                                                                                              | 
 |:------      |:------                                                                                                                                                                                    |
-| Lecture 4   | [Statistical Tables](/assets/pdf/teaching/2024-Statistical-Models/Statistics_Tables.pdf) <br> [Code: One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R) |
-| Lecture 5   | [Code: Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                                           |
-| Lecture 6   | [Code: Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [Code: F-test](/assets/pdf/teaching/2024-Statistical-Models/F_test.R)  <br>   [Code: F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    |
-| Lecture 7   | [Code: Goodness-of-fit](/assets/pdf/teaching/2024-Statistical-Models/good_fit.R) <br> [Code: Goodness-of-fit First Principles](/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R) <br> [Code: Monte Carlo pi](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_pi.R) <br> [Code: Monte Carlo p-value](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_p_value.R) <br> [Code: Goodness-of-fit Contingency](/assets/pdf/teaching/2024-Statistical-Models/good_fit_contingency.R) <br>[Code: Independence Test](/assets/pdf/teaching/2024-Statistical-Models/independence_test.R) |
-| Lecture 8   | [Code: Least-squares Solution 1](/assets/pdf/teaching/2024-Statistical-Models/least_squares_1.R) <br> [Code: Least-squares Solution 2](/assets/pdf/teaching/2024-Statistical-Models/least_squares_2.R)   |
-| Lecture 9   | [Code: Multiple regression](/assets/pdf/teaching/2024-Statistical-Models/multiple_regression.R) <br> [Code: R2 multiple regression](/assets/pdf/teaching/2024-Statistical-Models/R2_multiple_regression.R)|
-| Lecture 10  | [Code: Simple regression](/assets/pdf/teaching/2024-Statistical-Models/simple_regression.R) <br> [Code: Longley regression](/assets/pdf/teaching/2024-Statistical-Models/longley_regression.R) <br> [Code: Longley selection](/assets/pdf/teaching/2024-Statistical-Models/longley_selection.R) <br> [Code: Galileo](/assets/pdf/teaching/2024-Statistical-Models/galileo.R) <br> [Code: Divorces](/assets/pdf/teaching/2024-Statistical-Models/divorces.R) <br> [Data: Stock-Gold prices](/assets/pdf/teaching/2024-Statistical-Models/stock_gold.txt) <br> [Data: Longley](/assets/pdf/teaching/2024-Statistical-Models/longley.txt)|
-| Appendix    | [Code: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R) <br> [Data: 2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt) <br> [Data: Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt) |
+| Lecture 4   | [One-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/one_sample_t_test.R) 													  |
+| Lecture 5   | [Variance ratio test](/assets/pdf/teaching/2024-Statistical-Models/variance_ratio_test.R)                                                                                                 |
+| Lecture 6   | [Two-Sample t-test](/assets/pdf/teaching/2024-Statistical-Models/two_sample_t_test.R) \| [F-test](/assets/pdf/teaching/2024-Statistical-Models/F_test.R)  <br>   [F-test First Principles](/assets/pdf/teaching/2024-Statistical-Models/F_test_first_principles.R)    |
+| Lecture 7   | [Goodness-of-fit](/assets/pdf/teaching/2024-Statistical-Models/good_fit.R) <br> [Goodness-of-fit First Principles](/assets/pdf/teaching/2024-Statistical-Models/good_fit_first_principles.R) <br> [Monte Carlo pi](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_pi.R) <br> [Monte Carlo p-value](/assets/pdf/teaching/2024-Statistical-Models/monte_carlo_p_value.R) <br> [Goodness-of-fit Contingency](/assets/pdf/teaching/2024-Statistical-Models/good_fit_contingency.R) <br> [Independence Test](/assets/pdf/teaching/2024-Statistical-Models/independence_test.R) |
+| Lecture 8   | [Least-squares Solution 1](/assets/pdf/teaching/2024-Statistical-Models/least_squares_1.R) <br> [Least-squares Solution 2](/assets/pdf/teaching/2024-Statistical-Models/least_squares_2.R)   |
+| Lecture 9   | [Multiple regression](/assets/pdf/teaching/2024-Statistical-Models/multiple_regression.R) <br> [R2 multiple regression](/assets/pdf/teaching/2024-Statistical-Models/R2_multiple_regression.R)|
+| Lecture 10  | [Simple regression](/assets/pdf/teaching/2024-Statistical-Models/simple_regression.R) <br> [Longley regression](/assets/pdf/teaching/2024-Statistical-Models/longley_regression.R) <br> [Longley selection](/assets/pdf/teaching/2024-Statistical-Models/longley_selection.R) <br> [Galileo](/assets/pdf/teaching/2024-Statistical-Models/galileo.R) <br> [Divorces](/assets/pdf/teaching/2024-Statistical-Models/divorces.R) |
+| Appendix    | [2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis_code.R)  |
+
+
+## Datasets
+
+- [Stock-Gold prices](/assets/pdf/teaching/2024-Statistical-Models/stock_gold.txt) 
+- [Longley](/assets/pdf/teaching/2024-Statistical-Models/longley.txt)
+- [2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
+- [Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)
 
 
 
