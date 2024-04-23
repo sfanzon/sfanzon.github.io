@@ -211,6 +211,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 
 - [Stock-Gold prices](/assets/pdf/teaching/2024-Statistical-Models/stock_gold.txt) 
 - [Longley](/assets/pdf/teaching/2024-Statistical-Models/longley.txt)
+- [Fridge Sales](/assets/pdf/teaching/2024-Statistical-Models/fridge_sales.txt)
 - [2008 Crisis](/assets/pdf/teaching/2024-Statistical-Models/2008_crisis.txt)
 - [Family Guy](/assets/pdf/teaching/2024-Statistical-Models/family_guy.txt)
 
