@@ -13,6 +13,8 @@ full.model <- lm(percent ~ year  + I( year^2 ) + I( year^3 ) +
                                    I( year^6 ))
 
 # Run stepwise regression
-best.model <- step(null.model, direction = "both", scope = formula(full.model))
+best.model <- step(null.model, 
+                   direction = "both", 
+                   scope = formula(full.model))
 
 print(summary(best.model))

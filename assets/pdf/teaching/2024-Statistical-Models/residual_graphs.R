@@ -1,3 +1,12 @@
+# Remember to save data on Desktop
+
+# Change working directory to Desktop
+# In MacOS type
+# setwd("~/Desktop")
+
+# In Windows type
+# setwd("C:/Users/YourUsername/Desktop")
+
 # Load dataset on Stock Vs Gold prices
 prices <- read.table(file = "stock_gold.txt",
                     header = TRUE)
@@ -27,9 +36,6 @@ hist(residuals,
 xlab = "Residuals",
 ylab = "Frequency",
 col = "skyblue")
-
-# Time-series plot of residuals
-ts.plot(residuals)
 
 # Compute fitted values
 fitted <- model$fitted

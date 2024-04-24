@@ -13,8 +13,7 @@ linear <- lm(percent ~ year)
 print(summary(linear))
 
 # Fit quadratic model
-quadratic <- lm(percent ~ year + I( year^2 ) )
-print(summary(quadratic))
+quadratic <- lm(percent ~ year + I( year^2 ))
 
 # Model selection
 selection <- anova(linear, quadratic, test = "F")
