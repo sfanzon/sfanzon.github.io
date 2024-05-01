@@ -179,7 +179,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 18 Mar    | [Lecture 8](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of regression                        |
 | 8 Apr     | [Lecture 9](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | General linear regression                      |
 | 15 Apr    | [Lecture 10](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Practical regression                           |
-| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Violation of regression assumptions            |
+| 22 Apr    | [Lecture 11](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Violation of regression assumptions and ANOVA  |
 | 29 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
 | Extra     | [Appendix](https://www.silviofanzon.com/2024-Statistical-Models-Slides/slides/lecture_12.html#/title-slide)  | More on R                                      |
 
