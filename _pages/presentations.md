@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /talks/
-title: Talks
+permalink: /presentations/
+title: Presentations
 description: 
-years_talk: [2023,2022,2021,2019,2018,2017,2016]
+years_talk: [2024,2023,2022,2021,2019,2018,2017,2016]
 years_poster: [2021,2016]
 nav: true
 nav_order: 6
@@ -16,7 +16,8 @@ All my dissemination activity divided in
 
 <p> 
 <ul>
-    <li><a href="#talk"><b>Oral Presentations</b></a></li>
+    <li><a href="#institutional"><b>Institutional Presentations</b></a></li>
+    <li><a href="#talk"><b>Academic Talks</b></a></li>
     <li><a href="#poster"><b>Poster Presentations</b></a></li>
 </ul>
 </p>
@@ -32,7 +33,16 @@ All my dissemination activity divided in
 <div class="publications">
 
 
-<a id="talk"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Oral Presentations</b></h3></a>
+<a id="institutional"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Institutional Presentations</b></h3></a>
+
+{%- for y in page.years_talk %}    
+    <h2 class="year">{{ y }}</h2>
+        {% bibliography -f seminars_talks -q @*[year={{y}}]* %}
+{% endfor %}
+
+
+
+<a id="talk"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Academic Talks</b></h3></a>
 
 {%- for y in page.years_talk %}    
     <h2 class="year">{{ y }}</h2>
