@@ -625,12 +625,12 @@ footer.sticky-bottom {
   font-size: 1rem;
   margin-bottom: 0.17rem;
 }
-.publications ol.bibliography li .conference_title {
+.publications ol.bibliography li .talk_title {
   font-weight: bolder;
   font-size: 1rem;
   margin-bottom: 0.17rem;
 }
-.publications ol.bibliography li .talk_title {
+.publications ol.bibliography li .conference_title {
   font-size: 1rem;
   margin-bottom: 0.17rem;
 }
