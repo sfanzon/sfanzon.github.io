@@ -40,13 +40,19 @@ is assumed we are dealing with a publication, and the style in the else conditio
   
 
 
-  <!-- Title of Event - Adds an envelope to the left if presentation is invited -->
+  <!-- Title of Talk - Adds an envelope to the left if presentation is invited -->
   {% if entry.invited %} 
-      <div class="conference_title">{{entry.title}}  &nbsp; <i class="far fa-envelope" style="font-size: 0.85em;"></i></div>
+      <div class="talk_title">{{entry.title}}  &nbsp; <i class="far fa-envelope" style="font-size: 0.85em;"></i></div>
   {% else %}
-      <div class="conference_title">{{entry.title}}</div>
+      <div class="talk_title">{{entry.title}}</div>
   {% endif %}
 
+
+
+    <!--  Title of event -->
+ {% if entry.event_title %}  
+ <div class="conference_title"><em> {{entry.event_title}} </em></div>
+{% endif %}
 
 
   <!-- Venue of event, Date -->
@@ -58,13 +64,6 @@ is assumed we are dealing with a publication, and the style in the else conditio
       {% endif %}  
   {% endif %}  
   
-
-
-
-  <!--  Talk Title -->
- {% if entry.talk_title %}  
- <div class="talk_title"><em> {{entry.talk_title}} </em></div>
-{% endif %}
 
 
 
