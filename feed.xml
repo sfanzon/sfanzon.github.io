@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-08-12T12:02:25+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-08-12T12:44:58+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
@@ -1620,7 +1620,7 @@ in metric spaces. Convex envelopes. Gamma convergence with model applications.</
   }
 </style>
 
-<h2 id="lecture-notes--videos">Lecture Notes &amp; Videos</h2>
+<h2 id="lecture-notes-and-videos">Lecture Notes and Videos</h2>
 
 <p>For a detailed account of the topics of each lesson, please refer to the syllabus</p>
 
@@ -1661,8 +1661,8 @@ in metric spaces. Convex envelopes. Gamma convergence with model applications.</
     <tr>
       <td>24 March</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf">Lesson 4</a></td>
+      <td style="text-align: left"><a href="https://youtu.be/KoT5sYjz0KE">Part 2</a></td>
       <td style="text-align: left">Fundamental Lemmas. Boundary conditions</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>14 April</td>
@@ -1673,14 +1673,14 @@ in metric spaces. Convex envelopes. Gamma convergence with model applications.</
     <tr>
       <td>Extra</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf">Revision</a></td>
+      <td style="text-align: left"><a href="">Video Overview</a></td>
       <td style="text-align: left">Revision of \(L^p\) spaces</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>21 April</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf">Lesson 6</a></td>
+      <td style="text-align: left"><a href="https://youtu.be/T9TrFIYlIW8">Part 1</a>, <a href="https://youtu.be/pown6pf4nGY">Part 2</a></td>
       <td style="text-align: left">Sufficient Conditions: convexity, trivial lemma. Convolutions</td>
-      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>28 April</td>
