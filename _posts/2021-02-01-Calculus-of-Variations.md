@@ -23,7 +23,7 @@ toc:
   - name: Topics
   - name: References
   - name: Assessment
-  - name: Lecture Notes & Videos
+  - name: Lecture Notes and Videos
   - name: Exercise Sheets
 
 
@@ -117,8 +117,7 @@ There will be an `oral examination` of about 1 hour on the topics of the course.
 
 
 
-## Lecture Notes & Videos
-
+## Lecture Notes and Videos
 
 For a detailed account of the topics of each lesson, please refer to the syllabus
 
@@ -133,10 +132,10 @@ Lecture notes and video recordings of lectures are available at the links below
 |  3 March  | [Lesson 1](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_01.pdf)  | [Part 1](https://youtu.be/2dMU_fnmbg4), [Part 2](https://youtu.be/rjRNcZigdP0)  | Introduction. Basic examples. Functional analysis revision   |
 |  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | [Part 1](https://youtu.be/75y9Xox2Hn4), [Part 2](https://youtu.be/GmdYckm7Y0g)  | Functional Analysis Revision. Calculus in Normed Spaces      |
 |  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | [Part 1](https://youtu.be/P8G2VTzdWw4), [Part 2](https://youtu.be/zeAfi3VjCGo)  | Calculus in Normed Spaces. Indirect Method                   |
-|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | Fundamental Lemmas. Boundary conditions                      |
+|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | [Part 2](https://youtu.be/KoT5sYjz0KE) | Fundamental Lemmas. Boundary conditions                      |
 |  14 April | [Lesson 5](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05.pdf)  | Euler-Lagrange Equation                                      |
-|  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | Revision of $$L^p$$ spaces                          |
-|  21 April | [Lesson 6](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf)  | Sufficient Conditions: convexity, trivial lemma. Convolutions|
+|  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | [Video Overview]()                                  | Revision of $$L^p$$ spaces                             |
+|  21 April | [Lesson 6](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf)  | [Part 1](https://youtu.be/T9TrFIYlIW8), [Part 2](https://youtu.be/pown6pf4nGY)  | Sufficient Conditions: convexity, trivial lemma. Convolutions|
 |  28 April | [Lesson 7](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_07.pdf)  | FLCV and DBR Lemma. Sobolev spaces                           |
 |  5 May    | [Lesson 8](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_08.pdf)  | Sobolev Spaces: regularity and density results               |
 |  12 May   | [Lesson 9](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_09.pdf)  | Sobolev embedding. Ascoli-Arzelà                             |
