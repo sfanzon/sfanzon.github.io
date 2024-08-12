@@ -23,7 +23,7 @@ toc:
   - name: Topics
   - name: References
   - name: Assessment
-  - name: Lecture Notes
+  - name: Lecture Notes & Videos
   - name: Exercise Sheets
 
 
@@ -32,7 +32,7 @@ toc:
 
 ## General Information
 
-Welcome to the Course of Calculus of Variations [MAT.494UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/645502?$ctx=design=ca;lang=en&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master Degree in Mathematics at the University of Graz. 
+Welcome to the Course of Calculus of Variations [MAT.494UB](https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/645502?$ctx=design=ca;lang=en&$scrollTo=toc_overview&ctx=design=ca;lang=en&scrollTo=toc_overview) for the Master Degree in Mathematics at the University of Graz
 
 - **Lecturer**: Dr Silvio Fanzon
 - **Email**: [Silvio.Fanzon@uni-graz.at](mailto:Silvio.Fanzon@uni-graz.at)
@@ -40,7 +40,7 @@ Welcome to the Course of Calculus of Variations [MAT.494UB](https://online.uni-g
 - **Office hours**: Flexibly arranged online, due to COVID-19
 
 Please do not hesitate to email me with any questions you have regarding the module or the exercises. I will answer your questions at the beginning
-of each class, or schedule online office hours.
+of each class, or schedule online office hours
 
 
 
@@ -54,16 +54,12 @@ Lectures will be weekly and last approximately 90 minutes. There will be 15 clas
 - 5, 12, 19, 26 May 2021
 - 2, 9, 16, 23 June 2021
 
-Lectures will be **online**, due to the current COVID-19 Orange Light at the University of Graz. Recordings will be available on the Moodle page of the course.
-Lecture notes and syllabus are released weekly on this page.  
-
-
-
+Lectures will be **online**, due to the current COVID-19 Orange Light at the University of Graz. Recordings will be available on this webpage as well as on the Moodle page of the course.
+Lecture notes and syllabus are released weekly on this page 
 
 
 
 ## Topics
-
 
 - **Essential Topics**: Minimization of integral functionals for maps of one variable. First variation and indirect method. 
 Metric spaces. Gateaux and Frechet derivatives in normed spaces. Fundamental Lemma of 
@@ -75,7 +71,6 @@ in metric spaces. Convex envelopes. Gamma convergence with model applications.
 - **Optional Topics**: calibrations, Weierstrass fields, functions of bounded variation in one variable, $\Gamma$-convergence
 
 - **Previous knowledge**: Basic knowledge of real analysis, $$L^p$$ spaces, general topology and functional analysis.
-
 
 
 
@@ -102,8 +97,6 @@ There will be an `oral examination` of about 1 hour on the topics of the course.
 
 
 
-
-
 <style>
   table {
     border-collapse: collapse;
@@ -124,22 +117,22 @@ There will be an `oral examination` of about 1 hour on the topics of the course.
 
 
 
-## Lecture Notes
+## Lecture Notes & Videos
 
 
 For a detailed account of the topics of each lesson, please refer to the syllabus
 
 - **Syllabus**: Download in [PDF](/assets/pdf/teaching/2021-Calculus-of-Variations/syllabus.pdf)
 
-The lecture notes are available for download below. 
+Lecture notes and video recordings of lectures are available at the links below
 
 
 
-| **Date**  |  **Lecture Notes**                                                                        |  **Topics**                                                  |
-|: -------- |:-------------                                                                             |:---------                                                    |
-|  3 March  | [Lesson 1](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_01.pdf)  | Introduction. Basic examples. Functional analysis revision   |
-|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | Functional Analysis Revision. Calculus in Normed Spaces      |
-|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | Calculus in Normed Spaces. Indirect Method                   |
+| **Date**  |  **Lecture Notes**                                                                        | **Video Recordings**                                                            |  **Topics**                                                  |
+|: -------- |:-------------                                                                             |:---------                                                                       |:---------                                                    |
+|  3 March  | [Lesson 1](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_01.pdf)  | [Part 1](https://youtu.be/2dMU_fnmbg4), [Part 2](https://youtu.be/rjRNcZigdP0)  | Introduction. Basic examples. Functional analysis revision   |
+|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | [Part 1](https://youtu.be/75y9Xox2Hn4), [Part 2](https://youtu.be/GmdYckm7Y0g)  | Functional Analysis Revision. Calculus in Normed Spaces      |
+|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | [Part 1](https://youtu.be/P8G2VTzdWw4), [Part 2](https://youtu.be/zeAfi3VjCGo)  | Calculus in Normed Spaces. Indirect Method                   |
 |  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | Fundamental Lemmas. Boundary conditions                      |
 |  14 April | [Lesson 5](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05.pdf)  | Euler-Lagrange Equation                                      |
 |  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | Revision of $$L^p$$ spaces                          |
@@ -155,6 +148,14 @@ The lecture notes are available for download below.
 |  23 June  | [Lesson 15](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_15.pdf) | Examples of $$\Gamma$$-convergence. Homogenization problems |
 
 
+Calculus of Variations 2020/21  |  Lesson 1  |  Part 1
+
+Video recordings for the module Calculus of Variations taught 
+at the University of Graz in 2020/21
+
+Lecture notes and exercises are available on the module webpage
+
+https://www.silviofanzon.com/blog/2021/Calculus-of-Variations/
 
 
 ## Exercise Sheets
