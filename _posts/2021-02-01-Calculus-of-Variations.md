@@ -127,34 +127,25 @@ Lecture notes and video recordings of lectures are available at the links below
 
 
 
-| **Date**  |  **Lecture Notes**                                                                        | **Video Recordings**                                                                               |  **Topics**                                                  |
-|: -------- |:-------------                                                                             |:---------                                                                                          |:---------                                                    |
+| **Date**  |  **Lecture Notes**                                                                        | **Video Recordings**                                                                        |  **Topics**                                                  |
+|: -------- |:-------------                                                                             |:---------                                                                                   |:---------                                                    |
 |  3 March  | [Lesson 1](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_01.pdf)  | [Part 1](https://youtu.be/2dMU_fnmbg4) &nbsp; &nbsp; [Part 2](https://youtu.be/rjRNcZigdP0) | Introduction. Basic examples. Functional analysis revision   |
-|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | [Part 1](https://youtu.be/HXN3PbE0kD4) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/1BHR3gfcPYI) | Functional Analysis Revision. Calculus in Normed Spaces      |
-|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | [Part 1](https://youtu.be/P8G2VTzdWw4) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/zeAfi3VjCGo) | Calculus in Normed Spaces. Indirect Method                   |
-|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | [Part 1](https://youtu.be/eN3oi6vmaIg) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/KoT5sYjz0KE) | Fundamental Lemmas. Boundary conditions                      |
-|  14 April | [Lesson 5](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05.pdf)  | [Part 1](https://youtu.be/-rN5lVqSNSo) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/m-fkISH4TJc) | Euler-Lagrange Equation                                      |
-|  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | [Video overview](https://youtu.be/a9EB7gH__vI)                                            | Revision of $$L^p$$ spaces                                   |
-|  21 April | [Lesson 6](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf)  | [Part 1](https://youtu.be/T9TrFIYlIW8) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/pown6pf4nGY) | Sufficient Conditions: convexity, trivial lemma. Convolutions|
-|  28 April | [Lesson 7](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_07.pdf)  | [Part 1](https://youtu.be/4weE16r31cc) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/rOpTF0zuFP4) | FLCV and DBR Lemma. Sobolev spaces                           |
-|  5 May    | [Lesson 8](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_08.pdf)  | [Part 1](https://youtu.be/38JAAgRrfOQ) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/kssYL7cLQKU) | Sobolev Spaces: regularity and density results               |
-|  12 May   | [Lesson 9](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_09.pdf)  | [Part 1](https://youtu.be/PmWYyxGachg) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/VyKQy9q_KyY) | Sobolev embedding. Ascoli-Arzelà Theorem                     |
-|  19 May   | [Lesson 10](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_10.pdf) | [Part 1](https://youtu.be/U-SaPTtzPnM) &nbsp; &#124; &nbsp; [Part 2](https://youtu.be/VWHRA5LnXBk) | Higher order Sobolev Spaces. Traces. Euler-Lagrange Equation |
-|  26 May   | [Lesson 11](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_11.pdf) | [Part 1]() &nbsp; &#124; &nbsp; [Part 2]() | Boundary conditions. Sufficient conditions. Direct Method    |
-|  2 June   | [Lesson 12](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_12.pdf) | [Part 1]() &nbsp; &#124; &nbsp; [Part 2]() | Direct method: example. General existence theorem            |
-|  9 June   | [Lesson 13](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_13.pdf) | [Part 1]() &nbsp; &#124; &nbsp; [Part 2]() | LSC Envelope. Relaxation and its computation                 |
-|  16 June  | [Lesson 14](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_14.pdf) | [Part 1]() &nbsp; &#124; &nbsp; [Part 2]() | Relaxation of integral functionals. $$\Gamma$$-convergence   |
-|  23 June  | [Lesson 15](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_15.pdf) | [Part 1]() &nbsp; &#124; &nbsp; [Part 2]() | Examples of $$\Gamma$$-convergence. Homogenization problems  |
+|  10 March | [Lesson 2](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_02.pdf)  | [Part 1](https://youtu.be/HXN3PbE0kD4) &nbsp; &nbsp; [Part 2](https://youtu.be/1BHR3gfcPYI) | Functional Analysis Revision. Calculus in Normed Spaces      |
+|  17 March | [Lesson 3](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_03.pdf)  | [Part 1](https://youtu.be/P8G2VTzdWw4) &nbsp; &nbsp; [Part 2](https://youtu.be/zeAfi3VjCGo) | Calculus in Normed Spaces. Indirect Method                   |
+|  24 March | [Lesson 4](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_04.pdf)  | [Part 1](https://youtu.be/eN3oi6vmaIg) &nbsp; &nbsp; [Part 2](https://youtu.be/KoT5sYjz0KE) | Fundamental Lemmas. Boundary conditions                      |
+|  14 April | [Lesson 5](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05.pdf)  | [Part 1](https://youtu.be/-rN5lVqSNSo) &nbsp; &nbsp; [Part 2](https://youtu.be/m-fkISH4TJc) | Euler-Lagrange Equation                                      |
+|  Extra    | [Revision](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_05_revision.pdf)  | [Video overview](https://youtu.be/a9EB7gH__vI)                                     | Revision of $$L^p$$ spaces                                   |
+|  21 April | [Lesson 6](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_06.pdf)  | [Part 1](https://youtu.be/T9TrFIYlIW8) &nbsp; &nbsp; [Part 2](https://youtu.be/pown6pf4nGY) | Sufficient Conditions: convexity, trivial lemma. Convolutions|
+|  28 April | [Lesson 7](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_07.pdf)  | [Part 1](https://youtu.be/4weE16r31cc) &nbsp; &nbsp; [Part 2](https://youtu.be/rOpTF0zuFP4) | FLCV and DBR Lemma. Sobolev spaces                           |
+|  5 May    | [Lesson 8](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_08.pdf)  | [Part 1](https://youtu.be/38JAAgRrfOQ) &nbsp; &nbsp; [Part 2](https://youtu.be/kssYL7cLQKU) | Sobolev Spaces: regularity and density results               |
+|  12 May   | [Lesson 9](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_09.pdf)  | [Part 1](https://youtu.be/PmWYyxGachg) &nbsp; &nbsp; [Part 2](https://youtu.be/VyKQy9q_KyY) | Sobolev embedding. Ascoli-Arzelà Theorem                     |
+|  19 May   | [Lesson 10](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_10.pdf) | [Part 1](https://youtu.be/U-SaPTtzPnM) &nbsp; &nbsp; [Part 2](https://youtu.be/VWHRA5LnXBk) | Higher order Sobolev Spaces. Traces. Euler-Lagrange Equation |
+|  26 May   | [Lesson 11](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_11.pdf) | [Part 1](https://youtu.be/9CbugyVLTi4) &nbsp; &nbsp; [Part 2](https://youtu.be/_rpqnywxW_s) | Boundary conditions. Sufficient conditions. Direct Method    |
+|  2 June   | [Lesson 12](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_12.pdf) | [Part 1](https://youtu.be/5O1soP3zWoc) &nbsp; &nbsp; [Part 2](https://youtu.be/LR54HjmfQwU) | Direct method: example. General existence theorem            |
+|  9 June   | [Lesson 13](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_13.pdf) | [Part 1](https://youtu.be/GuR85sNuW80) &nbsp; &nbsp; [Part 2](https://youtu.be/9AL-_DxrDhE) | LSC Envelope. Relaxation and its computation                 |
+|  16 June  | [Lesson 14](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_14.pdf) | [Part 1](https://youtu.be/oDsr4BvuhZQ) &nbsp; &nbsp; [Part 2](https://youtu.be/gtMRTrvhs2c) | Relaxation of integral functionals. $$\Gamma$$-convergence   |
+|  23 June  | [Lesson 15](/assets/pdf/teaching/2021-Calculus-of-Variations/lecture_notes/lesson_15.pdf) | [Part 1](https://youtu.be/wCVbBohylis) &nbsp; &nbsp; [Part 2](https://youtu.be/E770pJDvd-E) | Examples of $$\Gamma$$-convergence. Homogenization problems  |
 
-
-Calculus of Variations 2020/21  |  Lesson 1  |  Part 1
-
-Video recordings for the module Calculus of Variations taught 
-at the University of Graz in 2020/21
-
-Lecture notes and exercises are available on the module webpage
-
-https://www.silviofanzon.com/blog/2021/Calculus-of-Variations/
 
 
 ## Exercise Sheets
@@ -170,5 +161,5 @@ This course has a companion practical course [MAT.495UB](https://online.uni-graz
 | 23 April   | [Sheet 3](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_03.pdf) |  Frechet derivative. Gateaux derivative                     |
 |   7 May    | [Sheet 4](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_04.pdf) |  Convolutions. Cut-off. Smooth approximations. Minimization |
 |   28 May   | [Sheet 5](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_05.pdf) |  Sobolev spaces. Poincaré Inequality                        |
-|   11 June  | [Sheet 6](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_06.pdf) |  Assumptions of Theorem 9.9. Brachistochrone               |
+|   11 June  | [Sheet 6](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_06.pdf) |  Assumptions of Theorem 9.9. Brachistochrone                |
 |   25 June  | [Sheet 7](/assets/pdf/teaching/2021-Calculus-of-Variations/exercises/ex_07.pdf) |  Relaxation. $$\Gamma$$-convergence                         |
