@@ -123,7 +123,9 @@ For a detailed account of the topics of each lesson, please refer to the syllabu
 
 - **Syllabus**: Download in [PDF](/assets/pdf/teaching/2021-Calculus-of-Variations/syllabus.pdf)
 
-Lecture notes and video recordings of lectures are available at the links below
+Lecture Notes and Video Recordings of lectures are available at the links below
+
+Youtube playlist with all the video recordings available [here](https://www.youtube.com/playlist?list=PLsKUpYVBKUxrcOyI1VNHu1cXgiFvvlbor)
 
 
 
