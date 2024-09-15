@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-15T13:00:13+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-15T13:03:35+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -112,13 +112,7 @@ In this module we  study curves, surfaces and general topology.</p>
 
 <h2 id="lectures-diary">Lectures Diary</h2>
 
-<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-Differential-Geometry-Notes/">here</a></strong>. Each week we have:</p>
-
-<ul>
-  <li>2 Lectures of 2h each</li>
-  <li>1 Tutorial of 1h</li>
-  <li>for a total of 5h of contact</li>
-</ul>
+<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-Differential-Geometry-Notes/">here</a></strong>. Topics covered in each lecture are as follows:</p>
 
 <table>
   <thead>
@@ -365,25 +359,6 @@ In this module we  study curves, surfaces and general topology.</p>
   <li>Must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>.</li>
 </ul>
 
-<p><strong>Due dates:</strong></p>
-
-<ul>
-  <li><strong>Homework 1</strong>: 8th October</li>
-  <li><strong>Homework 2</strong>: 22nd October</li>
-  <li><strong>Homework 3</strong>: 5th November</li>
-  <li><strong>Homework 4</strong>: 19th November</li>
-  <li><strong>Homework 5</strong>: 3rd December</li>
-</ul>
-
-<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
-
-<p>Please submit <strong>PDFs only</strong>. Either:</p>
-
-<ul>
-  <li>Write on tablet and submit PDF Output</li>
-  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
-</ul>
-
 <table>
   <thead>
     <tr>
@@ -419,7 +394,16 @@ In this module we  study curves, surfaces and general topology.</p>
       <td style="text-align: left">First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 661955 T1 2024/25]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2024/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
+</table>
+
+<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
+
+<p>Please submit <strong>PDFs only</strong>. Either:</p>
+
+<ul>
+  <li>Write on tablet and submit PDF Output</li>
+  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+</ul>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 661955 T1 2024/25]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2024/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25.
 This is an introductory module in Mathematical Analysis. We will investigate the properties of real numbers and explore the concepts of limit and series.</p>
@@ -520,13 +504,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
 
 <h2 id="lectures-diary">Lectures Diary</h2>
 
-<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">here</a></strong>. Each week we have:</p>
-
-<ul>
-  <li>2 Lectures of 2h each</li>
-  <li>1 Tutorial of 1h</li>
-  <li>for a total of 5h of contact</li>
-</ul>
+<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">here</a></strong>. Topics covered in each lecture are as follows:</p>
 
 <table>
   <thead>
@@ -839,25 +817,6 @@ This is an introductory module in Mathematical Analysis. We will investigate the
   <li>Must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>.</li>
 </ul>
 
-<p><strong>Due dates:</strong></p>
-
-<ul>
-  <li><strong>Homework 1</strong>: 8th October</li>
-  <li><strong>Homework 2</strong>: 22nd October</li>
-  <li><strong>Homework 3</strong>: 5th November</li>
-  <li><strong>Homework 4</strong>: 19th November</li>
-  <li><strong>Homework 5</strong>: 3rd December</li>
-</ul>
-
-<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
-
-<p>Please submit <strong>PDFs only</strong>. Either:</p>
-
-<ul>
-  <li>Write on tablet and submit PDF Output</li>
-  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
-</ul>
-
 <table>
   <thead>
     <tr>
@@ -893,7 +852,16 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td style="text-align: left">Convergence/Divergence of sequences and series.</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 400297 T1 2024/25]]></summary></entry><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
+</table>
+
+<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
+
+<p>Please submit <strong>PDFs only</strong>. Either:</p>
+
+<ul>
+  <li>Write on tablet and submit PDF Output</li>
+  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+</ul>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 400297 T1 2024/25]]></summary></entry><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
 This module focusses on both the technical and practical aspects of a range of linear statistical models. We will investigate how and why these models work, what the assumptions 
