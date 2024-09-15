@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-15T12:33:17+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-15T12:39:45+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -34,18 +34,31 @@ In this module we  study curves, surfaces and general topology.</p>
 
 <h2 id="lectures">Lectures</h2>
 
-<p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
-
-<p><strong>Lecture 1</strong>: Thursday 16:00-18:00 in Wilberforce Building - Lecture Room 5</p>
-
-<p><strong>Lecture 2</strong>: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16</p>
-
-<p><strong>Tutorial</strong>: Time and venues as follows</p>
+<p>Each week we have:</p>
 
 <ul>
-  <li>Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
-  <li>Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121</li>
-  <li>Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+  <li>2 Lectures of 2h each</li>
+  <li>1 Tutorial of 1h</li>
+  <li>for a total of 5h of contact</li>
+</ul>
+
+<p>Times and venues are as follows:</p>
+
+<ul>
+  <li>
+    <p><strong>Lecture 1</strong>: Thursday 16:00-18:00 in Wilberforce Building - Lecture Room 5</p>
+  </li>
+  <li>
+    <p><strong>Lecture 2</strong>: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16</p>
+  </li>
+  <li>
+    <p><strong>Tutorial</strong>: Time and venues as follows</p>
+    <ul>
+      <li>Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+      <li>Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121</li>
+      <li>Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="assessment">Assessment</h2>
@@ -440,18 +453,28 @@ This is an introductory module in Mathematical Analysis. We will investigate the
 
 <h2 id="lectures">Lectures</h2>
 
-<p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
-
-<p><strong>Lecture 1</strong>: Thursday 9:00-11:00 in Robert Blackburn Building - Lecture Theatre D</p>
-
-<p><strong>Lecture 2</strong>: Thursday 12:00-14:00 with venues as follows</p>
+<p>Each week we have:</p>
 
 <ul>
-  <li>Week 1-4: Robert Blackburn Building - Lecture Theatre D</li>
-  <li>Week 5-12: Robert Blackburn Building - Lecture Theatre B</li>
+  <li>2 Lectures of 2h each</li>
+  <li>1 Tutorial of 1h</li>
+  <li>for a total of 5h of contact</li>
 </ul>
 
-<p><strong>Tutorial</strong>: Friday 13:00-14:00 in Larkin Building - Lecture Theatre F</p>
+<p>Times and venues are as follows:</p>
+
+<ul>
+  <li>
+    <p><strong>Lecture 1</strong>: Thursday 9:00-11:00 in Robert Blackburn Building - Lecture Theatre D</p>
+  </li>
+  <li><strong>Lecture 2</strong>: Thursday 12:00-14:00 with venues as follows
+    <ul>
+      <li>Week 1-4: Robert Blackburn Building - Lecture Theatre D</li>
+      <li>Week 5-12: Robert Blackburn Building - Lecture Theatre B</li>
+    </ul>
+  </li>
+  <li><strong>Tutorial</strong>: Friday 13:00-14:00 in Larkin Building - Lecture Theatre F</li>
+</ul>
 
 <h2 id="assessment">Assessment</h2>
 
