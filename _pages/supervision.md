@@ -3,16 +3,16 @@ layout: page
 permalink: /supervision/
 title: Supervision
 description: 
-years: [2024/25,2023/24,2022/23,2021/22,2020/21,2019/20,2017/18]
+years_master: [2023/24,2022/23]
+years_undergraduate: [2024/25]
 nav: true
 nav_order: 7
 ---
-<!-- _pages/publications.md -->
 
 
 
 <p> 
-Thesis supervision divided in 
+My thesis supervisions divided in 
 </p>
 
 <p>
@@ -37,7 +37,7 @@ Thesis supervision divided in
 
 <a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Master Supervisions</b></h3></a>
 
-{%- for y in page.years_talk %}    
+{%- for y in page.years_master %}    
     <h2 class="year">{{ y }}</h2>
         {% bibliography -f supervision_master -q @*[year={{y}}]* %}
 {% endfor %}
@@ -46,7 +46,7 @@ Thesis supervision divided in
 
 <a id="undergraduate"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Undergraduate Supervisions</b></h3></a>
 
-{%- for y in page.years_poster %}    
+{%- for y in page.years_undergraduate %}    
     <h2 class="year">{{ y }}</h2>
         {% bibliography -f supervision_undergraduate -q @*[year={{y}}]* %}
 {% endfor %}
