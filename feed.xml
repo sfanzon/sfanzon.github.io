@@ -1,5 +1,872 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-08-13T09:34:49+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
-</subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-15T12:19:15+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+</subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
+
+<p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
+In this module we  study curves, surfaces and general topology.</p>
+
+<ul>
+  <li><strong>Lecturer</strong>: Dr Silvio Fanzon</li>
+  <li><strong>Email</strong>: <a href="mailto:S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a></li>
+  <li><strong>Office</strong>: Room 104a, Larkin Building</li>
+  <li><strong>Office hours</strong>: Friday 11:00-12:00</li>
+  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/73612/">here</a></li>
+</ul>
+
+<h2 id="questions">Questions</h2>
+
+<p>If you have any questions please feel free to either</p>
+
+<ul>
+  <li>Email me</li>
+  <li>Ask in class</li>
+  <li>Attend office hours</li>
+</ul>
+
+<h2 id="key-links">Key Links</h2>
+
+<p>All the module information will be posted on this page, as well as on <a href="https://canvas.hull.ac.uk/courses/73612/">Canvas</a>. The links to the reference material are:</p>
+
+<ul>
+  <li><strong><a href="https://www.silviofanzon.com/2024-Differential-Geometry-Notes/">Lecture Notes</a></strong></li>
+  <li><strong><a href="#lectures-diary">Lectures Diary</a></strong></li>
+  <li><strong><a href="#homework">Homework</a></strong></li>
+</ul>
+
+<h2 id="lectures">Lectures</h2>
+
+<p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
+
+<p><strong>Lecture 1</strong>: Thursday 16:00-18:00 in Wilberforce Building - Lecture Room 5</p>
+
+<p><strong>Lecture 2</strong>: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16</p>
+
+<p><strong>Tutorial</strong>: Time and venues as follows</p>
+
+<ul>
+  <li>Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+  <li>Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121</li>
+  <li>Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+</ul>
+
+<h2 id="assessment">Assessment</h2>
+
+<p>This module will be assessed as follows:</p>
+
+<ul>
+  <li><strong>Final exam</strong>: 70% of final grade (date TBA in January 2025)</li>
+  <li><strong>Homework</strong>: 30% of final grade (details <a href="#homework">here</a>)</li>
+</ul>
+
+<h2 id="topics">Topics</h2>
+
+<ul>
+  <li>
+    <p><strong>Curves in 2D and 3D</strong>: regular curves, curvature, Frenet frame.</p>
+  </li>
+  <li>
+    <p><strong>Surfaces in 3D</strong>: regular surfaces, quadrics.</p>
+  </li>
+  <li>
+    <p><strong>First Fundamental Form</strong>: maps preserving lengths, angles and areas.</p>
+  </li>
+  <li>
+    <p><strong>Second Fundamental Form</strong>: Gaussian curvature, Gauss’s Theorem Egregium.</p>
+  </li>
+  <li>
+    <p><strong>Topology</strong>: General topology, metric spaces, compactness, connectedness.</p>
+  </li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>
+    <p><strong>Lecture Notes</strong>: Available <strong><a href="https://www.silviofanzon.com/2024-Differential-Geometry-Notes/">here</a></strong></p>
+  </li>
+  <li>
+    <p><strong>Differential Geometry Book</strong>: Pressley <d-cite key="pressley"></d-cite>. This is available from the 
+<a href="https://hull.summon.serialssolutions.com/#!/search/document?ho=t&amp;include.ft.matches=f&amp;l=en-UK&amp;q=pressley%20differential&amp;id=FETCHMERGED-hull_catalog_b2542712x2">University Library</a></p>
+  </li>
+  <li>
+    <p><strong>Topology Book</strong>: Manetti <d-cite key="manetti"></d-cite>.</p>
+  </li>
+  <li>
+    <p><strong>Background</strong>: For analysis please refer to Zorich <d-cite key="zorich-1"></d-cite> and <d-cite key="zorich-2"></d-cite></p>
+  </li>
+</ul>
+
+<h2 id="lectures-diary">Lectures Diary</h2>
+
+<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-Differential-Geometry-Notes/">here</a></strong>. Each week we have:</p>
+
+<ul>
+  <li>2 Lectures of 2h each</li>
+  <li>1 Tutorial of 1h</li>
+  <li>for a total of 5h of contact</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Lesson</strong></th>
+      <th><strong>Date</strong></th>
+      <th style="text-align: left"><strong>Time</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26/09/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Intro: Access Canvas page and Lecture Notes. Briefing on Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>27/09/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>27/09/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Proven that $L(\gamma)$ can be compute by integrating $| \dot \gamma |$ when $\gamma$ regular. Computed length of circle and portion of Helix.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>03/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>04/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>04/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>10/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>11/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>11/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>17/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Hyperbolic functions and their properties. Example of the catenary curve.</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>18/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>18/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula. Geometric consequences of Frenet-Serret.</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>24/10/24</td>
+      <td style="text-align: left">15:00 - 16:00</td>
+      <td style="text-align: left">Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>24/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>25/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>31/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>01/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>01/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>07/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Sequential continuity: fixed one of the proofs. Characterization of connected sets in $\mathbb{R}$. Intermediate value theorem in topological space.</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>08/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>08/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$, differential, Jacobian.</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>14/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Inverse function Theorem. Examples. Surface: Definition and Examples. Regular charts and regular surfaces.</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>15/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Spherical coordinates. Level surfaces. Reparametrizations.</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>15/11/24</td>
+      <td style="text-align: left">16:00 - 17:00</td>
+      <td style="text-align: left">Transition maps. Functions between surfaces. Smooth functions.</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>21/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Diffeomorphisms between surfaces. Tangent space and characterization. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>22/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Properties of differential of smooth functions. Linear Algebra preliminaries. Examples of surfaces: Level Surfaces, Quadrics, Ruled Surfaces, Surfaces of Revolution.</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>22/11/24</td>
+      <td style="text-align: left">16:00 - 17:00</td>
+      <td style="text-align: left">First fundamental form (FFF): Abstract definition and expression in coordinates. Length of curves on surfaces.</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>28/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>29/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>29/11/24</td>
+      <td style="text-align: left">16:00 - 17:00</td>
+      <td style="text-align: left">Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>05/12/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>06/12/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Normal and Geodesic curvatures. Euler’s Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>06/12/24</td>
+      <td style="text-align: left">16:00 - 17:00</td>
+      <td style="text-align: left">Umbilical points and structure theorem at umbilics.</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>12/12/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Revision and Exam Preparation.</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>13/12/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Revision and Exam Preparation.</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>13/12/24</td>
+      <td style="text-align: left">16:00 - 17:00</td>
+      <td style="text-align: left">Revision and Exam Preparation.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="homework">Homework</h2>
+
+<p>There will be 5 Homework papers in total:</p>
+
+<ul>
+  <li>Each Homework paper is worth 100 points.</li>
+  <li>The final Homework grade will be computed by averaging the best 4.</li>
+</ul>
+
+<p>Each homework paper:</p>
+
+<ul>
+  <li>Will be made available on <strong><a href="https://canvas.hull.ac.uk/courses/73612">Canvas</a></strong> on Tuesday 14:00 two weeks before corresponding Due Date.</li>
+  <li>Must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>.</li>
+</ul>
+
+<p><strong>Due dates:</strong></p>
+
+<ul>
+  <li><strong>Homework 1</strong>: 8th October</li>
+  <li><strong>Homework 2</strong>: 22nd October</li>
+  <li><strong>Homework 3</strong>: 5th November</li>
+  <li><strong>Homework 4</strong>: 19th November</li>
+  <li><strong>Homework 5</strong>: 3rd December</li>
+</ul>
+
+<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
+
+<p>Please submit <strong>PDFs only</strong>. Either:</p>
+
+<ul>
+  <li>Write on tablet and submit PDF Output</li>
+  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Homework Number</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08/10/24</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Curve length, regularity, reparametrization.</td>
+    </tr>
+    <tr>
+      <td>22/10/24</td>
+      <td style="text-align: left">2</td>
+      <td style="text-align: left">Curve length, regularity, reparametrization, curvature, torsion.</td>
+    </tr>
+    <tr>
+      <td>05/11/24</td>
+      <td style="text-align: left">3</td>
+      <td style="text-align: left">Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.</td>
+    </tr>
+    <tr>
+      <td>19/11/24</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">Metric Spaces. Topology induced by metric. Density. Connectedness.</td>
+    </tr>
+    <tr>
+      <td>03/12/24</td>
+      <td style="text-align: left">5</td>
+      <td style="text-align: left">First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 661955 T1 2024/25]]></summary></entry><entry><title type="html">Numbers, Sequences and Series</title><link href="https://www.silviofanzon.com/blog/2024/NSS/" rel="alternate" type="text/html" title="Numbers, Sequences and Series" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/NSS</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/NSS/"><![CDATA[<h2 id="general-information">General Information</h2>
+
+<p>Welcome to the module <strong>Numbers, Sequences and Series 400297</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25.
+This is an introductory module in Mathematical Analysis. We will investigate the properties of real numbers and explore the concepts of limit and series.</p>
+
+<ul>
+  <li><strong>Module leader</strong>: Dr Silvio Fanzon</li>
+  <li><strong>Email</strong>: <a href="mailto:S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a></li>
+  <li><strong>Office</strong>: Room 104a, Larkin Building</li>
+  <li><strong>Office hours</strong>: Friday 11:00-12:00</li>
+  <li><strong>Canvas Page</strong>: Click <a href="https://canvas.hull.ac.uk/courses/73579">here</a></li>
+</ul>
+
+<h2 id="questions">Questions</h2>
+
+<p>If you have any questions please feel free to either</p>
+
+<ul>
+  <li>Email me</li>
+  <li>Ask in class</li>
+  <li>Attend office hours</li>
+</ul>
+
+<h2 id="key-links">Key Links</h2>
+
+<p>All the modue information will be posted on this page, as well as on <strong><a href="https://canvas.hull.ac.uk/courses/73579">Canvas</a></strong>. The links to the reference material are:</p>
+
+<ul>
+  <li><strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">Lecture Notes</a></strong></li>
+  <li><strong><a href="#lectures-diary">Lectures Diary</a></strong></li>
+  <li><strong><a href="#tutorials">Tutorials</a></strong></li>
+  <li><strong><a href="#homework">Homework</a></strong></li>
+</ul>
+
+<h2 id="lectures">Lectures</h2>
+
+<p>We have two <code class="language-plaintext highlighter-rouge">Lectures</code> and one <code class="language-plaintext highlighter-rouge">Tutorial</code> per week. The lectures are 2 hours long, and the tutorial is 1 hour long.</p>
+
+<p><strong>Lecture 1</strong>: Thursday 9:00-11:00 in Robert Blackburn Building - Lecture Theatre D</p>
+
+<p><strong>Lecture 2</strong>: Thursday 12:00-14:00 with venues as follows</p>
+
+<ul>
+  <li>Week 1-4: Robert Blackburn Building - Lecture Theatre D</li>
+  <li>Week 5-12: Robert Blackburn Building - Lecture Theatre B</li>
+</ul>
+
+<p><strong>Tutorial</strong>: Friday 13:00-14:00 in Larkin Building - Lecture Theatre F</p>
+
+<h2 id="assessment">Assessment</h2>
+
+<p>This module will be assessed as follows:</p>
+
+<ul>
+  <li><strong>Final exam</strong>: 80% of final grade (date TBA in January 2025)</li>
+  <li><strong>Homework</strong>: 20% of final grade (details <a href="#homework">here</a>)</li>
+</ul>
+
+<h2 id="topics">Topics</h2>
+
+<ul>
+  <li>
+    <p><strong>Numbers</strong>: Number sets, algebraic operations and fields. Axiomatic construction of the real numbers. Completeness of \(\mathbb{R}\). Countability of \(\mathbb{Q}\). Complex numbers: definition and main properties, complex plane, solving polynomial equations.</p>
+  </li>
+  <li>
+    <p><strong>Sequences</strong>: Definition of convergence. Algebra of limits. Limit tests. Complex sequences.</p>
+  </li>
+  <li>
+    <p><strong>Series</strong>: Known series. Convergence of series. Nonnegative series. Testing convergence of general series. Rearrangements.</p>
+  </li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>
+    <p><strong>Lecture Notes</strong>: Available <strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">here</a></strong></p>
+  </li>
+  <li>
+    <p><strong>Main Book</strong>: Bartle and Sherbert <d-cite key="bartle"></d-cite>. This is available from the 
+<a href="https://hull.summon.serialssolutions.com/#!/search/document?ho=t&amp;include.ft.matches=f&amp;l=en-UK&amp;q=bartle%20Sherbert&amp;id=FETCHMERGED-hull_catalog_b230345432">University Library</a></p>
+  </li>
+  <li>
+    <p><strong>Other resources</strong>: Abbott <d-cite key="abbott"></d-cite> and Rudin <d-cite key="rudin_introduction"></d-cite></p>
+  </li>
+</ul>
+
+<h2 id="lectures-diary">Lectures Diary</h2>
+
+<p>The module Lecture Notes are available <strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">here</a></strong>. Each week we have:</p>
+
+<ul>
+  <li>2 Lectures of 2h each</li>
+  <li>1 Tutorial of 1h</li>
+  <li>for a total of 5h of contact</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Lesson</strong></th>
+      <th><strong>Date</strong></th>
+      <th style="text-align: left"><strong>Time</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26/09/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Intro: Access Canvas page and Lecture Notes. Briefing on Assignments, Assessment. Numbers $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ and $\mathbb{R}$. Proof: $\sqrt{2} \notin \mathbb{Q}$.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>27/09/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Preliminaries Sets, Basic Logic, Operations on Sets, Binary relations, Equivalence relation with examples.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>27/09/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Partial Order relation. Total order. Intervals. Functions.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>03/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Absolute value. Geometric meaning. Basic lemma on absolute value. Triangle inequality with proof. Proofs in Mathematics. Example of proof involving $\varepsilon$.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>03/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Induction. Recurrence sequence. Correction of exercises in Tutorial 1.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>04/10/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Binary operations. Fields. Field with $2$ elements. Uniqueness of neutral element and inverse. $\mathbb{N}$, $\mathbb{Z}$ are not fields. $\mathbb{Q}$ is a field.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>10/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Ordered Fields. $\mathbb{Q}$ is ordered field. Partition of a set, Cut of a set, Cut Property. Proof that $\mathbb{Q}$ does not have the Cut Property.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>10/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Upper bound, bounded above, sup. Uniqueness of sup. Max. Lower bound, inf, min. Relation between inf and sup. Proof that $\mathbb{Q}$ is not complete. Axiom of Completeness.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>11/10/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of exercises in Tutorial 2.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>17/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Cut property is equivalent to Completeness. $\mathbb{R}$ as ordered complete field. Archimedean property: 2 Versions. Nested Interval Property.</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>17/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Equivalent formulation of sup and inf. Sup, inf, max, min of interval $(a,b)$. Correction of Homework 1.</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>18/10/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of exercises in Tutorial 3.</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>24/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Examples of calculation of sup and inf. $\mathbb{N}$ as inductive subset of $\mathbb{R}$. Properties. Induction. Definition of $\mathbb{Z}$, $\mathbb{Q}$ and properties.</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>24/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Density of $\mathbb{Q}$ and irrationals in $\mathbb{R}$. Existence of $k$-th roots. Bijective functions. Examples. Cardinality. Subsets of countable sets.</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>25/10/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 4.</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>31/10/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Correction of Homework 2. Countable union of countable sets. $\mathbb{Q}$ is countable. $\mathbb{R}$ and irrationals are uncountable. Complex numbers: Addition, multiplication.</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>31/10/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Inverses. $\mathbb{C}$ is a field. $\mathbb{C}$ not ordered. Complex conjugate. Cartesian representation. Modulus. Triangle inequality. Trigonometric and exponential forms.</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>01/11/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 5.</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>07/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Homework 2: went over most common mistakes. Canvas Announcements. Revision of Complex Numbers. Fundamental Theorem of algebra. Solving polynomial equations.</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>07/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Polynomial division algorithm and examples. Roots of Unity. Roots in $\mathbb{C}$.</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>08/11/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 6.</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>14/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Sequences: Definition and examples. Convergent sequences. Examples. Divergent sequences. Examples. Uniqueness of limit.</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>14/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Bounded sequences. Convergent sequences are bounded. Converse is false: counterexample. Homework 3 Correction.</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>15/11/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 7.</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>21/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Algebra of Limits Theorem. Examples. Fractional powers. Limit of square root of sequence. Examples. Squeeze Theorem and examples.</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>21/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Correction of Homework 4. Geometric Sequence Test with proof. Examples. Ratio Test with proof. Examples. Examples in which Ratio test is inconclusive.</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>22/11/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 8.</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>28/11/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Monotone sequences. Monotone Convergence Theorem. Euler’s Number. Sequences in $\mathbb{C}$. Boundedness. Algebra of Limits in $\mathbb{C}$. Examples.</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>28/11/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Convergence to zero. GST and Ratio Test in $\mathbb{C}$. Convergence of Real and Imaginary parts. Series. Convergent Series. Necessary Condition. Telescopic series.</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>29/12/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Examples. Geometric series and examples.</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>05/12/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Algebra of Limits for series. Non-negative series: Cauchy Condensation Test, $p$-series, Comparison Test (CT), Limit CT, Ratio Test. General series. Absolute Convergence Test.</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>05/12/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Ratio Test for general series. Exponential function and Euler’s Number. Conditional convergence. Riemann rearrangement Theorem. Dirichlet Test. Alternating Series Test.</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>06/12/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Correction of Tutorial 9.</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>12/12/24</td>
+      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">Correction of Tutorial 10. Solution of past Written Exams.</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>12/12/24</td>
+      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">Revision and Exam Preparation.</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>13/12/24</td>
+      <td style="text-align: left">13:00 - 14:00</td>
+      <td style="text-align: left">Revision and Exam Preparation.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<p>Each week we have 1h of Tutorial in which we will solve exercises on the topics listed below. You should attempt solving the exercises <strong>before</strong> the tutorial.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th style="text-align: left"><strong>Tutorial Number</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>04/10/24</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Irrational numbers.</td>
+    </tr>
+    <tr>
+      <td>11/10/24</td>
+      <td style="text-align: left">2</td>
+      <td style="text-align: left">Basic set theory. Equivalence relation.</td>
+    </tr>
+    <tr>
+      <td>18/10/24</td>
+      <td style="text-align: left">3</td>
+      <td style="text-align: left">Absolute value. Triangle inequality. Induction.</td>
+    </tr>
+    <tr>
+      <td>25/10/24</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">Induction. Operations. Fields.</td>
+    </tr>
+    <tr>
+      <td>01/11/24</td>
+      <td style="text-align: left">5</td>
+      <td style="text-align: left">Fields. Sup and Inf.</td>
+    </tr>
+    <tr>
+      <td>08/11/24</td>
+      <td style="text-align: left">6</td>
+      <td style="text-align: left">Sup and inf. Inductive sets. Injectivity and surjectivity. Cardinality.</td>
+    </tr>
+    <tr>
+      <td>15/11/24</td>
+      <td style="text-align: left">7</td>
+      <td style="text-align: left">Complex numbers. Trigonometric and exponential form. Equations in $\mathbb{C}$.</td>
+    </tr>
+    <tr>
+      <td>22/11/24</td>
+      <td style="text-align: left">8</td>
+      <td style="text-align: left">Convergent sequences. Divergent sequences. Algebra of Limits. Limit Theorems.</td>
+    </tr>
+    <tr>
+      <td>29/11/24</td>
+      <td style="text-align: left">9</td>
+      <td style="text-align: left">Complex sequences.</td>
+    </tr>
+    <tr>
+      <td>05/12/24</td>
+      <td style="text-align: left">10</td>
+      <td style="text-align: left">Tests for convergence/divergence of series of real and complex numbers.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="homework">Homework</h2>
+
+<p>There will be 5 Homework papers in total:</p>
+
+<ul>
+  <li>Each Homework paper is worth 100 points.</li>
+  <li>The final Homework grade will be computed by averaging the best 4.</li>
+</ul>
+
+<p>Each homework paper:</p>
+
+<ul>
+  <li>Will be made available on <strong><a href="https://canvas.hull.ac.uk/courses/73579">Canvas</a></strong> on Tuesday 14:00 two weeks before corresponding Due Date.</li>
+  <li>Must be submitted on <strong>Canvas by 14:00 on the Due Date</strong>.</li>
+</ul>
+
+<p><strong>Due dates:</strong></p>
+
+<ul>
+  <li><strong>Homework 1</strong>: 8th October</li>
+  <li><strong>Homework 2</strong>: 22nd October</li>
+  <li><strong>Homework 3</strong>: 5th November</li>
+  <li><strong>Homework 4</strong>: 19th November</li>
+  <li><strong>Homework 5</strong>: 3rd December</li>
+</ul>
+
+<p>Homework papers submitted <strong>outside of Canvas</strong> or <strong>more than 24 hours after the Due Date</strong> will <strong>NOT BE MARKED</strong></p>
+
+<p>Please submit <strong>PDFs only</strong>. Either:</p>
+
+<ul>
+  <li>Write on tablet and submit PDF Output</li>
+  <li>Write on paper and <strong>Scan in Black and White</strong> using a <strong>Scanner</strong> or <strong>Scanner App</strong> (Tiny Scanner, Scanner Pro, etc)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Due date</strong></th>
+      <th style="text-align: left"><strong>Homework Number</strong></th>
+      <th style="text-align: left"><strong>Topics</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08/10/24</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Irrational numbers. Basic set theory.</td>
+    </tr>
+    <tr>
+      <td>22/10/24</td>
+      <td style="text-align: left">2</td>
+      <td style="text-align: left">Order relation, Induction, Proofs.</td>
+    </tr>
+    <tr>
+      <td>05/11/24</td>
+      <td style="text-align: left">3</td>
+      <td style="text-align: left">Fields, Supremum and infimum.</td>
+    </tr>
+    <tr>
+      <td>19/11/24</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">Complex Numbers, Convergent sequences.</td>
+    </tr>
+    <tr>
+      <td>03/12/24</td>
+      <td style="text-align: left">5</td>
+      <td style="text-align: left">Convergence/Divergence of sequences and series.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 400297 T1 2024/25]]></summary></entry><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2024/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2024-01-04T00:00:00+00:00</published><updated>2024-01-04T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the Course <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2023/24. 
 This module focusses on both the technical and practical aspects of a range of linear statistical models. We will investigate how and why these models work, what the assumptions 
