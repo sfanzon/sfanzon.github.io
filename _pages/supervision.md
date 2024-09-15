@@ -3,7 +3,7 @@ layout: page
 permalink: /supervision/
 title: Supervision
 description: 
-years: [2022,2021,2020,2019,2017]
+years: [2024/25,2023/24,2022/23,2021/22,2020/21,2019/20,2017/18]
 nav: true
 nav_order: 7
 ---
