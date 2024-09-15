@@ -140,11 +140,7 @@ This module will be assessed as follows:
 
 ## Lectures Diary
 
-The module Lecture Notes are available **[here](https://www.silviofanzon.com/2024-Differential-Geometry-Notes/)**. Each week we have:
-
-- 2 Lectures of 2h each
-- 1 Tutorial of 1h
-- for a total of 5h of contact
+The module Lecture Notes are available **[here](https://www.silviofanzon.com/2024-Differential-Geometry-Notes/)**. Topics covered in each lecture are as follows:
 
 
 
@@ -207,14 +203,13 @@ Each homework paper:
 - Must be submitted on **Canvas by 14:00 on the Due Date**. 
 
 
-
-**Due dates:**
-
-- **Homework 1**: 8th October
-- **Homework 2**: 22nd October
-- **Homework 3**: 5th November
-- **Homework 4**: 19th November
-- **Homework 5**: 3rd December
+|**Due date**|  **Homework #**             |  **Topics**                                                                                              |
+|: -------   |:-------------               |:---------                                                                                                |
+| 08/10/24   | 1                           |  Curve length, regularity, reparametrization.                                                            |
+| 22/10/24   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
+| 05/11/24   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
+| 19/11/24   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
+| 03/12/24   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.                 |
 
 
 Homework papers submitted **outside of Canvas** or **more than 24 hours after the Due Date** will **NOT BE MARKED**
@@ -224,15 +219,4 @@ Please submit **PDFs only**. Either:
 
 - Write on tablet and submit PDF Output
 - Write on paper and **Scan in Black and White** using a **Scanner** or **Scanner App** (Tiny Scanner, Scanner Pro, etc)
-
-
-
-
-|**Due date**|  **Homework #**             |  **Topics**                                                                                              |
-|: -------   |:-------------               |:---------                                                                                                |
-| 08/10/24   | 1                           |  Curve length, regularity, reparametrization.                                                            |
-| 22/10/24   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
-| 05/11/24   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
-| 19/11/24   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
-| 03/12/24   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.                 |
 
