@@ -12,12 +12,12 @@
 
     
   
-      <!-- Student Name and Degree type -->
+      <!-- Student Name-->
       <div><span class="student_name"> {{entry.addendum}}</span>{{ "," }} {{entry.month}}</div>
 
 
 
-       <!-- Insitution and Time -->
+       <!-- Degree type and Insitution -->
       <div class="course_description">
         {{entry.type}}{{ ", " }}{{entry.venue}}
       </div>
@@ -25,7 +25,7 @@
 
       <!--  Thesis title -->  
       <div class="thesis_title">
-      <em>{{entry.title}}</em>
+      Thesis title: <em>{{entry.title}}</em>
       </div>
 
 
@@ -41,7 +41,7 @@
       <!-- Links/Buttons -->
       <div class="links">
       {%- if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">About</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {%- endif %}
       {%- if entry.html %}
         <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -131,16 +131,7 @@
   {%- if entry.website %}
     <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
   {%- endif %}
-  </div>
-  
-
-  {% if entry.abstract -%}
-  <!-- Hidden abstract block -->
-  <div class="abstract hidden">
-    <p>{{ entry.abstract }}</p>
-  </div>
-  {%- endif -%}
-
+      </div>
 
 
 
