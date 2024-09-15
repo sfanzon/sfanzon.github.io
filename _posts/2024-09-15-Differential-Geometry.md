@@ -71,18 +71,23 @@ All the module information will be posted on this page, as well as on [Canvas](h
 
 ## Lectures
 
-We have two `Lectures` and one `Tutorial` per week. The lectures are 2 hours long, and the tutorial is 1 hour long.
+Each week we have:
+
+- 2 Lectures of 2h each
+- 1 Tutorial of 1h
+- for a total of 5h of contact
 
 
-**Lecture 1**: Thursday 16:00-18:00 in Wilberforce Building - Lecture Room 5
+Times and venues are as follows:
 
-**Lecture 2**: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16
+- **Lecture 1**: Thursday 16:00-18:00 in Wilberforce Building - Lecture Room 5
 
-**Tutorial**: Time and venues as follows
+- **Lecture 2**: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16
 
-- Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
-- Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
-- Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+- **Tutorial**: Time and venues as follows
+    * Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
+    * Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
 
 
 
