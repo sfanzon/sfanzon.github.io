@@ -89,6 +89,7 @@ Times and venues are as follows:
     * Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
     * Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
 
+Please check on MyTimetable every week to see if there are any changes to the following session times and rooms.
 
 
 
