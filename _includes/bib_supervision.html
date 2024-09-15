@@ -2,15 +2,10 @@
 
 
 
-
-
   <!-- Entry bib key -->
   <div id="{{entry.key}}"></div>
 
 
-
-
-    
   
       <!-- Student Name-->
       <div><span class="student_name"> {{entry.addendum}}</span></div>
@@ -132,3 +127,11 @@
     <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
   {%- endif %}
       </div>
+
+
+      {% if entry.abstract -%}
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>{{ entry.abstract }}</p>
+      </div>
+      {%- endif -%}
