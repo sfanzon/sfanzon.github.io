@@ -39,9 +39,9 @@
 
 
       <!-- Links/Buttons -->
-      <div class="links">
-      {%- if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <div class="links" style="margin-top: 0.3rem;">
+        {%- if entry.abstract %}
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {%- endif %}
       {%- if entry.html %}
         <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -132,7 +132,3 @@
     <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
   {%- endif %}
       </div>
-
-
-
-
