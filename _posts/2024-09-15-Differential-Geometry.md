@@ -85,9 +85,11 @@ Times and venues are as follows:
 - **Lecture 2**: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16
 
 - **Tutorial**: Time and venues as follows
-    * Week 1-4: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
-    * Week 5: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
-    * Week 6-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 1-3: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 4: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
+    * Week 5: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 6: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
+    * Week 7-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
 
 Please check on MyTimetable every week to see if there are any changes to the following session times and rooms.
 
@@ -152,8 +154,8 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 |  4         | 03/10/24 | 16:00 - 18:00 | Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.     |
 |  5         | 04/10/24 | 09:00 - 10:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |
 |  6         | 04/10/24 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
-|  7         | 10/10/24 | 16:00 - 18:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        | 
-|  8         | 11/10/24 | 09:00 - 10:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |
+|  7         | 10/10/24 | 15:00 - 16:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        |
+|  8         | 10/10/24 | 16:00 - 18:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |
 |  9         | 11/10/24 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |
 | 10         | 17/10/24 | 16:00 - 18:00 | Hyperbolic functions and their properties. Example of the catenary curve.       								                                                                         |
 | 11         | 18/10/24 | 09:00 - 10:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		               |
