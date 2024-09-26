@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-17T14:05:27+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-26T20:13:26+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -130,25 +130,31 @@ In this module we  study curves, surfaces and general topology.</p>
       <td>1</td>
       <td>26/09/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Intro: Access Canvas page and Lecture Notes. Briefing on Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.</td>
+      <td style="text-align: left">Intro: Canvas and Lecture Notes. Briefing on Assessment, Timetable, etc. Curves as Level sets. Parametrized curves. Smooth curves. Tangent vector. Examples. Length of $\gamma$ as limit of length of polygonals.</td>
+    </tr>
+    <tr>
+      <td>Proof: $L(\gamma) = \int | \dot \gamma |$ when $\gamma$ regular.</td>
+      <td> </td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>2</td>
       <td>27/09/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.</td>
+      <td style="text-align: left">Length of circle and portion of Helix. Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>27/09/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Proven that $L(\gamma)$ can be compute by integrating $| \dot \gamma |$ when $\gamma$ regular. Computed length of circle and portion of Helix.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>4</td>
       <td>03/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>5</td>
@@ -521,31 +527,31 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>1</td>
       <td>26/09/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Intro: Access Canvas, Lecture Notes. Briefing on Assignments, Assessment. Numbers $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ and $\mathbb{R}$. Proof: $\sqrt{2} \notin \mathbb{Q}$.</td>
+      <td style="text-align: left">09:00 - 11:00</td>
+      <td style="text-align: left">Intro: Access Canvas, Lecture Notes. Briefing on Assessment, etc. Introduction: Numbers $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ and $\mathbb{R}$. Proof: $\sqrt{2} \notin \mathbb{Q}$.</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>27/09/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Preliminaries Sets, Basic Logic, Operations on Sets, Binary relations, Equivalence relation with examples.</td>
+      <td>26/09/24</td>
+      <td style="text-align: left">12:00 - 14:00</td>
+      <td style="text-align: left">Preliminaries: Sets, Basic Logic, Operations on Sets, infinite unions and intersections. Examples. Exercises in Tutorial 1.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>27/09/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Partial Order relation. Total order. Intervals. Functions.</td>
+      <td style="text-align: left">Finished exercises in Tutorial 1. Complement, Power set, product of sets. Binary relations, Equivalence relation with examples. Partial Order relation. Total order. Intervals. Functions.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>03/10/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Absolute value. Geometric meaning. Basic lemma on absolute value. Triangle inequality with proof. Proofs in Mathematics. Example of proof involving $\varepsilon$.</td>
     </tr>
     <tr>
       <td>5</td>
       <td>03/10/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Induction. Recurrence sequence. Correction of exercises in Tutorial 1.</td>
     </tr>
     <tr>
@@ -557,13 +563,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>7</td>
       <td>10/10/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Ordered Fields. $\mathbb{Q}$ is ordered field. Partition of a set, Cut of a set, Cut Property. Proof that $\mathbb{Q}$ does not have the Cut Property.</td>
     </tr>
     <tr>
       <td>8</td>
       <td>10/10/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Upper bound, bounded above, sup. Uniqueness of sup. Max. Lower bound, inf, min. Relation between inf and sup. Proof that $\mathbb{Q}$ is not complete. Axiom of Completeness.</td>
     </tr>
     <tr>
@@ -575,13 +581,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>10</td>
       <td>17/10/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Cut property is equivalent to Completeness. $\mathbb{R}$ as ordered complete field. Archimedean property: 2 Versions. Nested Interval Property.</td>
     </tr>
     <tr>
       <td>11</td>
       <td>17/10/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Equivalent formulation of sup and inf. Sup, inf, max, min of interval $(a,b)$. Correction of Homework 1.</td>
     </tr>
     <tr>
@@ -593,13 +599,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>13</td>
       <td>24/10/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Examples of calculation of sup and inf. $\mathbb{N}$ as inductive subset of $\mathbb{R}$. Properties. Induction. Definition of $\mathbb{Z}$, $\mathbb{Q}$ and properties.</td>
     </tr>
     <tr>
       <td>14</td>
       <td>24/10/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Density of $\mathbb{Q}$ and irrationals in $\mathbb{R}$. Existence of $k$-th roots. Bijective functions. Examples. Cardinality. Subsets of countable sets.</td>
     </tr>
     <tr>
@@ -611,13 +617,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>16</td>
       <td>31/10/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Correction of Homework 2. Countable union of countable sets. $\mathbb{Q}$ is countable. $\mathbb{R}$ and irrationals are uncountable. Complex numbers: Addition, multiplication.</td>
     </tr>
     <tr>
       <td>17</td>
       <td>31/10/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Inverses. $\mathbb{C}$ is a field. $\mathbb{C}$ not ordered. Complex conjugate. Cartesian representation. Modulus. Triangle inequality. Trigonometric and exponential forms.</td>
     </tr>
     <tr>
@@ -629,13 +635,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>19</td>
       <td>07/11/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Homework 2: went over most common mistakes. Canvas Announcements. Revision of Complex Numbers. Fundamental Theorem of algebra. Solving polynomial equations.</td>
     </tr>
     <tr>
       <td>20</td>
       <td>07/11/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Polynomial division algorithm and examples. Roots of Unity. Roots in $\mathbb{C}$.</td>
     </tr>
     <tr>
@@ -647,13 +653,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>22</td>
       <td>14/11/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Sequences: Definition and examples. Convergent sequences. Examples. Divergent sequences. Examples. Uniqueness of limit.</td>
     </tr>
     <tr>
       <td>23</td>
       <td>14/11/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Bounded sequences. Convergent sequences are bounded. Converse is false: counterexample. Homework 3 Correction.</td>
     </tr>
     <tr>
@@ -665,13 +671,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>25</td>
       <td>21/11/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Algebra of Limits Theorem. Examples. Fractional powers. Limit of square root of sequence. Examples. Squeeze Theorem and examples.</td>
     </tr>
     <tr>
       <td>26</td>
       <td>21/11/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Correction of Homework 4. Geometric Sequence Test with proof. Examples. Ratio Test with proof. Examples. Examples in which Ratio test is inconclusive.</td>
     </tr>
     <tr>
@@ -683,13 +689,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>28</td>
       <td>28/11/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Monotone sequences. Monotone Convergence Theorem. Euler’s Number. Sequences in $\mathbb{C}$. Boundedness. Algebra of Limits in $\mathbb{C}$. Examples.</td>
     </tr>
     <tr>
       <td>29</td>
       <td>28/11/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Convergence to zero. GST and Ratio Test in $\mathbb{C}$. Convergence of Real and Imaginary parts. Series. Convergent Series. Necessary Condition. Telescopic series.</td>
     </tr>
     <tr>
@@ -701,13 +707,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>31</td>
       <td>05/12/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Algebra of Limits for series. Non-negative series: Cauchy Condensation Test, $p$-series, Comparison Test (CT), Limit CT, Ratio Test. General series. Absolute Convergence Test.</td>
     </tr>
     <tr>
       <td>32</td>
       <td>05/12/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Ratio Test for general series. Exponential function and Euler’s Number. Conditional convergence. Riemann rearrangement Theorem. Dirichlet Test. Alternating Series Test.</td>
     </tr>
     <tr>
@@ -719,13 +725,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>34</td>
       <td>12/12/24</td>
-      <td style="text-align: left">16:00 - 18:00</td>
+      <td style="text-align: left">09:00 - 11:00</td>
       <td style="text-align: left">Correction of Tutorial 10. Solution of past Written Exams.</td>
     </tr>
     <tr>
       <td>35</td>
       <td>12/12/24</td>
-      <td style="text-align: left">09:00 - 10:00</td>
+      <td style="text-align: left">12:00 - 14:00</td>
       <td style="text-align: left">Revision and Exam Preparation.</td>
     </tr>
     <tr>
@@ -751,54 +757,54 @@ This is an introductory module in Mathematical Analysis. We will investigate the
   </thead>
   <tbody>
     <tr>
-      <td>04/10/24</td>
+      <td>26/09/24</td>
       <td style="text-align: left">1</td>
       <td style="text-align: left">Irrational numbers.</td>
     </tr>
     <tr>
-      <td>11/10/24</td>
+      <td>03/10/24</td>
       <td style="text-align: left">2</td>
-      <td style="text-align: left">Basic set theory. Equivalence relation.</td>
+      <td style="text-align: left">Basic set theory. Equivalence relation. Absolute value.</td>
     </tr>
     <tr>
-      <td>18/10/24</td>
+      <td>10/10/24</td>
       <td style="text-align: left">3</td>
-      <td style="text-align: left">Absolute value. Triangle inequality. Induction.</td>
+      <td style="text-align: left">Triangle inequality. Induction.</td>
     </tr>
     <tr>
-      <td>25/10/24</td>
+      <td>17/10/24</td>
       <td style="text-align: left">4</td>
-      <td style="text-align: left">Induction. Operations. Fields.</td>
+      <td style="text-align: left">Operations. Fields.</td>
     </tr>
     <tr>
-      <td>01/11/24</td>
+      <td>24/10/24</td>
       <td style="text-align: left">5</td>
-      <td style="text-align: left">Fields. Sup and Inf.</td>
+      <td style="text-align: left">Sup and inf. Inductive sets.</td>
     </tr>
     <tr>
-      <td>08/11/24</td>
+      <td>31/10/24</td>
       <td style="text-align: left">6</td>
-      <td style="text-align: left">Sup and inf. Inductive sets. Injectivity and surjectivity. Cardinality.</td>
+      <td style="text-align: left">Injectivity and surjectivity. Cardinality. Complex numbers. Equations in $\mathbb{C}$.</td>
     </tr>
     <tr>
-      <td>15/11/24</td>
+      <td>07/11/24</td>
       <td style="text-align: left">7</td>
-      <td style="text-align: left">Complex numbers. Trigonometric and exponential form. Equations in $\mathbb{C}$.</td>
-    </tr>
-    <tr>
-      <td>22/11/24</td>
-      <td style="text-align: left">8</td>
       <td style="text-align: left">Convergent sequences. Divergent sequences. Algebra of Limits. Limit Theorems.</td>
     </tr>
     <tr>
-      <td>29/11/24</td>
-      <td style="text-align: left">9</td>
+      <td>14/11/24</td>
+      <td style="text-align: left">8</td>
       <td style="text-align: left">Complex sequences.</td>
     </tr>
     <tr>
-      <td>05/12/24</td>
+      <td>21/11/24</td>
+      <td style="text-align: left">9</td>
+      <td style="text-align: left">Geometric Series, Cauchy Condensation, Comparison, Limit Comparison, Ratio Tests.</td>
+    </tr>
+    <tr>
+      <td>28/12/24</td>
       <td style="text-align: left">10</td>
-      <td style="text-align: left">Tests for convergence/divergence of series of real and complex numbers.</td>
+      <td style="text-align: left">Absolute and conditional convergence.</td>
     </tr>
   </tbody>
 </table>
