@@ -147,18 +147,19 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 
 
 |**Lesson #**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
-|: -------   |: ------- |:---------     |:---------  	                                                                                                                                                             |
-|  1         | 26/09/24 | 16:00 - 18:00 | Intro: Access Canvas page and Lecture Notes. Briefing on Assignments, Assessment. Curves as Level sets. Parametrized curves. Examples.                                   |
-|  2         | 27/09/24 | 09:00 - 10:00 | Plotting curves in Python using Matplotlib and Plotly. Parametrized curves examples. Tangent vector. Definition of Length of $\gamma$ as limit of length of polygonals.  |
-|  3         | 27/09/24 | 16:00 - 18:00 | Proven that $L(\gamma)$ can be compute by integrating $\| \dot \gamma \|$ when $\gamma$ regular. Computed length of circle and portion of Helix.                         |
-|  4         | 03/10/24 | 16:00 - 18:00 | Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.     |
+|: -------   |: ------- |:---------     |:---------  	                                                                                                                                                           |
+|  1         | 26/09/24 | 16:00 - 18:00 | Intro: Canvas and Lecture Notes. Briefing on Assessment, Timetable, etc. Curves as Level sets. Parametrized curves. Smooth curves. Tangent vector. Examples. Length of $\gamma$ as limit of length of polygonals. 
+Proof: $L(\gamma) = \int \| \dot \gamma \|$ when $\gamma$ regular. |
+|  2         | 27/09/24 | 09:00 - 10:00 | Length of circle and portion of Helix. Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP. |
+|  3         | 27/09/24 | 16:00 - 18:00 | 																		                           |
+|  4         | 03/10/24 | 16:00 - 18:00 |                                                                                                                                                                          |
 |  5         | 04/10/24 | 09:00 - 10:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |
 |  6         | 04/10/24 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
 |  7         | 10/10/24 | 15:00 - 16:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        |
 |  8         | 10/10/24 | 16:00 - 18:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |
 |  9         | 11/10/24 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |
-| 10         | 17/10/24 | 16:00 - 18:00 | Hyperbolic functions and their properties. Example of the catenary curve.       								                                                                         |
-| 11         | 18/10/24 | 09:00 - 10:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		               |
+| 10         | 17/10/24 | 16:00 - 18:00 | Hyperbolic functions and their properties. Example of the catenary curve.   												   |    								                            
+| 11         | 18/10/24 | 09:00 - 10:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		   |
 | 12         | 18/10/24 | 16:00 - 18:00 | Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula. Geometric consequences of Frenet-Serret.                |
 | 13         | 24/10/24 | 15:00 - 16:00 | Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.       |
 | 14         | 24/10/24 | 16:00 - 18:00 | Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.                                          |
@@ -181,9 +182,9 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 | 31         | 05/12/24 | 16:00 - 18:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
 | 32         | 06/12/24 | 09:00 - 10:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
 | 33         | 06/12/24 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
-| 34         | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.                          										                                                                                    				 |
-| 35         | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                           													                                                                                       |
-| 36         | 13/12/24 | 16:00 - 17:00 | Revision and Exam Preparation.               												                                                                                                     |
+| 34         | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.               															           |
+| 35         | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                           													           |
+| 36         | 13/12/24 | 16:00 - 17:00 | Revision and Exam Preparation.               												                                   |
 
 
 
