@@ -9,8 +9,6 @@ nav_order: 30
 ---
 <!-- _pages/publications.md -->
 
-
-
 <p> 
 All my research outputs divided in 
 </p>
@@ -53,10 +51,7 @@ Authors are in alphabetical order
 
 
 
-
-
 <div class="publications">
-
 
 <a id="preprint"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Preprints</b></h3></a> 
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
@@ -78,5 +73,3 @@ Authors are in alphabetical order
 {% bibliography -f publications_miscellaneous %}
 
 </div>
-
-

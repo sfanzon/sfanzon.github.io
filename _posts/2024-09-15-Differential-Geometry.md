@@ -85,11 +85,12 @@ Times and venues are as follows:
 - **Lecture 2**: Friday 16:00-18:00 in Wilberforce Building - Lecture Room 16
 
 - **Tutorial**: Time and venues as follows
-    * Week 1-3: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
-    * Week 4: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
-    * Week 5: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
-    * Week 6: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121
-    * Week 7-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 1: Friday 9:00-10:00 in Larkin Building - Seminar Room 121
+    * Week 2: Friday 9:00-10:00 in Wilberforce Building - Lecture Room 22
+    * Week 3: Thursday 15:00-16:00 in Wilberforce Building - Lecture Room 21
+    * Week 4: Friday 09:00-10:00 in Wilberforce Building - Lecture Room 22
+    * Week 5: Thursday 15:00-16:00 in Wilberforce Building - Lecture Room 21
+    * Week 6-12: Friday 9:00-10:00 in Wilberforce Building - Lecture Room 22
 
 Please check on MyTimetable every week to see if there are any changes to the following session times and rooms.
 
@@ -122,8 +123,6 @@ This module will be assessed as follows:
 
 
 
-
-
 ## References
 
 - **Lecture Notes**: Available **[here](https://www.silviofanzon.com/2024-Differential-Geometry-Notes/)**
@@ -146,45 +145,44 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 
 
 
-|**Lesson #**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
-|: -------   |: ------- |:---------     |:---------  	                                                                                                                                                           |
-|  1         | 26/09/24 | 16:00 - 18:00 | Intro: Canvas and Lecture Notes. Briefing on Assessment, Timetable, etc. Curves as Level sets. Parametrized curves. Smooth curves. Tangent vector. Examples. Length of $\gamma$ as limit of length of polygonals. 
-Proof: $L(\gamma) = \int \| \dot \gamma \|$ when $\gamma$ regular. |
-|  2         | 27/09/24 | 09:00 - 10:00 | Length of circle and portion of Helix. Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP. |
-|  3         | 27/09/24 | 16:00 - 18:00 | 																		                           |
-|  4         | 03/10/24 | 16:00 - 18:00 |                                                                                                                                                                          |
-|  5         | 04/10/24 | 09:00 - 10:00 | Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.        |
-|  6         | 04/10/24 | 16:00 - 18:00 | Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.         |
-|  7         | 10/10/24 | 15:00 - 16:00 | Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.        |
-|  8         | 10/10/24 | 16:00 - 18:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.           |
-|  9         | 11/10/24 | 16:00 - 18:00 | Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.                                        |
-| 10         | 17/10/24 | 16:00 - 18:00 | Hyperbolic functions and their properties. Example of the catenary curve.   												   |    								                            
-| 11         | 18/10/24 | 09:00 - 10:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.      		   |
-| 12         | 18/10/24 | 16:00 - 18:00 | Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula. Geometric consequences of Frenet-Serret.                |
-| 13         | 24/10/24 | 15:00 - 16:00 | Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.       |
-| 14         | 24/10/24 | 16:00 - 18:00 | Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.                                          |
-| 15         | 25/10/24 | 16:00 - 18:00 | Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.      |
-| 16         | 31/10/24 | 16:00 - 18:00 | Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.                                              |
-| 17         | 01/11/24 | 09:00 - 10:00 | Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.                                                               |
-| 18         | 01/11/24 | 16:00 - 18:00 | Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.                                   |
-| 19         | 07/11/24 | 16:00 - 18:00 | Sequential continuity: fixed one of the proofs. Characterization of connected sets in $\mathbb{R}$. Intermediate value theorem in topological space.                     |
-| 20         | 08/11/24 | 09:00 - 10:00 | Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.              |
-| 21         | 08/11/24 | 16:00 - 18:00 | Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$, differential, Jacobian.                                 |
-| 22         | 14/11/24 | 16:00 - 18:00 | Inverse function Theorem. Examples. Surface: Definition and Examples. Regular charts and regular surfaces.                                                               |
-| 23         | 15/11/24 | 09:00 - 10:00 | Spherical coordinates. Level surfaces. Reparametrizations.                                                                                                               |
-| 24         | 15/11/24 | 16:00 - 17:00 | Transition maps. Functions between surfaces. Smooth functions.                                                                                                           |
-| 25         | 21/11/24 | 16:00 - 18:00 | Diffeomorphisms between surfaces. Tangent space and characterization. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.       |
-| 26         | 22/11/24 | 09:00 - 10:00 | Properties of differential of smooth functions. Linear Algebra preliminaries. Examples of surfaces: Level Surfaces, Quadrics, Ruled Surfaces, Surfaces of Revolution.    |
-| 27         | 22/11/24 | 16:00 - 17:00 | First fundamental form (FFF): Abstract definition and expression in coordinates. Length of curves on surfaces.                                                           |
-| 28         | 28/11/24 | 16:00 - 18:00 | Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.                                         |
-| 29         | 29/11/24 | 09:00 - 10:00 | Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.                                          |
-| 30         | 29/11/24 | 16:00 - 17:00 | Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.    |
-| 31         | 05/12/24 | 16:00 - 18:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
-| 32         | 06/12/24 | 09:00 - 10:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
-| 33         | 06/12/24 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
-| 34         | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.               															           |
-| 35         | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                           													           |
-| 36         | 13/12/24 | 16:00 - 17:00 | Revision and Exam Preparation.               												                                   |
+|**Class #**|**Date**  |  **Time**     |   **Topics**                                                                                                                                                             |
+|: -------  |: ------- |:---------     |:---------  	                                                                                                                                                          |
+|  1        | 26/09/24 | 16:00 - 18:00 | Canvas, Assessment etc. Level, parametrized, smooth curves. Tangent vector. Rectifiabile curves. Proof: $L(\gamma) = \int \| \dot \gamma \|$ when $\gamma$ smooth.       |
+|  2        | 27/09/24 | 09:00 - 10:00 | Finished Proof: $L(\gamma) = \int \| \dot \gamma \|$ when $\gamma$ smooth. Length of circle and portion of Helix.                                                        |
+|  3        | 27/09/24 | 16:00 - 18:00 | Arc-Length. Scalar product. Geometric and algebraic definitions. Bilinearity, Symmetry, Differentiation of SP. Speed. Reparametrizations. Regular and singular points.   |
+|  4        | 03/10/24 | 16:00 - 18:00 | Thm: Regular $\iff\,\exists$ unit speed reparametrization. Prop: Arc-length as unit speed reparametrization. Closed curves. Thm: Period exists. Examples.                |
+|  5        | 04/10/24 | 09:00 - 10:00 | Curvature: motivation. Curvature for unit speed curves. Example: Circle. Curvature for regular curves. Hyperbolic functions. Example: curvature of Catenary.             |
+|  6        | 04/10/24 | 16:00 - 18:00 | Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. Formula: curvature of regular curves (no proof). Examples. Hints Homework 1.            |
+|  7        | 10/10/24 | 15:00 - 16:00 | Notation: Arc-length reparametrization, curvature, catenary example. Example: Plane curves. Frenet-Frame. Frenet-Frame and reparametrizations. Helix example.            |
+|  8        | 10/10/24 | 16:00 - 18:00 | Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Exercises of Homework 1.                                       |
+|  9        | 11/10/24 | 16:00 - 18:00 | Example: Rotated circle. Summary: Calculations on curves. Frenet-Serret equations. FTSC (no proof). Curve is planar iff it has zero torsion.                             |
+| 10        | 17/10/24 | 16:00 - 18:00 | Constant curvature and zero torsion iff circle. Proof: Curvature and Torsion Formulas. Proof of FTSC. Topology: Definition. Trivial, discrete, euclidean topologies.     |    								                            
+| 11        | 18/10/24 | 09:00 - 10:00 | Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology. Comparing topologies. Cofinite topology.                                  |
+| 12        | 18/10/24 | 16:00 - 18:00 | Convergence. Metric spaces. Topology induced by the metric. Interior, closure, boundary in general topological spaces.                                                   |
+| 13        | 24/10/24 | 15:00 - 16:00 | Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.      |
+| 14        | 24/10/24 | 16:00 - 18:00 | Hausdorff spaces. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff. Continuity. Example in $\mathbb{R}^m$. Exercises of Homework 2.       |
+| 15        | 25/10/24 | 16:00 - 18:00 | Continuity. Sequential continuity. Subspace topology. Topological basis. Topology induced by basis. Product topology. Connectedness. Examples.                           |
+| 16        | 31/10/24 | 16:00 - 18:00 | Connectedness is topological invariant. Examples. Intervals are connected. Intermediate value Theorem. Path connectedness. Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$. Differential. Jacobian.                            |
+| 17        | 01/11/24 | 09:00 - 10:00 | Diffeomorphism and local diffeomorphism. Inverse function Theorem. Examples. Surfaces: Definition. Examples of the plane.                                                |
+| 18        | 01/11/24 | 16:00 - 18:00 | Examples: Cylinder, Graphs. Double Cone is not a surface. Regular charts and regular surfaces. Examples: Plane, Cylinder, Graphs, Sphere. Spherical coordinates.         |
+| 19        | 07/11/24 | 16:00 - 18:00 |                      |
+| 20        | 08/11/24 | 09:00 - 10:00 | Example: non-regular surface. Reparametrizations. Transition maps. Functions between surfaces. Smooth functions. Unit normal. Orientability. Orientable surfaces.        |
+| 21        | 08/11/24 | 16:00 - 18:00 | Exercises of Homework 3. Exercises of Homework 4. Exercises of Homework 5.                                  |
+| 22        | 14/11/24 | 16:00 - 18:00 |                                                                |
+| 23        | 15/11/24 | 09:00 - 10:00 |                                                                                                                |
+| 24        | 15/11/24 | 16:00 - 17:00 |                                                                                                            |
+| 25        | 21/11/24 | 16:00 - 18:00 | Diffeomorphisms between surfaces. Tangent space. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.       |
+| 26        | 22/11/24 | 09:00 - 10:00 | Properties of differential of smooth functions. Linear Algebra preliminaries. Examples of surfaces: Level Surfaces, Quadrics, Ruled Surfaces, Surfaces of Revolution.    |
+| 27        | 22/11/24 | 16:00 - 17:00 | First fundamental form (FFF): Abstract definition and expression in coordinates. Length of curves on surfaces.                                                           |
+| 28        | 28/11/24 | 16:00 - 18:00 | Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.                                         |
+| 29        | 29/11/24 | 09:00 - 10:00 | Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces.                                           |
+| 30        | 29/11/24 | 16:00 - 17:00 | Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.    |
+| 31        | 05/12/24 | 16:00 - 18:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
+| 32        | 06/12/24 | 09:00 - 10:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
+| 33        | 06/12/24 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
+| 34        | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.              															          |
+| 35        | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                          													          |
+| 36        | 13/12/24 | 16:00 - 17:00 | Revision and Exam Preparation.               												                                  |
 
 
 
@@ -209,9 +207,9 @@ Each homework paper:
 |**Due date**|  **Homework #**             |  **Topics**                                                                                              |
 |: -------   |:-------------               |:---------                                                                                                |
 | 08/10/24   | 1                           |  Curve length, regularity, reparametrization.                                                            |
-| 22/10/24   | 2                           |  Curve length, regularity, reparametrization, curvature, torsion.                                        |
-| 05/11/24   | 3                           |  Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.      |
-| 19/11/24   | 4                           |  Metric Spaces. Topology induced by metric. Density. Connectedness.                                      |
+| 22/10/24   | 2                           |  Curvature, torsion, Frenet Frame.                                                                       |
+| 05/11/24   | 3                           |  Frenet-Serret. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.           |
+| 19/11/24   | 4                           |  Topological spaces. Density. Connectedness. Regular surfaces. Tangent space. First Fundamental Form.    |
 | 03/12/24   | 5                           |  First and Second Fundamental Forms. Gauss and Weingarten maps. Curvatures. Local shape.                 |
 
 
