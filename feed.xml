@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-26T20:13:26+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-11-04T21:52:51+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -54,11 +54,12 @@ In this module we  study curves, surfaces and general topology.</p>
   <li>
     <p><strong>Tutorial</strong>: Time and venues as follows</p>
     <ul>
-      <li>Week 1-3: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
-      <li>Week 4: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121</li>
-      <li>Week 5: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
-      <li>Week 6: Thursday 15:00-16:00 in Larkin Building - Seminar Room 121</li>
-      <li>Week 7-12: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+      <li>Week 1: Friday 9:00-10:00 in Larkin Building - Seminar Room 121</li>
+      <li>Week 2: Friday 9:00-10:00 in Wilberforce Building - Lecture Room 22</li>
+      <li>Week 3: Thursday 15:00-16:00 in Wilberforce Building - Lecture Room 21</li>
+      <li>Week 4: Friday 09:00-10:00 in Wilberforce Building - Lecture Room 22</li>
+      <li>Week 5: Thursday 15:00-16:00 in Wilberforce Building - Lecture Room 21</li>
+      <li>Week 6-12: Friday 9:00-10:00 in Wilberforce Building - Lecture Room 22</li>
     </ul>
   </li>
 </ul>
@@ -119,7 +120,7 @@ In this module we  study curves, surfaces and general topology.</p>
 <table>
   <thead>
     <tr>
-      <th><strong>Lesson #</strong></th>
+      <th><strong>Class #</strong></th>
       <th><strong>Date</strong></th>
       <th style="text-align: left"><strong>Time</strong></th>
       <th style="text-align: left"><strong>Topics</strong></th>
@@ -130,157 +131,151 @@ In this module we  study curves, surfaces and general topology.</p>
       <td>1</td>
       <td>26/09/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Intro: Canvas and Lecture Notes. Briefing on Assessment, Timetable, etc. Curves as Level sets. Parametrized curves. Smooth curves. Tangent vector. Examples. Length of $\gamma$ as limit of length of polygonals.</td>
-    </tr>
-    <tr>
-      <td>Proof: $L(\gamma) = \int | \dot \gamma |$ when $\gamma$ regular.</td>
-      <td> </td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Canvas, Assessment etc. Level, parametrized, smooth curves. Tangent vector. Rectifiabile curves. Proof: $L(\gamma) = \int | \dot \gamma |$ when $\gamma$ smooth.</td>
     </tr>
     <tr>
       <td>2</td>
       <td>27/09/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Length of circle and portion of Helix. Arc-Length. Examples. Scalar product in $\mathbb{R}^2$: geometric definition. SP in coordinates and in $\mathbb{R}^n$. Bilinearity, Symmetry, Differentiation of SP.</td>
+      <td style="text-align: left">Finished Proof: $L(\gamma) = \int | \dot \gamma |$ when $\gamma$ smooth. Length of circle and portion of Helix.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>27/09/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Arc-Length. Scalar product. Geometric and algebraic definitions. Bilinearity, Symmetry, Differentiation of SP. Speed. Reparametrizations. Regular and singular points.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>03/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Thm: Regular $\iff\,\exists$ unit speed reparametrization. Prop: Arc-length as unit speed reparametrization. Closed curves. Thm: Period exists. Examples.</td>
     </tr>
     <tr>
       <td>5</td>
       <td>04/10/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Speed. Reparametrizations. Regular and singular points. Unit speed reparametrization. Thm: Regularity is equivalent to existence of unit speed reparametrization.</td>
+      <td style="text-align: left">Curvature: motivation. Curvature for unit speed curves. Example: Circle. Curvature for regular curves. Hyperbolic functions. Example: curvature of Catenary.</td>
     </tr>
     <tr>
       <td>6</td>
       <td>04/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Theorem: Arc-length as unit speed reparametrization. Periodic curves. Closed curves. Period of a closed curve. Theorem: Period of closed curve exists. Examples.</td>
+      <td style="text-align: left">Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. Formula: curvature of regular curves (no proof). Examples. Hints Homework 1.</td>
     </tr>
     <tr>
       <td>7</td>
       <td>10/10/24</td>
       <td style="text-align: left">15:00 - 16:00</td>
-      <td style="text-align: left">Curvature: motivation with Taylor formula. Curvature for unit speed curves. Curvature of circle of radius $R$ computed via reparametrization to unit speed curve.</td>
+      <td style="text-align: left">Notation: Arc-length reparametrization, curvature, catenary example. Example: Plane curves. Frenet-Frame. Frenet-Frame and reparametrizations. Helix example.</td>
     </tr>
     <tr>
       <td>8</td>
       <td>10/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Vector Product in $\mathbb{R}^3$: Algebraic definition and geometric properties. General formula for curvature of regular curves (no proof for now). Examples.</td>
+      <td style="text-align: left">Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Exercises of Homework 1.</td>
     </tr>
     <tr>
       <td>9</td>
       <td>11/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Plane curves. Signed curvature (SC). Geometric meaning of SC. SC characterizes plane curves (no proof). Correction of Homework 1.</td>
+      <td style="text-align: left">Example: Rotated circle. Summary: Calculations on curves. Frenet-Serret equations. FTSC (no proof). Curve is planar iff it has zero torsion.</td>
     </tr>
     <tr>
       <td>10</td>
       <td>17/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Hyperbolic functions and their properties. Example of the catenary curve.</td>
+      <td style="text-align: left">Constant curvature and zero torsion iff circle. Proof: Curvature and Torsion Formulas. Proof of FTSC. Topology: Definition. Trivial, discrete, euclidean topologies.</td>
     </tr>
     <tr>
       <td>11</td>
       <td>18/10/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Torsion for unit speed curves. Torsion, general formula. Example of calculation of curvature and torsion. Frenet Frame. Frenet-Serret equations.</td>
+      <td style="text-align: left">Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology. Comparing topologies. Cofinite topology.</td>
     </tr>
     <tr>
       <td>12</td>
       <td>18/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Frenet Frame of Helix. Characterization Theorem of 3D curves. New notations. Proof of general curvature formula. Geometric consequences of Frenet-Serret.</td>
+      <td style="text-align: left">Convergence. Metric spaces. Topology induced by the metric. Interior, closure, boundary in general topological spaces.</td>
     </tr>
     <tr>
       <td>13</td>
       <td>24/10/24</td>
       <td style="text-align: left">15:00 - 16:00</td>
-      <td style="text-align: left">Definition of Topology. Trivial, discrete and euclidean topologies. Balls are open in $\mathbb{R}^n$. Closed sets. Topology through closed sets. Zariski topology.</td>
+      <td style="text-align: left">Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.</td>
     </tr>
     <tr>
       <td>14</td>
       <td>24/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Comparing topologies. Cofinite topology. Convergence. Metric spaces. Interior, closure, boundary in general topological spaces.</td>
+      <td style="text-align: left">Hausdorff spaces. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff. Continuity. Example in $\mathbb{R}^m$. Exercises of Homework 2.</td>
     </tr>
     <tr>
       <td>15</td>
       <td>25/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Limit points are contained in the closure. The converse is false: co-countable topology example. Characterization of interior and closure in metric space. Density.</td>
+      <td style="text-align: left">Continuity. Sequential continuity. Subspace topology. Topological basis. Topology induced by basis. Product topology. Connectedness. Examples.</td>
     </tr>
     <tr>
       <td>16</td>
       <td>31/10/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Correction of Homework 2. Hausdorff space. Metric spaces are Hausdorff. Metrizable spaces. Metrizable spaces are Hausdorff.</td>
+      <td style="text-align: left">Connectedness is topological invariant. Examples. Intervals are connected. Intermediate value Theorem. Path connectedness. Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$. Differential. Jacobian.</td>
     </tr>
     <tr>
       <td>17</td>
       <td>01/11/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Examples of Hausdorff spaces. Continuity. Subspace topology. Topological basis. Topology induced by basis.</td>
+      <td style="text-align: left">Diffeomorphism and local diffeomorphism. Inverse function Theorem. Examples. Surfaces: Definition. Examples of the plane.</td>
     </tr>
     <tr>
       <td>18</td>
       <td>01/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Product topology. Connectedness. Examples. Connectedness is topological invariant. $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}$.</td>
+      <td style="text-align: left">Examples: Cylinder, Graphs. Double Cone is not a surface. Regular charts and regular surfaces. Examples: Plane, Cylinder, Graphs, Sphere. Spherical coordinates.</td>
     </tr>
     <tr>
       <td>19</td>
       <td>07/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Sequential continuity: fixed one of the proofs. Characterization of connected sets in $\mathbb{R}$. Intermediate value theorem in topological space.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>20</td>
       <td>08/11/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Path connectedness. Definition, Examples. Path connectedness implies connectedness. Converse is false: Topologist Curve. Surfaces: Introductory discussion.</td>
+      <td style="text-align: left">Example: non-regular surface. Reparametrizations. Transition maps. Functions between surfaces. Smooth functions. Unit normal. Orientability. Orientable surfaces.</td>
     </tr>
     <tr>
       <td>21</td>
       <td>08/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Correction of Homework 3. Topology in $\mathbb{R}^n$. Smooth functions $f \colon \mathbb{R}^n \to \mathbb{R}^m$, differential, Jacobian.</td>
+      <td style="text-align: left">Exercises of Homework 3. Exercises of Homework 4. Exercises of Homework 5.</td>
     </tr>
     <tr>
       <td>22</td>
       <td>14/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Inverse function Theorem. Examples. Surface: Definition and Examples. Regular charts and regular surfaces.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>23</td>
       <td>15/11/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Spherical coordinates. Level surfaces. Reparametrizations.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>24</td>
       <td>15/11/24</td>
       <td style="text-align: left">16:00 - 17:00</td>
-      <td style="text-align: left">Transition maps. Functions between surfaces. Smooth functions.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>25</td>
       <td>21/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Diffeomorphisms between surfaces. Tangent space and characterization. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.</td>
+      <td style="text-align: left">Diffeomorphisms between surfaces. Tangent space. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.</td>
     </tr>
     <tr>
       <td>26</td>
@@ -304,7 +299,7 @@ In this module we  study curves, surfaces and general topology.</p>
       <td>29</td>
       <td>29/11/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces. Unit normal. Orientability. Orientable surfaces.</td>
+      <td style="text-align: left">Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces.</td>
     </tr>
     <tr>
       <td>30</td>
@@ -384,17 +379,17 @@ In this module we  study curves, surfaces and general topology.</p>
     <tr>
       <td>22/10/24</td>
       <td style="text-align: left">2</td>
-      <td style="text-align: left">Curve length, regularity, reparametrization, curvature, torsion.</td>
+      <td style="text-align: left">Curvature, torsion, Frenet Frame.</td>
     </tr>
     <tr>
       <td>05/11/24</td>
       <td style="text-align: left">3</td>
-      <td style="text-align: left">Curvature, torsion. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.</td>
+      <td style="text-align: left">Frenet-Serret. Topological spaces: Convergence, Interior, Closure. Topology of Metric Spaces.</td>
     </tr>
     <tr>
       <td>19/11/24</td>
       <td style="text-align: left">4</td>
-      <td style="text-align: left">Metric Spaces. Topology induced by metric. Density. Connectedness.</td>
+      <td style="text-align: left">Topological spaces. Density. Connectedness. Regular surfaces. Tangent space. First Fundamental Form.</td>
     </tr>
     <tr>
       <td>03/12/24</td>
@@ -436,7 +431,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
 
 <h2 id="key-links">Key Links</h2>
 
-<p>All the modue information will be posted on this page, as well as on <strong><a href="https://canvas.hull.ac.uk/courses/73579">Canvas</a></strong>. The links to the reference material are:</p>
+<p>All the module information will be posted on this page, as well as on <strong><a href="https://canvas.hull.ac.uk/courses/73579">Canvas</a></strong>. The links to the reference material are:</p>
 
 <ul>
   <li><strong><a href="https://www.silviofanzon.com/2024-NSS-Notes/">Lecture Notes</a></strong></li>
@@ -517,7 +512,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
 <table>
   <thead>
     <tr>
-      <th><strong>Lesson #</strong></th>
+      <th><strong>Class #</strong></th>
       <th><strong>Date</strong></th>
       <th style="text-align: left"><strong>Time</strong></th>
       <th style="text-align: left"><strong>Topics</strong></th>
@@ -528,7 +523,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>1</td>
       <td>26/09/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Intro: Access Canvas, Lecture Notes. Briefing on Assessment, etc. Introduction: Numbers $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ and $\mathbb{R}$. Proof: $\sqrt{2} \notin \mathbb{Q}$.</td>
+      <td style="text-align: left">Canvas, Lecture Notes, Assessment etc. Introduction: Numbers $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ and $\mathbb{R}$. Proof: $\sqrt{2} \notin \mathbb{Q}$.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -540,121 +535,121 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>3</td>
       <td>27/09/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Finished exercises in Tutorial 1. Complement, Power set, product of sets. Binary relations, Equivalence relation with examples. Partial Order relation. Total order. Intervals. Functions.</td>
+      <td style="text-align: left">Finished exercises in Tutorial 1. Complement, Power set. Examples.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>03/10/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Absolute value. Geometric meaning. Basic lemma on absolute value. Triangle inequality with proof. Proofs in Mathematics. Example of proof involving $\varepsilon$.</td>
+      <td style="text-align: left">Product of sets. Binary relations. Equivalence, Partial Order, Total order relations. Intervals. Functions.</td>
     </tr>
     <tr>
       <td>5</td>
       <td>03/10/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Induction. Recurrence sequence. Correction of exercises in Tutorial 1.</td>
+      <td style="text-align: left">Exercises in Tutorial 2. Absolute value. Geometric meaning. Basic lemma on absolute value. Triangle inequality (with proof). Corollaries of Triangle inequality.</td>
     </tr>
     <tr>
       <td>6</td>
       <td>04/10/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Binary operations. Fields. Field with $2$ elements. Uniqueness of neutral element and inverse. $\mathbb{N}$, $\mathbb{Z}$ are not fields. $\mathbb{Q}$ is a field.</td>
+      <td style="text-align: left">Proofs in Mathematics. Induction. Recurrence sequence. Examples. Hints for Homework 1.</td>
     </tr>
     <tr>
       <td>7</td>
       <td>10/10/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Ordered Fields. $\mathbb{Q}$ is ordered field. Partition of a set, Cut of a set, Cut Property. Proof that $\mathbb{Q}$ does not have the Cut Property.</td>
+      <td style="text-align: left">Binary operations. Commutativity, associativity, neutral element, inverse. Fields. Examples. Ordered Fields. $\mathbb{Q}$ is ordered field.</td>
     </tr>
     <tr>
       <td>8</td>
       <td>10/10/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Upper bound, bounded above, sup. Uniqueness of sup. Max. Lower bound, inf, min. Relation between inf and sup. Proof that $\mathbb{Q}$ is not complete. Axiom of Completeness.</td>
+      <td style="text-align: left">Partition of a set, Cut of a set, Cut Property. Proof that $\mathbb{Q}$ does not have the Cut Property. Upper bound, bounded above, sup. Uniqueness of sup. Maximum.</td>
     </tr>
     <tr>
       <td>9</td>
       <td>11/10/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of exercises in Tutorial 2.</td>
+      <td style="text-align: left">Exercises in Tutorial 3. Correction of Homework 1.</td>
     </tr>
     <tr>
       <td>10</td>
       <td>17/10/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Cut property is equivalent to Completeness. $\mathbb{R}$ as ordered complete field. Archimedean property: 2 Versions. Nested Interval Property.</td>
+      <td style="text-align: left">Lower bound, inf, min. $\mathbb{Q}$ is not complete (partial proof). Axiom of Completeness. Definition of $\mathbb{R}$. Theorem: $\mathbb{R}$ exists unique (no proof).</td>
     </tr>
     <tr>
       <td>11</td>
       <td>17/10/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Equivalent formulation of sup and inf. Sup, inf, max, min of interval $(a,b)$. Correction of Homework 1.</td>
+      <td style="text-align: left">$\mathbb{N}$ as inductive subset of $\mathbb{R}$. Properties. Principle of Induction. Exercises in Tutorial 4.</td>
     </tr>
     <tr>
       <td>12</td>
       <td>18/10/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of exercises in Tutorial 3.</td>
+      <td style="text-align: left">Definition of $\mathbb{Z}$, $\mathbb{Q}$ and properties. Archimedean property 1 (proof) and 2 (no proof). Nested Interval Property (proof). Counterexample with open intervals.</td>
     </tr>
     <tr>
       <td>13</td>
       <td>24/10/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Examples of calculation of sup and inf. $\mathbb{N}$ as inductive subset of $\mathbb{R}$. Properties. Induction. Definition of $\mathbb{Z}$, $\mathbb{Q}$ and properties.</td>
+      <td style="text-align: left">Examples: Calculation of sup and inf. Existence of $k$-th roots (no proof). $\mathbb{Q}$ and irrationals dense in $\mathbb{R}$. Injectivity, Surjectivity, Bijectivity.</td>
     </tr>
     <tr>
       <td>14</td>
       <td>24/10/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Density of $\mathbb{Q}$ and irrationals in $\mathbb{R}$. Existence of $k$-th roots. Bijective functions. Examples. Cardinality. Subsets of countable sets.</td>
+      <td style="text-align: left">Exercises in Tutorial 5. Correction of Homework 2. Cardinality. Subsets of countable sets. Examples. $\mathbb{N}$, $\mathbb{Z}$ are countable.</td>
     </tr>
     <tr>
       <td>15</td>
       <td>25/10/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 4.</td>
+      <td style="text-align: left">Countable unions. $\mathbb{Q}$ countable. $\mathbb{R}$ and Irrationals uncountable. Complex numbers: Addition, multiplication, Inverses. $\mathbb{C}$ is a field (not ordered).</td>
     </tr>
     <tr>
       <td>16</td>
       <td>31/10/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Correction of Homework 2. Countable union of countable sets. $\mathbb{Q}$ is countable. $\mathbb{R}$ and irrationals are uncountable. Complex numbers: Addition, multiplication.</td>
+      <td style="text-align: left">Complex conjugate. Cartesian representation. Modulus. Triangle inequality. Trigonometric and exponential forms.</td>
     </tr>
     <tr>
       <td>17</td>
       <td>31/10/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Inverses. $\mathbb{C}$ is a field. $\mathbb{C}$ not ordered. Complex conjugate. Cartesian representation. Modulus. Triangle inequality. Trigonometric and exponential forms.</td>
+      <td style="text-align: left">Fundamental Theorem of algebra. Polynomial division algorithm and examples. Exercises in Tutorial 6.</td>
     </tr>
     <tr>
       <td>18</td>
       <td>01/11/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 5.</td>
+      <td style="text-align: left">Solving polynomial equations in $\mathbb{C}$: order 2, and higher order.</td>
     </tr>
     <tr>
       <td>19</td>
       <td>07/11/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Homework 2: went over most common mistakes. Canvas Announcements. Revision of Complex Numbers. Fundamental Theorem of algebra. Solving polynomial equations.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>20</td>
       <td>07/11/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Polynomial division algorithm and examples. Roots of Unity. Roots in $\mathbb{C}$.</td>
+      <td style="text-align: left">Roots of Unity. Roots in $\mathbb{C}$. Sequences: Definition and examples. Convergent sequences. Examples. Divergent sequences. Examples. Uniqueness of limit.</td>
     </tr>
     <tr>
       <td>21</td>
       <td>08/11/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 6.</td>
+      <td style="text-align: left">Exercises in Tutorial 7.</td>
     </tr>
     <tr>
       <td>22</td>
       <td>14/11/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Sequences: Definition and examples. Convergent sequences. Examples. Divergent sequences. Examples. Uniqueness of limit.</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>23</td>
@@ -666,7 +661,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>24</td>
       <td>15/11/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 7.</td>
+      <td style="text-align: left">Exercises in Tutorial 8.</td>
     </tr>
     <tr>
       <td>25</td>
@@ -684,7 +679,7 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>27</td>
       <td>22/11/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 8.</td>
+      <td style="text-align: left">Exercises in Tutorial 9.</td>
     </tr>
     <tr>
       <td>28</td>
@@ -720,13 +715,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>33</td>
       <td>06/12/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Correction of Tutorial 9.</td>
+      <td style="text-align: left">Exercises in Tutorial 10.</td>
     </tr>
     <tr>
       <td>34</td>
       <td>12/12/24</td>
       <td style="text-align: left">09:00 - 11:00</td>
-      <td style="text-align: left">Correction of Tutorial 10. Solution of past Written Exams.</td>
+      <td style="text-align: left">Solution of Exam papers 2018/2019, 2019/20, 2023/24.</td>
     </tr>
     <tr>
       <td>35</td>
@@ -764,17 +759,17 @@ This is an introductory module in Mathematical Analysis. We will investigate the
     <tr>
       <td>03/10/24</td>
       <td style="text-align: left">2</td>
-      <td style="text-align: left">Basic set theory. Equivalence relation. Absolute value.</td>
+      <td style="text-align: left">Irrational numbers. Basic set theory.</td>
     </tr>
     <tr>
       <td>10/10/24</td>
       <td style="text-align: left">3</td>
-      <td style="text-align: left">Triangle inequality. Induction.</td>
+      <td style="text-align: left">Equivalence relation. Absolute value. Triangle inequality. Induction.</td>
     </tr>
     <tr>
       <td>17/10/24</td>
       <td style="text-align: left">4</td>
-      <td style="text-align: left">Operations. Fields.</td>
+      <td style="text-align: left">Induction. Operations. Fields.</td>
     </tr>
     <tr>
       <td>24/10/24</td>
