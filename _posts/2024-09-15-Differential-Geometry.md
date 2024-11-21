@@ -165,18 +165,18 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 | 16        | 31/10/24 | 16:00 - 18:00 | Intervals. Intermediate value Theorem. Path-connectedness. Examples. Topologist Curve. Surfaces. Topology in $\mathbb{R}^n$. Smooth functions. Differential. Jacobian.   |
 | 17        | 01/11/24 | 09:00 - 10:00 | Diffeomorphism and local diffeomorphism. Inverse function Theorem. Examples. Surfaces: Definition. Examples of the plane.                                                |
 | 18        | 01/11/24 | 16:00 - 18:00 | Examples: Cylinder, Graphs. Double Cone is not a surface. Regular charts and regular surfaces. Examples: Plane, Cylinder, Graphs, Sphere. Spherical coordinates.         |
-| 19        | 07/11/24 | 16:00 - 18:00 |                      |
-| 20        | 08/11/24 | 09:00 - 10:00 | Example: non-regular surface. Reparametrizations. Transition maps. Functions between surfaces. Smooth functions. Unit normal. Orientability. Orientable surfaces.        |
-| 21        | 08/11/24 | 16:00 - 18:00 | Exercises of Homework 3. Exercises of Homework 4. Exercises of Homework 5.                                  |
-| 22        | 14/11/24 | 16:00 - 18:00 |                                                                |
-| 23        | 15/11/24 | 09:00 - 10:00 |                                                                                                                |
-| 24        | 15/11/24 | 16:00 - 17:00 |                                                                                                            |
-| 25        | 21/11/24 | 16:00 - 18:00 | Diffeomorphisms between surfaces. Tangent space. Examples. Differential of smooth functions. Differential of smooth functions in coordinates.       |
-| 26        | 22/11/24 | 09:00 - 10:00 | Properties of differential of smooth functions. Linear Algebra preliminaries. Examples of surfaces: Level Surfaces, Quadrics, Ruled Surfaces, Surfaces of Revolution.    |
-| 27        | 22/11/24 | 16:00 - 17:00 | First fundamental form (FFF): Abstract definition and expression in coordinates. Length of curves on surfaces.                                                           |
-| 28        | 28/11/24 | 16:00 - 18:00 | Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Conformal maps.                                         |
-| 29        | 29/11/24 | 09:00 - 10:00 | Conformal maps and FFF. Conformal parametrizations. Conformally flat surfaces.                                           |
-| 30        | 29/11/24 | 16:00 - 17:00 | Second Fundamental Form (SFF) of a chart. Examples. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.    |
+| 19        | 07/11/24 | 16:00 - 18:00 | Example: non-regular surface. Reparametrizations. Transition maps. Functions between surfaces. Examples. Diffeomorphisms between surfaces. Tangent space.                |
+| 20        | 08/11/24 | 09:00 - 10:00 | Exercises of Homework 3.                                                                                                                                                 |       
+| 21        | 08/11/24 | 16:00 - 18:00 | Characterization and Equation Tangent Space. Examples. Unit normal. Orientability. Differential of smooth functions. Differential of smooth functions in coordinates.    |
+| 22        | 14/11/24 | 16:00 - 18:00 | Properties of differential. Examples. Examples of surfaces: Level, Ruled, Surfaces of Revolution. Mobius band is not orientable. First fundamental form (FFF).           |
+| 23        | 15/11/24 | 09:00 - 10:00 | Class Cancelled.                                                                                                                                                         |
+| 24        | 15/11/24 | 16:00 - 18:00 | Examples of FFF. Length of curves on surfaces. Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Example. |
+| 25        | 21/11/24 | 15:00 - 16:00 | Conformal maps. Stereographic projection. Conformal parametrizations. Isothermal coordinates. World Maps: Mercator projection. Second Fundamental Form (SFF) of a chart. |
+| 26        | 22/11/24 | 09:00 - 10:00 | Exercises of Homework 4.                                                                                                                                                 |
+| 27        | 22/11/24 | 16:00 - 18:00 | Example calculations of SFF. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.     |
+| 28        | 28/11/24 | 16:00 - 18:00 |                                            |
+| 29        | 29/11/24 | 09:00 - 10:00 |                                            |
+| 30        | 29/11/24 | 16:00 - 17:00 | Exercises of Homework 5.                                                          |
 | 31        | 05/12/24 | 16:00 - 18:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
 | 32        | 06/12/24 | 09:00 - 10:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
 | 33        | 06/12/24 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
