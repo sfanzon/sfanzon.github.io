@@ -172,13 +172,13 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 | 23        | 15/11/24 | 09:00 - 10:00 | Class Cancelled.                                                                                                                                                         |
 | 24        | 15/11/24 | 16:00 - 18:00 | Examples of FFF. Length of curves on surfaces. Local isometries. Local isometries preserve length of curves and FFF. Angles on surfaces. Angles between curves. Example. |
 | 25        | 21/11/24 | 15:00 - 16:00 | Conformal maps. Stereographic projection. Conformal parametrizations. Isothermal coordinates. World Maps: Mercator projection. Second Fundamental Form (SFF) of a chart. |
-| 26        | 22/11/24 | 09:00 - 10:00 | Exercises of Homework 4.                                                                                                                                                 |
-| 27        | 22/11/24 | 16:00 - 18:00 | Example calculations of SFF. Gauss map and examples. Weingarten map. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart.     |
+| 26        | 22/11/24 | 09:00 - 10:00 | Exam Revision. Questions 1 and 5 from 2022/23 Exam.                                                                                                                      |
+| 27        | 22/11/24 | 16:00 - 18:00 | Gauss and Weingarten maps. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart. Matrix of Weingarten map. Gaussian and mean curvatures. Examples.   |
 | 28        | 28/11/24 | 16:00 - 18:00 |                                            |
 | 29        | 29/11/24 | 09:00 - 10:00 |                                            |
-| 30        | 29/11/24 | 16:00 - 17:00 | Exercises of Homework 5.                                                          |
-| 31        | 05/12/24 | 16:00 - 18:00 | Matrix of Weingarten map. Gaussian and mean curvatures $G$ and $H$. Formulas for $G$ and $H$. Principal curvatures and directions. Relationship to $G$ and $H$. Examples.|
-| 32        | 06/12/24 | 09:00 - 10:00 | Normal and Geodesic curvatures. Euler's Theorem. Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                     |
+| 30        | 29/11/24 | 16:00 - 17:00 | Exercises of Homework 4. Exercises of Homework 5.                                                                                                                        |
+| 31        | 05/12/24 | 16:00 - 18:00 |  Principal curvatures and directions. Relationship to $G$ and $H$. Examples. Normal and Geodesic curvatures. Euler's Theorem.                                            |
+| 32        | 06/12/24 | 09:00 - 10:00 |  Local shape of surface: Elliptic, Hyperbolic, Parabolic and Planar points. Local Structure Theorem.                                                                     |
 | 33        | 06/12/24 | 16:00 - 17:00 | Umbilical points and structure theorem at umbilics.                                                                                                                      |
 | 34        | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.              															          |
 | 35        | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                          													          |
