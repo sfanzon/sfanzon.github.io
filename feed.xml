@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-02T17:16:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-07T09:50:08+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -305,7 +305,7 @@ In this module we  study curves, surfaces and general topology.</p>
       <td>30</td>
       <td>29/11/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Euler’s Theoremm. Local Structure Theorem. Umbilical points. Christoffel symbols. Gauss and Codazzi-Mainardi eqns. Fundamental Thm Surfaces. Theorema Egregium. Examples.</td>
+      <td style="text-align: left">Euler’s Theorem. Local Structure Theorem. Umbilical points. Christoffel symbols. Gauss and Codazzi-Mainardi eqns. Fundamental Thm Surfaces. Theorema Egregium. Examples.</td>
     </tr>
     <tr>
       <td>31</td>
@@ -317,13 +317,13 @@ In this module we  study curves, surfaces and general topology.</p>
       <td>32</td>
       <td>06/12/24</td>
       <td style="text-align: left">09:00 - 10:00</td>
-      <td style="text-align: left">Exercises of Homework 4. Exercises of Homework 5.</td>
+      <td style="text-align: left">Exercises of Homework 4.</td>
     </tr>
     <tr>
       <td>33</td>
       <td>06/12/24</td>
       <td style="text-align: left">16:00 - 18:00</td>
-      <td style="text-align: left">Revision and Exam Preparation.</td>
+      <td style="text-align: left">Exercises of Homework 5.</td>
     </tr>
     <tr>
       <td>34</td>
@@ -709,13 +709,13 @@ This is an introductory module in Mathematical Analysis. We will investigate the
       <td>32</td>
       <td>05/12/24</td>
       <td style="text-align: left">12:00 - 14:00</td>
-      <td style="text-align: left">Solution of Exam papers 2020/21, 2023/24. Correction of Homework 5.</td>
+      <td style="text-align: left">Solution of Exam papers 2020/21, 2023/24.</td>
     </tr>
     <tr>
       <td>33</td>
       <td>06/12/24</td>
       <td style="text-align: left">13:00 - 14:00</td>
-      <td style="text-align: left">Revision and Exam Preparation.</td>
+      <td style="text-align: left">Correction of Homework 5. Exam Paper 2022/23.</td>
     </tr>
     <tr>
       <td>34</td>
