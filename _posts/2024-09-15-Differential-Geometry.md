@@ -176,10 +176,10 @@ The module Lecture Notes are available **[here](https://www.silviofanzon.com/202
 | 27        | 22/11/24 | 16:00 - 18:00 | Gauss and Weingarten maps. SFF as a bilinear form on tangent space. Equivalence with SFF of a chart. Matrix of Weingarten map. Gaussian and mean curvatures. Examples.   |
 | 28        | 28/11/24 | 16:00 - 18:00 | Principal curvatures and vectors. Relationship with $G$ and $H$. Examples. Normal and Geodesic curvatures. Curves on the sphere.                                         |
 | 29        | 29/11/24 | 09:00 - 10:00 | Normal and geodesic curvatures for regular curves. Examples.                                                                                                             |
-| 30        | 29/11/24 | 16:00 - 18:00 | Euler's Theoremm. Local Structure Theorem. Umbilical points. Christoffel symbols. Gauss and Codazzi-Mainardi eqns. Fundamental Thm Surfaces. Theorema Egregium. Examples.|
+| 30        | 29/11/24 | 16:00 - 18:00 | Euler's Theorem. Local Structure Theorem. Umbilical points. Christoffel symbols. Gauss and Codazzi-Mainardi eqns. Fundamental Thm Surfaces. Theorema Egregium. Examples. |
 | 31        | 05/12/24 | 16:00 - 18:00 | Revision Guide: How to prepare for the Exam. Solution of Exam papers 2022/23 and 2023/24.                                                                                |
-| 32        | 06/12/24 | 09:00 - 10:00 | Exercises of Homework 4. Exercises of Homework 5.                                                                                                                        |     
-| 33        | 06/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.                                                                                                                                           |
+| 32        | 06/12/24 | 09:00 - 10:00 | Exercises of Homework 4.                                                                                                                                                 |     
+| 33        | 06/12/24 | 16:00 - 18:00 | Exercises of Homework 5.                                                                                                                                                 |
 | 34        | 12/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.              															          |
 | 35        | 13/12/24 | 09:00 - 10:00 | Revision and Exam Preparation.                          													          |
 | 36        | 13/12/24 | 16:00 - 18:00 | Revision and Exam Preparation.               												                                  |
