@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Statistical Models
-description: Webpage of the Course 551305 T2 2024/25
+description: Webpage of the module 551305 T2 2024/25
 giscus_comments: false
 tags: teaching maths
 date: 2025-1-9
@@ -103,7 +103,7 @@ This module will be assessed as follows:
 **Rules for Coursework**: 
 
 
-- Coursework available on Canvas from Week 10
+- Coursework available on Canvas from Week 9
 
 - Coursework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082)**
 
@@ -116,7 +116,7 @@ This module will be assessed as follows:
 **Rules for Homework**:
 
 
-- T10 Homework papers, posted weekly on **[Canvas](https://canvas.hull.ac.uk/courses/75082)** 
+- 10 Homework papers, posted weekly on **[Canvas](https://canvas.hull.ac.uk/courses/75082)** 
 
 - Each Homework paper is worth 14 points
 
@@ -124,9 +124,9 @@ This module will be assessed as follows:
     * Sum the top 7 scores (max score 98 points)
     * Rescale to 100
 
-- Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082)** by **14:00 on Mondays**
+- Homework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082)**
 
-- Deadline: *14:00 on Mondays**
+- Deadline: **14:00 on Mondays**
 
 
 
