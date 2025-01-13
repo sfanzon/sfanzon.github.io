@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-10T10:52:08+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-13T10:27:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -64,7 +64,7 @@ behind them are, and how to interpret the results. We will also implement such m
 
 <ul>
   <li>
-    <p>Coursework available on Canvas from Week 10</p>
+    <p>Coursework available on Canvas from Week 9</p>
   </li>
   <li>
     <p>Coursework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong></p>
@@ -81,7 +81,7 @@ behind them are, and how to interpret the results. We will also implement such m
 
 <ul>
   <li>
-    <p>T10 Homework papers, posted weekly on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong></p>
+    <p>10 Homework papers, posted weekly on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong></p>
   </li>
   <li>
     <p>Each Homework paper is worth 14 points</p>
@@ -93,9 +93,9 @@ behind them are, and how to interpret the results. We will also implement such m
     </ul>
   </li>
   <li>
-    <p>Homework papers must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong> by <strong>14:00 on Mondays</strong></p>
+    <p>Homework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong></p>
   </li>
-  <li>Deadline: *14:00 on Mondays**</li>
+  <li>Deadline: <strong>14:00 on Mondays</strong></li>
 </ul>
 
 <p><strong>How to submit assignments</strong>:</p>
@@ -378,7 +378,7 @@ behind them are, and how to interpret the results. We will also implement such m
       <li><strong>Comprehensive R manual</strong>: Davies <d-cite key="davies"></d-cite></li>
     </ul>
   </li>
-</ul>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the Course 551305 T2 2024/25]]></summary></entry><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
+</ul>]]></content><author><name>Silvio Fanzon</name></author><category term="teaching" /><category term="maths" /><summary type="html"><![CDATA[Webpage of the module 551305 T2 2024/25]]></summary></entry><entry><title type="html">Differential Geometry</title><link href="https://www.silviofanzon.com/blog/2024/Differential-Geometry/" rel="alternate" type="text/html" title="Differential Geometry" /><published>2024-09-15T00:00:00+00:00</published><updated>2024-09-15T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2024/Differential-Geometry</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2024/Differential-Geometry/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Differential Geometry 661955</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
 In this module we  study curves, surfaces and general topology.</p>
