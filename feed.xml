@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-13T10:27:28+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-04T13:18:44+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -95,7 +95,7 @@ behind them are, and how to interpret the results. We will also implement such m
   <li>
     <p>Homework must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a></strong></p>
   </li>
-  <li>Deadline: <strong>14:00 on Mondays</strong></li>
+  <li>Deadline: <strong>14:00 on Thursdays</strong></li>
 </ul>
 
 <p><strong>How to submit assignments</strong>:</p>
@@ -207,7 +207,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>Extra</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_A.html#/title-slide">Appendix A</a></td>
-      <td style="text-align: left">Probability Revision</td>
+      <td style="text-align: left">Probability revision</td>
     </tr>
     <tr>
       <td>Extra</td>
@@ -284,7 +284,7 @@ behind them are, and how to interpret the results. We will also implement such m
 
 <h2 id="homework">Homework</h2>
 
-<p>Homework papers must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a> by 14:00 on Mondays</strong></p>
+<p>Homework papers must be submitted on <strong><a href="https://canvas.hull.ac.uk/courses/75082">Canvas</a> by 14:00 on Thursday</strong></p>
 
 <table>
   <thead>
@@ -297,52 +297,52 @@ behind them are, and how to interpret the results. We will also implement such m
   <tbody>
     <tr>
       <td>1</td>
-      <td style="text-align: left">3 Feb</td>
-      <td style="text-align: left">Moment generating function. Poisson distribution. Poisson models for soccer</td>
+      <td style="text-align: left">6 Feb</td>
+      <td style="text-align: left">Moment generating function. Poisson distribution. Poisson models for soccer.</td>
     </tr>
     <tr>
       <td>2</td>
-      <td style="text-align: left">10 Feb</td>
-      <td style="text-align: left">Computing the pdf of Student’s t distribution</td>
+      <td style="text-align: left">13 Feb</td>
+      <td style="text-align: left">Bivariate transformations. Conditional expectation and variance.</td>
     </tr>
     <tr>
       <td>3</td>
-      <td style="text-align: left">17 Feb</td>
+      <td style="text-align: left">20 Feb</td>
       <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>4</td>
-      <td style="text-align: left">24 Feb</td>
+      <td style="text-align: left">27 Feb</td>
       <td style="text-align: left">t-test in R and by hand</td>
     </tr>
     <tr>
       <td>5</td>
-      <td style="text-align: left">3 Mar</td>
+      <td style="text-align: left">6 Mar</td>
       <td style="text-align: left">Cancelled. Replaced by Homework 8 now worth 28 points</td>
     </tr>
     <tr>
       <td>6</td>
-      <td style="text-align: left">10 Mar</td>
+      <td style="text-align: left">13 Mar</td>
       <td style="text-align: left">Chi-squared distribution and variance ratio test</td>
     </tr>
     <tr>
       <td>7</td>
-      <td style="text-align: left">17 Mar</td>
+      <td style="text-align: left">20 Mar</td>
       <td style="text-align: left">Properties of chi-squared and F-distribution</td>
     </tr>
     <tr>
       <td>8</td>
-      <td style="text-align: left">24 Mar</td>
+      <td style="text-align: left">27 Mar</td>
       <td style="text-align: left">Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests</td>
     </tr>
     <tr>
       <td>9</td>
-      <td style="text-align: left">31 Mar</td>
+      <td style="text-align: left">3 Apr</td>
       <td style="text-align: left">Simple and general linear regression</td>
     </tr>
     <tr>
       <td>10</td>
-      <td style="text-align: left">7 Apr</td>
+      <td style="text-align: left">10 Apr</td>
       <td style="text-align: left">t-test and F-test for regression</td>
     </tr>
   </tbody>
