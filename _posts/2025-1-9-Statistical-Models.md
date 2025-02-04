@@ -126,7 +126,7 @@ This module will be assessed as follows:
 
 - Homework must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082)**
 
-- Deadline: **14:00 on Mondays**
+- Deadline: **14:00 on Thursdays**
 
 
 
@@ -185,7 +185,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 31 Mar    | [Lecture 10](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Practical regression                           |
 | 7  Apr    | [Lecture 11](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Violation of regression assumptions and ANOVA  |
 | 28 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
-| Extra     | [Appendix A](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability Revision                           |
+| Extra     | [Appendix A](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability revision                           |
 | Extra     | [Appendix B](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_B.html#/title-slide)| More on R                                      |
 
 
@@ -224,22 +224,22 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 ## Homework
 
 
-Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082) by 14:00 on Mondays**
+Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/75082) by 14:00 on Thursday**
 
 
 
 |  **Homework #** |**Due date**   |  **Topics**                                                                                              |
 |: --------       |:------------- |:---------                                                                                                |
-| 1               | 3 Feb         |  Moment generating function. Poisson distribution. Poisson models for soccer                             |
-| 2               | 10 Feb        |  Computing the pdf of Student's t distribution                                                           |
-| 3               | 17 Feb        |                                                                                                          |
-| 4               | 24 Feb        |  t-test in R and by hand                                                                                 |
-| 5               | 3 Mar         |  Cancelled. Replaced by Homework 8 now worth 28 points                                                   |
-| 6               | 10 Mar        |  Chi-squared distribution and variance ratio test                                                        |
-| 7               | 17 Mar        |  Properties of chi-squared and F-distribution                                                            |
-| 8               | 24 Mar        |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                          |
-| 9               | 31 Mar        |  Simple and general linear regression                                                                    |
-| 10              | 7 Apr         |  t-test and F-test for regression                                                                        |
+| 1               | 6 Feb         |  Moment generating function. Poisson distribution. Poisson models for soccer.                            |
+| 2               | 13 Feb        |  Bivariate transformations. Conditional expectation and variance.                                        |
+| 3               | 20 Feb        |                                                                                                          |
+| 4               | 27 Feb        |  t-test in R and by hand                                                                                 |
+| 5               | 6 Mar         |  Cancelled. Replaced by Homework 8 now worth 28 points                                                   |
+| 6               | 13 Mar        |  Chi-squared distribution and variance ratio test                                                        |
+| 7               | 20 Mar        |  Properties of chi-squared and F-distribution                                                            |
+| 8               | 27 Mar        |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                          |
+| 9               | 3 Apr         |  Simple and general linear regression                                                                    |
+| 10              | 10 Apr        |  t-test and F-test for regression                                                                        |
 
 
 
