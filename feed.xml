@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-04T13:18:44+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-11T16:24:10+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -152,17 +152,17 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>3 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_2.html#/title-slide">Lecture 2</a></td>
-      <td style="text-align: left">Multivariate distributions</td>
+      <td style="text-align: left">Random samples</td>
     </tr>
     <tr>
       <td>10 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_3.html#/title-slide">Lecture 3</a></td>
-      <td style="text-align: left">Random samples</td>
+      <td style="text-align: left">The t-test and an introduction to R</td>
     </tr>
     <tr>
       <td>17 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide">Lecture 4</a></td>
-      <td style="text-align: left">Hypothesis tests in R – Part 1</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>24 Feb</td>
@@ -234,35 +234,35 @@ behind them are, and how to interpret the results. We will also implement such m
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">Lecture 4</td>
+      <td style="text-align: left">Lecture 3</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/one_sample_t_test.R">One-Sample t-test</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 5</td>
+      <td style="text-align: left">Lecture 4</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/variance_ratio_test.R">Variance ratio test</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 6</td>
+      <td style="text-align: left">Lecture 5</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/two_sample_t_test.R">Two-Sample t-test</a> | <a href="/assets/pdf/teaching/2025-Statistical-Models/F_test.R">F-test</a>  <br />   <a href="/assets/pdf/teaching/2025-Statistical-Models/F_test_first_principles.R">F-test First Principles</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 7</td>
+      <td style="text-align: left">Lecture 6</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit.R">Goodness-of-fit</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_first_principles.R">Goodness-of-fit First Principles</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R">Monte Carlo pi</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R">Monte Carlo p-value</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R">Goodness-of-fit Contingency</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/independence_test.R">Independence Test</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 8</td>
+      <td style="text-align: left">Lecture 7</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/least_squares_1.R">Least-squares Solution 1</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/least_squares_2.R">Least-squares Solution 2</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 9</td>
+      <td style="text-align: left">Lecture 8</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/multiple_regression.R">Multiple regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/R2_multiple_regression.R">R2 multiple regression</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 10</td>
+      <td style="text-align: left">Lecture 9</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/simple_regression.R">Simple regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_regression.R">Longley regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_selection.R">Longley selection</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/galileo.R">Galileo</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces.R">Divorces</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Lecture 11</td>
+      <td style="text-align: left">Lecture 10</td>
       <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/residual_graphs.R">Residual graphs</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/autocorrelation_graph_tests.R">Autocorrelation graphic tests</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/multicollinearity.R">Multicollinearity</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_stepwise.R">Stepwise Regression: Longley</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces_stepwise.R">Stepwise Regression: Divorces</a>  <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/anova.R">Anova models</a></td>
     </tr>
     <tr>
@@ -303,17 +303,17 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>2</td>
       <td style="text-align: left">13 Feb</td>
-      <td style="text-align: left">Bivariate transformations. Conditional expectation and variance.</td>
+      <td style="text-align: left">Bivariate transformations. Deriving the distribution of the t-statistic. Conditional expectation and variance.</td>
     </tr>
     <tr>
       <td>3</td>
       <td style="text-align: left">20 Feb</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">Vectors in R. The t-test: in R and by hand.</td>
     </tr>
     <tr>
       <td>4</td>
       <td style="text-align: left">27 Feb</td>
-      <td style="text-align: left">t-test in R and by hand</td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td>5</td>
