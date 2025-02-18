@@ -176,8 +176,8 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 27 Jan    | [Lecture 1](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                  |  
 | 3 Feb     | [Lecture 2](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Random samples                                 |
 | 10 Feb    | [Lecture 3](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | The t-test and an introduction to R            |
-| 17 Feb    | [Lecture 4](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  |                 |
-| 24 Feb    | [Lecture 5](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Hypothesis tests in R -- Part 2                |
+| 17 Feb    | [Lecture 4](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | The variance ratio and two samples t-test      |
+| 24 Feb    | [Lecture 5](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  |       |
 | 3 Mar     | [Lecture 6](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Two-sample hypothesis tests                    |
 | 10 Mar    | [Lecture 7](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The chi-squared test                           |
 | 17 Mar    | [Lecture 8](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of regression                        |
@@ -233,9 +233,9 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 1               | 6 Feb         |  Moment generating function. Poisson distribution. Poisson models for soccer.                                  |
 | 2               | 13 Feb        |  Bivariate transformations. Deriving the distribution of the t-statistic. Conditional expectation and variance.|
 | 3               | 20 Feb        |  Vectors in R. The t-test: in R and by hand.                                                                   |
-| 4               | 27 Feb        |                                                                                                                |
-| 5               | 6 Mar         |  Cancelled. Replaced by Homework 8 now worth 28 points                                                         |
-| 6               | 13 Mar        |  Chi-squared distribution and variance ratio test                                                              |
+| 4               | 27 Feb        |  Chi-squared distribution. Variance ratio test.                                                                |
+| 5               | 6 Mar         |                                                           |
+| 6               | 13 Mar        |                                                                |
 | 7               | 20 Mar        |  Properties of chi-squared and F-distribution                                                                  |
 | 8               | 27 Mar        |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                                |
 | 9               | 3 Apr         |  Simple and general linear regression                                                                          |
