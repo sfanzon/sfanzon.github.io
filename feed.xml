@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-18T11:25:11+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-26T23:58:07+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -162,42 +162,42 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>17 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide">Lecture 4</a></td>
-      <td style="text-align: left">The variance ratio and two samples t-test</td>
+      <td style="text-align: left">The variance ratio and two-samples t-test</td>
     </tr>
     <tr>
       <td>24 Feb</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_5.html#/title-slide">Lecture 5</a></td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">The two-sample F-test and goodness-of-fit test</td>
     </tr>
     <tr>
       <td>3 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_6.html#/title-slide">Lecture 6</a></td>
-      <td style="text-align: left">Two-sample hypothesis tests</td>
+      <td style="text-align: left">The chi-squared test and non-parametric tests</td>
     </tr>
     <tr>
       <td>10 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_7.html#/title-slide">Lecture 7</a></td>
-      <td style="text-align: left">The chi-squared test</td>
+      <td style="text-align: left">The maths of regression</td>
     </tr>
     <tr>
       <td>17 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_8.html#/title-slide">Lecture 8</a></td>
-      <td style="text-align: left">The maths of regression</td>
+      <td style="text-align: left">General linear regression</td>
     </tr>
     <tr>
       <td>24 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_9.html#/title-slide">Lecture 9</a></td>
-      <td style="text-align: left">General linear regression</td>
+      <td style="text-align: left">Practical regression</td>
     </tr>
     <tr>
       <td>31 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide">Lecture 10</a></td>
-      <td style="text-align: left">Practical regression</td>
+      <td style="text-align: left">Violation of regression assumptions</td>
     </tr>
     <tr>
       <td>7  Apr</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide">Lecture 11</a></td>
-      <td style="text-align: left">Violation of regression assumptions and ANOVA</td>
+      <td style="text-align: left">ANOVA</td>
     </tr>
     <tr>
       <td>28 Apr</td>
@@ -239,15 +239,15 @@ behind them are, and how to interpret the results. We will also implement such m
     </tr>
     <tr>
       <td style="text-align: left">Lecture 4</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/variance_ratio_test.R">Variance ratio test</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/variance_ratio_test.R">Variance ratio test</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/two_sample_t_test.R">Two-Sample t-test</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Lecture 5</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/two_sample_t_test.R">Two-Sample t-test</a> | <a href="/assets/pdf/teaching/2025-Statistical-Models/F_test.R">F-test</a>  <br />   <a href="/assets/pdf/teaching/2025-Statistical-Models/F_test_first_principles.R">F-test First Principles</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/F_test.R">F-test</a>  <br />   <a href="/assets/pdf/teaching/2025-Statistical-Models/F_test_first_principles.R">F-test First Principles</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit.R">Goodness-of-fit</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_first_principles.R">Goodness-of-fit First Principles</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Lecture 6</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit.R">Goodness-of-fit</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_first_principles.R">Goodness-of-fit First Principles</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R">Monte Carlo pi</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R">Monte Carlo p-value</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R">Goodness-of-fit Contingency</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/independence_test.R">Independence Test</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R">Monte Carlo pi</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R">Monte Carlo p-value</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R">Goodness-of-fit Contingency</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/independence_test.R">Independence Test</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Lecture 7</td>
@@ -313,7 +313,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>4</td>
       <td style="text-align: left">27 Feb</td>
-      <td style="text-align: left">Chi-squared distribution. Variance ratio test.</td>
+      <td style="text-align: left">Variance ratio test. Two-sample t-test.</td>
     </tr>
     <tr>
       <td>5</td>
@@ -328,12 +328,12 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>7</td>
       <td style="text-align: left">20 Mar</td>
-      <td style="text-align: left">Properties of chi-squared and F-distribution</td>
+      <td style="text-align: left">Properties of chi-squared and F-distribution. Chi-squared distribution.</td>
     </tr>
     <tr>
       <td>8</td>
       <td style="text-align: left">27 Mar</td>
-      <td style="text-align: left">Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests</td>
+      <td style="text-align: left">The two-sample F-test. The goodness-of-fit test. The chi-squared test of independence / no association</td>
     </tr>
     <tr>
       <td>9</td>
@@ -343,7 +343,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>10</td>
       <td style="text-align: left">10 Apr</td>
-      <td style="text-align: left">t-test and F-test for regression</td>
+      <td style="text-align: left">The t-test and F-test for regression</td>
     </tr>
   </tbody>
 </table>
