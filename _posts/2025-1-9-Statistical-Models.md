@@ -176,14 +176,14 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 27 Jan    | [Lecture 1](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                  |  
 | 3 Feb     | [Lecture 2](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Random samples                                 |
 | 10 Feb    | [Lecture 3](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | The t-test and an introduction to R            |
-| 17 Feb    | [Lecture 4](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | The variance ratio and two samples t-test      |
-| 24 Feb    | [Lecture 5](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  |       |
-| 3 Mar     | [Lecture 6](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Two-sample hypothesis tests                    |
-| 10 Mar    | [Lecture 7](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The chi-squared test                           |
-| 17 Mar    | [Lecture 8](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of regression                        |
-| 24 Mar    | [Lecture 9](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | General linear regression                      |
-| 31 Mar    | [Lecture 10](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Practical regression                           |
-| 7  Apr    | [Lecture 11](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Violation of regression assumptions and ANOVA  |
+| 17 Feb    | [Lecture 4](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | The variance ratio and two-samples t-test      |
+| 24 Feb    | [Lecture 5](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | The two-sample F-test and goodness-of-fit test |
+| 3 Mar     | [Lecture 6](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | The chi-squared test and non-parametric tests  |
+| 10 Mar    | [Lecture 7](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The maths of regression                        |
+| 17 Mar    | [Lecture 8](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | General linear regression                      |
+| 24 Mar    | [Lecture 9](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | Practical regression                           |
+| 31 Mar    | [Lecture 10](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Violation of regression assumptions            |
+| 7  Apr    | [Lecture 11](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| ANOVA           			            |
 | 28 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
 | Extra     | [Appendix A](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability revision                           |
 | Extra     | [Appendix B](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_B.html#/title-slide)| More on R                                      |
@@ -201,9 +201,9 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | **Lecture** | **Material**                                                                                                                                                                              | 
 |:------      |:------                                                                                                                                                                                    |
 | Lecture 3   | [One-Sample t-test](/assets/pdf/teaching/2025-Statistical-Models/one_sample_t_test.R) 													  |
-| Lecture 4   | [Variance ratio test](/assets/pdf/teaching/2025-Statistical-Models/variance_ratio_test.R)                                                                                                 |
-| Lecture 5   | [Two-Sample t-test](/assets/pdf/teaching/2025-Statistical-Models/two_sample_t_test.R) \| [F-test](/assets/pdf/teaching/2025-Statistical-Models/F_test.R)  <br>   [F-test First Principles](/assets/pdf/teaching/2025-Statistical-Models/F_test_first_principles.R)    |
-| Lecture 6   | [Goodness-of-fit](/assets/pdf/teaching/2025-Statistical-Models/good_fit.R) <br> [Goodness-of-fit First Principles](/assets/pdf/teaching/2025-Statistical-Models/good_fit_first_principles.R) <br> [Monte Carlo pi](/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R) <br> [Monte Carlo p-value](/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R) <br> [Goodness-of-fit Contingency](/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R) <br> [Independence Test](/assets/pdf/teaching/2025-Statistical-Models/independence_test.R) |
+| Lecture 4   | [Variance ratio test](/assets/pdf/teaching/2025-Statistical-Models/variance_ratio_test.R) <br> [Two-Sample t-test](/assets/pdf/teaching/2025-Statistical-Models/two_sample_t_test.R)      |
+| Lecture 5   | [F-test](/assets/pdf/teaching/2025-Statistical-Models/F_test.R)  <br>   [F-test First Principles](/assets/pdf/teaching/2025-Statistical-Models/F_test_first_principles.R) <br> [Goodness-of-fit](/assets/pdf/teaching/2025-Statistical-Models/good_fit.R) <br> [Goodness-of-fit First Principles](/assets/pdf/teaching/2025-Statistical-Models/good_fit_first_principles.R)  |
+| Lecture 6   | [Monte Carlo pi](/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R) <br> [Monte Carlo p-value](/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R) <br> [Goodness-of-fit Contingency](/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R) <br> [Independence Test](/assets/pdf/teaching/2025-Statistical-Models/independence_test.R) |
 | Lecture 7   | [Least-squares Solution 1](/assets/pdf/teaching/2025-Statistical-Models/least_squares_1.R) <br> [Least-squares Solution 2](/assets/pdf/teaching/2025-Statistical-Models/least_squares_2.R)   |
 | Lecture 8   | [Multiple regression](/assets/pdf/teaching/2025-Statistical-Models/multiple_regression.R) <br> [R2 multiple regression](/assets/pdf/teaching/2025-Statistical-Models/R2_multiple_regression.R)|
 | Lecture 9   | [Simple regression](/assets/pdf/teaching/2025-Statistical-Models/simple_regression.R) <br> [Longley regression](/assets/pdf/teaching/2025-Statistical-Models/longley_regression.R) <br> [Longley selection](/assets/pdf/teaching/2025-Statistical-Models/longley_selection.R) <br> [Galileo](/assets/pdf/teaching/2025-Statistical-Models/galileo.R) <br> [Divorces](/assets/pdf/teaching/2025-Statistical-Models/divorces.R) |
@@ -233,13 +233,13 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 1               | 6 Feb         |  Moment generating function. Poisson distribution. Poisson models for soccer.                                  |
 | 2               | 13 Feb        |  Bivariate transformations. Deriving the distribution of the t-statistic. Conditional expectation and variance.|
 | 3               | 20 Feb        |  Vectors in R. The t-test: in R and by hand.                                                                   |
-| 4               | 27 Feb        |  Chi-squared distribution. Variance ratio test.                                                                |
+| 4               | 27 Feb        |  Variance ratio test. Two-sample t-test.                                                                       |
 | 5               | 6 Mar         |                                                           |
 | 6               | 13 Mar        |                                                                |
-| 7               | 20 Mar        |  Properties of chi-squared and F-distribution                                                                  |
-| 8               | 27 Mar        |  Homework 8 is worth 28 points. Two-sample t-test and F-test. Chi-squared tests                                |
+| 7               | 20 Mar        |  Properties of chi-squared and F-distribution. Chi-squared distribution.                                      |
+| 8               | 27 Mar        |  The two-sample F-test. The goodness-of-fit test. The chi-squared test of independence / no association              |
 | 9               | 3 Apr         |  Simple and general linear regression                                                                          |
-| 10              | 10 Apr        |  t-test and F-test for regression                                                                              |
+| 10              | 10 Apr        |  The t-test and F-test for regression                                                                              |
 
 
 
