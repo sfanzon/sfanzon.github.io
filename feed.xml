@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-26T23:58:07+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-05T11:13:33+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -172,7 +172,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>3 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_6.html#/title-slide">Lecture 6</a></td>
-      <td style="text-align: left">The chi-squared test and non-parametric tests</td>
+      <td style="text-align: left">Contingency tables and simulation</td>
     </tr>
     <tr>
       <td>10 Mar</td>
@@ -247,7 +247,7 @@ behind them are, and how to interpret the results. We will also implement such m
     </tr>
     <tr>
       <td style="text-align: left">Lecture 6</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R">Monte Carlo pi</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_p_value.R">Monte Carlo p-value</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R">Goodness-of-fit Contingency</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/independence_test.R">Independence Test</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/good_fit_contingency.R">Goodness-of-fit Contingency</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/independence_test.R">Independence Test</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/monte_carlo_pi.R">Monte Carlo pi</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Lecture 7</td>
@@ -318,7 +318,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>5</td>
       <td style="text-align: left">6 Mar</td>
-      <td style="text-align: left"> </td>
+      <td style="text-align: left">The two-sample F-test and t-tests.</td>
     </tr>
     <tr>
       <td>6</td>
@@ -333,7 +333,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>8</td>
       <td style="text-align: left">27 Mar</td>
-      <td style="text-align: left">The two-sample F-test. The goodness-of-fit test. The chi-squared test of independence / no association</td>
+      <td style="text-align: left">The goodness-of-fit test. The chi-squared test of independence / no association</td>
     </tr>
     <tr>
       <td>9</td>
