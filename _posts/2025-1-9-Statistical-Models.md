@@ -236,9 +236,9 @@ Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/course
 | 5               | 6 Mar         |  The two-sample F-test and t-tests.                                                                            |
 | 6               | 13 Mar        |  The goodness-of-fit test. The chi-squared test of independence / no association                               |
 | 7               | 20 Mar        |  Bootstrap Confidence Intervals. Bootstrap t-test and F-test.                                                  |
-| 8               | 27 Mar        |  Properties of chi-squared and F-distribution. Chi-squared distribution.                                       |
-| 9               | 3 Apr         |  Simple and general linear regression                                                                          |
-| 10              | 10 Apr        |  The t-test and F-test for regression                                                                          |
+| 8               | 27 Mar        |  Simple and general linear regression                                                                          |
+| 9               | 3 Apr         |  The t-test and F-test for regression                                                                          |
+| 10              | 10 Apr        |                                                                            |
 
 
 
