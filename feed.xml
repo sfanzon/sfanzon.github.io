@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-27T15:58:39+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.silviofanzon.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.silviofanzon.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-04-01T21:14:31+00:00</updated><id>https://www.silviofanzon.com/feed.xml</id><title type="html">Silvio Fanzon</title><subtitle>Personal website of Silvio Fanzon
 </subtitle><entry><title type="html">Statistical Models</title><link href="https://www.silviofanzon.com/blog/2025/Statistical-Models/" rel="alternate" type="text/html" title="Statistical Models" /><published>2025-01-09T00:00:00+00:00</published><updated>2025-01-09T00:00:00+00:00</updated><id>https://www.silviofanzon.com/blog/2025/Statistical-Models</id><content type="html" xml:base="https://www.silviofanzon.com/blog/2025/Statistical-Models/"><![CDATA[<h2 id="general-information">General Information</h2>
 
 <p>Welcome to the module <strong>Statistical Models 551305</strong> for the BSc in Mathematics at the University of Hull, academic year 2024/25. 
@@ -192,7 +192,7 @@ behind them are, and how to interpret the results. We will also implement such m
     <tr>
       <td>31 Mar</td>
       <td style="text-align: left"><a href="https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide">Lecture 10</a></td>
-      <td style="text-align: left">Violation of regression assumptions</td>
+      <td style="text-align: left">Model Selection &amp; Regression Assumptions</td>
     </tr>
     <tr>
       <td>7  Apr</td>
@@ -259,11 +259,11 @@ behind them are, and how to interpret the results. We will also implement such m
     </tr>
     <tr>
       <td style="text-align: left">Lecture 9</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/simple_regression.R">Simple regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_regression.R">Longley regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_selection.R">Longley selection</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/galileo.R">Galileo</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces.R">Divorces</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/simple_regression.R">Simple regression</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_regression.R">Longley regression</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Lecture 10</td>
-      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/residual_graphs.R">Residual graphs</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/autocorrelation_graph_tests.R">Autocorrelation graphic tests</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/multicollinearity.R">Multicollinearity</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_stepwise.R">Stepwise Regression: Longley</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces_stepwise.R">Stepwise Regression: Divorces</a>  <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/anova.R">Anova models</a></td>
+      <td style="text-align: left"><a href="/assets/pdf/teaching/2025-Statistical-Models/longley_selection.R">Longley selection</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/galileo.R">Galileo</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces.R">Divorces</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/residual_graphs.R">Residual graphs</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/autocorrelation_graph_tests.R">Autocorrelation graphic tests</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/multicollinearity.R">Multicollinearity</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/longley_stepwise.R">Stepwise Regression: Longley</a> <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/divorces_stepwise.R">Stepwise Regression: Divorces</a>  <br /> <a href="/assets/pdf/teaching/2025-Statistical-Models/anova.R">Anova models</a></td>
     </tr>
   </tbody>
 </table>
