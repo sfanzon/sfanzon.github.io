@@ -183,7 +183,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | 17 Mar    | [Lecture 8](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | The maths of Regression                        |
 | 24 Mar    | [Lecture 9](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | Practical regression                           |
 | 31 Mar    | [Lecture 10](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Model Selection & Regression Assumptions       |
-| 7  Apr    | [Lecture 11](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| ANOVA           			            |
+| 7  Apr    | [Lecture 11](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Stepwise Regression & ANOVA                    |
 | 28 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
 | Extra     | [Appendix A](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability revision                           |
 | Extra     | [Appendix B](https://www.silviofanzon.com/2025-Statistical-Models-Slides/slides/appendix_B.html#/title-slide)| More on R                                      |
