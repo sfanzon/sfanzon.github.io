@@ -208,7 +208,7 @@ There are **11 lectures** in this module. Links to the slides and lecture titles
 | Lecture 8   | [Multiple regression](/assets/pdf/teaching/2025-Statistical-Models/multiple_regression.R) <br> [R2 multiple regression](/assets/pdf/teaching/2025-Statistical-Models/R2_multiple_regression.R)|
 | Lecture 9   | [Simple regression](/assets/pdf/teaching/2025-Statistical-Models/simple_regression.R) <br> [Longley regression](/assets/pdf/teaching/2025-Statistical-Models/longley_regression.R)  |
 | Lecture 10  | [Longley selection](/assets/pdf/teaching/2025-Statistical-Models/longley_selection.R) <br> [Galileo](/assets/pdf/teaching/2025-Statistical-Models/galileo.R) <br> [Divorces](/assets/pdf/teaching/2025-Statistical-Models/divorces.R) <br> [Heteroscedasticity](/assets/pdf/teaching/2025-Statistical-Models/heteroscedasticity.R) <br> [Autocorrelation](/assets/pdf/teaching/2025-Statistical-Models/autocorrelation.R)
-| Lecture 11  | [Multicollinearity](/assets/pdf/teaching/2025-Statistical-Models/multicollinearity.R) <br> [Stepwise Regression: Longley](/assets/pdf/teaching/2025-Statistical-Models/longley_stepwise.R) <br> [Stepwise Regression: Divorces](/assets/pdf/teaching/2025-Statistical-Models/divorces_stepwise.R)  <br> [Anova models](/assets/pdf/teaching/2025-Statistical-Models/anova.R)  |
+| Lecture 11  | [Multicollinearity](/assets/pdf/teaching/2025-Statistical-Models/multicollinearity.R) <br> [Stepwise Regression: Longley](/assets/pdf/teaching/2025-Statistical-Models/longley_stepwise.R) <br> [Stepwise Regression: Divorces](/assets/pdf/teaching/2025-Statistical-Models/divorces_stepwise.R)  <br> [Anova](/assets/pdf/teaching/2025-Statistical-Models/anova.R) <br> [Ancova](/assets/pdf/teaching/2025-Statistical-Models/ancova.R)  |
 
 
 ## Datasets
