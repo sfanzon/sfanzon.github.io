@@ -23,42 +23,45 @@
       <i class="fas fa-envelope" style="font-size: 1.1em;"></i> &nbsp;
       Email
       <br>
-      <a href = "mailto: S.Fanzon@hull.ac.uk"><b>S.Fanzon@hull.ac.uk</b></a>
+      <a href = "mailto: S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a>
       <br style="line-height: 1.3rem;"/>
       &nbsp;
       <br>    
       <i class="fas fa-map-marker-alt" style="font-size: 1.1em;"></i> &nbsp;
       Address
       <br>
+      <a href="https://www.google.com/maps/place/Robert+Blackburn+Building/@53.7714841,-0.3714448,17z/data=!3m1!4b1!4m6!3m5!1s0x4878bfafa031a209:0xf1a5ad60866496d1!8m2!3d53.7714841!4d-0.3688699!16s%2Fg%2F11r8k5b8x?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D" target="_blank">
       Office 311C
       <br>
-      Robert Blackburn
+      Robert Blackburn Building
       <br>
       University of Hull
       <br>
       Hull HU6 7RX
       <br>
       United Kingdom
+      </a>
       <br style="line-height: 1.3rem;"/>
       &nbsp;
       <br>  
       <i class="fas fa-briefcase" style="font-size: 1.1em;"></i> &nbsp;
-      <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon"><b>Homepage @ Hull</b></a>
+      <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a>
       <br style="line-height: 1.8rem;"/>
       &nbsp;
       <br>
       <div class="social">
-        <div class="contact-icons" style="font-size: 2.7em;">
+        <div class="contact-icons" style="font-size: 2.2em;">
           {% include social.liquid %}
         </div>
       </div>
       <p style="font-size: 0.9em;">
         <br style="line-height: 1.6rem;"/>
         &nbsp;
-        <br>
         Copyright &copy; {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} 
         <br> 
-        Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
+        Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> &amp; custom <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
+        <br> 
+        Hosted on GitHub pages &#10048; Source on <a href="https://github.com/sfanzon/sfanzon.github.io">GitHub</a>
         <br>
         Last updated: {{ "now" | date: '%m/%Y' }}
       </p>  
@@ -71,6 +74,8 @@
 
 {% comment %} Both Sticky and fixed footer {% endcomment %}
 
+<!-- Small footer -->
+
     {% if site.footer_both_fixed_and_sticky %}
     <footer class="fixed-bottom text-center">
       <div class="container mt-0" style="font-size: 0.82rem;">
@@ -81,68 +86,85 @@
     </footer>
 
 
-    <footer class="sticky-bottom mt-5 text-center">
-      <div class="container">
-      <a id="contact_info"><h4 style="margin-bottom: 1.9rem;"><b>Silvio Fanzon</b></h4></a>
-      <i class="fas fa-envelope" style="font-size: 1.1em;"></i> &nbsp;
-      Email
-      <br>
-      <a href = "mailto: S.Fanzon@hull.ac.uk"><b>S.Fanzon@hull.ac.uk</b></a>
-      <br style="line-height: 1.3rem;"/>
-      &nbsp;
-      <br>    
-      <i class="fas fa-map-marker-alt" style="font-size: 1.1em;"></i> &nbsp;
-      Address
-      <br>
-      Office 311C
-      <br>
-      Robert Blackburn
-      <br>
-      University of Hull
-      <br>
-      Hull HU6 7RX
-      <br>
-      United Kingdom
-      <br style="line-height: 1.3rem;"/>
-      &nbsp;
-      <br>  
-      <i class="fas fa-briefcase" style="font-size: 1.1em;"></i> &nbsp;
-      <a href = "https://www.hull.ac.uk/staff-directory/silvio-fanzon"><b>Homepage @ Hull</b></a>
-      <br style="line-height: 1.8rem;"/>
-      &nbsp;
-      <br>
-      <div class="social">
-        <div class="contact-icons" style="font-size: 2.7em;">
-          {% include social.liquid %}
+
+<!-- Big footer-->
+
+<footer class="sticky-bottom mt-5">
+  <div class="container">
+    <div class="row">
+      
+      <!-- Left column: contact info -->
+      <div class="col-md-6 text-left">
+        <h4 style="margin-bottom: 1.2rem;"><b>Silvio Fanzon</b></h4>
+        
+        <p>
+          <i class="fas fa-envelope" style="font-size: 1.1em;"></i> &nbsp;
+          <a href="mailto:S.Fanzon@hull.ac.uk">S.Fanzon@hull.ac.uk</a>
+        </p>
+
+        <p>
+          <i class="fas fa-map-marker-alt" style="font-size: 1.1em;"></i> &nbsp;
+          <a href="https://www.google.com/maps/place/Robert+Blackburn+Building/@53.7714841,-0.3714448,17z"
+             target="_blank">
+            Office 311C<br>
+            Robert Blackburn Building<br>
+            University of Hull<br>
+            Hull HU6 7RX<br>
+            United Kingdom
+          </a>
+        </p>
+
+        <p>
+          <i class="fas fa-briefcase" style="font-size: 1.1em;"></i> &nbsp;
+          <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon">Homepage @ Hull</a>
+        </p>
+
+        <!-- Social icons aligned left -->
+        <div class="social" style="margin-top: 1rem;">
+          <div class="contact-icons text-left" style="font-size: 2em;">
+            <a href="https://www.linkedin.com/in/{{ social[1] }}" title="LinkedIn" style="margin-right:0.3em;"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar" style="margin-right:0.3em;"><i class="ai ai-google-scholar-square"></i></a>
+            <a href="https://www.researchgate.net/profile/{{ social[1] }}/" title="ResearchGate" style="margin-right:0.3em;"><i class="ai ai-researchgate-square"></i></a>
+            <a href="https://orcid.org/{{ social[1] }}" title="ORCID" style="margin-right:0.3em;"><i class="ai ai-orcid"></i></a>
+            <a href="https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}" title="Scopus" style="margin-right:0.3em;"><i class="ai ai-scopus"></i></a>
+            <a href="https://arxiv.org/a/{{ social[1] }}" title="arXiv" style="margin-right:0.3em;"><i class="ai ai-arxiv-square"></i></a>
+            <a href="https://github.com/{{ social[1] }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          </div>
         </div>
       </div>
-      <p style="font-size: 0.9em;">
-        <br style="line-height: 1.6rem;"/>
-        &nbsp;
-        <br>
-        Copyright &copy; {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} 
-        <br> 
-        Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
-        <br>
-        Last updated: {{ "now" | date: '%m/%Y' }}
-      </p>  
-      </div>  
-    </footer>
+
+      <!-- Right column: Google map -->
+<div class="col-md-6 text-center">
+  <div style="position: relative; width: 100%; padding-bottom: 75%; /* 4:3 ratio */
+              border-radius: 12px; overflow: hidden;">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2358.011416469691!2d-0.3714448!3d53.7714841!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfaf9f89a781%3A0xf1623fd4c5175579!2sRobert%20Blackburn%2C%20Hull%20HU6%207RU!5e0!3m2!1sen!2suk!4v1758743938733!5m2!1sen!2suk" 
+      style="position: absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:12px;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
+
+    <!-- Footer info under both columns -->
+    <div class="row mt-4">
+      <div class="col text-center">
+        <p style="font-size: 0.9em;">
+          Copyright &copy; {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} 
+          <br>
+          Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> &amp; custom <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
+          <br>
+          Hosted on GitHub Pages &#10048; Source on <a href="https://github.com/sfanzon/sfanzon.github.io">GitHub</a>
+          <br>
+          Last updated: {{ "now" | date: '%m/%Y' }}
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
     {%- endif %}
-
-
-
-
-{% comment %}
-      <i class="ai ai-google-scholar" style="font-size: 1.2em;"></i> &thinsp; 
-      <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">Scholar</a> 
-      <br>
-      <i class="ai ai-researchgate" style="font-size: 1.2em;"></i> &thinsp;
-      <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/">ResearchGate</a>
-      <br>
-      <i class="ai ai-orcid" style="font-size: 1.2em;"></i> &thinsp; 
-      <a href="https://orcid.org/{{ site.orcid_id }}">ORCID</a>
-      <br>
-      <i class="ai ai-arxiv" style="font-size: 1.2em;"></i> &thinsp;
-      <a href="https://arxiv.org/a/{{ site.arxiv_username }}">arXiv</a> 
-{% endcomment %}
