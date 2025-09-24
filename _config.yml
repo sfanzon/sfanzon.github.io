@@ -3,13 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: Silvio Fanzon # the website title (if blank, full name will be used instead)
-first_name: Silvio Fanzon
+first_name: Silvio
 middle_name: 
 last_name: Fanzon
 contact_note: # You can even add a little note about which of these is the best way to reach you.
 description: Personal website of Silvio Fanzon
 
-footer_text:
+footer_text: >
+  Email: S.Fanzon@hull.ac.uk
 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -44,7 +45,12 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+
+# Just choose one type of footer
+footer_fixed: false
+footer_sticky: false
+footer_both_fixed_and_sticky: true
+
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -300,6 +306,41 @@ enable_publication_badges:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
+    google_scholar_id, 
+    contribution =, 
+    dimensions =, 
+    =highlight, 
+    supervision =, 
+    slides_long, 
+    slides_short, 
+    abbr =, 
+    arxiv =, 
+    abstract =, 
+    bibtex_show, 
+    html =, 
+    scopus =, 
+    sjr =, 
+    date-added, 
+    date-modified, 
+    bdsk-url-1, 
+    bdsk-url-2, 
+    pdf =, 
+    selected =, 
+    supp =, 
+    blog =, 
+    code =, 
+    poster =, 
+    slides =, 
+    website =, 
+    preview =, 
+    altmetric, 
+    video, 
+    current =, 
+    lecture_notes =, 
+    exercises, 
+    canvas, 
+    course_year, 
+    degree,
     abbr,
     abstract,
     additional_info,
