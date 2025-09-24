@@ -52,9 +52,9 @@ footer_sticky: false
 footer_both_fixed_and_sticky: true
 
 search_enabled: false
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
