@@ -52,6 +52,3 @@ My contact information is **[here](https://www.silviofanzon.com/contact/)**. If 
 </div>
 
 
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.011416469692!2d-0.3688698999999999!3d53.77148409999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfafa031a209%3A0xf1a5ad60866496d1!2sRobert%20Blackburn%20Building!5e0!3m2!1sen!2suk!4v1758725916632!5m2!1sen!2suk" width="600" height="450" style="border:0; border-radius:12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
