@@ -13,22 +13,30 @@ profile:
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-
-current_teaching: true # includes current_teaching in homepage
-current_courses: true # false: current teaching displays there is no teaching. True: current teaching displays publications in teaching_lecturer.bib with "current=true"
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: true # includes a list of news items in folder news
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
+
+future_announcements:
+  enabled: true # includes a list of next events items in folder next
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+
+current_teaching: true # includes current_teaching in homepage
+current_courses: true # false: current teaching displays there is no teaching. True: current teaching displays publications in teaching_lecturer.bib with "current=true"
+
+social: false # includes social icons at the bottom of the page
 ---
 
 <hr style="width: 120%; visibility: hidden;">
