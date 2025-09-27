@@ -4,12 +4,15 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
+     {% if site.title == "blank" -%} 
+     <span class="font-weight-bold">
+       {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+     </span>  
+     {%- else -%}  
+       <span class="font-weight-bold"> 
+     {{ site.title }} 
+     </span> 
+     {%- endif %} 
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
@@ -40,15 +43,109 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+
+    <hr style="margin-top: 2.5rem;">
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
+    <h3 style="margin-bottom: 1rem; margin-top: 2.5rem;">
+    <b>
+    <a href="{{ '/news/' | relative_url }}" style="color: inherit;">
+    News
+    </a>
+    </b>
+    </h3>
       {% include news.liquid limit=true %}
+     <p> 
+       <a href="{{ '/news/' | relative_url }}"><b>past news</b></a>
+    </p>
     {% endif %}
 
-    <!-- Latest posts -->
+
+    <hr style="margin-top: 2.5rem;">
+
+
+    <!-- Upcoming events-->
+      {% if page.future_announcements and page.future_announcements.enabled -%}
+      <h3 style="margin-bottom: 1rem; margin-top: 2.5rem;">
+      <b>
+        Upcoming Events
+      </b>
+      </h3>
+       {%- include next.liquid %}
+      {%- endif %}
+     
+
+    <hr style="margin-top: 1.6rem;">
+
+
+    <!-- Selected papers -->
+      {% if page.selected_papers -%}
+      <h3 style="margin-bottom: 1rem; margin-top: 2.5rem;">
+      <b>
+      Selected Publications
+      </b>
+      </h3>
+        {%- include selected_papers.liquid %}
+      <p>
+      <b><a href="{{ '/publications/' | relative_url }}">
+      all publications
+      </a></b>
+      </p> 
+      {%- endif %}
+
+
+    <hr style="margin-top: 2.5rem;">
+
+    
+    <!-- Current teaching -->
+      {% if page.current_teaching -%}
+         <h3 style="margin-bottom: 1rem; margin-top: 2.5rem;"><b>
+         Current Teaching
+         </b></h3>
+         {% if page.current_courses -%}
+            {%- include current_teaching.liquid %}
+            <p>
+            <a href="{{ '/teaching/' | relative_url }}"><b>
+            past teaching
+            </b></a> 
+            </p>
+            {% else %}
+            <p markdown="1" style="margin-bottom: 1.3rem; margin-top: 1.7rem;">
+            No teaching for this term :sunglasses:
+            </p>
+            <p>
+            <a href="{{ '/teaching/' | relative_url }}"><b>
+            past teaching
+            </b></a> 
+            </p>
+          {%- endif %}
+      {%- endif %}
+
+    
+    
+    <hr style="margin-top: 2.5rem;">
+
+
+    <h3 style="margin-bottom: 1rem; margin-top: 2.5rem;"><b>
+    Useful Links
+    </b></h3>
+    <p>
+    <ul style="padding-left: 1.2em;">
+    <li><a href="https://cvgmt.sns.it/#gsc.tab=0"><b>CVGMT</b></a> (Calculus of Variations and Geometric Measure Theory)</li>
+    <li><a href="https://primomath.wordpress.com"><b>PRIMO Research Group</b></a></li>
+    <li><a href="https://www.ipia.site/Home/"><b>IPIA</b></a> (Inverse Problems International Association)</li>
+    <li><a href="http://www.fips.fi"><b>FIPS</b></a> (Finnish Inverse Problems Society)</li>
+    <li><a href="https://www.gamm-ev.de/en/"><b>GAMM</b></a> (Association of Applied Mathematics and Mechanics)</li>
+    <li><a href="https://www.oneworldml.org/home"><b>One World ML</b></a> (Seminar Series on the Mathematics of Machine Learning)</li>
+    <li><a href="https://sites.google.com/view/minds-seminar/home"><b>One World MINDS</b></a> (Seminar Series on Mathematics of INformation, Data, and Signals)</li>
+    </ul>  
+    </p>
+
+
+
+
+    <!-- Latest posts: I never used this. If you want to use it, adapt it to look like the above sections -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
@@ -56,13 +153,11 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
+
+
+{%comment%}
+The following is code from the original template to include social icons 
+at the bottom of the page. I have already included them in the footer 
 
     <!-- Social -->
     {% if page.social %}
@@ -77,4 +172,8 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+{%endcomment%}
+
+
 </div>
+
