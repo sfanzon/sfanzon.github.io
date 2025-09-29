@@ -189,6 +189,22 @@
   </div>
 </footer>
 
+<!-- Responsive CSS -->
+<style>
+  /* Tablet size: shrink map */
+  @media (max-width: 992px) {
+    .footer-map iframe {
+      width: 100% !important;
+      height: 200px !important;
+    }
+  }
 
+  /* Phone size: hide entire map column */
+  @media (max-width: 576px) {
+    .footer-map {
+      display: none !important;
+    }
+  }
+</style>
 
 {%- endif %}
