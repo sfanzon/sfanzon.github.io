@@ -199,10 +199,17 @@
     }
   }
 
-  /* Phone size: hide entire map column */
+  /* Phone size: hide entire map column and expand left */
   @media (max-width: 576px) {
     .footer-map {
       display: none !important;
+    }
+    .footer-left {
+      flex: 1 1 100% !important;  /* take full width */
+      max-width: 100% !important;
+    }
+    .footer-flex {
+      flex-direction: column !important; /* stack properly */
     }
   }
 </style>
