@@ -82,4 +82,52 @@ module Jekyll
   end
 end
 
+
+
+# NEW: Fetches Google Scholar Profile-level stats (tot citations, h-index, i10 index)
+  class GoogleScholarProfileTag < Liquid::Tag
+    ProfileStats = { }
+
+    def initialize(tag_name, params, tokens)
+      super
+      splitted = params.split(" ").map(&:strip)
+      @scholar_id = splitted[0]
+      @metric     = splitted[1] || "citations"
+    end
+
+    def render(context)
+      scholar_id = context[@scholar_id.strip]
+      url = "https://scholar.google.com/citations?hl=en&user=#{scholar_id}"
+
+      begin
+        if ProfileStats.dig(scholar_id, @metric)
+          return ProfileStats[scholar_id][@metric]
+        end
+
+        sleep(rand(1.5..3.5)) # avoid getting blocked
+        doc = Nokogiri::HTML(URI.open(url, "User-Agent" => "Ruby/#{RUBY_VERSION}"))
+
+        # Metrics table (citations, h-index, i10-index)
+        rows = doc.css('#gsc_rsb_st tbody tr')
+
+        values = {
+          "citations" => rows[0].css('td')[1].text,
+          "h_index"   => rows[1].css('td')[1].text,
+          "i10_index" => rows[2].css('td')[1].text,
+        }
+
+        # Cache results
+        ProfileStats[scholar_id] = values
+
+        return values[@metric] || "N/A"
+
+      rescue Exception => e
+        puts "Error fetching profile metric #{@metric} for #{scholar_id}: #{e.class} - #{e.message}"
+        return "N/A"
+      end
+    end
+  end
+end
+
 Liquid::Template.register_tag('google_scholar_citations', Jekyll::GoogleScholarCitationsTag)
+Liquid::Template.register_tag('google_scholar_profile',   Jekyll::GoogleScholarProfileTag)
