@@ -3,35 +3,58 @@ This is layout for bib entries which have the flag Teaching=true
 {% endcomment %}
 
 <div class="row">
-  <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
-    {%- if entry.preview -%}
-      {% if entry.preview contains '://' -%}
-        <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
-      {%- else -%}
-        {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
-        {% include figure.html
+  {% if site.enable_publication_thumbnails %}
+    <div class="col col-sm-2 abbr">
+      {%- if entry.abbr -%}
+        {%- if site.data.venues[entry.abbr] -%}
+          {% assign venue_style = null %}
+          {% if site.data.venues[entry.abbr].color != blank %}
+            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {%- endif -%}
+          <abbr
+            class="badge rounded w-100"
+            {% if venue_style %}
+              {{ venue_style }}
+            {% endif -%}
+          >
+            {% if site.data.venues[entry.abbr].url %}
+              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+            {% else %}
+              <div>{{- entry.abbr -}}</div>
+            {% endif %}
+          </abbr>
+        {% else %}
+          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+        {% endif %}
+      {% endif %}
+      {% if entry.preview %}
+        {% if entry.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+        {% else %}
+          {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {%
+          include figure.liquid
+          loading="eager"
           path=entry_path
+          sizes = "200px"
           class="preview z-depth-1 rounded"
-          alt=entry.preview -%}
-      {%- endif -%}
-    {%- elsif entry.abbr -%}
-      {%- if site.data.venues[entry.abbr] -%}
-        {%- assign venue_style = nil -%}
-        {%- if site.data.venues[entry.abbr].color != blank -%}
-          {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
-        {%- endif -%}
-        <abbr class="badge" {% if venue_style %}{{ venue_style }}{% endif %}>
-          <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
-        </abbr>
-      {%- else -%}
-        <abbr class="badge">{{ entry.abbr }}</abbr>
-      {%- endif -%}
-    {%- endif -%}
-  </div>
+          zoomable=true
+          avoid_scaling=true
+          alt=entry.preview
+          %}
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endif %}
 
-  {% comment %} Entry bib key {% endcomment %}
+
+
+
+
+<!-- Entry bib key -->
   <div id="{{ entry.key }}" class="col-sm-8">
   
+
     {% comment %} Title {% endcomment %}
     <div class="course_title">{{ entry.title }}</div>
   
@@ -56,6 +79,11 @@ This is layout for bib entries which have the flag Teaching=true
 
     {% comment %} Links/Buttons {% endcomment %}
     <div class="links">
+      {% if entry.award %}
+        <a class="award btn btn-sm z-depth-0" role="button">
+        {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+      </a>
+      {% endif %}
       {%- if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">About</a>
       {%- endif %}
@@ -145,9 +173,11 @@ This is layout for bib entries which have the flag Teaching=true
           <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {%- endif %}
       {%- endif %}
-      {%- if entry.video %}
+      {% if entry.video and site.enable_video_embedding %}
+        <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
+      {% elsif entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
-      {%- endif %}
+      {% endif %}
       {%- if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {%- endif %}
@@ -166,11 +196,27 @@ This is layout for bib entries which have the flag Teaching=true
       {%- endif %}
     </div>
 
+
+      {% if entry.award %}
+      <!-- Hidden Award block -->
+      <div class="award hidden d-print-inline">
+        <p>{{ entry.award | markdownify }}</p>
+      </div>
+    {% endif %}
+
     {% if entry.abstract -%}
       {% comment %} Hidden abstract block {% endcomment %}
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
       </div>
     {%- endif -%}
+
+
+    {% if entry.video and site.enable_video_embedding %}
+      <!-- Hidden video block -->
+      <div class="abstract hidden">
+        <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
+      </div>
+    {% endif %}
   </div>
 </div>

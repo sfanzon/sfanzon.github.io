@@ -14,7 +14,7 @@ footer_text: >
 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sfanzon.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -276,7 +276,10 @@ scholar:
 
   style: apa
   locale: en
-
+  
+  sort_by: year, month
+  order: descending
+  
   source: /_bibliography/
   bibliography: publications_journal.bib
   bibliography_template: bib
@@ -292,8 +295,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  # group_by: year # This creates annoying automated gray line with year below in publications class
+  # group_order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

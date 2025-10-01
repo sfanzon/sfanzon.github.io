@@ -12,7 +12,7 @@ nav_order: 6
 
 
 <p> 
-All my dissemination activity divided in 
+All my dissemination activities by type:
 </p>
 
 <p> 
@@ -25,7 +25,7 @@ All my dissemination activity divided in
 
 
 <p>
-<i class="far fa-envelope" style="font-size: 0.85em;"></i> &nbsp; denotes invited contribution
+<i class="far fa-envelope" style="font-size: 0.85em;"></i> &nbsp; indicates an invited contribution
 </p>
 
 

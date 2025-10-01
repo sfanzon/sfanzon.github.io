@@ -19,6 +19,13 @@ strong {
   color: var(--global-text-color);
 }
 
+
+// Custom: This adds space on top when clicking on href internal to website
+html {
+  scroll-padding-top: 7rem;
+}
+
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -246,20 +253,21 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-navbar-color);
   opacity: 0.95;
+  color: var(--global-navbar-text-color);
 }
 
 .navbar .dropdown-menu {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-navbar-color);
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: var(--global-text-color);
+    color: var(--global-navbar-active-text-color);
   }
 
   a:hover {
-    color: var(--global-hover-color);
+    color: var(--global-navbar-hover-color);
   }
 
   .dropdown-divider {
@@ -268,11 +276,11 @@ ul.task-list input[type="checkbox"] {
 }
 
 .dropdown-item {
-  color: var(--global-text-color);
+  color: var(--global-navbar-active-text-color);
 
   &:hover {
-    color: var(--global-hover-color);
-    background-color: var(--global-bg-color);
+    color: var(--global-navbar-hover-color);
+    background-color: var(--global-navbat-color);
   }
 }
 
@@ -284,24 +292,24 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-navbar-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-navbar-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-navbar-hover-color);
     }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--global-navbar-active-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-navbar-hover-color);
     }
   }
 
@@ -330,13 +338,13 @@ ul.task-list input[type="checkbox"] {
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-navbar-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-navbar-active-text-color);
         }
       }
     }
@@ -348,7 +356,7 @@ ul.task-list input[type="checkbox"] {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    background-color: var(--global-navbar-text-color);
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -388,10 +396,10 @@ ul.task-list input[type="checkbox"] {
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: var(--global-text-color);
+  color: var(--global-navbar-text-color);
 
   &:hover {
-    color: var(--global-hover-color);
+    color: var(--global-navbar-hover-color);
   }
 }
 
@@ -474,7 +482,7 @@ ul.task-list input[type="checkbox"] {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 
   .container {
     color: var(--global-footer-text-color);
@@ -497,7 +505,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 0.94rem;
 
   .container {
     text-align: center;
@@ -698,7 +706,9 @@ footer.sticky-bottom {
   }
 }
 
-// Publications
+
+
+// Publications, teaching, supervision, talks
 
 .publications {
   margin-top: 2rem;
@@ -727,6 +737,17 @@ footer.sticky-bottom {
     text-align: right;
   }
 
+
+  h2.year {  // This is to typeset gray line with year below for publications, teaching, etc.
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+    text-align: right;
+  }
+
+
   ol.bibliography {
     list-style: none;
     padding: 0;
@@ -736,6 +757,9 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+      width: 100%;
+      min-width: 80px;
+      max-width: 200px;
       }
 
       .abbr {
@@ -745,6 +769,7 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+          font-size: 0.80rem;
           color: var(--global-card-bg-color) !important;
 
           a {
@@ -764,21 +789,76 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
       }
 
-      .author {
-        a {
-          border-bottom: 1px dashed var(--global-theme-color);
 
+      .course_title {
+        font-weight: bolder;
+        font-size: 1rem;
+        margin-bottom: 0.17rem;
+      }
+
+      
+      .course_description {
+        font-size: 0.96rem;
+        margin-bottom: 0.17rem;
+      }
+
+
+      .student_name {
+        // color: var(--global-theme-color);
+        font-weight: bolder;
+        font-size: 1rem;
+        margin-bottom: 0.17rem;
+      }
+
+          
+      .talk_title {
+        font-weight: bolder;
+        font-size: 1rem;
+        margin-bottom: 0.17rem;
+      }
+
+      
+      .conference_title {
+        font-size: 1rem;
+        margin-bottom: 0.17rem;
+      }
+
+
+      .conference_venue {
+        font-size: 0.96rem;
+        margin-bottom: 0.17rem;
+      }
+
+      
+      .thesis_title {
+        font-size: 1rem;
+        margin-bottom: 0.17rem;
+      }
+
+
+
+      .author {
+        font-size: 0.95rem;
+        margin-bottom: 0.4rem;
+        a {
+          // border-bottom: 1px dashed var(--global-text-color);
+          color: var(--global-text-color);
           &:hover {
-            border-bottom-style: solid;
-            text-decoration: none;
+           border-bottom: 1px solid var(--global-theme-color); // solid on hover
+           text-decoration: none;
+           color: var(--global-theme-color);
           }
         }
 
         > em {
-          border-bottom: 1px solid;
+          // border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bolder;
+          color: var(--global-theme-color);
         }
 
         > span.more-authors {
@@ -815,6 +895,7 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
+        padding-top: 0.4rem;
         span {
           display: inline-block;
           color: $black-color;
@@ -876,6 +957,9 @@ footer.sticky-bottom {
     }
   }
 }
+
+
+
 
 // Rouge Color Customization
 figure.highlight {
@@ -1421,5 +1505,25 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+
+// Links 
+
+.links {
+  a.btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    margin-left: 0;
+
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
   }
 }

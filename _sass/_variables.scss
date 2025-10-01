@@ -32,6 +32,7 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
@@ -50,3 +51,18 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+
+
+// My custom colors
+
+$magenta-color:       #cc0164 !default;
+$light-magenta-color:    color.adjust($magenta-color, $lightness: 25%);
+$contrast-magenta-color:#fe459e !default;
+$light-contrast-magenta-color:  color.adjust($contrast-magenta-color, $lightness: 10%);
+$my-green-color:       #00BB8C !default;
+$my-green-color-light: color.adjust($my-green-color, $lightness: 15%);
+$my-grey-color-dark:   #222222 !default;
+$my-grey-color-light:  #F5F5F5 !default;
+$my-teal-color:        #32D3D8 !default;
+$my-teal-color-light:  color.adjust($my-teal-color, $lightness: 9%);

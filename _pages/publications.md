@@ -13,7 +13,7 @@ nav_order: 4
 
 
 <p> 
-All my research outputs divided in 
+All my research outputs by type:
 </p>
 
 
@@ -26,14 +26,16 @@ All my research outputs divided in
 </p>
 
 
-<p>
-Authors are in alphabetical order
-</p>
-<p>
-<i class="fas fa-hashtag" style="font-size: 0.9em;"></i> denotes authors in order of contribution
-</p>
+<div>
+  <p>Authors are listed in alphabetical order</p>
+  <p><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> indicates authors listed in order of contribution</p>
+</div>
 
 
+
+<br>
+
+<p>My Google Scholar metrics:</p>
 
 <div class="large-badges" style="margin-top: 1.2rem;">
     <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}">
@@ -50,6 +52,8 @@ Authors are in alphabetical order
     </a>
 </div>
 
+
+<br>
 
 
 

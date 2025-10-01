@@ -3,14 +3,14 @@ layout: page
 permalink: 
 title: Publications
 description: 
-years: [2024,2023,2022,2021,2020,2019,2017]
+years: [2025,2024,2023,2022,2021,2020,2019,2017]
 nav: false
 nav_order: 30
 ---
 <!-- _pages/publications.md -->
 
 <p> 
-All my research outputs divided in 
+All my research outputs by type:
 </p>
 
 
@@ -24,13 +24,10 @@ All my research outputs divided in
 </p>
 
 
-<p>
-Authors are in alphabetical order
-</p>
-<p>
-<i class="fas fa-hashtag" style="font-size: 0.9em;"></i> denotes authors in order of contribution
-</p>
-
+<div>
+  <p>Authors are listed in alphabetical order</p>
+  <p><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> indicates authors listed in order of contribution</p>
+</div>
 
 
 <div class="large-badges" style="margin-top: 1.2rem;">
@@ -49,7 +46,9 @@ Authors are in alphabetical order
 </div>
 
 
+<br>
 
+<p>My Google Scholar metrics:</p>
 
 <div class="publications">
 
