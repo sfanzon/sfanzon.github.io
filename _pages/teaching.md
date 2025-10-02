@@ -11,7 +11,7 @@ nav_order: 6
 
 
 <p> 
-All the courses I taught by role:
+Welcome! Here you can explore all the courses I taught, organized by role:
 </p>
 
 <p>
@@ -20,6 +20,11 @@ All the courses I taught by role:
     <li><a href="#tutor"><b>Teaching Assistant</b></a></li>
 </ul>
 </p>
+
+<div>
+  <p>I believe learning should be open access, so I have included lecture notes, webpages, slides, and recordings where available.</p>
+  <p>Feel free to reuse any of the materials for your own teaching. Attribution would be appreciated!</p>
+</div>
 
 
 

@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 <p> 
-Archive of all past announcements
+Browse through all our past announcements!
 </p>
 
 

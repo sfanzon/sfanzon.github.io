@@ -13,7 +13,7 @@ nav_order: 4
 
 
 <p> 
-All my research outputs by type:
+Welcome! Here you can explore all my research outputs, organized by type:
 </p>
 
 
@@ -27,15 +27,37 @@ All my research outputs by type:
 
 
 <div>
-  <p>Authors are listed in alphabetical order</p>
-  <p><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> indicates authors listed in order of contribution</p>
+  <p>Each work is linked with accompanying PDF paper, BibTeX entry, code, and more.</p>
+  <p>Authors are listed in alphabetical order.</p>
+  <p><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> indicates authors listed in order of contribution.</p>
 </div>
 
 
 
+{% comment %}
 <br>
 
+<p>My Google Scholar metrics:</p>
 
+<div class="large-badges" style="margin-top: 1.2rem;">
+    <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}">
+        <img src="https://img.shields.io/badge/citations-{{ site.data.scholar.citations }}-000000?style=flat" 
+        alt="{{ site.data.scholar.citations }} Google Scholar citations">
+    </a>
+    <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
+        <img src="https://img.shields.io/badge/h--index-{{ site.data.scholar.h_index }}-000000?style=flat" 
+        alt="{{ site.data.scholar.h_index }} Google Scholar h-index">
+    </a>
+    <a href="https://scholar.google.com/citations?user={{ site.data.scholar.id }}" aria-label="Google Scholar link" role="button">
+        <img src="https://img.shields.io/badge/i10--index-{{ site.data.scholar.i10_index }}-000000?style=flat" 
+        alt="{{ site.data.scholar.i10_index }} Google Scholar i10-index">
+    </a>
+</div>
+
+
+<br>
+
+{% endcomment %}
 
 
 <div class="publications">

@@ -2,11 +2,13 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.hull.ac.uk/staff-directory/silvio-fanzon'>Lecturer in Applied Mathematics</a>  &#64;  <a href='https://www.hull.ac.uk'>Hull</a>
+subtitle: Lecturer in Applied Mathematics # <a href='https://www.hull.ac.uk/staff-directory/silvio-fanzon'>Lecturer in Applied Mathematics</a> &#64;  <a href='https://www.hull.ac.uk'>Hull</a>
 
 profile:
-  align: right
-  image: # prof_pic.jpg
+  align: left
+  image: silvioimg.jpeg
+  social_icons_contact: true # Custom: displays social icons under picture. Can edit icons in about.liquid
+    
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>555 your office number</p>
@@ -39,24 +41,32 @@ current_courses: true # false: current teaching displays there is no teaching. T
 social: false # includes social icons at the bottom of the page
 ---
 
-<hr style="width: 120%; visibility: hidden;">
 
-<h3 style="margin-bottom: 1.3rem"><b>About me</b></h3>
+
+<h3 style="margin-bottom: 1.3rem"><b>Welcome to my website!</b></h3>
 
 <div markdown="1">
-I am a Lecturer in Applied Mathematics in the [Department of Mathematics](https://www.hull.ac.uk/faculties/departments/department-of-physics-and-mathematics) at the [University of Hull](https://www.hull.ac.uk) in the United Kingdom
+I am a *Lecturer in Applied Mathematics* at the [University of Hull](https://www.hull.ac.uk), UK, where I have both *research* and *teaching* responsibilities.
 </div>
 
-<div markdown="1" style="margin-top: 1.2rem;">
-My research is at the interface of <b>Inverse Problems</b>, <b>Optimization</b>, <b>Statistics</b>, <b>PDEs</b> and <b>Variational Methods</b>. I am interested in applications to <b>Mathematical Imaging</b>, <b>Materials Science</b>, <b>Statistical Models for Sports</b> and <b>Machine Learning</b>
-</div>
-
-<div markdown="1" style="margin-top: 1.2rem;">
-My contact information is **[here](https://www.silviofanzon.com/contact/)**. If you are interested in collaboration or supervision opportunities, please contact me at
-</div>
-
-<div markdown="1" style="text-align: center; margin-top: 0.8rem;">
-**[S.Fanzon@hull.ac.uk](mailto: S.Fanzon@hull.ac.uk)**
+<div markdown="1" style="margin-top: 1.0rem;">
+My research lies at the interface of *Statistics*, *Optimization*, *PDEs*, and *Variational Methods*, 
+with applications in *Mathematical Imaging*, *Materials Science*, *Statistical Models for Sports* and *Machine Learning*. 
+Learn more about my work in [Publications](https://www.silviofanzon.com/publications/).
 </div>
 
 
+<div markdown="1" style="margin-top: 1.0rem;">
+On the teaching side, I have delivered courses in *Analysis*, *Geometry*, *Probability*, *Statistics*, and *Numerical Analysis*, for both Undergraduate and Postgraduate students. I am also a *Fellow of the Higher Education Academy*. 
+I believe teaching should be open to all, so I share my materials on the [Teaching](https://www.silviofanzon.com/teaching/) page.
+</div>
+
+
+<div markdown="1" style="margin-top: 1.0rem;">
+I have supervised students at both undergraduate and postgraduate levels. You can learn more about their work on the [Supervisions](https://www.silviofanzon.com/supervisions/) page.
+</div>
+
+
+<div markdown="1" style="margin-top: 1.0rem;">
+Happy to connect about research, supervision, or collaborations — just [email me](mailto: S.Fanzon@hull.ac.uk)!
+</div>

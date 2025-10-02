@@ -19,7 +19,7 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}" style="{% if page.profile.align == 'left' %}margin-right:2rem;{% else %}margin-left:2rem;{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -34,6 +34,21 @@ layout: default
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
+        {% endif %}
+        {% if page.profile.social_icons_contact %}
+              <div class="social">
+              <div class="contact-icons" style="font-size: 1.5em; text-align:center; margin-top:0.8rem;">
+              <a href="mailto:S.Fanzon@hull.ac.uk" title="email"><i class="fas fa-envelope" style="margin-right:0.25em;"></i></a>
+              <a href="https://www.google.com/maps/place/Robert+Blackburn+Building/@53.7714841,-0.3714448,17z" target="_blank" title="address" style="margin-right:0.25em;"><i class="fas fa-map-marker-alt"></i></a>
+              <a href="https://www.hull.ac.uk/staff-directory/silvio-fanzon" title="workpage" style="margin-right:0.25em;"><i class="fas fa-briefcase"></i></a>
+              <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}" title="LinkedIn" style="margin-right:0.25em;"><i class="fa-brands fa-linkedin"></i></a>
+              <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" title="Google Scholar" style="margin-right:0.25em;"><i class="ai ai-google-scholar-square"></i></a>
+              <a href="https://www.researchgate.net/profile/{{ site.data.socials.research_gate_profile }}/" title="ResearchGate" style="margin-right:0.25em;"><i class="ai ai-researchgate-square"></i></a>
+              <a href="https://orcid.org/{{ site.data.socials.orcid_id }}" title="ORCID" style="margin-right:0.25em;"><i class="ai ai-orcid-square"></i></a>
+              <!-- <a href="https://arxiv.org/a/{{ site.data.socials.arxiv_username }}" title="arXiv" style="margin-right:0.25em;"><i class="ai ai-arxiv-square"></i></a> -->
+              <a href="https://github.com/{{ site.data.socials.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+             </div>
+             </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
@@ -137,7 +152,6 @@ layout: default
     <li><a href="https://www.ipia.site/Home/"><b>IPIA</b></a> (Inverse Problems International Association)</li>
     <li><a href="http://www.fips.fi"><b>FIPS</b></a> (Finnish Inverse Problems Society)</li>
     <li><a href="https://www.gamm-ev.de/en/"><b>GAMM</b></a> (Association of Applied Mathematics and Mechanics)</li>
-    <li><a href="https://www.oneworldml.org/home"><b>One World ML</b></a> (Seminar Series on the Mathematics of Machine Learning)</li>
     <li><a href="https://sites.google.com/view/minds-seminar/home"><b>One World MINDS</b></a> (Seminar Series on Mathematics of INformation, Data, and Signals)</li>
     </ul>  
     </p>

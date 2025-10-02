@@ -12,7 +12,7 @@ nav_order: 6
 
 
 <p> 
-All my dissemination activities by type:
+Welcome! Here you can explore all my dissemination activities, organized by type:
 </p>
 
 <p> 
@@ -24,9 +24,10 @@ All my dissemination activities by type:
 </p>
 
 
-<p>
-<i class="far fa-envelope" style="font-size: 0.85em;"></i> &nbsp; indicates an invited contribution
-</p>
+<div>
+  <p>Each entry includes abstract, and slides or posters where available.</p>
+  <p><i class="far fa-envelope" style="font-size: 0.85em;"></i> indicates an invited contribution.</p>
+</div>
 
 
 

@@ -11,31 +11,28 @@ nav_order: 7
 
 
 
-<p> 
-My thesis supervisions by degree level:
+<p>
+These are all the awesome students I have supervised, organized by degree level:
 </p>
 
 <p>
 <ul>
-    <li><a href="#master"><b>Master Supervisions</b></a></li>
-    <li><a href="#undergraduate"><b>Undergraduate Supervisions</b></a></li>
+    <li><a href="#master"><b>Master Students</b></a></li>
+    <li><a href="#undergraduate"><b>Undergraduate Students</b></a></li>
 </ul>
 </p>
 
 
-
-<p markdown="1"> 
- <a href = "mailto: S.Fanzon@hull.ac.uk"><b>Email</b></a> me for dissertation projects in Optimization, Inverse Problems, PDEs,
- Machine Learning and more!
-</p>
-
+<div>
+  <p>Interested in dissertation projects? <a href="mailto:S.Fanzon@hull.ac.uk"><b>Email me</b></a>!</p>
+</div>
 
 
 
 <div class="publications">
 
 
-<a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Master Supervisions</b></h3></a>
+<a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Master Students</b></h3></a>
 
 {%- for y in page.years_master %}    
     <h2 class="year">{{ y }}</h2>
@@ -44,7 +41,7 @@ My thesis supervisions by degree level:
 
 
 
-<a id="undergraduate"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Undergraduate Supervisions</b></h3></a>
+<a id="undergraduate"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Undergraduate Students</b></h3></a>
 
 {%- for y in page.years_undergraduate %}    
     <h2 class="year">{{ y }}</h2>
