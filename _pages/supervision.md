@@ -12,7 +12,7 @@ nav_order: 7
 
 
 <p>
-These are all the awesome students I have supervised, organized by degree level:
+These are all the students I have supervised, organized by degree level:
 </p>
 
 <p>

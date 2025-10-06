@@ -12,7 +12,7 @@ nav_order: 6
 
 
 <p> 
-Welcome! Here you can explore all my dissemination activities, organized by type:
+Here you can explore all my dissemination activities, organized by type:
 </p>
 
 <p> 

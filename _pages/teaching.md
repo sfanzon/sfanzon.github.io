@@ -11,7 +11,7 @@ nav_order: 6
 
 
 <p> 
-Welcome! Here you can explore all the courses I taught, organized by role:
+Here you can explore all the courses I taught, organized by role:
 </p>
 
 <p>
