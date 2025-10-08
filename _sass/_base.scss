@@ -197,10 +197,126 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+
+
+// Custom Profile Box for homepage
+
+/* Container: flexible two-column layout */
+.profile-layout {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+/* Profile box — responsive and scales dynamically */
+.profile-box {
+  background-color: var(--global-profile-box-color);
+  padding: 2rem;
+  text-align: center;
+  border-radius: 8px;
+  flex: 1 1 350px;     /* starts at ~350px and grows with window */
+  min-width: 350px;
+  max-width: 35%;       /* keeps it smaller than main text on large screens */
+  transition: all 0.3s ease;
+}
+
+/* Main content (right side) */
+.clearfix {
+  flex: 1 1 55%;
+  min-width: 300px;
+}
+
+/* When window is narrow, profile takes full width */
+@media (max-width: 900px) {
+  .profile-layout {
+    flex-direction: column;
+  }
+
+  .profile-box,
+  .clearfix {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+/* Profile image rectangular, responsive */
+.profile-box-photo {
+  width: 80%;
+  max-width: 220px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+/* Text styling */
+.profile-box-name {
+  font-size: 2.0rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.profile-box-role {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.profile-box-more-info {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  line-height: 1.5;
+}
+
+/* Social icons */
+.profile-box-social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  font-size: 1.35rem;
+
+  a {
+    text-decoration: none;
+
+    img {
+      width: 3.2rem;
+      height: 3.2rem;
+      margin-bottom: 1rem;
+    }
+
+    svg {
+      width: 3.5rem;
+      height: 4rem;
+      margin-bottom: 0.5rem;
+
+      image {
+        width: 3.5rem;
+        height: 3.5rem;
+      }
+    }
+
+    i::before {
+      color: var(--global-text-color);
+      transition: all 0.2s ease-in-out;
+    }
+
+    &:hover i::before {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+
+
+
 // Profile
 
 .profile {
   width: 100%;
+  margin-bottom: 1rem;
 
   .more-info {
     margin-bottom: 5px;

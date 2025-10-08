@@ -51,6 +51,12 @@
   --global-navbar-hover-color: #{$light-contrast-magenta-color};
 
 
+  // Custom Profile picture box colors
+  --global-profile-box-color: #{$my-mid-grey-color};
+
+
+
+
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
@@ -128,6 +134,10 @@ html[data-theme="dark"] {
   --global-navbar-text-color: #{$my-grey-color-light};
   --global-navbar-hover-color: #{$light-cyan-color};
   --global-navbar-active-text-color: #{$cyan-color};
+
+
+  // Custom Profile picture box colors
+  --global-profile-box-color: #{$my-light-black-color};
 
 
   .only-light {
