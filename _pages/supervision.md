@@ -35,7 +35,7 @@ These are all the students I have supervised, organized by degree level:
 <a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Master Students</b></h3></a>
 
 {%- for y in page.years_master %}    
-    <h2 class="year">{{ y }}</h2>
+        <h2 class="year" style="margin-bottom:0.1rem;">{{ y }}</h2>
         {% bibliography -f supervision_master -q @*[year={{y}}]* %}
 {% endfor %}
 
@@ -44,7 +44,7 @@ These are all the students I have supervised, organized by degree level:
 <a id="undergraduate"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Undergraduate Students</b></h3></a>
 
 {%- for y in page.years_undergraduate %}    
-    <h2 class="year">{{ y }}</h2>
+        <h2 class="year" style="margin-bottom:0.1rem;">{{ y }}</h2>
         {% bibliography -f supervision_undergraduate -q @*[year={{y}}]* %}
 {% endfor %}
 

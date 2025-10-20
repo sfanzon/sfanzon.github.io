@@ -22,7 +22,7 @@ Here you can explore all the courses I taught, organized by role:
 </p>
 
 <div>
-  <p>I believe learning should be open access, so I have included lecture notes, webpages, slides, and recordings where available.</p>
+  <p>I have included lecture notes, webpages, slides, and recordings where available.</p>
   <p>Feel free to reuse any of the materials for your own teaching. Attribution would be appreciated!</p>
 </div>
 
@@ -34,7 +34,7 @@ Here you can explore all the courses I taught, organized by role:
 
 <a id="lecturer"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Lecturer</b></h3></a>
 {%- for y in page.years_lecturer %}    
-        <h2 class="year">{{ y }}</h2>
+        <h2 class="year" style="margin-bottom:0.1rem;">{{ y }}</h2>
         {% bibliography -f teaching_lecturer -q @*[yearacademic={{y}}]* %}
 {% endfor %}
 
@@ -44,7 +44,7 @@ Here you can explore all the courses I taught, organized by role:
 <a id="tutor"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Teaching Assistant</b></h3></a>
 
 {%- for y in page.years_tutor %}    
-        <h2 class="year">{{ y }}</h2>
+        <h2 class="year" style="margin-bottom:0.1rem;">{{ y }}</h2>
         {% bibliography -f teaching_tutor -q @*[yearacademic={{y}}]* %}
 {% endfor %}
 

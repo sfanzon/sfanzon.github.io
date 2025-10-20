@@ -61,7 +61,7 @@ Learn more in [Publications](https://www.silviofanzon.com/publications/).
 <div markdown="1" style="margin-top: 1.0rem;">
 I am *Fellow of the Higher Education Academy* and have taught courses across pure and applied mathematics. 
 Details and materials are available on the [Teaching](https://www.silviofanzon.com/teaching/) page.
-I have also supervised undergraduate and postgraduate students — learn more on the [Supervisions](https://www.silviofanzon.com/supervisions/) page.
+I have also supervised undergraduate and postgraduate students — learn more on the [Supervision](https://www.silviofanzon.com/supervision/) page.
 </div>
 
 
