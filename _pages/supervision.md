@@ -3,8 +3,9 @@ layout: page
 permalink: /supervision/
 title: Supervision
 description: 
+years_phd: [2025/26]
 years_master: [2023/24,2022/23]
-years_undergraduate: [2024/25]
+years_undergraduate: [2025/26,2024/25]
 nav: true
 nav_order: 7
 ---
@@ -17,6 +18,7 @@ These are all the students I have supervised, organized by degree level:
 
 <p>
 <ul>
+    <li><a href="#phd"><b>PhD Students</b></a></li>
     <li><a href="#master"><b>Master Students</b></a></li>
     <li><a href="#undergraduate"><b>Undergraduate Students</b></a></li>
 </ul>
@@ -32,7 +34,14 @@ These are all the students I have supervised, organized by degree level:
 <div class="publications">
 
 
-<a id="master"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>Master Students</b></h3></a>
+<a id="phd"><h3 style="margin-top: 3.3rem; margin-bottom: -1.0rem;"><b>PhD Students</b></h3></a>
+   
+<h2 class="year" style="margin-bottom:0.1rem;">{{  }}</h2>
+{% bibliography -f supervision_phd %}
+
+
+
+<a id="master"><h3 style="margin-top: 5rem; margin-bottom: -1.0rem;"><b>Master Students</b></h3></a>
 
 {%- for y in page.years_master %}    
         <h2 class="year" style="margin-bottom:0.1rem;">{{ y }}</h2>

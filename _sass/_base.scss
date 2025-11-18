@@ -975,60 +975,73 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
         font-size: 1rem;
-        margin-bottom: 0.2rem;
+        margin-bottom: 0.25rem;
       }
 
 
       .course_title {
         font-weight: bolder;
-        font-size: 1rem;
-        margin-bottom: 0.17rem;
+        font-size: 1.15rem;
+        margin-bottom: 0.2rem;
       }
 
       
       .course_description {
-        font-size: 0.96rem;
-        margin-bottom: 0.17rem;
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
+      }
+
+
+      .thesis_description {
+        font-size: 1rem;
+        margin-top: 0.3rem;
+        margin-bottom: 0.2rem;
+      }
+
+
+       .thesis_notes {
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
       }
 
 
       .student_name {
         // color: var(--global-theme-color);
         font-weight: bolder;
-        font-size: 1rem;
-        margin-bottom: 0.17rem;
+        font-size: 1.15rem;
+        margin-bottom: 0.2rem;
       }
 
           
       .talk_title {
         font-weight: bolder;
         font-size: 1rem;
-        margin-bottom: 0.17rem;
+        margin-bottom: 0.2rem;
       }
 
       
       .conference_title {
         font-size: 1rem;
-        margin-bottom: 0.17rem;
+        margin-bottom: 0.2rem;
       }
 
 
       .conference_venue {
         font-size: 0.96rem;
-        margin-bottom: 0.17rem;
+        margin-bottom: 0.2rem;
       }
 
       
       .thesis_title {
         font-size: 1rem;
-        margin-bottom: 0.17rem;
+        margin-bottom: 0.2rem;
       }
 
 
 
       .author {
         font-size: 0.95rem;
-        margin-bottom: 0.4rem;
+        margin-bottom: 0.15rem;
         a {
           // border-bottom: 1px dashed var(--global-text-color);
           color: var(--global-text-color);
