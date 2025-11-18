@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /Fanzon_CV.pdf
+permalink: /Silvio_Fanzon_CV.pdf
 title: CV
 description:
 nav: true
-nav_order: 8
+nav_order: 10
 ---
