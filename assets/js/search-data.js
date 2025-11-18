@@ -44,19 +44,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervision/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Fanzon_CV.pdf";
-          },
         },{id: "nav-contact",
           title: "Contact",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Silvio_Fanzon_CV.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
