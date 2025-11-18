@@ -49,7 +49,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Silvio_Fanzon_CV.pdf";
+            window.location.href = "/Fanzon_CV.pdf";
           },
         },{id: "nav-contact",
           title: "Contact",
