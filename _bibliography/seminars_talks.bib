@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Silvio Fanzon at 2025-12-17 16:46:35 +0100 
+%% Created for Silvio Fanzon at 2025-12-18 01:06:57 +0100 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -12,22 +12,31 @@
 
 @misc{2025-Sapienza,
 	abbr = {Sapienza},
-	abstract = {In this talk we consider the interplay between inverse problems and sparsity. Specifically, we consider inverse problems of the form
-\begin{equation}
-Ku = f 	
-\end{equation}
-where $u \in X$, $f \in Y$ Banach spaces and $K \colon X \to Y$ linear continuous. We regularize \eqref{pb} with a convex 1-homogenous regularizer $R$ and smooth data fidelity $F$
-\begin{equation}
-\min_{u \in X} \ F(Ku) + R(u) \,.  \label{pb2}	
-\end{equation}
-Sparsity for \eqref{pb2} is intended in terms of the extremal points of the unit ball of $R$. We introduce and study a Frank-Wolfe type method to recover sparse solutions. We then apply our method to sparse peak recovery in space of measures. Second, we introduce a framework for dynamic inverse problems: consider a closed bounded spatial domain $\Omega \subset \mathbb{R}^d$, times $t \in [0,1]$ and $\mathcal{M}(\Omega)$ set of Radon measures. For each time $t$ we assume given $H_t$ Hilbert space (measurement spaces - non isomorphic) and $K_t^* \colon \mathcal{M}(\Omega) \to H_t$ linear continuous operators (forward-operators). The inverse problem of interest is: Given $t \mapsto f_t \in H_t$, find a curve of measures $t \mapsto \mu_t \in \mathcal{M}(\Omega)$ such that
-		\begin{equation} \label{dynamic} 
-		   K_t^* \mu_t = f_t     \qquad \text{ for a.e. } \,\, t \in (0,1)
-		\end{equation}	
-	For example $(K_t^*,H_t)$ can model a Fourier transform with time-dependent masking, which is relevant for Magnetic Resonance Imaging (MRI). We propose a novel regularization for \eqref{dynamic} based on Dynamic Optimal Transport. We then analyze the sparsity induced by such regularization and apply our Frank-Wolfe-type method to dynamic peaks tracking (with MRI data).},
+	abstract = {In this talk we introduce a Frank-Wolfe-type algorithm for sparse optimization in Banach spaces. The functional we want to optimize consist of the sum of a smooth fidelity term and of a convex
+one-homogeneous regularizer. We exploit the sparse structure of the variational problem by designing iterates as linear combinations of extremal points of the unit ball of the regularizer. For such iterates we prove global sublinear convergence of the algorithm. Then, under additional structural assumptions, we prove a local linear convergence rate.  We apply this algorithm to the problem of particles tracking from heavily undersampled MRI data. This talk is based on the works cited below.
+
+<br>
+
+[1] K.~Bredies, M.~Carioni, S.~Fanzon, D.~Walter. Asymptotic linear convergence of Fully-Corrective Generalized Conditional Gradient methods. Mathematical Programming, 205: 135-202, 2024
+
+<br>
+
+[2]  K.~Bredies, S.~Fanzon. An optimal transport approach for solving dynamic inverse problems in spaces of measures. ESAIM:M2AN, 54(6): 2351-2382, 2020
+
+<br>
+
+[3] K.~Bredies, M.~Carioni, S.~Fanzon, F.~Romero. A Generalized Conditional Gradient Method for Dynamic Inverse Problems with Optimal Transport Regularization.  Found Comput Math, 28: 833-898, 2023
+
+<br>
+
+[4] K.~Bredies, M.~Carioni, S.~Fanzon. On the extremal points of the ball of the Benamou--Brenier energy. Bull. London Math. Soc., 53: 1436-1452, 2021 
+
+<br>
+
+[5] K.~Bredies, M.~Carioni, S.~Fanzon. A superposition principle for the inhomogeneous continuity equation with Hellinger--Kantorovich-regular coefficients. Communications in Partial Differential Equations, 47(10): 2023-2069, 2022},
 	date = {17-19 Dec 2025},
 	date-added = {2025-11-18 12:22:34 +0000},
-	date-modified = {2025-12-17 16:46:22 +0100},
+	date-modified = {2025-12-18 01:06:51 +0100},
 	event_link = {https://sites.google.com/view/yar-2025/home-page},
 	event_title = {1st Workshop of Young Analysts in Rome},
 	invited = {true},
@@ -46,7 +55,7 @@ one-homogeneous regularizer. We exploit the sparse structure of the variational 
 
 <br>
 
-[1] K.~Bredies, M.~Carioni, S.~Fanzon, D.~Walter. Asymptotic linear convergence of Fully-Corrective Generalized Conditional Gradient methods. Mathematical Programming, 2023
+[1] K.~Bredies, M.~Carioni, S.~Fanzon, D.~Walter. Asymptotic linear convergence of Fully-Corrective Generalized Conditional Gradient methods. Mathematical Programming, 205: 135-202, 2024
 
 <br>
 
@@ -54,7 +63,7 @@ one-homogeneous regularizer. We exploit the sparse structure of the variational 
 
 <br>
 
-[3] K.~Bredies, M.~Carioni, S.~Fanzon, F.~Romero. A Generalized Conditional Gradient Method for Dynamic Inverse Problems with Optimal Transport Regularization.  Found Comput Math, 2022
+[3] K.~Bredies, M.~Carioni, S.~Fanzon, F.~Romero. A Generalized Conditional Gradient Method for Dynamic Inverse Problems with Optimal Transport Regularization.  Found Comput Math, 28: 833-898, 2023
 
 <br>
 
@@ -62,10 +71,10 @@ one-homogeneous regularizer. We exploit the sparse structure of the variational 
 
 <br>
 
-[5] K.~Bredies, M.~Carioni, S.~Fanzon. A superposition principle for the inhomogeneous continuity equation with Hellinger--Kantorovich-regular coefficients. Communications in Partial Differential Equations, 47(10): 2023-2069, 2022 },
+[5] K.~Bredies, M.~Carioni, S.~Fanzon. A superposition principle for the inhomogeneous continuity equation with Hellinger--Kantorovich-regular coefficients. Communications in Partial Differential Equations, 47(10): 2023-2069, 2022},
 	date = {4-8 Sep 2023},
 	date-added = {2023-05-26 11:39:00 +0100},
-	date-modified = {2024-08-06 10:57:32 +0100},
+	date-modified = {2025-12-18 01:04:00 +0100},
 	event_link = {http://www.aip2023.com/start/},
 	event_title = {AIP 2023: 11th Applied Inverse Problems Conference},
 	invited = {true},
