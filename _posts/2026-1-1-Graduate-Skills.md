@@ -40,10 +40,15 @@ toc:
 
 ## General Information
 
-Welcome to the module **Graduate Skills 772213** for the MSc in Mathematics at the University of Hull, academic year 2025/26.
+Welcome to the module **Graduate Skills 772213** for the MSc in Mathematics at the University of Hull, academic year 2025/26. In this course you will be assigned your MSc project and develop skills to help with it in T3.
 
+You will
 
-The Graduate Skills module serves the dual purpose of preparing students for the **MSc Project** and enabling the development of **softer employability skills** such as presentations and time management. The module also enables students to develop an independent interest in an advanced topic in mathematics. Students can thus study topics outside the scope of the modules formally offered but within the interests of internationally excellent research-active staff. Building towards the MSc Project the module thus provides students with the research skills needed to become an independent learner in advanced mathematics.
+- Give short (5-10 min) Journal club presentations on at least two of the papers read.
+- Write a report on a mathematical, statistical or numerical technique.
+- Reflect on the presentations of others
+
+This course is taught by a combination on-campus sessions and learning material and activities organised within Canvas. 
 
 
 - **Lecturer**: Dr Silvio Fanzon
@@ -96,7 +101,7 @@ This module will be assessed as follows:
 
 The module will involve **Oral Presentations** prepared and held by students:
 
-- The lecturer will help with the preparation of the presentations in the early stages of the module
+- I will help with the preparation of the presentations in the early stages of the module
 - The seminar atmosphere allows conceptual issues to be discussed and explored in depth in a supportive group setting
 - The order of presentations will be assigned randomly, with later presentations occurring in reverse order
 - All students will be offered an opportunity to give short practice presentations with feedback before marked presentations
