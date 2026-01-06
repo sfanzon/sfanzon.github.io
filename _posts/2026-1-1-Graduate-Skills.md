@@ -91,35 +91,32 @@ We have two `Lectures` and one `Tutorial` per week:
 
 This module will be assessed as follows:
 
-|**Type of Assessment**  | **Percentage of final grade** |
-|: -----                 |: -----                        |
-|  Oral Presentations    | 70%                           |
-|  Written Report        | 25%                           |
-|  Reflections           | 5%                            |
+|**Type of Assessment**            | **Percentage of final grade** |
+|: -----                           |: -----                        |
+|  Oral Presentations              | 70%                           |
+|  Written Report                  | 25%                           |
+|  Reflections on Presentations    | 5%                            |
 
 
 
-The module will involve **Oral Presentations** prepared and held by students:
-
-- I will help with the preparation of the presentations in the early stages of the module
-- The seminar atmosphere allows conceptual issues to be discussed and explored in depth in a supportive group setting
-- The order of presentations will be assigned randomly, with later presentations occurring in reverse order
-- All students will be offered an opportunity to give short practice presentations with feedback before marked presentations
-- Accommodation will be made for any student with special needs
+1. **Oral Presentations** prepared and held by students:
+    - I will help with the preparation of the presentations in the early stages of the module
+    - The seminar atmosphere allows conceptual issues to be discussed and explored in depth in a supportive group setting
+    - The order of presentations will be assigned randomly, with later presentations occurring in reverse order
+    - All students will be offered an opportunity to give short practice presentations with feedback before marked presentations
+    - Accommodation will be made for any student with special needs
  
 
-The module will also involve a **Written Report**:
+2. **Written Report**:
+    - The written report will require to further investigate a mathematical, statistical, or numerical technique
+    - A report has to be produced on the details of the method, investigating how and why the method works
+    - The report length is 2 pages (excluding references) and has to be written using latex
+    - I recommend choosing a topic related to your MSc Project, but this is not necessary
 
-- The written report will require to further investigate a mathematical, statistical, or numerical technique
-- A report has to be produced on the details of the method, investigating how and why the method works
-- The report length is 2 pages (excluding references) and has to be written using latex
-- I recommend choosing a topic related to your MSc Project, but this is not necessary
 
-
-The module will also involve a peer presentation **Reflection** aspect:
-
-- This will be marked with a binary grading system
-- This outlines that the principle aim of the reflective process is to improve one's own skills
+3. **Reflection** on peer presentations:
+    - This will be marked with a binary grading system
+    - This outlines that the principle aim of the reflective process is to improve one's own skills
 
 
 Deadlines and submission are on [Canvas](https://canvas.hull.ac.uk/courses/77826)
