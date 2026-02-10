@@ -3,9 +3,9 @@ layout: page
 permalink: /presentations/
 title: Presentations
 description: 
-years_talk: [2025,2023,2022,2021,2019,2018,2017,2016]
+years_talk: [2026,2025,2023,2022,2021,2019,2018,2017,2016]
 years_poster: [2021,2016]
-years_institutional: [2026,2024]
+years_institutional: [2024]
 nav: true
 nav_order: 6
 ---
