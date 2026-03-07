@@ -25,13 +25,13 @@ toc:
   - name: Questions
   - name: Key Links
   - name: Lectures Calendar
-  - name: Assessment
   - name: Topics
   - name: Lectures Diary
   - name: Statistical tables
   - name: R codes
   - name: Datasets
-  - name: Homework
+  - name: Assessment Breakdown
+  - name: Tasks & Deadlines
   - name: References
 
 
@@ -86,8 +86,81 @@ We have two `Lectures` and one `Tutorial` per week:
 
 
 
+## Topics
 
-## Assessment
+- Hypothesis testing
+- Linear regression models with one or more explanatory variables
+- Least squares estimation of model coefficients and their properties
+- Checking the regression modelling assumptions
+- Analysis of variance (ANOVA)
+- Analysis of real-world datasets
+- Statistical software for testing, prediction and visualisation of data
+
+
+
+
+
+## Lectures Diary
+
+There are **11 Lectures** in this module and 3 optional Appendices. Links to the slides and lecture titles are below. Links to the Slides and Lecture Titles are below.
+
+
+
+|**Week of**| **Slides**                                                                                                   | **Title**  			                               |
+|: -----    |:---------      									                                                                             | :---------                                      |
+| 26 Jan    | [Lecture 1](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                   |
+| 2 Feb     | [Lecture 2](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Random samples & The t-test                     |
+| 9 Feb     | [Lecture 3](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Introduction to R & The variance ratio test     |
+| 16 Feb    | [Lecture 4](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Two-sample t-test & More on R                   |
+| 23 Feb    | [Lecture 5](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Two-sample F-test & Goodness-of-fit test        |
+| 2 Mar     | [Lecture 6](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Chi-squared test & Least Squares                |
+| 9 Mar     | [Lecture 7](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The Maths of Regression                         |
+| 16 Mar    | [Lecture 8](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | Practical Regression                            |
+| 23 Mar    | [Lecture 9](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  | Model Selection & Regression Assumptions I      |
+| 13 Apr    | [Lecture 10](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Regression Assumptions II & Stepwise Regression |
+| 20 Apr    | [Lecture 11](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| ANOVA                                           |
+| 27 Apr    | Revision Week                                                                                                | Coursework submission deadline                  |
+| Extra     | [Appendix A](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability revision                            |
+| Extra     | [Appendix B](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_B.html#/title-slide)| R Style Guide                                   |
+| Extra     | [Appendix C](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_C.html#/title-slide)| Simulation & Bootstrap                          |
+
+
+## Statistical tables
+
+- Available [here](/assets/pdf/teaching/2026-Statistical-Models/Statistics_Tables.pdf)
+
+
+
+
+## R codes
+
+| **Lecture** | **Material**                                                                                                                                                                              | 
+|:------      |:------                                                                                                                                                                                    |
+| Lecture 3   | [One-Sample t-test](/assets/pdf/teaching/2026-Statistical-Models/one_sample_t_test.R) <br> [Variance ratio test](/assets/pdf/teaching/2026-Statistical-Models/variance_ratio_test.R)		  |
+| Lecture 4   | [Two-Sample t-test](/assets/pdf/teaching/2026-Statistical-Models/two_sample_t_test.R)      |
+| Lecture 5   | [F-test](/assets/pdf/teaching/2026-Statistical-Models/F_test.R)  <br>   [F-test First Principles](/assets/pdf/teaching/2026-Statistical-Models/F_test_first_principles.R) <br> [Goodness-of-fit](/assets/pdf/teaching/2026-Statistical-Models/good_fit.R) <br> [Goodness-of-fit First Principles](/assets/pdf/teaching/2026-Statistical-Models/good_fit_first_principles.R) <br> [Goodness-of-fit Contingency](/assets/pdf/teaching/2026-Statistical-Models/good_fit_contingency.R) |
+| Lecture 6   |  [Independence Test](/assets/pdf/teaching/2026-Statistical-Models/independence_test.R) <br> [2008 Crisis](/assets/pdf/teaching/2026-Statistical-Models/2008_crisis_code.R) <br>[Least-squares Solution 1](/assets/pdf/teaching/2026-Statistical-Models/least_squares_1.R) <br> [Least-squares Solution 2](/assets/pdf/teaching/2026-Statistical-Models/least_squares_2.R) |
+| Lecture 7   | [Multiple regression](/assets/pdf/teaching/2026-Statistical-Models/multiple_regression.R) <br> [R2 multiple regression](/assets/pdf/teaching/2026-Statistical-Models/R2_multiple_regression.R)  |
+| Lecture 8   | [Simple regression](/assets/pdf/teaching/2026-Statistical-Models/simple_regression.R) <br> [Longley regression](/assets/pdf/teaching/2026-Statistical-Models/longley_regression.R) |
+| Lecture 9   | [Longley selection](/assets/pdf/teaching/2026-Statistical-Models/longley_selection.R) <br> [Galileo](/assets/pdf/teaching/2026-Statistical-Models/galileo.R) <br> [Divorces](/assets/pdf/teaching/2026-Statistical-Models/divorces.R) <br> [Heteroscedasticity](/assets/pdf/teaching/2026-Statistical-Models/heteroscedasticity.R)  |
+| Lecture 10  | [Autocorrelation](/assets/pdf/teaching/2026-Statistical-Models/autocorrelation.R) <br> [Multicollinearity](/assets/pdf/teaching/2026-Statistical-Models/multicollinearity.R) <br> [Stepwise Regression: Longley](/assets/pdf/teaching/2026-Statistical-Models/longley_stepwise.R) <br> [Stepwise Regression: Divorces](/assets/pdf/teaching/2026-Statistical-Models/divorces_stepwise.R) |
+| Lecture 11  | [Anova](/assets/pdf/teaching/2026-Statistical-Models/anova.R) <br> [Ancova](/assets/pdf/teaching/2026-Statistical-Models/ancova.R)  |
+| Appendix C  | [Monte Carlo pi](/assets/pdf/teaching/2026-Statistical-Models/monte_carlo_pi.R) <br>  [Bootstrap CI](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_CI.R) <br> [Bootstrap t-test](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_t_test.R) <br> [Bootstrap F-test](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_F_test.R) |
+
+
+## Datasets
+
+- [Stock-Gold prices](/assets/pdf/teaching/2026-Statistical-Models/stock_gold.txt) 
+- [Longley](/assets/pdf/teaching/2026-Statistical-Models/longley.txt)
+- [Fridge Sales](/assets/pdf/teaching/2026-Statistical-Models/fridge_sales.txt)
+- [2008 Crisis](/assets/pdf/teaching/2026-Statistical-Models/2008_crisis.txt)
+- [Family Guy](/assets/pdf/teaching/2026-Statistical-Models/family_guy.txt)
+
+
+
+
+
+## Assessment Breakdown
 
 
 This module will be assessed as follows:
@@ -151,99 +224,25 @@ This module will be assessed as follows:
 
 
 
+## Tasks & Deadlines
 
-## Topics
-
-- Hypothesis testing
-- Linear regression models with one or more explanatory variables
-- Least squares estimation of model coefficients and their properties
-- Checking the regression modelling assumptions
-- Analysis of variance (ANOVA)
-- Analysis of real-world datasets
-- Statistical software for testing, prediction and visualisation of data
+The topics for the 10 Homework (HW) assignments and the Coursework (CW) are listed below.  
+The homework papers can be downloaded from Canvas.
 
 
-
-
-
-## Lectures Diary
-
-There are **11 lectures** in this module and 3 optional appendices. Links to the slides and lecture titles are below. Links to the slides and lecture titles are below.
-
-
-
-|**Week of**| **Slides**                                                                                                   | **Title**  			                              |
-|: -----    |:---------      									                                                                             | :---------                                     |
-| 26 Jan    | [Lecture 1](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_1.html#/title-slide)  | An introduction to Statistics                  |
-| 2 Feb     | [Lecture 2](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_2.html#/title-slide)  | Random samples & The t-test                    |
-| 9 Feb     | [Lecture 3](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_3.html#/title-slide)  | Introduction to R & The variance ratio test    |
-| 16 Feb    | [Lecture 4](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_4.html#/title-slide)  | Two-sample t-test & More on R                  |
-| 23 Feb    | [Lecture 5](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_5.html#/title-slide)  | Two-sample F-test & Goodness-of-fit test       |
-| 2 Mar     | [Lecture 6](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_6.html#/title-slide)  | Chi-squared test & Least Squares               |
-| 9 Mar     | [Lecture 7](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_7.html#/title-slide)  | The maths of Regression                        |
-| 16 Mar    | [Lecture 8](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_8.html#/title-slide)  | Practical regression                           |
-| 23 Mar    | [Lecture 9](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_9.html#/title-slide)  |                                                |
-| 13 Apr    | [Lecture 10](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_10.html#/title-slide)| Model Selection & Regression Assumptions       |
-| 20 Apr    | [Lecture 11](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/lecture_11.html#/title-slide)| Stepwise Regression & ANOVA                    |
-| 27 Apr    | Revision Week                                                                                                | Coursework submission deadline                 |
-| Extra     | [Appendix A](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_A.html#/title-slide)| Probability revision                           |
-| Extra     | [Appendix B](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_B.html#/title-slide)| R Style Guide                                  |
-| Extra     | [Appendix C](https://www.silviofanzon.com/2026-Statistical-Models-Slides/slides/appendix_C.html#/title-slide)| Simulation & Bootstrap                         |
-
-
-## Statistical tables
-
-- Available [here](/assets/pdf/teaching/2026-Statistical-Models/Statistics_Tables.pdf)
-
-
-
-
-## R codes
-
-| **Lecture** | **Material**                                                                                                                                                                              | 
-|:------      |:------                                                                                                                                                                                    |
-| Lecture 3   | [One-Sample t-test](/assets/pdf/teaching/2026-Statistical-Models/one_sample_t_test.R) <br> [Variance ratio test](/assets/pdf/teaching/2026-Statistical-Models/variance_ratio_test.R)		  |
-| Lecture 4   | [Two-Sample t-test](/assets/pdf/teaching/2026-Statistical-Models/two_sample_t_test.R)      |
-| Lecture 5   | [F-test](/assets/pdf/teaching/2026-Statistical-Models/F_test.R)  <br>   [F-test First Principles](/assets/pdf/teaching/2026-Statistical-Models/F_test_first_principles.R) <br> [Goodness-of-fit](/assets/pdf/teaching/2026-Statistical-Models/good_fit.R) <br> [Goodness-of-fit First Principles](/assets/pdf/teaching/2026-Statistical-Models/good_fit_first_principles.R) <br> [Goodness-of-fit Contingency](/assets/pdf/teaching/2026-Statistical-Models/good_fit_contingency.R) |
-| Lecture 6   |  [Independence Test](/assets/pdf/teaching/2026-Statistical-Models/independence_test.R) <br> [2008 Crisis](/assets/pdf/teaching/2026-Statistical-Models/2008_crisis_code.R) <br>[Least-squares Solution 1](/assets/pdf/teaching/2026-Statistical-Models/least_squares_1.R) <br> [Least-squares Solution 2](/assets/pdf/teaching/2026-Statistical-Models/least_squares_2.R) |
-| Lecture 7   | [Multiple regression](/assets/pdf/teaching/2026-Statistical-Models/multiple_regression.R) <br> [R2 multiple regression](/assets/pdf/teaching/2026-Statistical-Models/R2_multiple_regression.R)  |
-| Lecture 8   | [Simple regression](/assets/pdf/teaching/2026-Statistical-Models/simple_regression.R) <br> [Longley regression](/assets/pdf/teaching/2026-Statistical-Models/longley_regression.R) |
-| Lecture 9   |   |
-| Lecture 10  | [Longley selection](/assets/pdf/teaching/2026-Statistical-Models/longley_selection.R) <br> [Galileo](/assets/pdf/teaching/2026-Statistical-Models/galileo.R) <br> [Divorces](/assets/pdf/teaching/2026-Statistical-Models/divorces.R) <br> [Heteroscedasticity](/assets/pdf/teaching/2026-Statistical-Models/heteroscedasticity.R) <br> [Autocorrelation](/assets/pdf/teaching/2026-Statistical-Models/autocorrelation.R)
-| Lecture 11  | [Multicollinearity](/assets/pdf/teaching/2026-Statistical-Models/multicollinearity.R) <br> [Stepwise Regression: Longley](/assets/pdf/teaching/2026-Statistical-Models/longley_stepwise.R) <br> [Stepwise Regression: Divorces](/assets/pdf/teaching/2026-Statistical-Models/divorces_stepwise.R)  <br> [Anova](/assets/pdf/teaching/2026-Statistical-Models/anova.R) <br> [Ancova](/assets/pdf/teaching/2026-Statistical-Models/ancova.R)  |
-| Appendix C  | [Monte Carlo pi](/assets/pdf/teaching/2026-Statistical-Models/monte_carlo_pi.R) <br>  [Bootstrap CI](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_CI.R) <br> [Bootstrap t-test](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_t_test.R) <br> [Bootstrap F-test](/assets/pdf/teaching/2026-Statistical-Models/bootstrap_F_test.R) |
-
-
-## Datasets
-
-- [Stock-Gold prices](/assets/pdf/teaching/2026-Statistical-Models/stock_gold.txt) 
-- [Longley](/assets/pdf/teaching/2026-Statistical-Models/longley.txt)
-- [Fridge Sales](/assets/pdf/teaching/2026-Statistical-Models/fridge_sales.txt)
-- [2008 Crisis](/assets/pdf/teaching/2026-Statistical-Models/2008_crisis.txt)
-- [Family Guy](/assets/pdf/teaching/2026-Statistical-Models/family_guy.txt)
-
-
-
-## Homework
-
-
-Homework papers must be submitted on **[Canvas](https://canvas.hull.ac.uk/courses/77772) by 14:00 on Thursday**
-
-
-
-|  **Homework #** |**Due date**   |  **Topics**                                                                                                    |
-|: --------       |:------------- |:---------                                                                                                      |
-| 1               | 5 Feb         |  Moment generating function. Poisson distribution. Poisson models for soccer.                                  |
-| 2               | 12 Feb        |  Bivariate transformations. Deriving the distribution of the t-statistic. The t-test.                          |
-| 3               | 19 Feb        |  Chi-squared distribution. The t-test in R. Variance ratio test in R and by hand.                              |
-| 4               | 26 Feb        |  Two-sample t-test. Welch t-test. Paired t-test.                                                               |
-| 5               | 5 Mar         |  Two-sample F-test. Goodness-of-fit test.                                                                      |
-| 6               | 12 Mar        |  Chi-squared test of independence / no association. Least Squares.                                             |
-| 7               | 19 Mar        |  General linear regression. Segmented models.                                                                  |
-| 8               | 26 Mar        |                                                                                                                |
-| 9               | 16 Apr        |  The t-test and F-test for regression                                                                          |
-| 10              | 23 Apr        |  Model Selection and testing Regression Assumptions                                                            |
-
+|**Task**|**Deadline**| **Topics**                                                  |
+|:-------|:-----------|:-----------                                                 |
+| HW1    | 5 Feb      | MGF. Poisson models for soccer                              |
+| HW2    | 12 Feb     | Bivariate transformations. The t-test                       |
+| HW3    | 19 Feb     | $\chi^2$ distribution. The t-test in R. Variance ratio test |
+| HW4    | 26 Feb     | Two-sample t-test. Welch t-test. Paired t-test              |
+| HW5    | 5 Mar      | Two-sample F-test. Goodness-of-fit test                     |
+| HW6    | 12 Mar     | $\chi^2$ test of independence. Least Squares                |
+| HW7    | 19 Mar     | General linear regression. Segmented models                 |
+| HW8    | 26 Mar     | The t-test and F-test for regression                        |
+| HW9    | 16 Apr     | Model Selection. Heteroscedasticity                         |
+| HW10   | 23 Apr     | Autocorrelation. Multicollinearity                          |
+| CW     | 30 Apr     | Entire Module, inc. Stepwise Selection & Anova              |
 
 
 
