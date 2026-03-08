@@ -150,7 +150,7 @@ There are **11 Lectures** in this module and 3 optional Appendices. Links to the
 
 ## Datasets
 
-- [Stock-Gold prices](/assets/pdf/teaching/2026-Statistical-Models/stock_gold.txt) 
+- [Gold-Stock prices](/assets/pdf/teaching/2026-Statistical-Models/gold_stock.txt) 
 - [Longley](/assets/pdf/teaching/2026-Statistical-Models/longley.txt)
 - [Fridge Sales](/assets/pdf/teaching/2026-Statistical-Models/fridge_sales.txt)
 - [2008 Crisis](/assets/pdf/teaching/2026-Statistical-Models/2008_crisis.txt)
