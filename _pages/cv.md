@@ -13,7 +13,7 @@ I keep two versions of my CV for different contexts:
 <p>
 <ul>
     <li><a href="/Silvio_Fanzon_Industry_CV.pdf"><b>Industry CV</b></a></li>
-    <li><a href="#theses"><b>Academic CV</b></a></li>
+    <li><a href="/Silvio_Fanzon_Academic_CV.pdf"><b>Academic CV</b></a></li>
 </ul>
 </p>
 
