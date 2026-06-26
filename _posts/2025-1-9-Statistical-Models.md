@@ -4,7 +4,7 @@ title: Statistical Models
 description: Webpage of the module 551305 T2 2024/25
 giscus_comments: false
 tags: teaching maths
-date: 2026-1-1
+date: 2025-1-1
 
 
 
